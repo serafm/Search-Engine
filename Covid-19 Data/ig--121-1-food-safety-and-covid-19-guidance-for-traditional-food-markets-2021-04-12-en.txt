@@ -1,0 +1,827 @@
+Reducing public health risks associated with the sale of
+live wild animals of mammalian species in traditional
+food markets
+Interim guidance
+12 April 2021
+Executive summary
+
+Food and Agriculture Organization of the United Nations
+(FAO), the World Organisation for Animal Health (OIE) and
+the United Nations Environment Programme (UNEP)
+recognize the repeated emergence of zoonotic diseases and
+the linkages of some of them along the value chain of the
+wildlife trade.1
+
+Traditional food marketsi, rather than supermarkets, are the
+norm in many parts of the world. Such markets form part of
+the social fabric of communities and are a main source of
+affordable fresh foods for many low-income groups and an
+important source of livelihoods for millions of urban and rural
+dwellers worldwide.
+
+It should be noted that zoonotic disease risks vary among
+different animal species (e.g. terrestrial versus aquatic animal
+species) and different farming and marketing systems.
+Therefore, a risk assessment is required to determine
+appropriate risk management strategies. Captured wild
+mammals are likely to carry agents of zoonotic infections that
+may go undetected and affect humans who are exposed to
+them.26
+
+Traditional food markets that are regulated by national or
+local competent authorities and that operate to high standards
+of hygiene and sanitation are safe for workers and customers.
+Significant problems can arise when these markets allow the
+sale and slaughter of live animals, especially wild animals,
+which cannot be properly assessed for potential risks – in
+areas open to the public. When wild animalsii are kept in cages
+or pens, slaughtered and dressed in open market areas, these
+areas become contaminated with body fluids, faeces and other
+waste, increasing the risk of transmission of pathogens to
+workers and customers and potentially resulting in spill over
+of pathogens to other animals in the market. Such
+environments provide the opportunity for animal viruses,
+including coronaviruses, to amplify themselves and transmit
+to new hosts, including humans.
+
+WHO works closely with FAO, OIE, UNEP and other
+international agencies to ensure that the global food system is
+sustainable, safe and secure and that technical support is
+available for the strengthening of national food control
+systems. The purpose of this document is to provide guidance
+for food safety and other relevant authorities to reduce the risk
+of transmission of COVID-19 and other zoonoses in
+traditional food markets. Although this document focuses on
+the risk of disease emergence in traditional food markets
+where live animals are sold for food, it is also relevant for
+other utilizations of wild animals. All these uses of wild
+animals require an approach that is characterized by
+conservation of biodiversity, animal welfare and national and
+international regulations regarding threatened and
+endangered species.
+
+Most emerging infectious diseases – such as Lassa fever,
+Marburg haemorrhagic fever, Nipah viral infections and other
+viral diseases – have wildlife origins. Within the coronavirus
+family, zoonotic viruses were linked to the severe acute
+respiratory syndrome (SARS) epidemic in 2003 and the
+Middle East respiratory syndrome (MERS), which was first
+detected in 2012. The COVID-19 pandemic stems from the
+introduction of the novel coronavirus, SARS-CoV-2, into
+human populations. Although the specific mechanism of
+SARS-CoV-2 emergence has not been definitively identified,
+at some point or over time, interactions may have occurred
+that allowed for cross- and perhaps multiple-species pathogen
+transmission. The World Health Organization (WHO), the
+
+To reduce the public health risks associated with the sale of
+live wild animals for food in traditional food markets, WHO,
+OIE and UNEP recommend several actions that national
+governments should consider adopting urgently with the aim
+of making traditional markets safer and recognizing their
+
+ii
+
+i
+
+Means an animal that has a phenotype unaffected by
+human selection and lives independent of direct human
+supervision or control.
+https://www.oie.int/index.php?id=169&L=0&htmfile=gloss
+aire.htm#terme_animal
+
+A traditional food market is the term used throughout this
+document to include wet markets, informal markets and
+farmers’ markets that sell foods of animal origin/non-animal
+origin/dried goods and where live animals are sometimes
+housed and slaughtered on site.
+-1-
+
+Reducing public health risks associated with the sale of live wild animals of mammalian species in traditional food markets
+central role in providing food and livelihoods for large
+populations.
+
+the marketing and sale of captured live wild animals as food
+in the absence of effective regulations and to control the
+safety of all animals and animal products intended for human
+consumption.
+
+WHO, OIE and UNEP call on national competent
+authorities to take the following actions:
+
+Introduction
+
+1. Suspend the trade in live caught wild animals of
+mammalian species for food or breeding purposes and
+close sections of food markets selling live caught wild
+animals of mammalian speciesiii as an emergency measure
+unless demonstrable effective regulations and adequate
+risk assessment(a) are in place.
+2. Strengthen the regulatory basis for improving standards
+of hygiene and sanitation in traditional food markets to
+reduce the risk of transmission of zoonotic diseases.
+During the current pandemic, additional measures for
+crowd control and physical distancing, hand washing and
+sanitizing stations as well as education on respiratory
+hygiene should be introduced in market settings to limit
+the possibility of person-to-person transmission of disease.
+3. Conduct risk assessments to provide the evidence base
+for developing regulations to control the risks of
+transmission of zoonotic microorganisms from farmed
+wild animals and caught wild animals that are intended to
+be placed on the market for human consumption.
+Regulations should address the traceability of farmed wild
+animals to ensure that they are distinguished from caught
+wild animals and should include strict biosecurity
+measures.
+4. Ensure that food inspectors are adequately trained to
+ensure that businesses comply with regulations to protect
+consumers’ health and are held accountable. In addition,
+competent authorities responsible for managing traditional
+food markets should be adequately resourced, so that
+regulations focused on food animal production, processing
+and marketing are consistently enforced.
+5. Strengthen animal health surveillance systems for
+zoonotic pathogens to include both domestic and wild
+animals. This will provide early warning for pathogen
+emergence and provide the evidence base for the
+development of controls to prevent risks to human health,
+in association with public health surveillance systems.
+6. Develop and implement food safety information
+campaigns for market traders, stall holders, consumers and
+the wide general public. These campaigns should
+communicate the principles of food safety and the risks of
+transmission of zoonotic pathogens at the human-animal
+interface and the risks associated with the consumption
+and trade of wildlife. The campaigns should also
+disseminate information to all stakeholders about the
+importance of biodiversity and the need for any use of
+wildlife to be legal, sustainable, safe and responsible.
+
+Public health risks
+The COVID-19 pandemic is a public health emergency that
+requires a coordinated, multisectoral response. There is no
+evidence that the consumption of food is implicated in the
+transmission of this disease. Similarly, there is no evidence
+that the virus responsible for the current COVID-19 pandemic
+is carried by domestic food-producing animals, such as
+poultry, pigs, sheep or cattle.2,28 It is likely that the virus that
+causes COVID-19 originated in wild animals, as it belongs to
+a group of coronaviruses normally found in bats.3,4 One
+hypothesis is that the virus was initially transmitted to
+humans through an intermediary animal host that is, as yet,
+unknown. Another possibility is that the virus was transmitted
+directly from a host species of animal to humans.
+Some of the earliest known cases of COVID-19 had a link to
+a wholesale traditional food market in Wuhan City, People’s
+Republic of China, and some did not. Many of the initial
+COVID-19 patients were stall owners, market employees or
+regular visitors to this market. Environmental samples taken
+from the market in December 2019 tested positive for SARSCoV-2, further suggesting that the market in Wuhan City
+might be the source of the outbreak and/or that it played a role
+in the initial amplification of the outbreak. Determining
+whether or not and which wildlife species contributed to an
+initial animal-to-human transmission of the virus remains a
+critical research question. The answer may help us prevent
+the virus from reappearing once the current pandemic is under
+control.
+During the SARS epidemic in 2003,5 SARS-CoV-1–like
+viruses were isolated from live wild animals sold in
+traditional food markets in China 6. This suggested that
+traditional food markets provided an environment conducive
+for animal coronaviruses to amplify and transmit to new
+hosts, including humans6. Evidence of infection with SARSCoV-1 was found in humans working a t a live animal market,
+and several of the known initial cases were chefs or restaurant
+workers handling wild captured animals prepared for
+food,5,6,27 suggesting a link between the marketing and
+preparation of wild animals and the transmission of SARSCoV-1.
+While SARS-CoV-1 and SARS-CoV-2 belong to a group of
+coronaviruses found in mammals, other viruses can transmit
+through non-mammals in traditional markets. During the
+human outbreak of avian influenza A (H5N1) in 1997,7 a visit
+to a retail poultry stall or a market selling live poultry in the
+
+WHO, OIE and UNEP are committed to assisting
+governments to strengthen food safety regulations to prohibit
+
+(a) Effective regulation is defined as risk based measures that achieve the risk reduction
+
+iii
+
+Discussion on wild animals in the present document
+refers to animals of mammalian species excluding aquatic
+ones.
+
+intended to protect the health of consumers and workers and ensure food security
+
+-2 -
+
+Reducing public health risks associated with the sale of live wild animals of mammalian species in traditional food markets
+week before onset of illness was significantly associated with
+the risk of becoming infected.
+
+resources for maintenance and improvements. These factors
+can impede the coordinated approach that is essential for
+improving hygiene standards and food safety in markets.
+
+Avian influenza viruses are not transmissible through wellcooked foods, but they can be transmitted from infected
+animals to humans during handling and slaughter in the
+traditional market setting. It is therefore important to limit, as
+far as possible, close contact between live animals,
+slaughtering operations and humans in such markets.
+
+Recommended measures
+WHO, OIE and UNEP recommend several actions that
+national governments should take urgently to reduce the risk
+to humans of the transmission of zoonotic pathogens in the
+food production and marketing chain associated with
+traditional food markets.
+
+Successful control interventions to reduce the risk of zoonotic
+disease transmission during the marketing of live animals
+require a One Health approach. This means collaboration
+between human health authorities, food safety authorities,
+veterinary public health agencies; and wildlife, forestry and
+environmental agencies.8
+
+1. Emergency regulations to suspend live wild
+animal sales in traditional food markets
+
+WHO, OIE and UNEP have developed this interim guidance
+for national food safety competent authorities on how they
+can reduce the risk of human infection and contain the
+potential spread of COVID-19 and other zoonoses from
+traditional food markets or live animal markets.
+
+WHO, OIE and UNEP call on all national competent
+authorities to suspend the trade in live caught wild animals
+of mammalian species for food or breeding and close
+sections of food markets selling live caught wild animals of
+mammalian species as an emergency measure unless
+demonstrable effective regulations and adequate risk
+assessment are in place.
+
+Traditional food markets
+Traditional food markets, sometimes referred to as “wet
+markets”, vary widely from country to country and even from
+province to province, depending on the local culture,
+socioeconomic conditions, food varieties and dietary
+preferences. In many countries, such markets are the main
+source of affordable fresh food, especially for many lowincome groups. Traditional food markets have an important
+economic, cultural and social role and are a source of
+livelihoods for millions of people in both urban and rural
+areas. However, all traditional food markets should have one
+major thing in common: they should provide the community
+with safe and nutritious food.
+
+There is a strong association between the marketing and sale
+of live wild animals and the emergence of novel zoonotic
+pathogens.8 Animals, particularly wild animals, are reported
+to be the source of more than 70% of all emerging infectious
+diseases in humans,9,1012 many of which are caused by novel
+viruses. Traditional markets, where live animals are held,
+slaughtered and dressed, pose a particular risk for pathogen
+transmission to workers and customers alike. To mitigate this
+risk, an immediate emergency measure for regulatory
+authorities would be to introduce regulations to close these
+markets or those parts of the markets where live caught wild
+animals of mammalian species are kept or sold to reduce the
+potential for transmission of zoonotic pathogens.
+
+A typical traditional market is a semi-open space with
+vending stalls organized in rows with narrow aisles. Water is
+used for washing fresh produce, for food preparation, such as
+filleting fish, and dressing of animal carcasses after slaughter;
+and for cleaning work surfaces, floors and drains. Water from
+melting ice used to chill foods also contributes to the “wet
+market” environment.
+
+These emergency measures should be of a temporary nature
+while responsible competent authorities conduct a risk
+assessment of each market to identify critical areas and
+practices that contribute to the transmission of zoonotic
+pathogens. Any such new regulations should include
+provisions for identifying the source of animals to ensure that
+live caught wild animals are not illegally introduced to
+wildlife farms, thus increasing the risk of transmission of
+zoonotic pathogens circulating in wild populations.
+
+Traditional food markets are usually divided into sectors that
+sell different categories of food products. Some areas of the
+market, for instance, where fish are sold, will be designated
+wet and those selling dried spices or cereals will be
+designated as dry. Cooked foods are also frequently sold for
+consumption in the market area and as take-away foods. As
+space is usually expensive, stalls may be very close to each
+other, with little or no physical separation.
+
+These emergency regulations should be timebound,
+specifying the date and stipulating the conditions when they
+no longer apply, when they should be revised or their
+application should be renewed. The conditions for closure or
+re-opening of a market or section of a market should be
+included in the emergency regulations. Competent authorities
+should work with market managers to introduce measures to
+mitigate identified risks. Markets or section of markets should
+be allowed to reopen only on condition that they meet
+
+Traditional food markets are usually governed by complex
+administrative structures with multiple overlapping
+responsibilities between different regulatory and law
+enforcement agencies. Such markets may also be
+characterized by the inadequate allocation of financial
+
+-3 -
+
+Reducing public health risks associated with the sale of live wild animals of mammalian species in traditional food markets
+required food safety, hygiene and environmental standards
+and comply with regulations.
+
+Such strategies envisage phasing out live animal marketing
+and slaughter in proximity to the public or physically
+separating such activities to reduce the risks of transmission
+of zoonotic diseases. Slaughter and dressing should be carried
+out in suitable facilities under control of the official
+veterinary service for ante- and post-mortem inspections25.
+Key areas needed for inclusion in plans to upgrade hygiene
+and sanitation standards are sanitary facilities (toilets, hand
+washing), pest control, waste management and disposal (solid
+and liquid wastes), drains and sewage disposal. Food
+handling and marketing activities should be moved to wellmaintained stalls where surfaces can be easily washed and
+disinfected.
+
+It is important to note that there is no evidence to suggest that
+SARS-CoV-2 is transmitted by the consumption of meat from
+wild animals that is hygienically handled and adequately
+cooked.2,11 There is, however, a risk of direct transmission to
+humans from contact with the saliva, blood, urine, mucus,
+faeces or other body fluids of an infected wild animal.
+Furthermore, there is an additional risk of becoming infected
+in areas where animals are housed in markets or from contact
+with objects or surfaces that have been contaminated with
+SARS-CoV-2.12,28,29
+These new regulations should be introduced as part of an
+overall strategy to encourage behaviour change with regard to
+live wild animal markets. Incentives should be considered to
+encourage safer practices, and risk communication will play
+an important role in getting buy-in from key stakeholders.
+There is always the risk that prohibition will not deter all
+traders in the marketplace and that trade may continue
+illegally. Penalties for infringement of the new regulations
+should be sufficiently punitive to encourage compliance, and
+resources for enforcement must be considered. Additional
+measures should be considered to support or encourage
+traders and others involved in the trade of live wildlife for
+food to find new sources of livelihood.
+
+WHO has developed guidelines that national governments
+can use to improve hygiene and sanitation standards in
+traditional food markets15,17 and is further refining these
+guidelines in light of the COVID-19 pandemic. Measures
+recommended by WHO to prevent the spread of infection
+should be followed when customers are visiting traditional
+food markets.16 These measures include regular hand washing
+with soap and potable wa ter after touching animals and
+animal products, but preferably, customers should avoid
+touching animals and touching their own eyes, nose or mouth.
+It may seem more challenging to implement WHOrecommended physical distancing measures in crowded
+market settings, but market authorities can design one-way
+systems for customers to move between stalls and remain at
+least one metre apart. Competent authorities responsible for
+food safety should develop communication campaigns to
+inform consumers about the risks associated with the
+handling, slaughter and marketing of live caught wild animals
+and the rationale for better regulation of such practices. Such
+campaigns would also present an opportunity to educate
+individuals whose livelihood depends on wild animals and the
+general public on the adverse effects of unsustainable use of
+wildlife on biological diversity and the integrity of
+ecosystems.
+
+2. Improving standards of hygiene and sanitation in
+traditional food markets to reduce the risk of
+transmission of zoonotic diseases and person-toperson transmission of disease
+WHO, OIE and UNEP call on national competent
+authorities to strengthen the regulatory basis for improving
+standards of hygiene and sanitation in traditional food
+markets to reduce the risk of transmission of zoonotic
+diseases. During this pandemic, additional measures for
+crowd control and physical distancing, hand washing and
+sanitizing stations as well as education on respiratory
+hygiene including on use of face masks should be
+introduced in market settings to limit the possibility of
+person-to-person transmission of disease.
+
+Competent authorities responsible for market management
+should implement appropriate interim biosecurity measures
+during the pandemic, including:
+•
+
+Traditional food markets have often been associated with the
+spread of zoonotic diseases and major foodborne disease
+outbreaks.8, Conditions in some traditional food markets
+represent both food safety and occupational health risks that
+can be addressed only by improving hygiene and sanitation
+conditions. Examples of such improvements that have
+reduced the spread of disease are the interventions taken to
+reduce the spread of avian influenza and other emerging
+zoonotic pathogens in China, Indonesia and Thailand, among
+other countries.15,16 Competent authorities with
+responsibilities for managing traditional food markets must
+learn from these lessons of the past, adopt the concept of
+Healthy Food Markets8 and develop integrated strategies for
+improving standards of hygiene and sanitation.
+
+•
+•
+•
+•
+•
+•
+
+-4 -
+
+limiting the number of customers who enter the
+traditional food market to avoid overcrowding
+ensuring queue control by painting floor markings,
+where feasible, consistent with physical distancing
+advice on entry to the traditional food market
+providing hand sanitizers, spray disinfectants and
+disposable paper towels at market entry points
+ensuring compliance with the use of face masks as
+per national and local rules or recommendations
+using floor markings inside the market to facilitate
+compliance with physical distancing
+installing plexiglass barriers to avoid direct exposure
+of consumers to live animals
+encouraging the use of contactless payments
+
+Reducing public health risks associated with the sale of live wild animals of mammalian species in traditional food markets
+•
+
+slaughter, dressing, handling and preparation of both
+domestic and wild animals are essential.
+
+ensuring that daily cleaning and sanitation of the
+market, including waste management, meet rigorous
+standards.
+
+Farms that produce wild animals need to be registered,
+approved and inspected for animal health and welfare
+standards by relevant competent authorities iv. In situations
+where live farmed wild animals are sold in traditional food
+markets, a set of food regulations, structural hygiene and
+sanitation standards should be developed and enforced for the
+markets. These food regulations should focus on removing
+public access to the areas where animals are slaughtered and
+dressed. The slaughtering process should be supervised by
+veterinary inspectors and conducted in a separate hygienic
+area with restricted access. This separation and oversight are
+essential because the location where animals are held,
+slaughtered, and dressed can become contaminated with
+faeces and other secretions, thus risking transmission of
+pathogens to workers and customers.
+
+3. Food regulations to control the farming and sale
+of wild animals that are intended to be placed on
+the market for human consumption
+WHO, OIE and UNEP call on all national competent
+authorities to conduct risk assessments to provide the
+evidence base for developing regulations to control the
+risks of tra nsmission of zoonotic microorganisms from
+farmed wild animals and caught wild animals intended for
+breeding or human consumption. Regulations should
+address the traceability of farmed wild animals to ensure
+that they are distinguished from caught wild animals and
+should include strict biosecurity measures.
+The farming of wild animals is common practice in many
+parts of the world.13 National food regulations should include
+strict on-farm biosecurity measures to prevent the
+introduction or spread of zoonotic diseases. As with all foods
+of animal origin, specific hygiene requirements for the
+production, processing and marketing of foods of animal
+origin must be included in all national food regulations. Such
+food regulations should include provisions for adopting a
+risk-based systematic approach to assess and control
+microbial hazards across the food chain to enhance food
+safety. Competent authorities for veterinary controls that are
+responsible for overseeing and enforcing regulations related
+to foods of animal origin and zoonoses will need to inspect
+wild animal farms and the places where such animals are
+processed for food, distributed and marketed to ensure
+compliance. Several other adjustments may be needed. First,
+specific national regulations relating to animal health and
+welfare should apply on the farm. Second, ante- and postmortem inspection should apply at the time of slaughter.
+Third, hygiene and sanitation requirements should apply at all
+stages of production, processing and marketing. Last,
+traceability requirements are necessary.
+
+4. Training of food and veterinary inspectors in the
+compliance and enforcement of new regulations
+WHO, OIE and UNEP call on national competent
+authorities to ensure that food inspectors are adequately
+trained to ensure that businesses comply with regulations
+to protect consumers’ health and are held accountable. In
+addition, competent authorities responsible for managing
+food markets should be adequately resourced, so that
+regulations focused on food animal production, processing
+and marketing are consistently enforced.
+Food inspection is a critical component of a national food
+safety control system, since it aims to ensure that food being
+sold meets the safety requirements deﬁned by food
+legislation. To meet this goal, food and veterinary inspectors
+must be trained, qualiﬁed and free from conflicts of
+interests.18 Competent authority staff carrying out inspections
+of wildlife farms or markets that sell farmed wild animals
+must be adequately trained to enable them to undertake their
+duties competently and independently and to perform food
+safety controls in a consistent manner. The competent
+authority should prepare an annual training plan and maintain
+training records for each food inspector and ensure that these
+records are kept up to date. Enforcement practices should be
+documented. Food and veterinary inspectors should work
+closely with wildlife authorities under clear protocols to
+identify illegally traded wild species and to enforce relevant
+national and international regulations.
+Competent authorities responsible for ma naging traditional
+food markets should also be adequately resourced so that
+regulations focused on food animal production, processing,
+and marketing are consistently enforced.
+
+Farmed wild animals present an occupational hazard for all
+workers in the food chain 14 because the animals may be the
+source of zoonotic pathogens. Animal health inspections are
+a valuable means to identify the clinical signs caused by these
+microorganisms and to exclude animals displaying such signs
+from the food chain. However, not all zoonotic agents
+produce outward signs of disease in the animal hosts. Many
+microbiological hazards, particularly those that are carried
+only in the gastrointestinal tract, may not cause animal
+disease. Pathogens present in the gastrointestinal tract of an
+animal may contaminate food products and the immediate
+environment. Thus, strong surveillance of farming and
+husbandry practices and good hygiene practices in the
+
+iv
+
+Appendix-I animal species for commercial purposes are registered
+with the CITES Secretariat in order for the specimens to be traded
+internationally (. https://www.cites.org/eng/resources/registers.php)
+
+The Convention on International Trade in Endangered Species of
+Wild Fauna and Flora (CITES)requires that operations that breed
+
+-5 -
+
+Reducing public health risks associated with the sale of live wild animals of mammalian species in traditional food markets
+5. Strengthening surveillance systems for zoonotic
+pathogens
+
+countries to improve standards of hygiene and sanitation in
+traditional food markets where live animals are sold. 17,21
+During the avian influenza and SARS outbreaks in China,
+high-risk practices in market settings were identified, and
+interventions were implemented.21 Communication and
+training programmes aimed at reducing the risk of disease
+transmission in traditional food markets in a low-cost and
+sustainable manner and adapted to local contexts were also
+developed.22 However such interventions need to be scaled
+up.
+
+WHO, OIE and UNEP call on national competent
+authorities to strengthen animal health surveillance systems
+for zoonotic pathogens and to include both domestic and
+wild animals. This will provide an early warning for
+pathogen emergence and provide the evidence base for the
+development of controls to prevent risks to human health,
+in association with public health surveillance systems.
+Disease surveillance is an information-based activity
+involving the collection, analysis and interpretation of data
+for action relating to diseases in animals and humans. During
+the current pandemic and the management of other zoonotic
+events, it is critical that all national agencies responsible for
+surveillance cooperate to ensure coherent and appropriate risk
+communication and risk management responses.19 Currently,
+human health surveillance is the responsibility of the public
+health sector and surveillance in domestic animals is the
+responsibility of the veterinary services.
+
+To successfully implement an information campaign aimed at
+reducing the risk of transmission of SARS-CoV-2 and
+emerging zoonoses in traditional food market settings, the
+first step is an assessment of market workers’ knowledge on
+issues related to food hygiene, food safety, COVID-19 and its
+transmission and emerging zoonoses and their current
+behaviours related to this. Surveys and knowledge, attitude,
+practice (KAP) studies will be needed to collect and evaluate
+relevant data to tailor subsequent information campaigns to
+the needs of market workers and market customers and thus
+raise their awareness of the risks associated with handling live
+wild animals and the measures that can be taken to reduce or
+mitigate these risks.
+
+Wildlife disease surveillance, when it exists, is usually the
+responsibility of veterinary services and the forestry,
+environment or wildlife sectors. It is important that the
+national domestic animal and wildlife surveillance systems
+for zoonotic pathogens, which give early warning for
+pathogen emergence, are closely coordinated with public
+health surveillance to provide opportunities to control such
+pathogens before they can affect human health.20 Wildlife
+disease surveillance systems are not yet common but need
+urgently to be developed and coordinated with domestic
+animal health surveillance programmes.
+
+Traditional food markets are frequented regularly by large
+numbers of people, providing opportunities to convey
+messages aimed at educating workers and visitors on food
+safety and the risks of transmission of zoonoses. In addition,
+formal training sessions for market workers and stall holders
+should be developed and designed to minimally disrupt work
+schedules. Easy to understand messages should be tailored for
+dissemination across several platforms, including social
+media channels and mobile phones, to encourage behavioural
+change.
+
+A working group or committee should be established at
+national level to share information on surveillance systems in
+humans, domestic animals and wildlife. This committee
+would need to determine practical ways to coordinate human
+and animal disease surveillance at the national level,
+including data management, communication networks and
+national and regional laboratory networks using One Health
+approaches.
+
+The “five keys to safer food” educational material developed
+by WHO provides readily available basic food safety
+information.23
+
+References
+1. OIE. April 2020. Statement of the OIE Wildlife
+Working Group, April 2020 - Wildlife Trade and
+Emerging
+Zoonotic
+Diseases
+https://www.oie.int/fileadmin/Home/eng/Our_scient
+ific_expertise/docs/pdf/COV19/A_OIEWildlifeTradeStatement_April2020.pdf
+
+6. Food safety information campaigns for market
+traders, stall holders and consumers
+WHO, OIE and UNEP call on national competent
+authorities to develop and implement food safety
+information campaigns for market traders, stall holders,
+consumers and the wider general public. These campaigns
+should communicate the principles of food safety and the
+risks of transmission of zoonotic pathogens at the humananimal interface and the risks associated with the
+consumption and trade of wildlife. The campaigns should
+also disseminate information to all stakeholders about the
+importance of biodiversity and the need for any use of
+wildlife to be legal, sustainable, safe and responsible.
+
+2. FAO. Food safety in the time of COVID-19 (2020)
+http://www.fao.org/3/ca8623en/CA8623EN.pdf
+3. Wendong Li, Zhengli Shi, Meng Yu, Wuze Ren, et
+al. Bats are natural reservoirs of SARS-like
+coronaviruses. Science 310, 676-679, (2005).
+https://science.sciencemag.org/content/310/5748/676
+4. Ren, Li-Li; Wang, Ye-Ming; et.al. Identification of
+a novel coronavirus causing severe pneumonia in
+human, Chin Med J 133, 1015-1024 (2020).
+doi: 10.1097/cm9.0000000000000722
+
+WHO, together with FAO and OIE have gained considerable
+experience over the years through collaborative efforts with
+
+-6 -
+
+Reducing public health risks associated with the sale of live wild animals of mammalian species in traditional food markets
+5. Zhong, NS, Zheng, BJ et. al. Epidemiology and
+cause of severe acute respiratory syndrome (SARS)
+in Guangdong, People’s Republic of China, in
+February, 2003. Lancet; 362: 1353–58. (2003)
+https://doi.org/10.1016/S0140-6736(03)14630-2
+
+18. OIE. OIE Competency Guidelines for Veterinary
+Paraprofessionals (2018)
+https://www.oie.int/fileadmin/Home/eng/Support_to
+_OIE_Members/docs/pdf/A_Competence.pdf
+19. WHO. Surveillance of foodborne diseases. 26
+January 2018.
+https://www.who.int/foodsafety/areas_work/foodbor
+ne-diseases/fbd_surveillance/en/
+
+6. Guan, Y, Zheng, BJ et al. Isolation and
+Characterization of Viruses Related to the SARS
+Coronavirus from Animals in Southern China.
+Science; 302, 276-278, (2003).
+Doi: 10.1126/science.1087139
+
+20. OIE. Questions and Answers COVID-19.
+https://www.oie.int/scientific-expertise/specificinformation-and-recommendations/questions-andanswers-on-2019novel-coronavirus/
+
+7. Mounts, A.W., Kwong, H. et. al. Case-Control
+Study of Risk Factors for Avian Influenza A (H5N1)
+Disease, Hong Kong, 1997. J Infect Dis; 180, 505–
+508, (1999). https://doi.org/10.1086/314903
+
+21. FAO/OIE/WHO. Influenza and other emerging
+zoonotic diseases at the human-animal interface
+(2010). http://www.fao.org/3/a-i1963e.pdf
+
+8. WHO. A Guide to Healthy Food Markets (2006)
+https://www.who.int/foodsafety/capacity/healthy_m
+arketplaces/en/
+
+22. WHO. Healthy Market Project: reducing risks of
+avian influenza transmission in traditional food
+market settings. (2010) USAID funded project
+AAG-P-00-01-0001. WHO, Geneva.
+
+9. Kuiken, T., Leighton, FA, et al, Pathogen
+Surveillance in Animals. Science ; 309, 1680-1681
+(2005). https://doi.org/10.1126/science.1113310
+
+23. WHO. Five keys to safer food manual (2006)
+http://apps.who.int/iris/bitstream/10665/43546/1/978
+9241594639_eng.pdf?ua=1
+
+10. Van Dorn, HR. Emerging Infectious Diseases Medicine (Abingdon). 42: 60–63, (2014). Published
+online 2013 Dec 21.
+doi:10.1016/j.mpmed.2013.10.014
+
+24. Can, O.E. et al. Dealing in deadly pathogens: taking
+stock of the legal trade in live wildlife and potential
+risk to human health. Glob Ecol Conserv. Vol 17,
+January 2019.
+https://doi.org/10.1016/j.gecco.2018.e00515
+
+11. Darnell, k. et al (2004) Inactivation of the
+coronavirus that induces severe acute respiratory
+syndrome, SARS-CoV. J Vir Methods. 121, 85-91
+12. Zhang, X et al. Strategies to trace back the origin of
+COVID-19. J Infect. Vol 80, 39-40. (2020).
+https://doi.org/10.1016/j.jinf.2020.03.032
+
+25. FAO. 2019. Technical guidance principles of riskbased meat inspection and their application. Rome,
+FAO.
+http://www.fao.org/3/ca5465en/CA5465EN.pdf
+
+13. FAO. Wildlife farming and domestication in:
+Wildlife and food security in Africa (1997).
+http://www.fao.org/3/w7540e/w7540e0f.htm
+
+26. El Masry, I., von Dobschuetz, S., Plee, L., Larfaoui,
+F., Yang, Z., Song, J., Pfeiffer, D., Calvin, S.,
+Roberts, H., Lorusso, A., Barton-Behravesh, C.,
+Zheng, Z., Kalpravidh, W. & Sumption, K. 2020.
+Exposure of humans or animals to SARS-CoV-2
+from wild, livestock, companion and aquatic
+animals: Qualitative exposure assessment. FAO
+animal production and health, Paper 181. Rome,
+FAO. https://doi.org/10.4060/ca9959en
+
+14. OIE. Terrestrial Animal Health Code (2019).
+https://www.oie.int/standard-setting/terrestrialcode/access-online/
+15. FAO/OIE/WHO. FSO/OIE/WHO Stop the spread:
+Measures to stop the spread of highly pathogenic
+bird flu at its source (2005)
+https://www.who.int/influenza/resources/documents/
+stop_spread_bird_flu/en/
+
+27. Xu RH, He JF, Evans MR, et al. Epidemiologic
+clues to SARS origin in China. Emerg Infect Dis.
+2004;10(6):1030-1037. doi:10.3201/eid1006.030852
+
+16. WHO. WHO recommendations to reduce risk of
+transmission of emerging pathogens from animals to
+humans in live animal markets or animal product
+markets 26 March 2020.
+https://apps.who.int/iris/rest/bitstreams/1278909/retr
+ieve
+
+28. WHO. Mask use in the context of COVID-19.
+Interim guidance. (1December 2020)
+https://www.who.int/publications/i/item/advice-onthe-use-of-masks-in-the-community-during-homecare-and-in-healthcare-settings-in-the-context-ofthe-novel-coronavirus-(2019-ncov)-outbreak
+
+17. World Health Organization, Regional Office for
+South-East Asia. (2006). Public health interventions
+for prevention and control of avian influenza. WHO
+Regional Office for South-East
+Asia. https://apps.who.int/iris/handle/10665/205700
+
+29. WHO. Roadmap to improve and ensure good indoor
+ventilation in the context of COVID-19 (1 March
+2021)
+https://www.who.int/publications/i/item/978924002
+1280
+
+-7 -
+
+WHO continues to monitor the situation closely for any changes that may affect this interim guidance. Should any factors change,
+WHO will issue a further update. Otherwise, this interim guidance document will expire 2 years after the date of publication.
+© World Health Organization 2021. Some rights reserved. This work is available under the CC BY-NC-SA 3.0 IGO licence.
+WHO reference number: WHO/2019-nCoV/Wet_Markets/2021.1
+
+-8-
+
+

@@ -1,0 +1,536 @@
+COVID-19 and Food Safety: Guidance for competent
+authorities responsible for national food safety control
+systems
+Interim guidance
+22 April 2020
+Background
+
+The challenges facing national competent authorities arise
+from:
+
+The ongoing COVID-19 pandemic presents an exceptional
+and unprecedented challenge for competent authorities a with
+responsibilities for national food safety control systems b to
+continue conducting routine functions and activities in
+accordance with national regulations and international
+recommendations. In many countries, competent authority
+staff are largely working from home, teleworking being the
+normal practice, and all face-to-face meetings cancelled or
+rescheduled as teleconferences. It is challenging to maintain,
+without interruption, routine activities such as the inspection
+of food business operations, certifying exports, control of
+imported foods, monitoring and surveillance of the safety of
+the food supply chain, sampling and analysis of food,
+managing food incidents, providing advice on food safety and
+food regulations for the food industry, and communicating on
+food safety issues with the public.
+
+•
+•
+
+•
+•
+•
+
+implementing contingency plans;
+reduced capacity to maintain a fully functioning
+food safety inspection programme resulting from the
+reallocation of staff to national COVID-19
+emergency response teams, staff working from
+home, and staff illness and self-isolation;
+reduced food testing capacity of food laboratories
+reassigned to COVID-19 clinical testing;
+increased risk to the integrity of the food supply
+chain from food fraud;
+need to respond to an increasing number of queries
+and questions from Ministers, the food industry,
+consumers, and the media.
+
+Competent authorities have a critical role to play during this
+pandemic in working with all sectors of the food industry so
+that producers and processors can continue to operate
+effectively and keep safe food supply lines open.
+
+To preserve the integrity of the national food safety control
+system and to support international trade and the food supply
+chain, each competent authority will need to prioritize
+critically important services during the ongoing COVID-19
+pandemic. These may include introducing temporary
+suspensions of low-risk control activities that do not
+immediately affect the supply of safe food. Temporarily
+suspending low-risk control activities will allow authorities
+to continue to safeguard the health and safety of their staff
+while refocusing efforts in areas of higher risk and towards
+activities that are critical to the safety of food. Depending on
+national priorities, some competent authorities may decide to
+prioritize selected activities, for example, inspection of highrisk food businesses, export certification, import control
+services, food incident management or investigation of food
+complaints. It is important that competent authorities
+continue to monitor developments regarding the COVID-19
+pandemic and respond by making the necessary adjustments
+to their work programmes and continue to deliver critical
+services that preserve the integrity of their food safety
+systems.
+
+This guidance aims to address some key issues, namely, how
+to ensure the effectiveness of a reduced food safety inspection
+programme in mitigation of risk; and temporary measures that
+can be introduced to contain widespread food safety risks and
+reduce serious disruption to national food safety programmes.
+
+Multi-agency cooperation and contingency
+planning
+All competent authorities should have emergency response or
+contingency plans in place following FAO/WHO guidance1
+and be able to put them in action. Competent authority
+contingency plans should include details of the roles and
+responsibilities of the central, regional, and local competent
+authorities and mechanisms for cooperation and collaboration
+during times of crisis. Contingency plans should include
+details of how to prioritize the delivery of essential services;
+the organisation of operational teams for information
+management, communication, risk assessment and risk
+
+For the purpose of these guidelines the term Competent
+Authority means the official government organisation
+having jurisdiction over the National Food Safety Control
+System (as defined in the Codex Alimentarius e.g. CAC/GL
+71-2009)
+
+The National Food Safety Control System is described in
+the Codex Guidelines for the Validation of Food Safety
+Control Measures (CAC/GL 69-2008)
+
+a
+
+b
+
+-1-
+
+COVID-19 and Food Safety: Guidance for competent authorities responsible for national food safety control systems: interim guidance
+
+management, and food incident management; the scaling up
+of robust IT systems to facilitate working from home,
+teleworking, and on-line conferencing.
+
+heavily on imported ingredients. With international transport
+often dramatically reduced, these businesses may have
+delayed or interrupted supply chains that may pose food
+safety concerns and could demand increased inspection and
+controls. Similarly, new suppliers may need to be rapidly
+identified by food businesses without going through the full
+supplier approval programme, which may put the integrity of
+products at risk.
+
+Cooperation and collaboration between all relevant national
+agencies are essential components of an effective, whole-ofgovernment response to the COVID-19 pandemic. The need
+for cooperation between public health and food safety
+authorities has never been more urgent.
+
+Some food businesses will expand production as a result of
+increased demand and will recruit temporary staff. Food
+safety authorities will need to ensure that temporary staff are
+supervised and adequately trained.
+
+Maintaining a functioning national food safety
+inspection programme
+
+Temporary measures
+
+As a consequence of restricting the movement of people, the
+capacity of competent authorities to deploy suitable staff for
+inspecting food businesses and other food control activities
+can be seriously impaired. For example, food safety
+inspection requiring the physical presence of control staff in
+food premises may no longer be feasible. It may no longer be
+possible to test food samples taken during an inspection
+because of reduced capacity in food testing laboratories. The
+key issue for competent authorities is to ensure compliance
+with food legislation in those categories of food premises that
+pose the greatest risk. Many food businesses are introducing
+new biosecurity measures to limit the entry of external
+personnel, which may extend to food inspectors. However,
+food safety inspectors have a right to enter unhindered any
+premises where they have reasonable grounds to believe that
+food processing activities are conducted, for the purpose of
+verifying compliance and preventing non-compliance with
+food regulations.
+
+Examples of food safety controls where temporary measures
+may need to be introduced under exceptional circumstances
+include:
+•
+
+•
+•
+
+•
+
+A risk-based approach
+National food safety inspection programmes should be
+organised on a risk basis where food businesses are ranked to
+determine the frequency of inspection. A risk profile of each
+food business for inspection purposes should be based on the
+nature and extent of the food business, taking into account the
+type of food handled, processed and distributed; the methods
+of processing (cooked food, ready-to-eat products); scale of
+the operation, and possible at-risk groups among consumers
+of the products. Issues to take into account in deciding on risk
+categorisation of food businesses include the history of
+compliance or non-compliance with food legislation,
+confidence in the implementation of the food businesses’
+Food Safety Management System (FSMS), and verification
+records. This risk-based food safety inspection approach can
+identify those high-risk food premises that require inspection.
+It may be necessary to temporarily suspend inspections of
+low- to medium-risk food premises for the duration of this
+pandemic.
+
+•
+
+temporary use of electronic data exchange instead of
+original official paper certificates and official
+attestations that should accompany consignments of
+food producing animals;
+temporary authorization of accredited private food
+laboratories to conduct testing and analysis under
+the supervision of the competent authority;
+the electronic submission by food businesses of the
+results of their own checks to demonstrate that inhouse controls are still functioning (selfcertification);
+if food safety authorities do not have access to a
+sufficient number of suitably qualified and
+experienced staff, private sector bodies and
+independent qualified professionals may be
+temporarily authorized to perform food inspection
+functions provided that they are supervised by the
+authority, they act impartially and are free from any
+conflict of interest regarding the functions they carry
+out; and
+flexibility on some aspects of food labelling (e.g.,
+date marking) to avoid food waste while still
+ensuring food safety.
+
+Staff protection
+Where inspections of food businesses need to continue,
+measures should be taken to avoid serious health risks for
+staff of the competent authorities without jeopardizing the
+prevention of food safety risks. Food inspectors should be
+trained in procedures to minimize the transmission of SARSCoV-2 (the virus that causes COVID-19 disease).3 Food
+inspectors will need to ensure that they are free of symptoms
+of COVID-19; they will need to practice physical distancing
+while in the food premises, frequent hand washing, including
+before and after entering the food premises, and good
+coughing/sneezing etiquette. Food inspectors will also
+require PPE such as disposable overalls, overshoes,
+facemasks, gloves, and hairnets, which will need to be
+changed between inspections.4
+
+One of the critical areas where food inspections will need to
+continue is in abattoirs including oversight of ante- and postmortem controls. Food inspectors in such premises will
+require Personal Protection Equipment (PPE) and will need
+to be aware of the importance of physical distancing,
+handwashing, sanitizing, and disinfection especially if
+production conditions change for example due to increased
+production line speeds.
+
+Temporary suspension of control programmes
+Some monitoring and surveillance programmes that are
+routinely carried out by competent authorities could be
+temporarily suspended during this pandemic without
+
+Another critical group of businesses where inspection may
+need to be strengthened are those where production relies
+
+-2-
+
+COVID-19 and Food Safety: Guidance for competent authorities responsible for national food safety control systems: interim guidance
+
+jeopardizing the safety of foods, the health of the consumer,
+or international trade. Examples of such activities are annual
+residues monitoring programmes that aim to ensure
+compliance with contaminants regulations. There will be a
+reduced need for testing of food samples arising from the fact
+that a smaller number of food inspections will take place, with
+the closure of many bars, cafes and restaurants. In countries
+with hygiene rating schemes or “scores on doors”
+programmes for restaurants, these may be automatically
+extended for limited periods without the need to carry out an
+inspection.
+
+operators are advised to discuss the situation with their
+inspector before placing products or ingredients with
+temporary non-compliant labels on the market.
+
+Food laboratories: testing and analysis
+A particular challenge for competent authorities is the
+reduced capacity in public sector laboratories to test foods, as
+these are reallocated to testing of COVID-19 clinical samples.
+A minimum capacity in microbiological and chemical safety
+needs to be maintained to support food inspections of highrisk businesses, for dealing with consumer complaints and
+food incidents, and for the investigation and management of
+outbreaks of foodborne illness. This may require the
+temporary authorization of private accredited food
+laboratories to carry out testing as part of the national food
+safety control programme. However, the competent authority
+must ensure the validity and reliability of the testing results.
+In addition, public health disease surveillance systems may
+have a reduced capacity to identify human cases of foodborne
+illness but it is essential that a minimum national capability is
+maintained.
+
+Reduced sampling and testing of food will make it all the
+more important for national competent authorities to have
+access to and share information via global systems such as the
+International Food Safety Authorities Network (INFOSAN).5
+Food businesses should be obliged to report to competent
+authorities when they are aware of receiving or placing unsafe
+food on the market.
+Food regulations – temporary exemptions may be
+required
+Competent authorities need to liaise closely with the food
+businesses to assess whether temporary amendments or
+adjustments are required to food legislation due to the
+challenges posed by COVID-19 to ensure the supply of food
+is not compromised. Competent authorities will need to
+assess whether flexibility can be applied when enforcing
+technical aspects of food regulations, while ensuring the
+safety of food.
+
+Food laboratories will need to introduce measures to reduce
+the risk of transmission of SARS-CoV-2 in the laboratory
+environment. These measures will involve training laboratory
+workers to recognize symptoms of COVID-19, following
+physical distancing principles, frequent handwashing and
+sanitizing and disinfection, and coughing/sneezing etiquette.
+Laboratory staff should familiarize themselves with the
+biosafety guidance related to COVID-19 from WHO.4
+
+Food labelling is one particularly challenging area where
+certain ingredients may be unavailable or where food
+packaging materials are no longer supplied due to
+interruptions in transport or imports. Where a food business
+uses an approved ingredient that has the same technical
+function as a previously available ingredient, a temporary
+authorization may be justified provided that safety concerns,
+such as allergen labelling and traceability requirements are
+taken into account. There can be no relaxation of regulations
+on unauthorized health claims and the principle that food
+labelling should not mislead the consumer.
+
+To achieve physical distancing, it may be necessary to reduce
+laboratory staff density through split-shift working and
+communication via intercoms when staff are working alone
+in a small laboratory space when it is not possible to remain
+more than one metre apart. Arrangements need to be in place
+for physical distancing during shift handovers. Working
+schedules should be arranged so that essential work will
+continue in the event of a laboratory worker becoming
+infected.
+
+Food businesses that would have supplied the catering sector
+may now need to find alternative markets for products.
+Similarly, restaurants that have purchased food products or
+ingredients may need to find markets for such products they
+no longer require to produce restaurant food. Temporary
+authorization to sell such products should be provided in
+these circumstances with the provision for use of temporary
+over-labels with a derogation on nutrition labelling
+(unauthorized use of health claims is prohibited) and in
+compliance with existing date marking and storage
+instructions.
+
+In may be necessary to temporarily suspend a food
+laboratory’s accreditation to ISO 17025 if the volume of
+samples for a particular test is reduced. This may result from
+the suspension of annual residues monitoring programmes.
+
+Risk to the integrity of the food supply
+The COVID-19 pandemic has resulted in food supply chains
+being disrupted with some products, ingredients, or materials
+being unavailable or in short supply. In the rush to identify
+new suppliers, food businesses may focus less attention on
+the integrity of the supply chain, thereby opening new
+opportunities for food fraud. As competent authorities
+introduce temporary reductions in food controls with a
+suspension or cancellation of inspections and food sampling,
+fraudsters may take advantage of such opportunities. In
+addition to the reduction in official controls, there is also
+likely to be a reduction in private sector audits and checks of
+certification and accreditation schemes. During this pandemic,
+competent authorities should investigate reported incidences
+
+Competent authorities should apply some flexibility when
+enforcing the technical aspects of food regulations; however,
+food safety cannot be compromised, and key information
+must be provided so that consumers can make informed
+choices. Some flexibility on labelling compliance can be
+considered once there is no risk to the consumer and critical
+information such as allergen declaration, durability (shelf
+life), traceability and any special storage conditions or
+conditions of use can be addressed or mitigated by overlabelling with this critical information. Food business
+
+-3-
+
+COVID-19 and Food Safety: Guidance for competent authorities responsible for national food safety control systems: interim guidance
+
+involving food fraud and work closely with food businesses
+to assess the vulnerability of supply chains and ensuring
+control plans are implemented.
+
+Communication
+
+Food businesses are legally required to produce and market
+safe and authentic food. In addition to their FSMS, food
+businesses should consider introducing risk-based
+vulnerability assessment systems to mitigate against food
+fraud. Competent authorities need to highlight the increased
+risks of food fraud.
+
+With the rapid evolution of the pandemic comes a growing
+need to ensure that accurate and credible information is
+accessible to food businesses and the wider public.
+Competent authorities need to have a robust communications
+strategy in place to prevent rumours and misinformation and
+to provide up-to-date reliable information to all stakeholders.
+It is important for the competent authorities to reiterate to the
+public that while there are no reported cases of COVID-19
+transmitted through the consumption of food and that it is
+very unlikely for COVID-19 to be transmitted through food,
+hygiene recommendations provided by health authorities to
+avoid the transmission of SARS-CoV-2 should also be
+applied by consumers when shopping or handling food.
+Recommendations and messages published by WHO can be
+adapted and disseminated for national contexts.
+
+As citizens are confined to their homes, an increasing number
+of consumers are turning to e-commerce and online food
+retail shopping. Many people are now buying food online
+from a multitude of e-commerce sites that have sprung up
+since the beginning of this pandemic. The risk of food fraud
+in the e-commerce sector can be high. To protect consumers
+from misleading e-commerce practices, competent
+authorities need to strengthen food controls and oversight of
+internet sales. As some competent authorities do not have
+legislation and strong control programmes regulating ecommerce, sharing data and information through INFOSAN
+would assist in reducing the instance of unsafe and fraudulent
+foods traded online.
+
+Competent authorities should provide advice for food
+businesses regarding prevention of possible transmission of
+SARS-CoV-2 in the food chain and how to protect the
+workers (see the WHO guidelines8). They may also need to
+provide advice to operators who change the nature of their
+businesses, for instance, from restaurants to food-togo/takeaway sales, or voluntary groups that establish new
+food operations.
+
+Staff training
+Staff working in competent authorities, particularly those
+conducting inspections in food businesses, need to be aware
+of the symptoms of COVID-19.6,7 Staff must be able to
+recognize symptoms early so that they can seek appropriate
+medical care, self-report, and exclude themselves from work,7
+minimizing the risk of infecting fellow workers. Staff may
+require refresher training courses in the basic principles of
+food hygiene3 and operational procedures for conducting
+inspections of food businesses, particularly on the use of PPE
+and ensuring that they do not contribute to contaminating the
+work environment.
+
+As understanding of the COVID-19 pandemic evolves,
+competent authorities will need to review and update their
+messaging accordingly. As well as updating food businesses
+and consumers, it is important to ensure that relevant
+Ministries are continuously briefed on the situation to
+facilitate a whole-of-government approach to managing this
+crisis.
+
+Staff in competent authorities who interface with the public
+on helplines or via social media channels must keep up-todate with the most recent information and advice being
+passed to the public. A dedicated communications team,
+backed up by public health and food safety specialists, is
+required to prepare and disseminate advice for consumers on
+how to protect themselves and their families. Each competent
+authority should establish a dedicated COVID-19 page on
+their website with up-to-date factual advice and links to
+trusted websites of organizations such as WHO, FAO, and
+OIE.
+
+WHO and FAO continue to monitor the situation closely for
+any changes that may affect this interim guidance. Should any
+factors change, an update will be issued. Otherwise, this
+interim guidance document will expire 2 years after the date
+of publication.
+
+References
+
+Competent authorities need to ensure that they have a system
+in place for the public to make a complaint and for authorities
+to respond on a timely basis to such complaints. Channels for
+communicating complaints can be via a helpline or a
+dedicated webpage on the authority’s website.
+Food businesses also need to keep up-to-date with food
+regulations and advice on any additional measures that must
+be implemented to ensure a safe and adequate food supply.
+Competent authority staff who interact with food businesses
+need to be trained and fully briefed to address concerns and
+answer questions.
+
+-4-
+
+1.
+
+FAO/WHO. 2010. FAO/WHO framework for
+developing national food safety emergency
+response plans
+https://www.who.int/foodsafety/publications/emerg
+ency_response/en/
+
+2.
+
+WHO. 2020. Modes of transmission of virus
+causing COVID-19: implications for IPC
+precaution recommendations, Scientific brief.
+https://www.who.int/newsroom/commentaries/detail/modes-of-transmissionof-virus-causing-covid-19-implications-for-ipcprecaution-recommendations
+
+COVID-19 and Food Safety: Guidance for competent authorities responsible for national food safety control systems: interim guidance
+
+3.
+
+FAO/WHO. 2009. Codex Alimentarius. Food
+hygiene: Basic texts
+http://www.fao.org/3/a1552e/a1552e00.pdf
+
+4.
+
+WHO. 2020. Laboratory biosafety guidance related
+to coronavirus disease 2019 (COVID-19)
+https://www.who.int/publications-detail/laboratorybiosafety-guidance-related-to-coronavirus-disease2019-(covid-19)
+
+https://www.who.int/emergencies/diseases/nov
+el-coronavirus-2019/advice-for-public
+7. Q&A
+on
+coronaviruses
+(COVID-19)
+https://www.who.int/news-room/q-a-detail/qa-coronaviruses
+8.
+
+5. Responding to food safety emergencies
+(INFOSAN)
+https://www.who.int/activities/responding-tofood-safety-emergencies-infosan
+6. Coronavirus disease (COVID-19) advice for
+the public
+
+FAO/WHO, 2020. COVID-19 and Food Safety:
+Guidance for Food Businesses
+https://www.who.int/publications-detail/covid-19and-food-safety-guidance-for-food-businesses
+
+© World Health Organization and Food and Agriculture Organization of the United Nations, 2020. Some rights
+reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 FAO
+licence (CC BY-NC- SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo/).
+
+WHO reference number: WHO/2019-nCoV/Food_Safety_authorities/2020.1
+
+-5-
+
+

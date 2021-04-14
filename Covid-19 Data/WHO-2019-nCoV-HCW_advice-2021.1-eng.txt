@@ -1,0 +1,1024 @@
+COVID-19: Occupational health and safety for health
+workers
+Interim guidance
+2 February 2021
+
+Key points
+•
+•
+•
+•
+•
+•
+•
+
+Health workers should continue to enjoy their right to decent, healthy and safe working conditions in
+the context of COVID-19.
+Primary prevention of COVID-19 among health workers should be based on risk assessment and
+introduction of appropriate measures.
+Other occupational risks amplified by the COVID-19 pandemic, including violence, harassment,
+stigma, discrimination, heavy workload and prolonged use of personal protective equipment (PPE)
+should be addressed.
+Occupational health services, mental health and psychosocial support, adequate sanitation, hygiene and
+rest facilities should be provided to all health workers.
+Health-care facilities should have occupational health programmes in conjunction with programmes for
+infection prevention and control.
+Employers have the overall responsibility to ensure that all necessary preventive and protective
+measures are taken to minimize occupational risks to health workers.
+Health workers are responsible for following established rules for the protection of their health and
+safety at work.
+
+Introduction
+This document is an update of the World Health Organization (WHO) interim guidance, Coronavirus disease (COVID19) outbreak: rights, roles and responsibilities of health workers, including key considerations for occupational safety
+and health, from 18 March 2020 (1). This version, which is based on new and emerging evidence, provides guidance
+on occupational health and safety measures for health workers and occupational health services in the context of the
+COVID-19 pandemic. It also updates the rights and responsibilities for health and safety at work for health workers
+according to the standards of the International Labour Organization (ILO).
+This document complements and should be used in conjunction with the following WHO interim guidance. Prevention,
+identification and management of health worker infection in the context of COVID-19 from 30 October 2020, which
+provides recommendations for post-exposure risk assessment and management of infections in health workers (2), and
+Health workforce policy and management in the context of the COVID-19 pandemic response from 3 December 2020,
+which contains strategic policy recommendations for health workforce planning, support and capacity-building (3).
+This guidance was developed on the basis of a review of existing WHO and ILO guidance documents, rapid reviews of
+evidence about occupational risks that have been amplified by the COVID-19 pandemic and expert opinion from an
+independent international group of experts. It is intended for employers and health-facility managers, health workers
+and their representatives, occupational health and safety experts, infection prevention and control experts in public and
+private health facilities and policy-makers at national and subnational levels
+
+-1-
+
+COVID-19: Occupational health and safety for health workers. Interim guidance
+
+Background
+Health workers i may be exposed to occupational hazards that put them at risk of disease, injury and even death in the
+context of the COVID-19 response. These occupational risks include (a) occupational infections with COVID-19; (b)
+skin disorders and heat stress from prolonged use of PPE; (c) exposures to toxins because of increased use of
+disinfectants; (d) psychological distress; (e) chronic fatigue; and (f) stigma, discrimination, physical and psychological
+violence and harassment (4).
+Mitigating these hazards and protecting the health, safety and well-being of health workers requires well-coordinated
+and comprehensive measures for infection prevention and control, occupational health and safety, health workforce
+management and mental health and psychosocial support (4). Insufficient occupational health and safety measures can
+result in increased rates of work-related illness among health workers, high rates of absenteeism, reduced productivity
+and diminished quality of care (5).
+
+Occupational infections
+Occupational exposure to SARS-CoV-2
+The WHO interim guidance Mask use in the context of COVID-19 from 1 December 2020 compiles the available
+evidence on the transmission of SARS-CoV-2, the virus that causes COVID-19 (6). According to this evidence, SARSCoV-2 mainly spreads between people when an infected is in close contact with another person. The virus can spread
+from an infected person’s mouth or nose in small liquid particles ranging from larger ‘respiratory droplets’ to smaller
+‘aerosols’ when the person coughs, sneezes, sings, breathes heavily or talks. Close range contact can result in inhalation
+of, or inoculation with, the virus though the mouth, nose or eyes.
+Aerosol transmission can occur in specific situations in which medical procedures that generate aerosols are performed.
+There is inconclusive evidence about aerosol transmission in health-care settings in the absence of aerosol generating
+procedures (6).
+There is limited evidence of transmission through fomites (objects or materials that may be contaminated with viable
+virus, such as utensils, furniture, stethoscopes or thermometers) in the immediate environment around an infected person.
+Such transmission may occur through touching the fomites followed by touching the mouth, nose or eyes (6).
+There is emerging evidence of transmission in settings outside of medical facilities, such as indoor, crowded, and
+inadequately ventilated spaces, where infected persons spend long periods of time with others. This suggests the
+possibility of aerosol transmission in addition to droplet and fomite transmission (6).
+Health workers’ occupational exposure to SARS-CoV-2 can occur any time in health-care facilities and in the
+community, during work-related travel to an area with local community transmission and on the way to and from the
+workplace. A systematic review suggests that occupational risk for health workers can increase in certain clinical settings
+or with suboptimal hand hygiene, long working hours, or improper or suboptimal use or non-availability of PPE (7).
+Workplace risk assessment for SARS-CoV-2
+The potential for health workers’ occupational exposure to SARS-CoV-2 can be determined by the likelihood of coming
+into direct, indirect or close contact with a person infected with the virus. This includes direct physical contact or care,
+contact with contaminated surfaces and objects, through aerosol-generating procedures on patients with COVID-19
+without adequate personal protection, or working with infected people in indoor, crowded places with inadequate
+ventilation (6). The risk of occupational exposure increases with the level of community transmission of SARS-CoV-2
+(8).
+Employers, in consultation with health workers and their representatives, and with support from experts in infection
+prevention and control (IPC) and occupational health, should carry out and regularly update a workplace risk assessment
+for SARS-CoV-2. The purpose is to determine the level of risk for potential occupational exposure related to different
+jobs, work tasks and work settings; and to plan and implement adequate measures for risk prevention and mitigation
+and for assessing the fitness for work, and return to work, of individual health workers (9).
+Health workers are all people engaged in work actions whose primary intent is to improve health. This includes health service providers, such
+as doctors, nurses, midwives, public health professionals, lab-, health- and medical and non-medical technicians, personal care workers,
+community health workers, healers and some practitioners of traditional medicine. It also includes health management and support workers, such
+as cleaners, drivers, hospital administrators, district health managers and social workers, and other occupational groups in health-related
+activities. Health workers include not only those who work in acute care facilities but also those employed in long-term care, public health,
+community-based care, social care and home care and other occupations in the health and social work sectors as defined by the International
+Standard Industrial Classification of All Economic Activities (ISIC), revision 4, section Q: Human health and social work activities.
+i
+
+-2-
+
+COVID-19: Occupational health and safety for health workers. Interim guidance
+
+The following workplace risk levels may be useful for employers and occupational health services when carrying out
+rapid risk assessments for potential occupational exposure ii to SARS-CoV-2 for different jobs or tasks (10).
+1. Lower risk − jobs or tasks without frequent, close contact with the public or others and that do not require contact
+with people known or suspected of being infected with SARS-CoV-2 (9).
+2. Medium risk − jobs or tasks with close frequent contact with patients, visitors, suppliers and co-workers but that do
+not require contact with people known or suspected of being infected with SARS-CoV-2 (8).
+3. High risk − jobs or tasks with high potential for close contact with people who are known to be or suspected of
+being infected with SARS-CoV-2 or contact with objects and surfaces possibly contaminated with the virus (9).
+4. Very high risk − jobs and tasks with risk of exposure to aerosols containing SARS-CoV-2, in settings where aerosolgenerating procedures are regularly performed on patients with COVID-19 or working with infected people in
+indoor, crowded places without adequate ventilation (6).
+Levels of workplace risk, even in the same work setting, may vary based on health worker tasks and roles. Therefore, a
+workplace risk assessment should be carried out for each specific setting, as well as for each role, task or set of tasks.
+The risk assessment should lead to prevention and mitigation measures to avoid exposure based on the level of risk,
+bearing in mind the local epidemiological situation, the specificity of the work setting and work tasks, the hierarchy of
+controls and the level of adherence to IPC measures (11, 12). The above-mentioned workplace risk levels can also be
+useful to identify priority groups as COVID-19 vaccine deployment is planned (13).
+Table 1 gives examples of job tasks and measures for prevention and mitigation of health worker exposure to SARSCoV-2 based on risk level, in accordance with the WHO guidance and recommendations for IPC and occupational health
+in the context of COVID-19 (6, 9, 11, 12, 14, 15).
+Table 1. Workplace risk levels, job tasks and corresponding measures for primary prevention and mitigation of
+occupational exposure to SARS-CoV-2 among health workers
+Risk level
+
+Examples of job tasks
+
+Lower risk
+(caution)
+
+Administrative tasks that do not
+involve contact with patients and
+visitors or close contact with other
+co-workers. For example,
+telehealth services, remote
+interviewing of suspected or
+confirmed COVID-19 patients or
+their contacts, working in
+individual or low-density offices.
+
+Sample prevention and mitigation measures iii
+Health facilities:
+•
+•
+•
+•
+•
+•
+
+organize remote work and teleservices, wherever possible
+and appropriate;
+provide natural or mechanical ventilation without
+recirculation;
+organize regular environmental clean-up and disinfection;
+introduce measures for avoiding crowding and social
+mixing and encourage workers to observe safe physical
+distancing;
+introduce measures preventing the sharing of work stations
+and equipment;
+establish flexible sick leave policies.
+
+Workers:
+•
+•
+•
+
+stay home if unwell;
+observe hand and respiratory hygiene;
+use fabric masks in common areas and face-to-face
+meetings.
+
+ii In these risk levels, persons referred to as “known to be or suspected of being infected with SARS-CoV-2” may include pre-symptomatic or
+asymptomatic persons who may be infected but do not have obvious signs or symptoms.
+
+For details see the following WHO interim guidance documents: Considerations for public health and social measures in the workplace in the
+context of COVID-19, 10 May 2020 (9); Infection prevention and control during health care when coronavirus disease (COVID-19) is suspected
+or confirmed, 29 June 2020 (11); Rational use of personal protective equipment for coronavirus disease (COVID-19) and considerations during
+severe shortages, 23 December 2020 (12); Clinical management of COVID-19, 27 May 2020 (14); COVID-19: Recommendations for heating,
+ventilation, and air conditioning in health care facilities, 21 May 2020 (15); Mask use in the context of COVID-19, 1 December 2020 (6).
+iii
+
+-3-
+
+COVID-19: Occupational health and safety for health workers. Interim guidance
+
+Risk level
+Medium
+risk
+
+Examples of job tasks
+Jobs or tasks with close frequent
+contact with patients, visitors,
+suppliers and co-workers but that
+do not require contact with people
+known or suspected of being
+infected with SARS-CoV-2. In
+settings with known or suspected
+community transmission of
+SARS-CoV-2, this risk level may
+apply to workers who have
+frequent and close work-related
+contact with other people within a
+health-care facility or in the
+community where safe physical
+distance may be difficult to
+maintain. In settings without
+community transmission, this
+scenario may include close
+frequent contact with people
+coming from areas with known or
+suspected community
+transmission.
+
+Sample prevention and mitigation measures iii
+Health facilities:
+•
+•
+•
+•
+•
+•
+•
+•
+
+consider alternatives to face-to-face outpatient visits using
+telehealth services wherever feasible and appropriate;
+provide sneeze screens, barriers, workplace modifications
+and natural or mechanical ventilation without recirculation;
+organize screening and triage for early recognition of
+patients with suspected COVID-19 and rapid
+implementation of source control measures;
+organize regular environmental clean-up and disinfection;
+introduce measures to avoid crowding and social mixing,
+such as restricting visitors and designating areas where
+patients are not allowed;
+encourage workers to observe safe physical distancing
+when not wearing PPE (e.g. in break rooms and cafeterias);
+provide IPC training and adequate PPE in sufficient
+quantity and quality;
+establish flexible sick leave policies.
+
+Workers:
+•
+•
+•
+
+stay home if unwell;
+observe hand and respiratory hygiene;
+wear medical masks and other PPE according to their tasks
+and apply standard precautions in providing patient care.
+
+Patients, visitors and suppliers:
+•
+•
+High risk
+
+Clinical triage with in-person
+interviewing of patients with signs
+and symptoms of COVID-19;
+cleaning areas for screening and
+isolation; entering rooms or
+isolation areas occupied by
+patients with known or suspected
+COVID-19; conducting a physical
+examination and providing direct
+care not involving aerosolgenerating procedures for patients
+with known or suspected COVID19; manipulation of respiratory
+samples; handling respiratory
+secretions, saliva or waste from
+COVID-19 patients;
+transportation of people known or
+suspected of having COVID-19
+without physical separation
+between the driver and the
+passenger; cleaning between
+transports of patients with
+suspected COVID-19.
+
+observe hand and respiratory hygiene;
+in settings with community or cluster transmission, wear
+medical or fabric masks.
+
+Health facilities:
+•
+•
+•
+•
+•
+•
+
+implement engineering, environmental and administrative
+controls for IPC, and provide adequate PPE in sufficient
+quantity and quality;
+provide enhanced ventilation without recirculation, with
+“clean to less clean” directional design for airflows;
+organize regular environmental clean-up and disinfection;
+introduce measures for avoiding crowding and social
+mixing and restricting non-essential workers and visitors;
+provide regular IPC training, including on the use of PPE;
+establish flexible sick leave policies.
+
+Workers and caregivers:
+•
+•
+•
+
+use PPE based on transmission-based precautions (medical
+mask, gown, gloves, eye protection) and apply standard
+precautions in providing patient care;
+stay home if unwell;
+observe hand and respiratory hygiene.
+
+Patients, visitors and suppliers:
+•
+•
+
+wear medical or fabric masks;
+observe hand and respiratory hygiene.
+
+-4-
+
+COVID-19: Occupational health and safety for health workers. Interim guidance
+
+Risk level
+
+Examples of job tasks
+
+Very high
+risk
+
+Work with COVID-19 patients
+where aerosol-generating
+procedures (e.g. tracheal
+intubation, non-invasive
+ventilation, tracheotomy,
+cardiopulmonary resuscitation,
+manual ventilation before
+intubation, sputum induction,
+bronchoscopy, autopsy
+procedures, dental procedures that
+use spray-generating equipment)
+are frequently performed; work
+with infected people in indoor,
+crowded places without adequate
+ventilation.
+
+Sample prevention and mitigation measures iii
+Health facilities:
+•
+•
+•
+•
+•
+
+implement engineering, environmental and administrative
+controls for IPC and provide adequate PPE in sufficient
+quantity and quality;
+provide mechanical ventilation with high efficiency
+particulate air (HEPA) filters without recirculation;
+introduce measures for avoiding crowding and social
+mixing and for restricting access of non-essential workers
+and visitors;
+provide regular IPC training, and training in donning and
+doffing PPE;
+establish flexible sick leave policies.
+
+Workers:
+•
+•
+•
+
+stay home if unwell;
+observe hand and respiratory hygiene;
+use PPE (respirator N95 or FFP2 or FFP3, gown, gloves,
+eye protection, apron) and apply standard precautions in
+providing patient care.
+
+IPC: infection prevention and control; PPE: personal protective equipment.
+
+Transparent and timely dissemination of information on the transmission of SARS-CoV-2 in health facilities and in the
+community should be an integral part of primary prevention in all risk categories.
+Some health workers may be at higher risk of developing severe COVID-19 illness because of older age, pre-existing
+medical conditions or pregnancy (14). Such workers should not be required to carry out tasks with medium, high or very
+high risk levels in accordance with WHO recommendations (3).
+Some health workers, especially those who are students, volunteers, interns, newly-graduated or are returning to the
+workplace after time away, may be at greater individual risk because they are unfamiliar with IPC procedures or make
+errors while practising newly acquired skills. Appropriate task delegation and role assignment should be considered,
+with provisions for regular supportive supervision in line with WHO and ILO recommendations (3, 16).
+All health facilities should consult with experts to assess the effectiveness of their ventilation systems. Any decision on
+whether to use natural, hybrid (mixed-mode) or mechanical ventilation should consider: the climate, including prevalent
+wind direction; the floor plan; and, the need for and cost of the ventilation system (15). Aerosol-generating procedures
+should be performed in rooms with appropriate special air exchange capacities and considerations (11).
+Health workers should be encouraged to report if they have had occupational or non-occupational exposure to COVID19 without adequate protection. Such exposures should be investigated, assessed and managed case by case using the
+WHO recommended protocol (17). Follow-up actions for managing the infection and return to work should be decided
+in line with WHO recommendations for prevention, identification and management of health worker infections (2).
+Other occupational infections
+While providing care to COVID-19 patients and delivering essential health services, health workers may be exposed to
+other infectious hazards, such as bloodborne pathogens and tuberculosis. Therefore, the prevention and control of
+occupational infections among health workers requires a comprehensive approach, bearing in mind the hierarchy of
+controls and close collaboration between occupational health services and IPC programmes staffed with trained
+professionals (2, 18, 19). Box 1 sets out the hierarchy of hazard controls to prevent occupational infections.
+
+-5-
+
+COVID-19: Occupational health and safety for health workers. Interim guidance
+
+Box 1. Hierarchy of hazard controls to prevent occupational infections
+Measures for the prevention of occupational infections should aim to align with the hierarchy of controls commonly
+used for preventing exposures to occupational hazards. The hierarchy of controls gives priority to highly effective
+measures, such as protection of all workers through engineering and administrative control, instead of relying only
+on measures dependent on individual behaviour, such as adherence to personal protection (20).
+a) Hazard elimination. Eliminating exposure to the infectious hazard in the working environment is the most
+effective control. This may be through working remotely, provision of telehealth services from individual
+offices or teleconferencing.
+b) Engineering/environmental controls. If the hazard cannot be eliminated from the workplace, measures
+should be taken to avoid or reduce the spread of the pathogen and its concentration in the work
+environment. For example, through adapted structural design conducive to patient flow and spatial
+separation for isolating patients, and design and repurposing of wards (11, 21). Adequate ventilation,
+sanitation practices and infrastructure, ‘touch-free’ technology, sneeze guards and barriers, safer needle
+devices and safe health-care waste management are other critical elements (22, 23).
+c) Administrative controls. Measures may need to be taken to change the way people work such as: restricting
+workplace access to essential workers with specific training and skills for protection; ensuring appropriate
+working hours; rostering and, where possible, avoiding workers being shifted from high to low transmission
+settings.
+Other helpful controls include the addition of surge personnel to meet work demands; rest breaks; time off
+between shifts; appropriate task delegation; supportive supervision; ‘just-in-time’ and refresher training on
+IPC practices; procedures for monitoring performance and giving feedback (24); paid sick and holiday
+leave; and, policies for workers to stay home if unwell, or in self-quarantine and self-isolation, without loss
+of income.
+d) Optimal use of PPE. Measures should be in place to protect individual health workers from exposure,
+including provision of adequate and appropriately fitted PPE based on risk assessment, the type of
+procedure to be performed and the risk of infection during a procedure. Appropriate training and
+monitoring on proper use and disposal of PPE is also important (12). The PPE used for protection against
+occupational infections should comply with standard technical specifications (25).
+In all patient care settings, standard precautions should be applied to reduce the risk of transmission of bloodborne and
+other pathogens from both recognized and unrecognized sources in accordance with WHO recommendations (26).
+During the COVID-19 pandemic, health workers should continue to receive recommended vaccinations as specified in
+the national immunization programme and WHO recommendations (27). WHO also recommends that health workers
+be encouraged to take a seasonal influenza vaccine (28).
+
+Prolonged use of PPE
+In principle, PPE is intended to be used for short periods of time when the exposure to hazard cannot be avoided or
+otherwise controlled. In the context of COVID-19, heavy workload, patient flows and shortages of PPE may require
+health workers to wear PPE for extended periods of time.
+Research suggests that prolonged use of gloves and frequent hand hygiene may cause or aggravate existing hand eczema
+(29). If a health worker has a latex allergy, use of non-latex or nitrile gloves is advised. Frequent application of
+moisturizing creams is a good practice to decrease hand irritation. Products containing petroleum can damage the
+integrity of latex gloves and should be avoided for skin care (30). Health workers with sustained rashes or inflammatory
+skin symptoms should be referred to medical care.
+There is evidence that prolonged use of PPE for respiratory and eye protection (masks, respirators and goggles) can also
+cause skin damage: itching, rash, acne, pressure injury, contact dermatitis, urticaria and aggravation of pre-existing skin
+diseases (31). To decrease the risk of skin damage, it is a good practice to provide health workers with properly fitted
+PPE, to avoid sustained friction or pressure on the same site; to apply moisturizers or gel before wearing facial protective
+equipment to lubricate and reduce friction between skin and masks or goggles; and to avoid using over-tight goggles,
+which can damage the skin and generate fogging (31).
+-6-
+
+COVID-19: Occupational health and safety for health workers. Interim guidance
+
+Prolonged use of full PPE (gowns, masks, head coverings, coveralls) traps heat and sweat, limits evaporative cooling of
+the body and can lead to heat stress (heat rash, muscle cramps, fainting, exhaustion, breakdown of skeletal muscle and
+heat stroke) (32). Coveralls, double layering of gowns, shoe protection, or hoods that cover the head and neck such as
+those used in the context of filovirus disease outbreaks (e.g. Ebola virus), are not required when caring for patients with
+COVID-19 (12).
+WHO and the ILO recommend that health workers at risk of heat stress should be advised to monitor for symptoms of
+heat-related illness, including monitoring the colour and volume of urine output (33). The time spent in full PPE should
+be limited and rest should be arranged in a cool area. Sufficient safe and cool drinking-water should be provided to all
+health workers.
+
+Use of disinfectants
+The increased use of disinfectants in health facilities and in public places may cause toxic effects among health workers,
+cleaners and sanitation workers. Nasal and eye irritation, chest tightness, wheezing, difficulty breathing, and skin
+irritation may result. Disinfectant solutions must be prepared and used according to the manufacturer’s
+recommendations in well-ventilated areas, avoiding mixing of different disinfectants.
+Health workers involved in the preparation and application of disinfectants should be evaluated for medical
+contraindications, trained in the safe use of disinfectants, provided with adequate PPE and instructed in its proper use.
+WHO does not recommend spraying individuals with disinfectants (such as in a tunnel, cabinet or chamber) under any
+circumstances (22).
+
+Workload, work time and work organization
+During the COVID-19 pandemic, health workers may be working long hours with heavier workloads and insufficient
+time for rest and recuperation. These demands can result in chronic fatigue and lack of energy, with decreased alertness,
+coordination and efficiency; increased reaction time; impaired cognition and emotional blunting or mood changes.
+Strategic health-workforce planning, support and capacity-building are required to ensure safe staffing levels, fair
+allocation of workloads, and management of working time and work organization according to recommendations in the
+WHO interim guidance, Health workforce policy and management in the context of the COVID-19 pandemic response,
+from 3 December 2020 (3).
+In the case of a declared public emergency, such as the COVID-19 pandemic, exceptions to the provisions on normal
+working hours should be authorized only temporarily in accordance with ILO recommendations (34). Measures should
+be taken for the optimal organization of working hours, shifts and rests, as practically feasible, based on the local
+situation (Box 2).
+
+-7-
+
+COVID-19: Occupational health and safety for health workers. Interim guidance
+
+Box 2. WHO and ILO recommendations for prevention of fatigue during an emergency situation
+Shift lengths. Five 8-hour shifts, or four 10-hour shifts, per week are usually tolerable. Longer shifts represent a risk
+factor for fatigue. Depending on the workload, 12-hour days may require more frequent interspersed rest days.
+During the evening and night, shorter shifts (e.g. eight hours) are better tolerated than longer shifts. Fatigue is
+intensified by night work because of night-time drowsiness and inadequate daytime sleep (33). Preference should be
+given to shift rotation in a forward direction (morning to afternoon to night), bearing in mind workers’ preferences
+and local conditions (35).
+Workload. Balance shifts of lighter and heavier work tasks. Examine work demands with respect to shift length.
+Twelve-hour shifts are more tolerable for ‘lighter’ tasks (e.g. desk work). Shorter work shifts help counteract
+fatigue from highly intense work, physical exertion, extreme environments or exposure to other health or safety
+hazards (33).
+Rest and recuperation. Establish policies regarding duration of working hours and rest breaks (e.g. at least 10
+consecutive hours per day of protected time off to obtain 7−8 hours of sleep, and 48 hours off after 14
+consecutive days of work). Providing frequent brief rest breaks (e.g. every 1−2 hours) during demanding work is
+more effective against fatigue than a few longer breaks. Allow longer breaks for meals. Plan one or two full days of
+rest to follow five consecutive 8-hour shifts or four 10-hour shifts. Consider two rest days after three consecutive
+12-hour shifts (33).
+As necessary, and if possible, provide accommodation for health workers during emergency operations with access
+to food services or ready-to-eat meals, sanitary facilities and recreational opportunities, while maintaining physical
+distancing and other public health measures to prevent COVID-19 (33).
+
+Violence, harassment, discrimination and stigma
+Incidents of violence and harassment iv against health workers have been increasing during the COVID-19 pandemic.
+The most widespread risk factors for workplace violence in the health sector include stress and fatigue, long patient
+waiting times, crowding, the burden of transmitting negative prognoses, COVID-19-specific prevention and control
+measures (such as placing individuals in quarantine or isolation facilities), contact tracing or not allowing access to the
+bodies of deceased loved ones. These can all lead to additional tensions and violence (36).
+Because of their proximity to potentially infected people, health workers may also be seen as infection threats within
+the community and thus face stigma and discrimination. Health workers are at risk of violence and harassment at the
+workplace as well as on their way to and from work and in the community (37). Wearing work clothes, or other signs
+that make health workers easy to identify, may increase the risk of experiencing stigma, discrimination or violence and
+harassment by the public (37).
+Workplace violence and harassment has been shown to have negative effects on the organization of health services and
+retainment of staff, the mental and physical well-being of health practitioners and the quality of health-care delivery. A
+systematic review (38) found that health workers in service delivery roles, such as nurses, first responders, emergency
+room staff and physicians, and those working long hours or night shifts, are at higher risk. Male providers are slightly
+more likely to become victims of physical violence, while female providers have a higher risk of exposure to sexual
+harassment and sexual violence. Health workers from ethnic minorities and other minority groups might be particularly
+at risk.
+Violence, harassment, discrimination and stigma against health workers should be prevented and eliminated as much as
+possible. Some countries have introduced specific legislation, for example by criminalizing such acts and providing
+regulatory protection for health workers, to prevent and eliminate violence and harassment and retaliation against health
+workers (39). National governments and local authorities can adopt community-engagement and communication
+initiatives and behavioural standards, to prevent stigmatization of health workers at the workplace and in the community
+thereby promoting public respect and recognition of the role of health workers (40). Box 3 sets out international
+recommendations for addressing this issue.
+
+The Violence and Harassment Convention, 2019 (No. 190) defines “violence and harassment” in the world of work as “a range of
+unacceptable behaviours and practices, or threats thereof, whether a single occurrence or repeated, that aim at, result in, or are likely to result in
+physical, psychological, sexual or economic harm, and includes gender-based violence and harassment”. The Convention also establishes the
+responsibilities of national authorities and employers respectively.
+iv
+
+-8-
+
+COVID-19: Occupational health and safety for health workers. Interim guidance
+
+Box 3. International recommendations for addressing workplace violence and harassment in the health
+sector (41, 42)
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Design, implement and monitor a workplace policy to prevent and combat violence, harassment,
+discrimination and stigma with the participation of workers and their representatives, and ensure that all
+staff, including management, are aware of it and abide by it.
+Establish procedures to prohibit discrimination and harassment and promote fair treatment of workers.
+Provide security briefings and personnel in high-risk areas.
+Undertake initiatives to raise awareness and provide training on violence and harassment.
+Provide timely and accurate information to staff and patients to reduce uncertainty and distress.
+Streamline patient flow and avoid crowding and waiting times.
+Ensure safe access to and from the workplace and easily-identified emergency exits.
+Provide alarm systems (e.g. panic buttons, telephone, beeper, short-wave radio) where risk is anticipated.
+Have protocols in place for reporting, investigating and responding to incidents of violence, stigma and
+discrimination in a blame-free environment.
+Introduce measures to protect complainants, victims, witnesses and whistle-blowers against victimization or
+retaliation and ensure confidentiality is protected.
+Provide confidential assistance, counselling and support to victims of violence, harassment and stigma.
+Regularly assess the risk of violence and harassment in consultation with workers and their representatives.
+Avoid wearing uniforms or other clinical attire while commuting to work and when visiting public places,
+households or the community for non-professional reasons.
+
+Mental health and psychosocial support
+In addition to the pressures mentioned above, a systematic review (43) found that health workers’ mental health and
+well-being can be affected in the context of COVID-19. This can be caused by contact with affected patients, perceived
+impediments to doing their jobs, insufficient organizational support, forced redeployment to jobs with higher levels of
+risk, lack of confidence in protective measures and working as a nurse.
+Personal risk factors for health workers’ mental health include lower levels of education, inadequate training, less
+clinical experience, working as a part-time employee, increased time in quarantine, social isolation, having children at
+home, lower household income, younger age, female sex, comorbid physical health conditions and the impact of the
+pandemic on their personal lifestyle.
+Lower perceived personal self-efficacy and a history of psychological distress, mental health disorders or substance
+abuse, are further risk factors. These risks make health workers vulnerable to common mental health conditions
+including anxiety, depression and insomnia (33, 43). Mental health issues can contribute to reduced performance,
+absence, staff resignations or higher turnover, a reduction in efficiency and increased possibility of human error, which
+may pose a threat to both health workers and patient safety (44).
+The WHO interim guidance, Health workforce policy and management in the context of the COVID-19 pandemic
+response, from 3 December 2020, specifies interventions to support health workers’ mental health issues at the
+individual level (3). According to international recommendations by WHO and others, the following additional measures
+should be considered for protecting mental health in the workplace.
+•
+•
+•
+•
+•
+•
+•
+
+Implement surveillance measures to detect critical incidents and mitigate their impact on the mental health of
+health workers (33, 43).
+Ensure that quality communication and accurate information updates are provided to all health workers, and
+rotate workers from higher-stress to lower-stress functions (44).
+Partner inexperienced workers with experienced colleagues and ensure that outreach personnel enter the
+community in pairs (45).
+Ensure availability of and facilitate access to confidential mental health and psychosocial support services for
+health workers, including remotely-provided or on-site services (12).
+Provide mechanisms for early and confidential identification and management of anxiety, depression and other
+mental health conditions, and initiate psychosocial support strategies and first-line interventions (12).
+Promote a mental health prevention culture among health workers and health managers (12).
+Ensure health workers who develop mental health conditions and seek help can return to their work without
+stigma or discrimination (45).
+-9-
+
+COVID-19: Occupational health and safety for health workers. Interim guidance
+
+Sanitation, hygiene and rest facilities
+Functioning hand hygiene facilities should be present for all health workers at all points of care: in designated areas
+where PPE is put on or taken off; in toilets and rooms for personal and menstrual hygiene, and where health-care waste
+is handled. Ensure availability of hand-washing facilities with clean running water and hand hygiene products (soap,
+single-use clean towels). Alcohol-based hand rubs containing 60−80% alcohol should be available at all points of care.
+Access to rest and relaxation rooms, safe drinking-water, toilets, supplies for personal and menstrual hygiene, and food
+and rest opportunities should all be available during work shifts (46). These areas should allow for safe physical
+distancing and adequate ventilation (3).
+Designated rooms should be set aside for health workers providing toilets and space for personal and menstrual hygiene;
+these should be separate from those used by patients and visitors. There should be a bin for disposal of waste products,
+or an area for washing re-usable materials, and a space for women to wash themselves with privacy (3).
+There should be daily cleaning protocols to ensure workplace, workstations, equipment and facilities are clean and tidy
+and a system for disposing of bin contents and disinfecting the bins (34).
+In some situations, the provision of temporary accommodation (hotels/motels, trailers or tents) may be needed between
+shifts for rest and hygiene. Food service, childcare and recreational opportunities can facilitate personnel availability,
+decrease exposure to infection in families and the community, and alleviate stress and fatigue (17).
+Facilities should be provided at the workplace for health workers to change into and out of work clothing, so they do
+not need to wear it when commuting (46). Professional laundering of work clothes worn at the bedside, that come into
+contact with the patient or patient environment, should be organized by the health facility (47).
+
+Occupational health services
+Every health-care facility should have an occupational health programme, as articulated in the WHO/ILO global
+framework for occupational health programmes for health workers, and a designated and appropriately trained focal
+point for occupational health and safety (48). Large health-care facilities should have a labour-management committee
+for health and safety at work and an occupational health service with essential preventive functions (49).
+In the context of COVID-19, occupational health service focal points should collaborate closely with IPC programmes
+to institute IPC policies and procedures in accordance with the WHO interim guidance, Prevention, identification and
+management of health worker infection in the context of COVID-19, from 30 October 2020 (2). In addition, focal points
+and occupational health services should:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+carry out regular workplace risk assessments for exposure to other risks for health and safety at work amplified
+by the COVID-19 pandemic and assess the effectiveness of preventive measures;
+provide instructions and training to workers on how to work in a healthy and safe way, including prevention of
+violence and stigma, safe use of disinfectants and protection of mental health and psychological well-being;
+advise on additional measures for control and mitigation of other physical, chemical, ergonomic and radiation
+hazards based on risk assessment;
+identify priority groups of health workers for COVID-19 vaccination and other immunizations based on
+workplace risk assessment and medical conditions;
+organize immunization campaigns and recording of vaccination status;
+organize health surveillance of workers engaged in jobs and tasks with an elevated risk of exposure to SARSCoV-2 and other occupational hazards;
+monitor reporting and participate in the investigation of cases of exposure to SARS-CoV-2 and accidental
+exposure to other pathogens, needlesticks and other sharps, accidents and incidents of violence and harassment
+and develop measures for prevention;
+advise on the procurement of safer technical devices and adequate PPE;
+organize the monitoring of health workers for COVID-19 symptoms, testing and provision of expert advice to
+health workers on issues related to exposure and their health;
+ensure workers’ representatives are consulted on all aspects of occupational safety and health associated with
+their work to enhance cooperation between management and workers;
+collaborate with facility focal points for infection prevention and control, patient safety and human resources;
+advise on the provision of suitable facilities for health workers to shower and change from work clothing to day
+wear.
+
+-10-
+
+COVID-19: Occupational health and safety for health workers. Interim guidance
+
+Health workers should be evaluated confidentially by medical professionals for fitness for duty to carry out certain jobs
+and tasks, and for any impairment that may pose increased risk of illness or injury from exposures at work. In the context
+of COVID-19, certain workers need special consideration. These include:
+•
+•
+•
+
+older health workers and those with pre-existing medical conditions or who are pregnant and may be at higher
+risk of developing serious illness;
+workers with mental health conditions that can deteriorate from additional distress, such as tending to a high
+number of severely ill and dying patients;
+workers with increased workload, prolonged hours or concern for their own or a family member’s health.
+
+Occupational health services should organize a health assessment for any worker who self-identifies as fitting into one
+of the above categories. An assessment should also be done in the following situations: a change of job, work tasks or
+work setting; before workers are assigned roles with COVID-19 patients; and on resumption of work after a prolonged
+absence for health reasons. Periodic assessments, particularly for the development of skin and mental health disorders
+and other work-related health problems, are advised for all staff.
+
+Duties, rights and responsibilities for health and safety at work
+Employer responsibilities
+According to international labour standards, employers have the overall responsibility for ensuring that all necessary
+preventive and protective measures are taken to minimize occupational risks (50). Keeping this in mind, in the context
+of COVID-19, employers of health workers should:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+consult with health workers and their representatives on the occupational safety and health aspects of their work
+and the risks of exposure and adopt adequate preventive and mitigation measures, avoiding the creation of new
+sources of risk;
+ensure timely access to information and transparent dialogue between health workers and employers, including
+sharing of the most recent information on clinical protocols, guidelines, measures and decisions to ensure
+effective implementation, as well as on workplace situations that expose health workers to risks;
+provide information, instruction and training on occupational safety and health, including refresher training in
+IPC, and the correct use, donning, doffing and disposal of PPE;
+provide adequate IPC and PPE supplies in sufficient quantity and quality and at no cost to any worker;
+maintain supply chain management of PPE supplies;
+provide personnel with timely technical updates on COVID-19 and appropriate tools to assess, triage, test and
+treat patients, and share IPC information with patients and the public;
+provide appropriate security measures as needed for personal safety;
+ensure a blame-free environment in which health workers can report on hazardous, stigmatizing or violent
+incidents related to work and adopt measures for immediate follow-up, including support to victims;
+advise health workers on health self-assessment, symptom reporting and policies for staying home if unwell or
+in quarantine;
+maintain appropriate working hours with breaks and rest periods in accordance with national law;
+allow health workers to exercise the right to remove themselves from a work situation that they have reasonable
+justification to believe presents an imminent and serious danger to their life or health, and protect health workers
+exercising this right from any undue consequences;
+notify the competent authority of cases of occupational injuries and diseases, in accordance with national law;
+consider providing access to mental health support and counselling resources;
+promote cooperation between management and health workers and their representatives;
+ensure health workers are covered with employment injury benefits in line with national law.
+
+Whenever two or more employers or entities engage in activities simultaneously in one work setting, they should
+collaborate on occupational safety and health, without prejudice to the responsibility of each for the health and safety
+of its employees (51).
+Health worker rights and responsibilities
+Health workers are entitled to decent work, which entails dignity, equality, a fair income and safe working conditions.
+In the context of the COVID-19 pandemic, along with the right to safe workplaces, health workers have duties and
+responsibilities regarding the protection of health and safety at work under international labour standards (52), and to
+follow WHO recommendations for patient safety (53). These include:
+
+-11-
+
+COVID-19: Occupational health and safety for health workers. Interim guidance
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+following established occupational safety and health procedures, avoiding exposing themselves or others to
+health and safety risks and participating in employer-provided occupational safety and health training;
+using provided protocols to assess, triage and treat patients;
+swiftly following established public health reporting procedures for suspected and confirmed cases;
+treating patients with respect and compassion, conferring dignity and maintaining patient confidentiality;
+providing or reinforcing accurate IPC and public health information to patients and the public;
+putting on, using, taking off and disposing of PPE correctly;
+self-monitoring for signs and symptoms of COVID-19, and reporting any unprotected occupational and nonoccupational exposure to SARS-CoV-2 to the focal point for occupational health or the occupational health
+service, and self-quarantining;
+advising the occupational health service if they are experiencing signs of undue stress or mental health
+challenges that may require supportive interventions;
+reporting to their immediate supervisor any situation they have reasonable justification to believe presents an
+imminent and serious danger to life or health.
+
+Responsibilities of national authorities
+Besides their duties and responsibilities as employers in publicly provided health services, national authorities should
+ensure that all health workers involved in the COVID-19 response, regardless of their employment status and mode of
+practice, have access to coverage for medical care and sickness benefits, including for testing and treatment of COVID19, quarantine and isolation in line with national laws (52).
+National authorities must ensure that health workers, especially those at medium, high and very high risk of infection,
+regardless of their mode of practice, have early access to COVID-19 vaccination programmes (13). They should also
+ensure that all health workers are covered by schemes for employment injury benefits according to national regulations
+(54). National authorities should ensure and facilitate access to medical care for health workers infected with COVID19.
+COVID-19, if contracted as a result of work, could be considered as a work or employment injury (54). Such cases
+should be investigated and reported to the public authority responsible for managing employment injury benefits
+according to national regulations. Countries should consider updating their lists of occupational diseases, exposure
+criteria and reporting in the context of COVID-19 (55).
+Health workers who are infected by COVID-19 as a result of their work – and in case the infection is considered an
+occupational disease or injury in line with national law – should be entitled to health care, and to the extent that they are
+incapacitated for work, cash benefits or compensation. Dependent family members of health workers who die from
+COVID-19 contracted in the course of work-related activities, should be entitled to cash benefits or compensation as
+well as to a funeral grant or benefit (52).
+
+References
+1. Coronavirus disease (COVID-19) outbreak: rights, roles and responsibilities of health workers, including key
+considerations for occupational safety and health. Interim guidance, 18 March 2020. Geneva: World Health
+Organization (https://www.who.int/publications/i/item/coronavirus-disease-(covid-19)-outbreak-rights-roles-andresponsibilities-of-health-workers-including-key-considerations-for-occupational-safety-and-health, accessed
+20 November 2020).
+2. Prevention, identification and management of health worker infection in the context of COVID-19. Interim
+guidance, 30 October 2020. Geneva: World Health Organization (https://www.who.int/publications/i/item/10665336265, accessed 20 November 2020).
+3. Health workforce policy and management in the context of the COVID-19 pandemic response. Interim guidance,
+3 December 2020. Geneva: World Health Organization (https://www.who.int/publications/i/item/healthworkforce-policy-and-management-in-the-context-of-the-covid-19-pandemic-response, accessed 10 December
+2020).
+4. WHO calls for healthy, safe and decent working conditions for all health workers, amidst COVID-19 pandemic.
+Geneva: World Health Organization; 28 April 2020 (https://www.who.int/news/item/28-04-2020-who-calls-forhealthy-safe-and-decent-working-conditions-for-all-health-workers-amidst-covid-19-pandemic, accessed 20
+November 2020).
+
+-12-
+
+COVID-19: Occupational health and safety for health workers. Interim guidance
+
+5. ILO Policy Brief on COVID-19. Pillar 3: Protecting workers in the workplace. Geneva: International Labour
+Organization; 2020 (https://www.ilo.org/global/topics/coronavirus/impacts-and-responses/WCMS_739049/lang-en/index.htm, accessed 20 November 2020).
+6. Mask use in the context of COVID-19. Interim guidance, 1 December 2020. Geneva: World Health Organization
+(https://apps.who.int/iris/handle/10665/337199, accessed 20 December 2020).
+7. Chou R, Dana T, Buckley DI, Selph S, Fu Rongwei, Totten AM. Epidemiology of and risk factors for coronavirus
+infection in health care workers: A living rapid review. Ann Intern Med. 2020 Jul 21;173(2):120-136.
+https://doi.org/10.7326/M20-1632. Epub 2020 May 5. PMID: 32369541; PMCID: PMC7240841.
+8. Critical preparedness, readiness and response actions for COVID-19. Interim guidance, 4 November 2020.
+Geneva: World Health Organization (https://www.who.int/publications/i/item/critical-preparedness-readiness-andresponse-actions-for-covid-19, accessed 20 November 2020).
+9. Considerations for public health and social measures in the workplace in the context of COVID-19. Annex to:
+Considerations in adjusting public health and social measures in the context of COVID-19. Geneva: World Health
+Organization; 10 May 2020 (https://www.who.int/publications/i/item/considerations-for-public-health-and-socialmeasures-in-the-workplace-in-the-context-of-covid-19, accessed 20 November 2020).
+10. Guidance on preparing workplaces for COVID-19. Washington DC: Occupational Safety and Health
+Administration, U.S. Department of Labor; 2020 (https://www.osha.gov/Publications/OSHA3990.pdf, accessed
+20 November 2020).
+11. Infection prevention and control during health care when coronavirus disease (COVID-19) is suspected or
+confirmed. Interim guidance, 29 June 2020. Geneva: World Health Organization
+(https://www.who.int/publications/i/item/WHO-2019-nCoV-IPC-2020.4 accessed 20 November 2020).
+12. Rational use of personal protective equipment for coronavirus disease (COVID-19) and considerations during
+severe shortages. Interim guidance, 23 December 2020. Geneva: World Health Organization
+(https://www.who.int/publications/i/item/rational-use-of-personal-protective-equipment-for-coronavirus-disease(covid-19)-and-considerations-during-severe-shortages, accessed 29 December 2020).
+13. Guidance on developing a national deployment and vaccination plan for COVID-19 vaccines. Interim guidance,
+16 November 2020. Geneva: World Health Organization
+(https://apps.who.int/iris/bitstream/handle/10665/336603/WHO-2019-nCoV-Vaccine_deployment-2020.1eng.pdf, accessed 20 November 2020).
+14. Clinical management of COVID-19. Interim guidance, 27 May 2020. Geneva: World Health Organization
+(https://www.who.int/publications/i/item/clinical-management-of-severe-acute-respiratory-infection-when-novelcoronavirus-(ncov)-infection-is-suspected, accessed 20 November 2020).
+15. COVID-19: Recommendations for heating, ventilation, and air conditioning in health care facilities. Washington
+DC: Pan American Health Organization; 21 May 2020 (https://www.paho.org/en/documents/covid-19recommendations-heating-ventilation-and-air-conditioning-health-care-facilities, accessed 20 November 2020).
+16. ILO sectoral brief: COVID-19 and the health sector. Geneva: International Labour Organization; 11 April 2020
+(https://www.ilo.org/wcmsp5/groups/public/---ed_dialogue/---sector/documents/briefingnote/wcms_741655.pdf,
+accessed 20 November 2020).
+17. Risk assessment and management of exposure of health care workers in the context of COVID-19. Interim
+guidance, 19 March 2020. Geneva: World Health Organization (https://apps.who.int/iris/handle/10665/331496,
+accessed 20 November 2020).
+18. Minimum requirements for infection prevention and control programmes. Geneva: World Health Organization;
+2019 (https://www.who.int/infection-prevention/publications/MinReq-Manual_2019.pdf?ua=1, accessed 20
+November 2020).
+19. Infection prevention and control health-care facility response for COVID-19: A module from the suite of health
+service capacity assessments in the context of the COVID-19 pandemic. Interim guidance, 20 October 2020.
+Geneva: World Health Organization (https://www.who.int/publications/i/item/WHO-2019-nCoVHCF_assessment-IPC-2020.1, accessed 20 November 2020).
+20. Liberati EG, Peerally MF, Dixon-Woods M. Learning from high risk industries may not be straightforward: a
+qualitative study of the hierarchy of risk controls approach in healthcare. International Journal for Quality in
+Health Care. 2018 Feb;30(1):39-43. https://doi.org/10.1093/intqhc/mzx163
+-13-
+
+COVID-19: Occupational health and safety for health workers. Interim guidance
+
+21. Severe acute respiratory infections treatment centre: practical manual to set up and manage a SARI treatment
+centre and a SARI screening facility in health care facilities. Geneva: World Health Organization; 2020
+(https://apps.who.int/iris/handle/10665/331603, accessed 20 November 2020).
+22. Cleaning and disinfection of environmental surfaces in the context of COVID-19. Interim guidance, 16 May 2020.
+Geneva: World Health Organization (https://www.who.int/publications/i/item/cleaning-and-disinfection-ofenvironmental-surfaces-inthe-context-of-covid-19, accessed 20 November 2020).
+23. Ensuring a safe environment for patients and staff in COVID-19 health-care facilities: A module from the suite of
+health service capacity assessments in the context of the COVID-19 pandemic. Interim guidance, 20 October
+2020. Geneva: World Health Organization (https://www.who.int/publications/i/item/WHO-2019-nCoVHCF_assessment-Safe_environment-2020.1, accessed 20 November 2020).
+24. Administrative controls to guarantee implementation of infection prevention and control measures in the context
+of COVID-19. Washington DC: Pan American Health Organization; 18 June 2020
+(https://iris.paho.org/handle/10665.2/52389, accessed 20 November 2020).
+25. Technical specifications of personal protective equipment for COVID-19. Interim guidance, 13 November 2020.
+Geneva: World Health Organization (https://www.who.int/publications/i/item/WHO-2019-nCoVPPE_specifications-2020.1, accessed 20 November 2020).
+26. Infection control standard precautions in health care: aide memoire. Geneva: World Health Organization; 2006
+(https://www.who.int/csr/resources/publications/4EPR_AM2.pdf, accessed 20 November 2020).
+27. Table 4: Summary of WHO position papers – Immunization of health care workers. Geneva: World Health
+Organization; September 2020 (https://www.who.int/immunization/policy/Immunization_routine_table4.pdf,
+accessed 20 November 2020).
+28. How to implement seasonal influenza vaccination of health workers. Geneva: World Health Organization; 2019
+(https://apps.who.int/iris/bitstream/handle/10665/325906/9789241515597-eng.pdf?ua=1, accessed 20 November
+2020).
+29. MacGibeny MA, Wassef C. Preventing adverse cutaneous reactions from amplified hygiene practices during the
+COVID-19 pandemic: how dermatologists can help through anticipatory guidance. Arch Dermatol Res. (2020).
+https://doi.org/10.1007/s00403-020-02086-x
+30. Yan Y, Chen H, Chen L, Cheng B, Diao P, Dong L, et al. Consensus of Chinese experts on protection of skin and
+mucous membrane barrier for health-care workers fighting against coronavirus disease 2019. Dermatologic
+Therapy. 2020 Jul;33(4):e13310. https://doi.org/10.1111/dth.13310.
+31. Gefen A, Ousey K. Update to device-related pressure ulcers: SECURE prevention. COVID-19, face masks and
+skin damage. Journal of Wound Care. 2020;29(5). https://doi.org/10.12968/jowc.2020.29.5.245.
+32. Jacklitsch B, Williams WJ, Musolin K, Coca A, Kim J-H, Turner N. NIOSH criteria for a recommended standard.
+Occupational exposure to heat and hot environments. Revised criteria 2016. Cincinnati, OH, USA: Department of
+Health and Human Services, Centers for Disease Control and Prevention, National Institute for Occupational
+Safety and Health (NIOSH); 2016 (https://www.cdc.gov/niosh/docs/2016-106/pdfs/2016106.pdf?id=10.26616/NIOSHPUB2016106, accessed 20 November 2020).
+33. Occupational safety and health in public health emergencies: a manual for protecting health workers and
+responders. Geneva: World Health Organization and International Labour Organization; 2018
+(https://www.who.int/publications/i/item/occupational-safety-and-health-in-public-health-emergencies-a-manualfor-protecting-health-workers-and-responders, accessed 20 November 2020).
+34. Guidelines on decent work in public emergency services. Geneva: International Labour Organization; 2019
+(https://www.ilo.org/wcmsp5/groups/public/---ed_dialogue/--sector/documents/normativeinstrument/wcms_626551.pdf, accessed 20 November 2020).
+35. Health services. Decent working time for nursing personnel: Critical for worker well-being and quality care:
+policy brief. Geneva: International Labour Organization; 2018 (https://www.ilo.org/wcmsp5/groups/public/--ed_dialogue/---sector/documents/publication/wcms_655277.pdf, accessed 20 November 2020).
+36. Forgione Paola. New patterns of violence against healthcare in the covid-19 pandemic. BMJ Opinion. 15 May
+2020. (https://blogs.bmj.com/bmj/2020/05/15/new-patterns-of-violence-against-healthcare-in-the-covid-19pandemic/, accessed 20 November 2020).
+
+-14-
+
+COVID-19: Occupational health and safety for health workers. Interim guidance
+
+37. Attacks on health care in the context of COVID-19. In WHO newsroom [website]. Geneva: World Health
+Organization; 2020 (https://www.who.int/news-room/feature-stories/detail/attacks-on-health-care-in-the-contextof-covid-19, accessed 20 November 2020).
+38. Liu J, Gan Y, Jiang H, Li L, Dwyer R, Lu K, et al. Prevalence of workplace violence against healthcare workers: a
+systematic review and meta-analysis. Occup Environ Med. 2019 Dec;76(12):927-937. PMID: 31611310.
+39. Safe and healthy working environments free from violence and harassment. Geneva: International Labour
+Organization; 2020 (https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/--safework/documents/publication/wcms_751832.pdf, accessed 20 December 2020).
+40. Social Stigma associated with COVID-19. A guide to preventing and addressing social stigma. Geneva:
+International Federation of Red Cross and Red Crescent Societies, United Nations Children’s Fund and World
+Health Organization; 24 February 2020
+(https://www.unicef.org/media/65931/file/Social%20stigma%20associated%20with%20the%20coronavirus%20di
+sease%202019%20(COVID-19).pdf, accessed 20 November 2020).
+41. Framework guidelines for addressing workplace violence in the health sector. Geneva: International Labour
+Office, International Council of Nurses, World Health Organization, Public Services International; 2002
+(https://www.ilo.org/wcmsp5/groups/public/---ed_dialogue/--sector/documents/normativeinstrument/wcms_160908.pdf, accessed 20 November 2020).
+42. C190 – Violence and Harassment Convention, 2019 (No.190). In: ILO Normlex [website]. Geneva: International
+Labour Organization
+(https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C190, accessed
+20 December 2020).
+43. Kisely S, Warren N, McMahon L, Dalais C, Henry I, Siskind D. Occurrence, prevention, and management of the
+psychological effects of emerging virus outbreaks on healthcare workers: rapid review and meta-analysis. BMJ
+2020;369:m1642. https://doi.org/10.1136/bmj.m1642
+44. Mental health and psychosocial considerations during the COVID-19 outbreak. Geneva: World Health
+Organization; 18 March 2020 (https://www.who.int/docs/default-source/coronaviruse/mental-healthconsiderations.pdf?sfvrsn=6d3578af_10, accessed 20 November 2020).
+45. Addressing mental health and psychosocial aspects of COVID-19 outbreak: interim briefing note, version 1.5.
+Geneva: Inter-Agency Standing Committee; February 2020
+(https://interagencystandingcommittee.org/system/files/202011/IASC%20Interim%20Briefing%20Note%20on%20COVID19%20Outbreak%20Readiness%20and%20Response%20Operations%20-%20MHPSS_3.pdf, accessed 20
+November 2020).
+46. Water, sanitation, hygiene, and waste management for SARS-CoV-2, the virus that causes COVID-19. Interim
+guidance, 29 July 2020. Geneva: World Health Organization and United Nations Children’s Fund
+(https://www.who.int/publications/i/item/WHO-2019-nCoV-IPC-WASH-2020.4, accessed 20 November 2020).
+47. Bearman G, Bryant K, Leekha S, Mayer J, Silvia Munoz-Price L, Murthy R, et al. Expert guidance: Healthcare
+personnel attire in non-operating-room settings. Infect Control Hosp Epidemiol. 2014 Feb;35(2):107-121.
+https://doi.org/10.1086/675066.
+48. Caring for those who care. National programmes for occupational health for health workers. Policy brief. Geneva:
+World Health Organization and International Labour Organization; 2020
+(https://www.who.int/publications/i/item/caring-for-those-who-care, accessed 20 November 2020).
+49. C161 − Occupational Health Services Convention, 1985 (No. 161). In: ILO Normlex [website]. Geneva:
+International Labour Organization
+(https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C161, accessed
+20 November 2020).
+50. C155 − Occupational Safety and Health Convention, 1981 (No. 155). In: ILO Normlex [website]. Geneva:
+International Labour Organization
+(https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C155, accessed
+20 November 2020).
+51. R164 − Occupational Safety and Health Recommendation, 1981 (No. 164). In: ILO Normlex [website]. Geneva:
+International Labour Organization
+-15-
+
+COVID-19: Occupational health and safety for health workers. Interim guidance
+
+(https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:R164, accessed
+20 November 2020).
+52. ILO Standards and COVID-19 (coronavirus). FAQ. Geneva: International Labour Organization; 29 May 2020
+(https://www.ilo.org/wcmsp5/groups/public/---ed_norm/--normes/documents/genericdocument/wcms_739937.pdf, accessed 20 November 2020).
+53. Health worker safety: a priority for patient safety. Charter: World Patient Safety Day, 17 September 2020.
+Geneva: World Health Organization (https://www.who.int/docs/default-source/world-patient-safety-day/healthworker-safety-charter-wpsd-17-september-2020-3-1.pdf?sfvrsn=2cb6752d_2, accessed 20 November 2020).
+54. C121 – Employment Injury Benefits Convention, 1964 [Schedule I amended in 1980] (No.121). In: Normlex
+[website]. Geneva: International Labour Organization
+(https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C121, accessed
+24 January 2021).
+55. ILO List of Occupational Diseases (revised 2010). Geneva: International Labour Organization; 2010
+(https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/--safework/documents/publication/wcms_125137.pdf, accessed 24 January 2021).
+
+Acknowledgements
+The following experts participated in the development of this document.
+WHO Secretariat: Rola Al-Emam, Benedetta Allegranzi, Yonah (Eric) Amster, Gwen Brachman, Alessandro
+Cassini, Giorgio Cometto, Shalini Desai, Neelam Dhingra-Kumar, Ivan D. Ivanov, Dorota Jarosinska, Catherine Kane,
+Berit Kieselbach, Aiysha Malik, Guy Mbayo, Madison Moon, Maria Neira, Lesley Onyon, Gene Peralta, Julietta
+Rodriguez-Guzman, Alice Simniceanu, Victoria Willet.
+ILO: Magdalena Bober, Halim Hamzaoui, Maren Hopfe, Ursula Kulke, Franklin Muchiri, Joaquim Pintado Nunes,
+Christiane Wiskow.
+External Guideline Development Group: Gehad Abo El-Lata, Cairo University, Egypt; Baba Aye, Public Services
+International, France; Claudio Colosio, University of Milano, Italy; John Conly, University of Calgary, Canada;
+Samuel Harvey, Black Dog Institute, Australia; Maria Clara Padoveze, University of São Paulo, Brazil; Fiona Potter,
+Institution of Occupational Safety and Health, United Kingdom; Annalee Yassi, University of British Columbia,
+Canada; Min Zhang, Peking Union Medical College, China.
+WHO and the ILO continue to monitor the situation closely. Should any factors change that may affect this interim
+guidance, WHO and the ILO will issue a further update. Otherwise, this document will expire 2 years after the date of
+publication.
+
+© World Health Organization and International Labour Organization, 2021
+Some rights reserved. This work is available under the CC BY-NC-SA 3.0 IGO licence.
+WHO reference number: WHO/2019-nCoV/HCW_advice/2021.1
+
+-16-
+
+

@@ -1,0 +1,343 @@
+Journal Pre-proof
+Bridging the gap between scientiﬁc discovery and clinical application
+during the COVID-19 epoch
+Boris Lacarra MD Guillaume Mellon MD Inmaculada Ortega Perez
+Ph.D MPH Eric D’Ortenzio MD François-Xavier Lescure Ph.D MD
+
+PII:
+
+S2666-9919(21)00064-6
+
+DOI:
+
+https://doi.org/doi:10.1016/j.idnow.2021.03.002
+
+Reference:
+
+IDNOW 4442
+
+To appear in:
+Received Date:
+
+2 February 2021
+
+Please cite this article as: Lacarra B, Mellon G, Perez IO, D’Ortenzio E, Lescure F-Xavier,
+Bridging the gap between scientiﬁc discovery and clinical application during the COVID-19
+epoch, Infectious Diseases Now (2021), doi: https://doi.org/10.1016/j.idnow.2021.03.002
+
+This is a PDF ﬁle of an article that has undergone enhancements after acceptance, such as
+the addition of a cover page and metadata, and formatting for readability, but it is not yet the
+deﬁnitive version of record. This version will undergo additional copyediting, typesetting and
+review before it is published in its ﬁnal form, but we are providing this version to give early
+visibility of the article. Please note that, during the production process, errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal
+pertain.
+© 2020 Published by Elsevier.
+
+Bridging the gap between scientific discovery and clinical application during the COVID-19
+epoch
+Boris Lacarra M.D 1,2, Guillaume Mellon M.D 3, Inmaculada Ortega Perez Ph.D-MPH 1, Eric D’Ortenzio M.D 1,
+4,5
+
+, François-Xavier Lescure Ph.D-M.D 4,5
+
+1
+
+REACTing, Inserm, 101 rue de Tolbiac 75013, Paris, France.
+APHP, Assistance Publique-Hôpitaux de Paris, Pediatric Intensive Care Unit, Robert-Debré Hospital, and
+Université de Paris, F-75019, Paris, France.
+3
+APHP, Assistance Publique-Hôpitaux de Paris, COREB, Bichat Hospital, F-75018, Paris, France.
+4
+Université de Paris, Infection, Antimicrobien, Modélisation, Evolution (IAME), Inserm, F-75018, Paris,
+France.
+5
+APHP, Assistance Publique-Hôpitaux de Paris, Department of Infectious Diseases, Bichat Hospital, F-75018,
+Paris, France.
+2
+
+oo
+f
+
+Corresponding author : Boris Lacarra, MD (ORCID : 0000-0002-7946-2325) – Pediatric Intensive Care Unit
+APHP Hôpital Robert Debré, 48 boulevard Serrurier, 75019, Paris, France.
+Email : boris.lacarra@aphp.fr
+Phone +33 6 03 07 52 56
+
+pr
+
+Keywords: Epidemiology, COVID-19, SARS-CoV-2, Infectious diseases
+
+e-
+
+Declarations: Not applicable
+Authors’ contributions:
+
+Conflict of interest statement:
+
+al
+
+Pr
+
+Boris Lacarra, Guillaume Mellon and Inmaculada Ortega Perez conceived and designed the study, wrote the first
+draft and reviewed and revised the manuscript
+Eric D'Ortenzion and François-Xavier Lescure reviewed and revised the manuscript for final approval.
+All authors approved the final manuscript as submitted and agree to be accountable for all aspects of the work
+
+Jo
+ur
+n
+
+Lacarra Boris: has nothing to disclose
+Mellon Guillaume: has nothing to disclose
+Ortega Perez Inmaculada: has nothing to disclose
+D’Ortenzion Eric: has nothing to disclose
+Lescure François-Xavier: received personal fees from GILEAD and MSD for lectures, outside of the submitted
+work.
+
+Funding : no external funding was received
+
+Dear Editor,
+The severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) pandemic has led to a
+historic race for publication, with more than 105,000 papers having been published as of
+
+1
+Page 1 of 6
+
+February 1, 2021 (1) “Binge-publishing” has been facilitated by the emergence of preprint
+platforms and hastened reviewing processes.
+Instant availability of scientific data made it possible to quickly identify the virus (SARS-CoV2) responsible for the pandemic and to determine its modes of transmission and the
+associated risk factors for disease severity, thereby facilitating identification of potential
+treatments and vaccine design. As a result and as never seen before, measures were rapidly
+
+oo
+f
+
+implemented worldwide to control the spread of the pandemic. However, the immediate
+availability of scientific results in a field where new evidence emerges every day and where
+knowledge continuously evolves can render it singularly challenging to track new and
+
+pr
+
+relevant findings.
+
+e-
+
+This pandemic is the first to be marked by the unlimited use of social media as a means of
+
+Pr
+
+information acquisition. However, when used by persons devoid of scientific background,
+mass media may tend to disseminate misinformation, and to amplify “infodemics” (2).
+
+al
+
+In this context, relevant information may in some cases not stand out from unreliable,
+inconsistent data, as well as conspiracy theories liable to undermine the trust of the general
+
+Jo
+ur
+n
+
+population in health interventions and the global effort to control the pandemic. As a
+response to this unprecedented public health challenge, the WHO has called on member
+states “to develop and implement action plans to manage the infodemic by promoting the
+timely dissemination of accurate information based on science and evidence” (3).
+As a result, several literature reviews publishing up-to-date, newly emerging evidence have
+been launched (4–7). In line with this, the multidisciplinary collaborative network of French
+research institutions working on emerging infectious diseases known as “REACTing”
+undertook a weekly selection of peer-reviewed articles (8). Breakthrough publications from
+various medical and scientific disciplines were selected, summarized and compiled into an
+2
+Page 2 of 6
+
+easy-to-read document. However, no critical analysis of the data in these articles was
+performed, which meant that this overview of the literature, targeting a well-informed
+public, was not necessarily able to effectively counteract misinformation.
+In addition, as the number of cases has surged worldwide, physicians have been confronted
+with more and more questions regarding operational issues, questions for which the
+answers tend to be drowned out by the massive flow of daily articles, or are shown through
+
+oo
+f
+
+various literature reviews to be controversial.
+Hence, to improve disease management, exchange of knowledge is needed between (a)
+clinicians finding themselves face to a wide range of COVID-19 patients demanding
+
+pr
+
+efficacious operational approaches and (b) researchers who read and critically examine the
+
+e-
+
+plethora of articles on this topic.
+
+Pr
+
+In an attempt to bring relevant scientific advances closer to clinical application, the national
+mission of Operational Coordination of Biological and Epidemic Risk (Mission Nationale
+
+al
+
+COREB) has joined forces with REACTing to release a dynamic, scientific update on COVID-19
+scientific evidence. The COREB has been commissioned by the French Ministry of Health to
+
+Jo
+ur
+n
+
+animate the network of Emergence and Biological Risk (EBR) reference hospitals, to
+coordinate EBR training and education and to write operational procedures. The goal of our
+collaboration is to provide scientists, in the broadest sense, with accurate and scalable
+answers to operational questions with a public health approach and an implementation
+concern. To our knowledge, no comparable initiative producing tailored responses to
+specific operational questions on COVD-19 patients’ care and treatment has been taken as
+of yet.
+In contrast to literature reviews, we critically analyze the results of the most relevant
+articles addressing essential operational questions related to COVID-19, with a focus on
+3
+Page 3 of 6
+
+epidemiological, virological, clinical, and therapeutic aspects, including vaccines. Updates are
+published when new relevant data and/or new questions are communicated, allowing us to
+improve our messages upon publication of new evidence. As part of this project, we
+organize weekly meetings during which key questions are identified and articles on these
+issues are selected. Experts in each field help us to choose the most relevant articles, of
+which the limitations and conclusions are comprehensibly expressed. An independent
+
+oo
+f
+
+committee reviews our slideshow by analysing and proposing suggestions before it is posted
+online. Only after revision and agreement by all the authors will the slideshow be freely and
+widely distributed to the medical and scientific community, using various communication
+
+e-
+
+pr
+
+supports.
+
+Pr
+
+The slideshows are meant to effectively combat the misinformation to which caregivers or
+the general population may be exposed and to address to the numerous public health
+
+al
+
+questions raised by this pandemic. Our rigorous translation of the scientific literature is
+intended to be shared with all scientists and clinicians and to help them to provide evidence
+
+Jo
+ur
+n
+
+for their clinical decisions. Our translation is also shared on social networks and with
+mainstream journalists, the objective being to focus mass media discussions and debates on
+the best available evidence.
+
+In this way, collaboration between COREB and REACTing contributes to the fight against
+misinformation by disseminating accurate, appropriate and truthful, legitimately obtained
+information. In the current situation, association between researchers and clinicians is an
+essential means of implementing the best clinical and public health practices in the everevolving context of the Covid-19 pandemic. Faced to an unprecedented situation and in
+order to bolster the global response to infodemics, each country should promote the
+4
+Page 4 of 6
+
+establishment of a bridge between clinicians in the field and researchers in their
+
+Jo
+ur
+n
+
+al
+
+Pr
+
+e-
+
+pr
+
+oo
+f
+
+laboratories.
+
+5
+Page 5 of 6
+
+REFERENCES
+1.
+
+COVID-19 Primer. https://covid19primer.com/ (accessed February 01, 2021)
+
+2.
+
+The Lancet Infectious Disease. The COVID-19 infodemic. Lancet Infect Dis. 2020; 20 :875.
+
+3.
+
+WHO. Managing the COVID-19 infodemic: Promoting healthy behaviours and mitigating the harm
+
+from misinformation and disinformation. https://www.who.int/news/item/23-09-2020-managing-the-covid-19infodemic-promoting-healthy-behaviours-and-mitigating-the-harm-from-misinformation-and-disinformation
+(accessed February 01, 2021)
+4.
+
+REACTing Covid-19 resources 2020 https://reacting.inserm.fr/literature-review/ (accessed January 06,
+
+5.
+
+oo
+f
+
+2021)
+COVID-19, Maternal and Child Health, Nutrition | Center for Humanitarian Health
+
+http://hopkinshumanitarianhealth.org/empower/advocacy/covid-19/covid-19-children-and-nutrition/ (accessed
+
+6.
+
+pr
+
+February 01, 2021)
+
+London School of Hygiene & Tropical Medicine . Publications
+
+7.
+
+e-
+
+https://www.lshtm.ac.uk/research/research-action/covid-19/publications (accessed February 01, 2021)
+Vingtcinq. Bibliovid - Veille scientifique sur le COVID-19. Bibliovid. https://bibliovid.org (accessed
+
+8.
+
+Pr
+
+February 01, 2021)
+
+Delfraissy J-F, Yazdanpanah Y, Levy Y. REACTing: the French response to infectious disease crises.
+
+ACKNOWLEDGMENTS
+
+al
+
+Lancet. 2016;387 :2183‑5.
+
+Jo
+ur
+n
+
+We thank the members of the reviewing committee for their many contributions in reviewing our slideshow :
+Erica Telford, REACTing Inserm; Jean Marc Chapplain, Rennes Hospital; Flavie Chatel, Mission
+
+Nationale COREB; Hélène Coignard, Mission Nationale COREB; Dominique Costagliola, REACTing
+Inserm; Marie-Paule Kieny, REACTing Inserm; Quentin Le Hingrat, Bichat Hospital; Jean-Christophe
+Lucet, Bichat Hospital; Claire Madelaine, REACTing Inserm; Matthieu Mahevas, Henri-Mondor
+Hospital; Emmanuelle Vidal Petiot, Bichat Hospital; and Benoit Visseaux, Bichat Hospital.
+
+6
+Page 6 of 6
+
+

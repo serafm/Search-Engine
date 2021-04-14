@@ -1,0 +1,383 @@
+Journal of Liver Transplantation 1 (2021) 100002
+
+Contents lists available at ScienceDirect
+
+Journal of Liver Transplantation
+journal homepage: www.elsevier.com
+
+Case report
+
+Repeated COVID-19 infection in recipients of post-living donor liver
+transplantation: Two real-life cases
+I.F. Montasser a,∗ , H.M. Dabbous a , M. Salah a , Y. Massoud a , H. Ebada a , M. Sakr a ,
+S. Atef a , M. Bahaa b , M. El Meteini b
+a
+b
+
+Department of Tropical Medicine, Ain Shams Centre for Organ Transplantation (ASCOT), Ain Shams University, Cairo, Egypt
+Department of Hepatobiliary Surgery & Liver Transplantation, Ain Shams Centre for Organ Transplantation (ASCOT), Ain Shams University, Cairo, Egypt
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 28 September 2020
+Received in revised form
+16 December 2020
+Accepted 18 December 2020
+Available online 29 January 2021
+Keywords:
+COVID-19
+Liver transplant
+SARS-CoV-2
+Pandemic
+
+a b s t r a c t
+COVID-19 is an emerging pandemic. The course and management of the disease in the liver transplant
+setting may be difﬁcult due to a long-standing immunosuppressive state. In Egypt, the only available
+option is living donor liver transplantation (LDLT). In our centre, we have transplanted 440 livers since
+2008. In this study, we report a single-centre experience with COVID-19 infection in long-term liver
+transplant recipients. A total of 25 recipients (5.7 %) had COVID-19 infections since March 2020. Among
+these recipients, two developed COVID-19 infections twice, approximately three and two months apart,
+respectively.
+© 2021 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC
+BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+1. Background
+COVID-19 is a novel viral infection pandemic of international
+concern. The emerging virus has affected more than 30 million
+people in the 6 months since its initial identiﬁcation [1]. Liver
+transplant recipients are under long-term immunosuppression and
+are considered one of the most vulnerable groups for COVID-19
+infection. However, data regarding the course and outcome of the
+disease in organ transplantation recipients are scarce.
+2. Case report
+During the current pandemic, our centre continued to follow up
+post-transplant recipients using telemedicine or hospital visits as
+needed. Any cases with suspected symptoms of COVID-19 infection were referred to our hospital triage and underwent routine
+work-ups, including measures of chest CT, CBC, CRP, serum ferritin,
+D-dimer, serum creatinine, ABG, and liver function. In this study,
+we report 2 cases of COVID-19 reinfection in liver transplant recipients. In both cases, the patients were discharged from the hospital
+after the ﬁrst infection episode when the results of two successive
+COVID-19 PCR tests 48−72 h apart were negative.
+
+∗ Corresponding author.
+E-mail address: emanfawzy@med.asu.edu.eg (I.F. Montasser).
+
+The ﬁrst case, a 49-year-old male, was transplanted on December 2019 due to cryptogenic cirrhosis. In both instances of
+COVID-19 infection, he was completely asymptomatic and was discovered to be COVID-19-positive by a nasopharyngeal swab taken
+during a routine work-up before ERCP for biliary problems. The ﬁrst
+bout of COVID-19 infection was on 11 May 2020, and the second
+was on 17 August 2020 (96 days apart) (Figs. 1–3). The laboratory
+data are summarized in Table 1.
+The other case, a 61-year-old male, underwent LDLT in December 2017 due to HCV-related cirrhosis. After COVID infection, this
+patient presented with severe respiratory symptoms, fever, and
+acute kidney injury (AKI). The ﬁrst bout of COVID-19 infection was
+on 13 June 2020, and the second was on 7 August 2020 (<2 months
+apart). The patient presented with COVID-19 infection with highgrade fever, cough, dyspnoea, diarrhoea and hypotension (second
+attack). He was admitted to intermediate care with a diagnosis of
+COVID-19 and sepsis.
+Both patients were admitted to an isolation hospital and
+received symptomatic treatment according to their clinical conditions, with temporary MMF suspension in both cases and
+temporary cyclosporine suspension in the second case due to
+severe sepsis and acute kidney injury. Both patients responded well
+to symptomatic treatment. The ﬁrst case had a negative nasopharyngeal swab as measured by PCR and was discharged from the
+hospital 48 h later and resumed taking his usual immunosuppressant drugs.
+
+https://doi.org/10.1016/j.liver.2021.100002
+2666-9676/© 2021 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/bync-nd/4.0/).
+
+I.F. Montasser, H.M. Dabbous, M. Salah et al.
+
+Journal of Liver Transplantation 1 (2021) 100002
+
+Fig. 1. CT chest on May 2020 showing bilateral reticular pattern (ﬁrst attack).
+Table 1
+Laboratory values of ﬁrst case during the ﬁrst and second episode of COVID-19
+infection.
+Lab values
+
+1st attack
+
+2nd attack
+
+HB (gm/dl)
+WBCs 109 cells/L
+Platelets109 cells/L
+Ferritin(ng/dl)
+D Dimer
+Bilirubin (Total/Direct)
+ALK Ph(U/L)
+GGT (U/L)
+ALT (U/L)
+AST (U/L)
+
+9
+2.8
+108
+523
+2
+4/3.3
+678
+1067
+45
+35
+
+8.5
+2.2
+95
+465
+0.7
+3/2
+642
+620
+60
+54
+
+Table 2
+Laboratory values of second case during the ﬁrst and second episode of COVID-19
+infection.
+
+Fig. 2. CT chest on May 2020 showing faint ground glass appearance (second attack).
+
+Lab values
+
+1st attack
+
+2nd attack
+
+HB (gm/dl)
+WBCs 109 cells/L
+Platelets109 cells/L
+Ferritin(ng/dl)
+D Dimer
+Bilirubin (Total/Direct)
+ALK Ph(U/L)
+GGT (U/L)
+ALT (U/L)
+AST (U/L)
+Creatinine(mg/dl)
+Potassium(mg/dl)
+
+11
+9.5
+150
+546
+5
+0.5/0.2
+100
+35
+20
+30
+3
+3.6
+
+11.2
+16
+224
+670
+1.2
+0.6/0.3
+92
+38
+23
+19
+7
+6
+
+and the base of the left lower lung lobe. No pulmonary nodules,
+lymph nodes, or pleural effusion were detected (Fig. 4). His renal
+function returned to normal baseline after ﬂuid therapy and symptomatic treatment. He did not require dialysis.
+According to the National Ministry of Health protocol, the
+patients received oral hydroxychloroquine (400 mg BID for 24 h,
+then 200 mg BID), oseltamivir (75 mg BID) the ﬁrst time (this was
+subsequently removed from the national guidelines), azithromycin
+(500 mg QD; plus imipenem in the second case) and prophylactic
+anticoagulation with enoxaparin (40 mg QD).Neither case required
+ICU admission or mechanical ventilation.
+
+Fig. 3. CT chest on October 2020 showing complete resolution of radiological abnormalities.
+
+The second case was more severe, with lung and kidney infection. ABG showed metabolic acidosis, serum creatinine of 7 mg/dl,
+and potassium of 6 mg/dl (Table 2). The patient required 11 days
+of hospitalization. His chest CT showed multiple bilateral peripheral variable-sized ground glass opacities involving both lung lobes.
+Multiple consolidation opacities were observed in both the lingula
+
+3. Discussion
+In late December 2019, an outbreak of a novel coronavirus
+disease (COVID-19) was reported in Wuhan, China [2], and subsequently became a global pandemic.
+2
+
+I.F. Montasser, H.M. Dabbous, M. Salah et al.
+
+Journal of Liver Transplantation 1 (2021) 100002
+
+Fig. 4. CT multiple bilateral peripheral variable-sized ground glass opacities involving all lung lobes and multiple consolidation opacities.
+
+This novel virus was named by the International Committee on
+Taxonomy of Viruses (ICTV) as severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2) [3].
+The pathological features of COVID-19 are not yet well understood, but the data suggest similarities to those observed in severe
+acute respiratory syndrome (SARS) and Middle Eastern respiratory
+syndrome (MERS) coronavirus infections [4].
+Tissue damage after SARS-CoV-2 infection is mediated either
+by a direct virus-induced cytopathogenic effect or through an
+immune-mediated inﬂammatory response. [5]
+Recent studies on COVID-19 have reported that the incidence
+of liver injury ranges from 14.8%–53% [6]. These percentages raise
+concerns regarding liver transplant recipients: are they more susceptible to SARS-CoV-2 infection due to their immunosuppressive
+state? If they are infected, is the transplanted liver at risk? Data from
+different liver transplant centres are scarce, and there is no consensus on managing the disease with immunosuppressant drugs.
+To date, there have been no speciﬁc recommendations in terms of
+the course or management of liver transplant patients from major
+societies.
+During the pandemic, the Ministry of Health in Egypt increased
+medical health service capacity and assigned 23 hospitals to manage COVID-19 in each governorate as quarantine hospitals [7]. Ain
+Shams University Hospital (ASCOT) temporarily held an LDLT programme from 2 March to 13 July 2020. Most government and
+university centres have temporarily discontinued transplant activities based on an unacceptable donor risk, uncertain data on the
+impact of COVID-19 on recipients, and to reserve resources to manage the pandemic [7]. At our centre, although operations were
+temporarily restricted, outpatient clinics and follow-up continued.
+Our staff followed up recipients using telemedicine and/or hospital visits as needed. This may explain the relatively higher number
+of patients we treated with COVID-19 infection compared to other
+centres in Egypt that completely suspended their activities or were
+serving as isolation hospitals.
+Overall, our patients’ clinical characteristics (symptoms, laboratory examinations, and chest CT) were similar to those of other
+non-transplant adult patients with COVID-19. Twenty-ﬁve patients
+presented to the Ain Shams Center for Organ Transplantation
+(ASCOT) with fever (96 %), dry cough (78 %), and loss of smell and
+taste (22 %). This symptomology was consistent with the empirical
+data and some publications that reported these COVID-19 symptoms [8,9].
+Managing immunosuppression is crucial in these cases. Our
+centre had mild cases (92 %), and we did not decrease or suspend the usual CNI doses with temporary suspension of MMF.
+Three patients required ICU admission with complete suspension of CNI and MMF and started methylprednisolone at 1
+
+mg/kg/day for 3–5 days. No patients required mechanical ventilation.
+In a report from Italy, three COVID-19-related diseases occurred
+at an Italian transplant centre in Lombardy. They were long-term
+patients on minimal immunosuppressive regimens, not recent
+transplant recipients or fully immunosuppressed patients [10].
+In contrast to the report of Bhoori et al., other cohort deaths
+included four patients transplanted within the past 2 years. Among
+the patients who died, four (44 %) had diabetes, four (44 %) had
+hypertension, and three (33 %) had obesity. Although the numbers
+were low, the frequencies of these comorbidities were not significantly different between the fatal and nonfatal COVID-19 cases.
+The authors recommend that those caring for patients with previous liver transplantation and other forms of chronic liver disease
+use registries to pool details on COVID-19 cases to permit rapid
+large-scale collaborative analyses that are required to inform clinical care [11]. In 2020, Zhang et al. claimed that, although early data
+suggest that the effects of COVID-19 on the liver might be modest and be similar to the infection severity among patients without
+pre-existing liver disease, the effects of COVID-19 on those with
+liver transplants or established liver disease remain unclear [12].
+Notably, reinfection occurred after 3 months in the ﬁrst patient
+and after 55 days in the second patient after primary infection,
+although both patients were discharged from the hospital after
+2 successive COVID-19 negative tests by PCR following the ﬁrst
+COVID-19 infection. To date, reports of reinfection have been infrequent. The risk of reinfection may be lower in the ﬁrst 3 months
+after initial infection, according to limited evidence from another
+beta-coronavirus (HCoV-OC43), the genus to which SARS-CoV-2
+belongs. Similar to other human coronaviruses for which studies have demonstrated reinfection, the probability of SARS-CoV-2
+reinfection is expected to increase with time after recovery from
+initial infection due to waning immunity and possible genetic drift
+[13–16].
+The degree of protective immunity conferred by infection with
+severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is
+currently unknown. The possibility of reinfection with SARS-CoV-2
+is not well understood [17]. To date, no reported cases of COVID-19
+reinfection in the post-transplant setting have been published.
+On the other hand, Li Anchoret al., 2020 reported that 36 of 378
+patients had COVID-19 RNA shedding longer than 30 days. SARS
+COV IgM & IgG levels remained persistently high in these patients
+even to the ninth week. They postulated that the high levels of
+IgM indicated the duration of viral infection and may be related to
+prolonged viral RNA shedding [15].
+Akiko Iwasaki commented on the four published cases of reinfection in the general population (as of the writing of this report).
+It is important to keep in mind that reinfection cases are being tab-
+
+3
+
+I.F. Montasser, H.M. Dabbous, M. Salah et al.
+
+Journal of Liver Transplantation 1 (2021) 100002
+
+ulated because of symptoms and are biased towards the detection
+of symptomatic cases. Asymptomatic reinfection cases can only
+be identiﬁed by routine community testing or at an airport, and
+the number of asymptomatic reinfections is probably signiﬁcantly
+underestimated [18].
+To the best of our knowledge, this is the ﬁrst report of COVID19 reinfection in liver transplantation recipients in Africa and the
+Middle East. COVID-19 reinfection can occur in liver transplant
+recipients with varying severity. In this paper, we recorded two
+cases of COVID-19 reinfection in liver transplant recipients with
+good outcomes. This could add to reference cases for managing
+these cases but cannot be extrapolated to other of cases in which
+different immunosuppression regimens are used. Why do some
+reinfections result in milder disease, whereas others are more
+severe? The question remains unanswered.
+
+References
+[1] World Health Organization.
+https://www.who.int/docs/default-source/coronaviruse/
+situation-reports/20200415-sitrep-86-covid-19.pdf?sfvrsn=c615ea20 6.
+[2] Wu F, Zhao S, Yu B, et al. A new coronavirus associated with human
+respiratory disease in China. Nature 2020,
+http://dx.doi.org/10.1038/s41586-020-2008-3, published online Feb 3.
+[3] Gorbalenya AE. Severe acute respiratory syndrome-related coronavirus–the
+species and its viruses, a statement of the Coronavirus Study Group. BioRxiv
+2020.
+[4] Xu Z, Shi L, Wang Y, Zhang J, Huang L, Zhang C, et al. Pathological ﬁndings of
+COVID-19 associated with acute respiratory distress syndrome. Lancet Respir
+Med 2020;8(4):420–2.
+[5] Jin Y, Yang H, Ji W, Wu W, Chen S, Zhang W, et al. Virology, epidemiology,
+pathogenesis, and control of COVID-19. Viruses 2020;12(4):372.
+[6] Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019
+novel coronavirus in Wuhan, China. Lancet 2020;395(10223):497–506.
+[7] Zidan Ahmed, Alabbad Saleh, Ali Tariq, Nizami Imran, Haberal Mehmet, Tokat
+Yaman, et al. Position statement of transplant activity in the Middle East in
+era of COVID-19. Pandemic Transplant 2020.
+[8] Guan WJ, Ni ZY, Hu Y, et al. Clinical characteristics of coronavirus disease
+2019 in China. N Engl J Med 2020.
+[9] Hjelmesæth J, Skaare D. Loss of smell or taste as the only symptom of
+COVID-19. Tidsskrift for Den norskelegeforening 2020.
+[10] Bhoori S, Rossi RE, Citterio D, Mazzaferro V. COVID-19 in long-term liver
+transplant patients: preliminary experience from an Italian transplant centre
+in Lombardy. Lancet Gastroenterol Hepatol 2020;(20), 30116-3.
+[11] Webb GwilymJ, Moon Andrew M, Barnes Eleanor, Sidney Barritt A. Thomas
+Marjot Determining risk factors for mortality in liver transplant patients with
+COVID-19. Lancet Gastroenterol Hepatol 2020;(7):643–4.
+[12] Zhang C, Shi L, Wang F-S. Liver injury in COVID-19: management and
+challenges. Lancet Gastroenterol Hepatol 2020;5:428–43.
+[13] Korea CDC, May 19 Findings from Investigation and Analysis of re-positive
+cases; 2020.
+[14] Xiao F, Sun J, Xu Y, Li F, Huang X, Li H, et al. Infectious SARS-CoV-2 in feces of
+patient with severe COVID-19. Emerg Infect Dis 2020.
+[15] Li N, Wang X, Lv Tangfeng. Prolonged SARS-CoV-2 RNA shedding: not a rare
+phenomenon. J Med Virol 2020.
+[16] Kiyuka PK, Agoti CN, Munywoki PK, Njeru R, Bett A, Otieno JR, et al. Human
+coronavirus NL63 molecular epidemiology and evolutionary patterns in rural
+coastal Kenya. J Infect Dis 2018.
+[17] Tillett Richard L, Sevinsky Joel R, Hartley Paul D, Kerwin Heather, Crawford
+Natalie, Gorzalski Andrew, et al. Genomic evidence for reinfection with
+SARS-CoV-2: a case study. Lancet Infect Dis 2020,
+http://dx.doi.org/10.1016/S1473-3099(20)30764-30767.
+[18] Iwasaki Akiko. What reinfections mean for COVID-19. Lancet Infect Dis 2020,
+http://dx.doi.org/10.1016/S1473-3099(20)30783-0. Published online October
+12, 2020.
+
+Author contributions
+Iman Montasser, Hany Dabbous, Manar Salah and Samer Atef
+were responsible for patient follow up, manuscript preparation, reference collection and ﬁnal editing; Yassmine Massoud, Hend Ebada
+and Mohamed Amin Sakr contributed to this paper with drafting
+and critical revision and editing; Mohammed Bahaa, Mahmoud El
+Meteini done the ﬁnal revision.
+Funding
+This research did not receive any grant from any funding agencies in the public, commercial, or not-for-proﬁt sectors.
+Declaration of Competing Interest
+The authors declare that they have no known competing ﬁnancial interests or personal relationships that could have appeared to
+inﬂuence the work reported in this paper.
+Acknowledgment
+The authors like to acknowldge all staff members in Ain Shams
+Centre for Organ Transplantation(ASCOT).
+
+4
+
+

@@ -1,0 +1,1440 @@
+Interim Guidance
+PUBLIC HEALTH AND
+SOCIAL MEASURES
+FOR COVID-19
+PREPAREDNESS AND
+RESPONSE IN LOW
+CAPACITY AND
+HUMANITARIAN
+SETTINGS
+Version 1
+Developed by ICRC, IFRC, IOM, NRC,
+UNICEF, UN-HABITAT, UNHCR, WHO in
+consultation with IASC members
+May 2020
+
+Interim Guidance
+
+Public Health and Social Measures for COVID-19
+Preparedness and Response Operations in Low Capacity
+and Humanitarian Settings
+__________________________________________________________________________________________
+The coronavirus disease 2019 (COVID-19) pandemic has changed the lives of individuals, communities and societies across
+the world. To date, the most important insight from the global response has been that to successfully slow transmission, it is
+essential to diagnose, isolate and care for all cases of COVID-19, including those with mild disease. In order to stop cases
+from becoming clusters and clusters to progress into vast and rapid transmission, speed, scale and equity must be the guiding
+principles.
+People affected by humanitarian crises and those living in low capacity settings are differently impacted by the COVID-19
+outbreak. In these settings, critical measures for COVID-19 prevention and control that have been a feature of the response
+in higher resource settings, such as physical distancing, movement restrictions and home confinement, hand washing with
+water and soap, closure of schools and workplaces may be more difficult to implement and some of them potentially harmful
+to the survival of many community members. In addition, capacities for testing, isolating and treating those who develop the
+disease, tracing and quarantining contacts may be severely lacking locally owing to weaker health systems.
+For the purpose of this guidance, these low capacity and humanitarian settings refer to settings characterized by some or all
+of the following, regardless of the social, humanitarian, citizenship, migration and asylum status of its residents and where
+these settings are located:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+Overcrowding and inadequate dwellings or shelter/ insufficient settlement infrastructure
+Lack of availability of clean water and sanitation
+High dependence on informal economy and daily wages
+Poor access to health care and basic services
+Disrupted health system
+Prevalent food insecurity and malnutrition
+Armed conflict and violence
+Weak institutions/ challenged governance and lack of emergency response capacities
+Prevalence of highly marginalized and underserved communities
+
+Notwithstanding, strong community ties, structures and systems present in most of these settings as well as the individual and
+collective resilience of the community are the strengths that will determine the effective adaptation and implementation of
+important public health and social measures aimed at preventing and controlling the COVID-19 outbreak. Each setting remains
+unique, urban slums would be different from humanitarian camps, and therefore these measures could only be effective when
+appropriately adapted to individual contexts.
+Public health and social measures in these settings need to be balanced against other risks affecting their communities, such
+as lack of income, access to basic services and social nets, and food insecurity. Whilst poorly implemented measures can
+increase risks of COVID-19 transmission, inadequately adapted interventions can have adverse impacts on overall public
+health as well as a range of far-reaching economic, social and political consequences (e.g. people dying of other diseases or
+left jobless and destitute, increased gender-based violence – GBV, increased violence against children, social unrest, etc.).
+As far as possible, public health and social measures need to be accompanied by efforts to mitigate social and economic
+impact to maximise the effectiveness of COVID-19 transmission reduction, while minimising these wider consequences and
+not negatively affecting other lifesaving assistance and development efforts. They also need to be pragmatic and leverage the
+strengths of the local structures and systems, notably through social mobilization and strong community engagement.
+
+1|P a g e
+
+OBJECTIVES AND TARGET AUDIENCE
+This Interim Guidance outlines how key public health and social measures needed to reduce the risk of COVID-19 spread
+and the impact of the disease can be adapted for use in low capacity and humanitarian settings. The recommendations
+outlined here need to be adjusted to the scale of transmission1, context and resources, in order to achieve the objective of
+managing COVID-19, namely to reduce transmission and facilitate the detection and management of infected and
+exposed individuals within the population. The Guidance is intended for humanitarian and development actors of all
+operational levels working with communities, as well as local authorities involved in COVID-19 preparedness and response
+operations in these settings, in support of national and local governments and plans. Additional considerations for support to
+residents of urban informal settlements and slums are available in Annex 1.
+
+ADAPTING COVID-19 PREPAREDNESS AND RESPONSE TO LOW CAPACITY AND
+HUMANITARIAN SETTINGS
+Recommended public health and social measures need to be adapted to context and resources in order to be effective. In low
+capacity and humanitarian settings, the trajectory of the COVID-19 outbreak will also depend on the complex interplay of
+demographics, socio-cultural strengths and disparities, the prevalence of other diseases, the density of the living conditions,
+environmental and potentially other different factors associated with poor COVID-19 outcomes.
+The recommendations for COVID-19 public health and social measures delineated in the sections below are those
+recommended for all settings. For low capacity and humanitarian settings, practical adaptations need to be made considering
+the context of each setting, but they also need to remain anchored to the public health principles underlying each measure
+and commensurate to the risks identified. These principles along with approaches to adaptations and enablers for
+implementation as well as key actions for these settings are laid out for each recommendation in the sections below.
+Critical measures such as hand hygiene in the community and healthcare settings will require the maximum mobilization of
+available and external resources and partners to ensure the availability of sufficient quantities of safe water and handwashing
+supplies throughout the outbreak response; this investment needs to subsequently be maintained to contribute to longer term
+benefits and prevention of future outbreaks. Although clinical management of severe and critical cases may require resources
+and capacities exceeding those available, similar efforts should be made, including through a coordinated international
+assistance; increasing clinical management capacities for COVID-19 will also contribute to longer term improvement of health
+service delivery when properly sustained. The recommendations and adaptations below will be updated as new information
+become available.
+
+1
+
+The scale of transmission of COVID-19 in countries, and within sub-national administrative areas, can be categorized as follow:
+•
+No reported cases;
+•
+Sporadic cases: one or more cases, imported or locally detected;
+•
+Clusters of cases: cases clustered in time, geographic location and/or by common exposure;
+•
+Community transmission: larger outbreaks of local transmission defined through an assessment of factors including, but not
+limited to large numbers of cases not linkable to transmission chains, large number of cases from sentinel lab surveillance,
+multiple unrelated clusters in several areas of the country/ territory/ area.
+
+2|P a g e
+
+3|P a g e
+
+Assumptions
+Given the lack of documented experience in dealing with COVID-19 in low capacity and humanitarian settings, this guidance
+has been developed with the following assumptions:
+• Due to the characteristics described above and based on experience with previous outbreaks of acute respiratory
+diseases, it is possible that COVID-19, once introduced, will spread rapidly in low capacity and humanitarian settings due
+to the high density of living and lack of water and sanitation in the community.
+• The high prevalence of other diseases in these settings, including malnutrition, common childhood diseases, tuberculosis
+and other respiratory and communicable diseases, potentially HIV as well as a range of other socio-demographic factors
+and existing disparities may result in different proportions of severe and critical COVID-19 cases; it will be important to
+closely monitor how the disease is manifested differently in these settings.
+• The capacity of the health system to deliver essential services is likely to be inadequate prior to the epidemic (particularly
+if degraded by armed conflict, broader economic constraints, limited capacity to respond to emergencies) and it will be
+challenging to scale up rapidly, especially for the treatment of severe and critical cases; overstretching the already fragile
+and disrupted system would result in higher avoidable mortality from morbidity other than COVID-19.
+• Capacities for testing may be extremely weak, if not absent, and the ability to isolate cases, quarantine contacts and
+manage cases in the community is most likely to be limited.
+• Once available, it is possible that COVID-19 specific treatment and vaccines may take a longer time to become available
+in these settings.
+• Achieving reasonable control measures such as hygiene, physical distancing, and adherence to confinement, will likely
+be difficult and some of the restrictive measures such as home confinement may directly result in more harmful negative
+socio-economic and overall public health consequences compared to better resourced settings; state capacities
+(financing, human resources, institutions) to mitigate COVID-19 risks and associated negative consequences are also
+likely to be inadequate.
+• In some of these settings there may be pockets inside the communities who are socially excluded because of their
+gender, ethnicity, caste, religion, disability, migration status and other socio-cultural attributes, and in fragmented
+societies, strong community ties may exist within sub-communities, but not across them; poorly adapted public health
+and social measures may exacerbate these existing inequalities and conditions of vulnerability.
+
+Human rights and protection considerations
+The core principles of human rights include accountability, equality, non-discrimination and participation. These apply to all
+people, including during public health and other emergencies. The use of emergency powers to respond to the COVID-19
+pandemic must take account of these core principles, and must be proportional, be neither discriminatory nor arbitrary, and
+be grounded in applicable legal frameworks.
+In formulating and implementing COVID-19 prevention, mitigation and response measures, extra care should be taken to
+assess their possible impact on the most vulnerable among populations to avoid disproportionate or discriminatory impacts,
+even if unintended. It is important to recognize the extent to which the COVID-19 outbreak may affect people differently
+according to their age, sexual orientation and gender identity, ethnicity, disability, education, employment, displacement,
+migration status and other socio-cultural attributes. The risks of exacerbating existing inequities through the implementation
+of COVID-19 prevention and control measures need to be carefully evaluated and mitigated.
+Populations living in low capacity settings face enhanced vulnerabilities in the COVID-19 context. Persons who are homeless,
+displaced, whether internally or as a refugee or an asylum-seeker, those who are stateless and migrants with tenuous legal
+status face additional compounding risk factors which may dramatically increase the risks they face in the context of the
+COVID-19 pandemic. It is essential to include these groups in all national mitigation and response measures, and to maintain
+two-way communication with them to listen to their concerns and to incorporate these into adjustments to national approaches.
+Women and girls
+Women and girls are likely to experience distinct challenges and risks associated with the COVID-19 outbreak, exacerbating
+already existing gender inequalities. Increased responsibility related to caregiving and within the household may limit women
+and girls’ access to information and services. During an outbreak, where women have less power in decision making than
+men, their needs may largely be unmet and life-saving resources for reproductive and sexual health may be diverted to the
+emergency response. In addition, life-saving care and support to GBV survivors may be disrupted. Women and girls are also
+at heightened risk of intimate partner and other forms of domestic violence as a result of increased food insecurity and
+heightened tensions in the household. Negative economic impacts may increase the likelihood of survival sex, transactional
+sex and risk of sexual exploitation and abuse in the community and within projects, all of which greatly enhance exposure to
+the COVID-19 virus as well as sexually transmitted diseases.
+
+4|P a g e
+
+Children
+Hundreds of millions of children are out of school and confined to their homes, which for many means confinement to cramped
+living conditions. Confinement and additional restrictions increase risks of children being exposed to violence in the home and
+limit their ability to seek help. In all decisions involving children, their best interests must be a primary consideration.
+Maintenance of family unity is a key right of the child and must be prioritized. Family separation should be a last resort, for
+the shortest possible time and reunification should be prioritized. States must recognize the right of parents and guardians to
+make decisions about their children. Special consideration will be taken for those children already socially excluded and
+affected by discrimination, such as those in street situations or in institutions or otherwise without parental/family care as they
+will become even more vulnerable due to lockdowns and closure of social services, and they may face arbitrary arrests and
+detention, where they are also vulnerable to sexual violence (abuse and exploitation).
+Conflict and displacement
+Armed conflict, violence and insecurity make responding to COVID-19 more difficult. If not adapted to context, heavy-handed
+responses to COVID-19 in such settings may create more conflict and violence, and thus more vulnerable groups who need
+to be factored into the response. On the pretext of public health, the potential for arbitrary arrest and detention as well as
+“coercive isolation” is a particular risk. Law enforcement and other armed actors may have important roles to play in responding
+to COVID-19 and should be engaged constructively and pragmatically.
+Displacement resulting from armed conflict and violence may cause additional barriers to access to health. Displaced people
+may be erroneously blamed, stigmatized and harassed for transmitting the disease. Interventions to address these barriers
+and improve displacement-affected people’s access to health services must be an important consideration in national public
+health strategies.
+For undocumented migrants, anxieties of detention or other repercussions may lead to health-avoiding behaviours. For
+refugee-hosting areas there are risks of potential exclusion, neglect, or de-prioritisation from national and local planning and
+resourcing. Authorities may also attempt to forcedly close camps, which will need to be averted for both public health and
+protection purposes. The closures of borders as containment measure will also have a profound effect on displaced people.
+For people fleeing from armed conflict and seeking international protection, access to asylum must be preserved.
+Protection of health care workers
+The protection of health workers is critically important; violence against the health system would be extremely disruptive for
+the effectiveness of the response to COVID-19. Health workers are not only a vital part of the response to COVID-19, but
+often come from the same communities that are affected. Given the already insufficient health workforce in many low capacity
+and humanitarian settings, losing health workers would result in reduced availability of essential health services and increased
+mortality. Their protection, and that of ambulances, health facilities and patients, should be assured through the concerted
+efforts of the authorities and communities, so that they are able to perform their duties in a safe and secure condition.
+International Humanitarian Law also protects health workers in armed conflicts.
+Detainees
+Detainees are likely to be more vulnerable to COVID-19 than the general population because of the confined conditions in
+which they – and staff – live for prolonged periods. Detainees may present pre-existing conditions and vulnerabilities
+(tuberculosis, malnutrition, etc already identified with negative COVID-19 outcomes), yet penitentiary surveillance and health
+systems are almost invariably less robust than national health systems. Moreover, experience shows that places of detention
+may act as sources of infection, amplification, and transmission of infectious diseases within and beyond prisons. Contingency
+planning is essential in ensuring an adequate health response and maintaining secure, safe and humane detention settings.
+
+5|P a g e
+
+A. MOBILIZE ALL SECTORS AND COMMUNITIES TO ENSURE “WHOLE OF SOCIETY”
+OWNERSHIP AND PARTICIPATION
+1. Conduct risk assessment specific to the setting
+Key references: Rapid risk assessment of acute public health events; Considerations in adjusting public health and
+social measures in the context of COVID-19; Interim guidance: risk assessment and management of exposure of health
+care workers in the context of COVID-19
+Public health principles, approaches to adaptations and enablers for implementation
+While the risk of rapid spread of COVID-19 in these settings is likely, all affected populations are not at the same risk for
+both exposure and transmission. Site-specific risk assessment should be undertaken for each setting to determine the risk
+to human health and socio-economic well-being by the COVID-19 outbreak. Support community-led risk assessment
+building on local knowledge and ensuring local ownership of the data and aggregation into local government-led databases
+and assessments if applicable. Rapid behaviour assessment will be needed to understand belief systems, perceptions,
+concerns, power-dynamics and preferred communication channels. The risk assessment will determine response including
+its urgency, magnitude, design and critical control measures where responders must prioritize resources depending on key
+areas and high-risk populations.
+Pay attention to the needs and existing community capacities. Despite their challenges, these settings may also be highly
+organized, with well-established leadership structures. Understanding the complex relationships in these settings requires
+a good knowledge of the communities’ socio-cultural diversity. Annex 1 provides more details on urban informal settings
+and slums.
+In the risk assessment, determine who in the community is most vulnerable based on demographics and co-morbidities
+(including those with evidence or those suspected of increased likelihood of severe illness). Consider existing and emerging
+protection risks for vulnerable or marginalized groups as a consequence not only of COVID-19 but also of public health or
+social measures. These include increased risks of 1) harmful coping strategies such as child labour, 2) increases in GBV
+and violence in the home, and 3) risks of family separation due to policies related to isolation, quarantine or hospitalization.
+Moreover, to avoid migrants avoiding seeking health care due to their status, make access to healthcare independent of
+migration status, eliminate all questions on migration status during the registration of all patients, establish a clear firewall
+between health care services and immigration enforcement and communicate that policy widely.
+Include a review of existing services, such as water, sanitation and hygiene availability (or not), food and essential supplies
+necessary to address secondary socio-economic impacts. Assess the impact of the in-flow of resources during a crisis so
+they do not exacerbate tensions between different groups.
+Annex 2 provides an adoptable rapid risk assessment framework where the pathogen, exposure of the population and
+contextual factors are taken into consideration. The framework has sample risk questions that will enable risk
+characterization.
+Key actions
+Engage communities and local Civil Society Organizations (CSO) to assess the risks of COVID-19 introduction
+and/or spread in their community to enable appropriate and contextualized response
+Considerations according to transmission scenarios
+For no reported cases: assess risk of introduction and spread of COVID-19 outbreak for the whole community. National,
+regional and global risks should be considered if communities are in border areas or with an influx of population from other
+countries.
+For sporadic cases: review risk assessment to determine the risk of sporadic cases spreading to clusters or community
+transmission. Pay special attention to assessing the capacity to identify, test and isolate new cases, contact tracing.
+For clusters of cases: rapidly identify risks that will stop transmission increasing from clusters to community transmission.
+For community transmission: assess the risk of transmission increasing to catastrophic community transmission with
+widespread severe cases and increasing deaths.
+
+6|P a g e
+
+2. Develop a COVID-19 emergency plan specific to the setting, based on identified risks and
+capacities
+Key reference: Operational planning guidelines to support country preparedness and response
+Public health principles, approaches to adaptations and enablers for implementation
+An emergency plan for each setting needs to be developed derived from the national COVID-19 plan by the designated
+authority and supported by partners; it should balance the potential benefits of strict outbreak control measures with the
+socio-economic and protection consequences. See Annex 1 for more considerations for urban informal settlements and
+slums.
+Community engagement and empowerment are essential in ensuring an applicable and feasible emergency plan for each
+setting. This plan needs to:
+•
+
+•
+•
+•
+
+•
+
+Set out different scenarios based on the risk assessment, consider the estimated number of cases at the peak of the
+outbreak2 and the duration of the outbreak, and consequently the number, location and modalities of isolation and
+treatment facilities needed and a referral system including the corresponding quantities of health personnel, and
+essential items;
+Set out role and responsibilities of key stakeholders, including outbreak response teams, community structures,
+community level protection actors and social services, social protection and child welfare workforce, and partners
+present
+Establish a strategy for transmission prevention, early case detection, testing, isolation and treatment, the
+communication and reporting channels, and a system for monitoring and adaptation
+Include clear rapid actions for minimum infection prevention and control (IPC) requirements including IPC focal points,
+training, infrastructures, surge capacity, processes and availability of essential IPC supplies to limit the spread of the
+virus within the healthcare system and along food supply chains and trade flows; follow the WHO guidance on IPC
+during health care when COVID-19 infection is suspected.
+Designate and equip alternative care services, train providers to ensure continuation of services and access to
+essential commodities.
+
+Emergency plans must consider prevailing gender norms and cultural aspects in a given setting that could lead to unequal
+access to services (i.e. separate spaces or modalities for isolation and treatment of men and women) and should also
+include risk mitigation measures for GBV, violence against children, other forms of violence and discrimination. Where an
+influx of displaced people or migrants, including unaccompanied and separated children (UASC) may be expected, plans
+should include designating and training staff who are conducting initial registration and health screening to identify and refer
+UASC to trained child welfare workers or members of community-based protection mechanisms who can act on a child’s
+best interest.
+Key actions
+Empower the leadership of communities and local authorities3 in the development of this plan
+Map resources that are available and mobilizable and identify remaining gaps for external support
+
+3. Communicate risks clearly, regularly and honestly and adjust community engagement
+approaches and measures according to feedback
+Key references: COVID-19 technical guidance: risk communication and community engagement
+Public health principles, approaches to adaptations and enablers for implementation
+Working through people’s preferred and most used communication channels (e.g. community radio) and languages will be
+key part of the response. Identify and work with local influencers in the community and local networks to play an active
+participatory role across the response and enable them to effectively, accurately and consistently share trustworthy
+information on risks, including what is still unknown, what is being done to find answers, what actions are being taken by
+health authorities, and what actions at-risk people can do to prevent COVID-19 transmission in the community, avoid
+contracting the disease and which actions to take if they think they may have the disease. This should be accompanied by
+
+Sound methods for estimating attack rates are encouraged; in the absence of any estimation, a rate of 50% to 70% in this type of setting
+is acceptable.
+3 Beyond health authorities, including where relevant: penitentiary, law enforcement, military/ armed forces and mayoral authorities
+2
+
+7|P a g e
+
+continuous messaging on importance of accessing essential health services, to avoid unintentionally signalling that people
+should stay home and avoid health facilities. Key influencers include trusted people in the community, religious leaders,
+teachers, role models, community volunteers, SCOs, women and adolescent groups, etc. Promote the use of digital
+platforms and ensure availability of electric power supply in contexts where this is needed, and leverage those that could
+particularly work on low-end (or free of data charge) devices when possible. See Annex 1 for more considerations for urban
+informal settlements and slums.
+To be able to engage the right groups, an audience analysis needs to be quickly undertaken. Understanding people’s
+knowledge, behaviours, and perceptions becomes a key step in shaping not only messaging but also in understanding
+enablers and barriers to the uptake of preventive behaviours and hence community engagement approaches.
+Provide empowering behaviour-focused and forward-looking messages rather than messages that could instil fear,
+confusion or suspicion. Communities must be fully engaged to prevent transmission and understand that measures required
+to bring the outbreak under control will need to be supported by all even when they are disrupting the social and economic
+life. Behaviour messages to communities should also encourage households to plan for situations in which caregivers may
+become incapacitated or are otherwise unable to care for children by identifying alternative kinship or other family-based
+care for children in the household.
+Systematically monitor and respond to perceptions, rumours, questions, suggestions and feedback from communities
+through trusted and culturally appropriate, available and accessible, remote or face-to-face channels, especially to address
+fears, concerns, misinformation and stigmatization associated with people infected with COVID-19 and/ or responders;
+subsequently, adapt response approaches based on these. Present this feedback to decision makers to make the required
+course corrections to the response in time. Where possible and relevant, responses to important concerns raised by the
+communities must be fed back to them– thus closing the consultative loop.
+The risk communication strategy must include actions to address social stigma through capacity building and provision of
+support to those who are facing it. Responsive, empathic, transparent and consistent messaging that is child friendly and
+gender, age and disability-sensitive, in local languages through trusted and appropriate channels of communication is
+required. Ensure messages are appropriate for and reach those who may not have access to usual channels including those
+with disabilities, women and girls, those without access to digital channels and those who may be illiterate.
+Key actions
+Work with local influencers in the community and local networks to provide timely, accurate, user-friendly,
+audience appropriate and trusted information responding to different people’s needs and focusing on what they
+can do to halt the spread of the outbreak
+Monitor and respond to perceptions, rumours, questions and feedback through trusted channels and adapt
+response approaches
+Address social stigma through capacity building and provision of support to those facing it
+
+4.
+
+Engage and train community health workforce to take part in preparedness, readiness and
+response actions
+Key references: Community-based health care, including outreach and campaigns, in the context of the COVID-19
+pandemic; Home care for patients with COVID-19 resenting with mild symptoms and management of their contacts
+
+Public health principles, approaches to adaptations and enablers for implementation
+The community health workforce (including detainees in prisons) can carry out activities including risk communication and
+community engagement, community surveillance, contact tracing, referral, promotion of IPC and hygiene practices in
+different environments, home care (when needed) and support to people who are self-isolating. Community health workers
+(CHWs) are crucial in the follow up of and support to those with mild illness cared for outside health facilities and the referral
+to designated COVID-19 hospital if they develop any sings of worsening of illness. In addition, CHWs are key to ensure
+continued delivery of essential health services, particularly in the context of restricted movement. CHWs will also be key in
+ensuring risk communication, using community-based networks and key influencers and building capacity of local entities.
+Leverage the existing community health workforce for an immediate response and quantify the need for additional workers
+with skills among other community members to fill critical gaps in coverage and capacity, at regular intervals. Ensure that
+tasks are allocated realistically, responsibilities are distributed equally and that work conditions are reasonable. Leverage
+digital solutions, where available, to train and support the community health workforce, enable communications with the
+
+8|P a g e
+
+households in their catchments, and to reduce in person encounters and group gatherings. Care should be taken to
+adequately resource, train, equip and supervise all CHWs. Link the community heath workforce with trained and engaged
+community level social service and protection actors to help identify and address risks to vulnerable populations (including
+single parent households, children, older people, homeless people, those affected by violence etc.) and support referral
+pathways for multi-sectoral support.
+Where the COVID-19 context necessitates workload modifications of the community health workforce and on the basis of
+COVID-19 transmission dynamics and capacity of the health system to absorb shocks:
+•
+•
+•
+•
+•
+
+•
+
+•
+•
+•
+•
+
+Conduct rapid assessments of community health workforce coverage and capacity; recruit a surge cohort if needed,
+and encourage female health workforce participation
+Clearly define roles for the community health workforce in the context of the COVID-19 response and involve them in
+planning and decision-making
+Ensure the community health workforce and other critical personnel (e.g. for supply chain) are classified as essential
+and that they are exempted from mobility restrictions; through appropriate communication protect them and avoid their
+stigmatization as “spreader” of disease
+Recognise and remunerate the community health workforce with payments and non-performance-based incentives for
+supporting the COVID-19 response; remuneration schemes need to be agreed upon prior to implementation, with clear
+criteria for activation and deactivation
+Ensure the safety and health of all CHWs and other essential workers through administrative, environmental and
+engineering control measures (e.g. hand hygiene supplies, installation of physical barriers, use of natural ventilation,
+environmental clearing practices), by providing the necessary trainings and ensuring the availability of IPC supplies
+and personal protective equipment (PPE) appropriate to the tasks performed; protect workers against violence and
+harassment, offer mental health and psychosocial support resources, and ensure treatment and care for those who
+become infected
+Modify supportive supervision modalities to minimise in person encounters while strengthening two-way referral links
+with primary care facilities and ensure the community health workforce has sufficient phone credit to engage with
+clients, access information, seek advice from supervisors, send data and receive payments using mobile phones where
+available and ensure referral modalities are available
+Ensure that the community health workforce is factored into supply chain quantification and coordination efforts with
+partners and suppliers, including pre-positioned and buffer stock of supplies and medicines for providing essential
+services at the community level
+Incorporate data collected by the community health workforce into the health information management system; and
+collect and monitor data on community health workforce COVID-19 infections and deaths, disaggregated by gender,
+age and tasks performed
+Leverage trusted community resources such as local authorities and leaders, community advocates and influencers,
+and faith and religious leaders to promote helpful information, prevent and reduce fear, stigma and inequities, and
+provide reassurance and solidarity to people in their communities
+Identify low-risk community members who are willing to play key roles to support the sick and the most vulnerable
+during outbreak response.
+
+Key actions
+Map community-based measures for which CHWs and community-based actors can play an important role in
+implementation and oversight
+Assign responsibilities, train and provide the necessary support to the community health workforce accordingly
+
+5. Provide economic and social support to affected communities
+Key reference: Shared responsibility, global solidarity: responding to the socio-economic impacts of COVID-19;
+UNHCR case assistance and COVID-19: emerging field practices
+Public health principles, approaches to adaptations and enablers for implementation
+Establish a mechanism for households that have suspected or confirmed cases to meet their basic needs, either through
+cash-based or in-kind assistance, e.g. through the provision of food, water, hygiene materials and other basic items for
+cases and contacts throughout their stay in isolation and quarantine facilities (or, if these are unavailable, at home). Identify
+safe ways to allow contact of isolated and quarantine individuals with family members, friends and legal representatives for
+detainees (use of communication technology, set up of physical barriers between patients and visitors, etc.) and to also
+access relevant information and communicate with service providers. Depending on context, explore arrangements of door-
+
+9|P a g e
+
+to-door deliveries for households living in confinement, either through community support or through local business
+agents/distributors.
+Plan for the continuation of daily essential activities in the community (trade, public services) and functioning community
+governance structures and mechanisms that respects physical distancing and hand hygiene to the extent possible. Support
+governments and their social protection systems, including with their routine cash transfer programs, ensuring the most
+marginalized are not left behind as systems and programs adapt to the outbreak. Where social protection systems are weak,
+set up emergency cash transfer by leveraging existing cash delivery systems and ensure there is no duplication among
+partners.
+The heavy reliance on the informal sector in these capacity and humanitarian settings will necessitate people to continue
+working, including through sub-optimal conditions. Therefore, engagement with employers to encourage working
+adaptations to reduce transmission risks and to protect livelihoods (including allowing paid leave and preventing unfair
+dismissals) will be important. This may be supported through exploring the possibility of reducing attendance, scheduling
+and channeling movements to avoid large crowds and peak periods, performing some of the duties from home. For
+households that subsequently lose their sources of income or are forced to choose between earning an income and isolation,
+explore options of inclusion into social protection schemes or safety nets (or, if necessary and appropriate, multipurpose
+cash distributions).
+Mobilize resources to provide shelter to those who are homeless or who live in inadequate dwellings, especially individuals
+who are at higher risk of severe COVID-19 disease. Advocate for a moratorium on evictions for tenants during the period.
+Furthermore, ensure that utilities (water, electricity, cooking and heating fuels, waste management) also continue to operate
+through periods of lockdown, isolation, and quarantine.
+Where possible, local markets and food systems should be supported throughout the implementation of containment
+measures though access to agricultural inputs and facilities (agriculture, livestock, fishery, forestry), and humanitarian
+assistance when needed. For vulnerable households, consider arrangements that protect their access to staples, exploring
+the possibility of having access to land and carry out agricultural production.
+Key actions
+Provide socio-economic support (including cash-based and vouchers assistance) for COVID-19 affected families
+to cover basic needs and access to essential services, and address inequities
+Support local markets and food systems, including through humanitarian assistance
+Engage employers to encourage working adaptations to reduce transmission risks and to protect livelihoods
+(including preventing unfair dismissals)
+Strengthen national social protection schemes through horizontal and or vertical expansion to address the socioeconomic impact of COVID-19 and support the continuation of essential services and community functions
+Ensure the homeless and most marginalized are not left behind as systems and programs adapt to the outbreak
+
+6. Arrange safe burials
+Key reference: IPC for the safe management of a dead body in the context of COVID-19
+Public health principles, approaches to adaptations and enablers for implementation
+Anticipate the numbers of burials when there is largely uncontrolled spread in the community and at the same time comply
+to the extent possible with religious/traditional beliefs and practices. Prepare for adapted burial of the dead, with ceremonies
+that do not compromise physical distancing. Communities should be supported to use community case definitions to
+determine burial protocols in the absence of testing capacities in most low capacity and humanitarian settings. In places of
+detention, authorities should conduct routine investigations into deaths in custody.
+The risk of viral transmission while preparing the body of a person infected with COVID-19 is low and mainly through contact
+with contaminated surfaces, therefore the systematic application of standard precautions is crucial to prevent transmission.
+In scenarios of community burial, family members, traditional and religious leaders, healthcare workers and others who are
+typically involved in preparing the body for burial should be supported with the information and IPC supplies and equipment
+needed to reduce the risk of transmission. People at high risk of severe illness, such as the elderly and those with
+comorbidities, should be discouraged from participating in preparing the body. They do not need to be excluded from the
+service.
+
+10 | P a g e
+
+In close communication with communities, agree upon burial ceremonies that meet the need for IPC, and meet cultural,
+social and religious needs. It is a common myth that persons who have died of a communicable disease should be cremated,
+but this is not true. Cremation is a matter of cultural choice and available resources. In addition to adaptations to individual
+burials, communities should be supported to prepare for the management of mass fatalities, including identifying systems
+to alert the death of someone who may have COVID-19 requiring burial support; transportation, identification and storage
+of unidentified bodies prior to burial; and expected burial sites. Mass graves, burial of unidentified bodies, and culturally
+inappropriate cremation are usually unnecessary and should be avoided to the extent possible, as they have the potential
+to cause long-lasting psychological, social and legal problems for families of the deceased.
+Key actions
+Adapt burial ceremonies to reduce transmission risks but meet local cultural, social and religious needs
+
+B. PREVENT, SUPPRESS AND SLOW TRANSMISSION
+7. Promote physical distancing, limit movement and minimize gatherings
+Key reference: Considerations in adjusting public health and social measures in the context of COVID-19
+Public health principles, approaches to adaptations and enablers for implementation
+According to current evidence, the COVID-19 virus is primarily transmitted between people through respiratory droplets and
+close contact, including indirect contact with objects or surfaces in the immediate environment contaminated with respiratory
+droplets from an infected person. Physical distancing is a critical measure for COVID-19 prevention (along with hand hygiene
+described below). This is also important when humanitarian agencies are organising the distribution of food and non-food
+items such as hygiene kits.
+Engage communities, recognized leaders, social influencers, local authorities (including armed forces and law enforcement)
+and partners to collectively identify the best methods to promote physical distancing. The simplest measure that can be
+implemented by everyone is non-contact greetings and maintaining physical distance from other people. Gatherings,
+including for religious purposes, should be minimized. In low capacity and humanitarian settings, confinement may not be
+feasible; it can even be dangerous for the livelihoods of community members, many of whom work in the informal sector
+and depend on daily work and/or income to live. In such situations, with the community, identify alternatives that maximise
+physical distancing and hygiene measures, and minimize the risk of exposure and transmission associated with movement.
+Discuss with communities the feasibility of organizing people’s essential movement inside their community. For example,
+establish one-way flows to reduce congregations of people and maintain physical distance (e.g. a traffic control that will
+allow people to move in a single direction to, from and inside markets, clinics, etc). Adapt flows within high-traffic and bottlenecked areas with higher risk for community contact (e.g. markings on ground). Consider limiting the number of people in a
+given area at the same time and assign schedules per group of dwellings/ neighbourhood for the access to communal
+facilities and shared spaces such as markets and places of worship. Ensure gender norms are taken into consideration
+when planning these, including child care. See Annex 1 for more considerations for urban informal settlements and slums.
+These methods will need to be adjusted to the scale and phase of the outbreak transmission but are never too early to be
+planned for. Methods should be consistent with human rights, non-exploitive, proportional to the risks, and not contribute to
+social tensions. Violent enforcement of this measure is not justified under any circumstances. Vulnerabilities of and risks to
+women, children and people living with disabilities should be considered in designing and implementing such restrictions.
+Key actions
+Establish one-way system for pedestrian, ground markings and set up physical barriers in the communal facilities
+to support physical distancing
+Schedule different times for different groups to leave and return home where context allows
+Identify alternatives to gatherings using locally accepted media
+
+11 | P a g e
+
+8. Promote hand hygiene and respiratory etiquette
+Key references: Recommendations for Member States to improve hand hygiene practices to help prevent the
+transmission of the COVID-19 virus; Water, sanitation, hygiene, and waste management for the COVID-19 virus;
+Considerations in adjusting public health and social measures in the context of COVID-19
+Public health principles, approaches to adaptations and enablers for implementation
+Hand hygiene and respiratory etiquette are critical measures to prevent COVID-19 based on the mode of transmission. The
+simplest actions that should be implemented by everyone and which require no additional resources are not to touch one’s
+face (especially eyes, nose and mouth), and to cover the mouth and nose with flexed elbow when coughing and sneezing.
+Regular hand washing should occur before preparing food, before and after eating, after using the toilet or changing a child’s
+diaper, and after touching animals. Functioning handwashing facilities with water and soap should be available as close as
+possible to toilets. Set up hand hygiene stations at the entrance of the community setting, at important structures,
+transportation hubs (bus terminal, moto-taxi stand) and other strategic locations in the community (markets, public buildings,
+places of worship, etc).
+Mobilize resources and partners to ensure access to sufficient quantities of safe water and soap. Improving water access
+at scale may require support to formal and informal water service providers (including hardware, consumables, and human
+resources) to ensure water supply, rapid installation of water points, and set up of portable hand hygiene facilities, including
+to “critical facilities” (such as prisons or migration centres). In contexts in which water access cannot be provided, hand
+sanitizers’ provision should be ensured.
+In support of water service providers, ensure sustained access to chemical consumables for water treatment as well as
+spare parts and adequate resources to carry-out maintenance and repairs necessary to allow for the operational continuity
+in service delivery. Ensure that cleaning agents are handled responsibly when being used, while in storage, and during
+disposal. In support of critical facilities, enable them to carry-out large-scale environmental cleaning and disinfection. Facility
+staff may require guidance on basic disinfection and require supplies (e.g. cleaning agents) to carry out this task on all
+exposed surfaces on a regular daily basis.
+Key actions
+Make every effort, mobilise resources and partners to make sure safe water is available adequately. When water
+cannot be provided, hand sanitizers’ provision should be ensured
+Ensure sufficient hand hygiene stations exist, are supplied and functioning at all gathering places (markets, health
+care facilities, places of worship, public facilities) and in households
+
+9. Provide medical masks to health care workers, sick people and their caregivers – other
+individuals may opt to use masks (including non-medical mask) if their setting and risks
+require it
+Key reference: Advice on the use of masks in the context of COVID-19; WHO guidance on the rational use of PPE for
+COVID-19
+Public health principles, approaches to adaptations and enablers for implementation
+Although using masks is the most visible control measure, it should not be relied on as a primary prevention strategy.
+Medical masks must be prioritized for HCWs, sick individuals in the community and their caretakers, and respirators (N95,
+FFP2, FFP3) be reserved for HCW. For HCWs, additional PPE need to be used according to the WHO guidance on the
+rational use of PPE. In situations where social service and community workers have face-to-face interaction with sick
+individuals or their direct contacts, they should also be provided with medical masks and other protective gear as locally
+mandated and according to the same guidance.
+For other individuals such as healthy people in the community, national and local authorities may opt for the usage of masks
+based on the risks of exposure to the COVID-19 virus and the type of setting such as low capacity and humanitarian settings.
+There are potential advantages of the use of masks, which include reducing potential exposure risk from an infected person
+during the ‘pre-symptomatic’ period or if an infected person is asymptomatic and avoid stigmatization of individuals wearing
+masks for source control (those who are already infected). However, there are also potential risks with the widespread use
+of mask, including increased potential for a person to become infected with COVID-19 if the mask is contaminated by dirty
+hands and/ or the mask is not discarded or cleaned properly if reusable (e.g. due to lack of water) after use. Wearing a
+mask can also give a false sense of security, with neglect of other essential measures, such as hand hygiene practices and
+
+12 | P a g e
+
+physical distancing. It is critical to emphasize that a mask alone is not a sufficient measure to prevent infection, and it should
+only be considered when proper cleaning is possible and correct measures are taken to put it on and take it off. Any decision
+on the use of masks should include measures such as hand hygiene before and after wearing masks, cleaning and
+disinfection of the environment, proper handling of used masks, etc.
+Current WHO guidance provides consideration on masks to be worn by healthy individuals in the community if the national
+government makes the decision to implement it. For non-medical masks (also known as cloth masks), the type of fabric
+used, number of layers, combination of material used, mask shape and maintenance of mask are important considerations
+to ensure increased effectiveness. Non-medical (Cloth masks) are not considered PPE and as such it is not recommended
+for health care workers. As for other PPE items, if production of masks for use in health care settings is proposed locally in
+situations of shortage or stock out, a local authority should assess the proposed PPE according to specific minimum
+standards and technical specifications.
+Key actions
+Medical masks are reserved for HCWs, sick people, their caretakers and other workers who may be exposed to
+COVID-19 cases, e.g. in prisons and long-term care facilities
+Temporary measures may be opted in situations of shortage of PPEs: extended use, reprocessing or use of
+alternative PPE (table 2 of WHO guidance)
+Decisions for mask usage by healthy individuals need to be based on a risk evaluation and supported by resources
+to make them sufficiently available for safe usage – mask usage cannot replace other critical measures: physical
+distancing and hygiene
+
+10. Strengthen prevention measures for individuals at risk of complications and poor outcomes
+Key references: Considerations in adjusting public health and social measures in the context of COVID-19; Advice on
+the use of masks in the context of COVID-19; WHO guidance on IPC for long-term care facilities in the context of
+COVID-19
+
+Public health principles, approaches to adaptations and enablers for implementation
+Bear in mind that there may be additional risk factors in low capacity and humanitarian settings that are not well documented.
+For individuals with known risk factors for complications (e.g. advanced age, hypertension, diabetes, cardiovascular
+diseases, chronic respiratory diseases, immunosuppression), it is particularly important to ensure critical measures (physical
+distancing and hygiene) are implemented, and that they may be detected when they fall ill and cared for as early possible.
+Complementary measures, such as the wearing of mask, may be considered in addition to these measures.
+Efforts to strengthen COVID-19 prevention for at risk individuals should be implemented at the household level, with the
+support of the family. If a separate room is not available, physical distancing can be supported by adding a physical barrier
+within the house for example. Environmental cleaning, especially the cleaning of frequently touched surfaces in the house,
+needs to be emphasised. These same measures need to be extended to other individuals at risk as the knowledge on other
+risk factors become available. For households in which high risk individuals are children’s primary caregivers, alternative
+care arrangements must be made, preferably through kinship care identified by the family or other family-based care.
+Existing collective accommodations for older people should be monitored closely for potential cases and staff working in
+these accommodations need to fully comply with the required IPC measures. Additional placement of individuals at high
+risk of poor outcomes in a separate facility or location should be avoided. The risk of introduction of the virus into such
+facilities is most likely unmanageable, as shown by experience in high resource settings. This measure is also most likely
+unsustainable in the long run given available resources, which should be prioritized for critical measures that are known to
+be working.
+Key actions
+Identify mechanisms to support individuals at risk of complications to adhere to staying at home and maintaining
+safe physical distancing
+Identify and put in place additional prevention measures for individuals at risk of complications at the household
+level supported by the family, such as physical barrier if a separate room is not available, the proper wearing of
+mask, environmental cleaning, etc
+
+13 | P a g e
+
+C. FIND, TEST, ISOLATE AND TREAT THOSE WHO ARE SICK, IDENTIFY AND
+QUARANTINE CONTACTS
+11. Establish a detection, reporting and referral system for suspect cases
+Key references: COVID-19 technical guidance: surveillance and case definitions
+Public health principles, approaches to adaptations and enablers for implementation
+With the leadership of the community and local authorities (including armed forces and law enforcement), establish local
+mechanisms to detect and report individuals who could have COVID-19 to the designated health authority as early as
+possible. Low capacity and humanitarian settings with established early warning, alert and response systems (EWAR) can
+receive suspected COVID-19 alerts from both the primary health care centers using the standard WHO COVID-19 case
+definition (Annex 3) or a nationally adopted case definition, from the community using community-based surveillance (CBS)
+with an adjusted case definition and more informally based on rumors of illness in the community. In conflict settings
+surveillance systems may be disrupted or in control of different powers; tailored solutions for combined reporting and may
+be required.
+Significant number of people infected with COVID-19 will seek healthcare for their illness, making health care facilities very
+important in case detection. Clinicians should suspect COVID-19 based on standard case definition and should report
+suspected cases via existing surveillance or early warning systems. COVID-19 case definitions should be shared with all
+reporting primary healthcare centers and clinicians, and displayed at each consultation room as feasible. It is also important
+to continue to monitor any significant increase in acute respiratory infections which may indicate undetected community
+transmission of COVID-19 that may require further investigation.
+CBS allows trained volunteers to report possible COVID-19 while doing other health promotion or risk communication
+activities. Adapt community case definition from the WHO COVID-19 suspected case definition. Train CHWs to report back
+to supervisors and health authorities for further investigation and follow-up. Persons meeting the community case definition
+should be reported within 24 hours of identification. In low capacity and humanitarian settings, CBS can act as the link
+between the community and health facilities, filling existing gaps in the surveillance system, allowing for earlier detection
+and earlier action to limit transmission within the community. Surveillance through CBS can and should be paired with
+COVID-19 related health promotion activities, including maintaining physical distancing, key messaging on hand hygiene
+and respiratory etiquette.
+Mechanisms should be available for community members to report rumours or events of public health importance via
+hotlines and other means. Pay attention to rumours of clusters of cases or deaths due to/following fever and difficulty in
+breathing, cases/deaths due to fever and difficulty in breathing following travel, rumour of having contact with a patient with
+COVID-19 then developing fever, cough/ difficulty in breathing/or death. These may signal potential public health threats,
+which may or may not be due to COVID-19. These rumours should be verified and followed up to determine the cause
+rapidly, and care be provided to all who need it.
+Systematic screening of individuals entering/leaving the community or attending public facilities, commercial buildings,
+workplaces should also be implemented. Screening is also important for specific groups, such as displaced people and
+migrants. Should health screening be implemented, do not depend on temperature measurement alone. Observe for visual
+signs of respiratory illness and ask questions on history of fever and respiratory symptoms, and questions on history of
+contact with a potential COVID-19 case. The same case definitions for COVID-19 cases and contacts should be used for
+screening. PPE is not required for screening if a physical distance of at least 1 meter can be maintained. Otherwise,
+screeners should wear a medical mask and eye protection to conduct screening. Health screening also serves as an
+opportunity to provide information on prevention measures, important behaviour and habits to maintain. Incorporate
+measures to prevent family separation and preserve family unity, as well as child safeguarding and protection measures
+against sexual exploitation and abuse into the set-up and management of screening locations.
+Screening patients before entry to a healthcare facility should be implemented. This is not merely for case detection but to
+maintain safe health facilities for all patients. Suspected COVID-19 cases identified during screening should be managed
+as per the COVID-19 response strategy for the setting, including triage, reporting, referral, treatment and isolation through
+a safe dedicated pathway. All screened patients with respiratory symptoms, should be given medical face masks and
+advised to practice good hand hygiene and respiratory etiquette.
+Regardless of the reporting location, once an alert of a potential suspect case is raised, verification, investigation,
+confirmation and reporting should occur as per national protocols. Referral systems should clearly delineate communication
+with and transportation to the designated isolation and treatment facilities; this includes establishing payment arrangements
+
+14 | P a g e
+
+for transportation when needed. During transport, PPE and precautionary measures should be adjusted to the level of risk
+to ensure safety of providers and patients.
+Referral services should include protection of individuals, including children whose vulnerabilities may be exacerbated by
+the virus or containment and treatment measures. This includes services for children whose caregivers may become
+incapacitated or be otherwise unable to care for them as a result of the virus or containment measures. If a child is suspected
+of having COVID-19, he/she should be accompanied by a parent/guardian/caregiver in PPE during the whole referral,
+isolation and treatment period. In conflict areas, referrals may have to be done cross line and in coordination with a variety
+of stakeholders and protection agencies. Safe corridors for the referral of COVID-19 cases may have to be negotiated
+through CIVMIL actors and/or with parties to the conflict.
+All surveillance activities must be done in a manner that is non-stigmatizing and doesn’t alienate people.
+Key actions
+Enhance early warning and case detection and reporting capacities in the health care facilities and the community
+Implement health screening at community entry/ exit points and other strategic locations; health screeners should
+wear a mask and eye protection when safe distance cannot be maintained
+Establish a referral system and safe pathway for the suspected cases to the designated local isolation facilities, in
+conflict situations through cross-line coordination
+Considerations according to transmission scenarios
+For no reported cases: enhance early warning, alerts and response in all reporting sites and in the community; monitor
+changes in reporting of respiratory illnesses and deaths
+For sporadic and clusters of cases: conduct case investigation and line listing for all probable, confirmed, and suspected
+COVID-19 cases, after establishing COVID-19 infection in the population. Suspected cases, in places where testing is not
+available, should be considered probable. Enhance rapid alert notification pathways from health centres and communities
+using text messages, voice call, hotlines in the absence of existing electronic systems. Surveillance should be enhanced in
+areas with links to affected areas. Continue to monitor any significant increase in acute respiratory infections which may
+indicate undetected community transmission of COVID-19.
+For community transmission: if reporting and verification of all suspected cases and their contacts are impossible, at least
+detection and verification of suspected cases with severe signs and symptoms or presented to health facilities should be
+carried out; the community should continue to report cases and deaths in the community using early warning systems.
+
+12. Test all suspect cases according to local testing strategy
+Key reference: Laboratory testing strategy recommendations for COVID-19
+Public health principles and approaches to adaptations and enablers for implementation
+Laboratory testing is required to ascertain confirmation of COVID-19 circulation in a population. WHO recommends that all
+suspect cases be tested for COVID-19 according to WHO case definitions, however in areas with high incidence and/or lack
+of diagnostic capacities, it is important to implement prioritized testing and measures that can reduce spread. In this
+situation, testing should be prioritized for suspect cases who are:
+•
+•
+•
+•
+•
+
+Individuals at risk of developing severe disease
+Those who will require hospitalization and advanced care for COVID-19
+Health workers (including emergency services and non-clinical staff) regardless of whether they are a contact of
+a confirmed case (to protect health workers and reduce the risk of nosocomial transmission)
+The first symptomatic individuals in a closed setting (e.g. schools, long term living facilities, prisons, hospitals)
+Vulnerable populations
+
+All suspect cases who cannot be tested for whatever reason must be treated as COVID-19 cases. When testing capacities
+are extremely limited, following the confirmation of the presence of the virus through the testing of the first few cases in the
+area, a syndromic case definition could be adopted, where the presence of signs and symptoms of COVID-19 would be
+sufficient to guide the clinical management of a case. In such a situation, a diagnosis of exclusion needs to be done and
+testing for all other aetiologies for which tests are more readily available should be performed. It is important to assess total
+
+15 | P a g e
+
+lab capacity to retain capacity to diagnose other pathogens with a higher clinical relevance of diagnoses and continue
+increasing testing capacities.
+Key actions
+Develop prioritised laboratory testing strategy for the setting based on testing capacity
+When testing capacities are limited, use a syndromic approach to guide clinical management, following the
+confirmation of the presence of the virus in the area
+Ensure other morbidities can be detected and treated especially those with more readily available tests
+Considerations according to transmission scenarios
+For no reported cases: if laboratory capacity exists, all suspected cases should be tested. If not, perform laboratory tests
+on patients with severe clinical presentation; in the absence of any suspected COVID-19, consider testing suspected
+influenza cases and/or severe acute respiratory illness (SARI) with severe clinical signs and symptoms.
+For sporadic and clusters of cases: if laboratory capacity exists, all suspected cases should be tested. If not, perform
+laboratory tests on patients with severe clinical presentation. If capacity exists, all symptomatic contacts should be tested.
+if not, as feasible, perform tests on health care contacts, vulnerable close contacts and any contact with severe clinical signs
+and symptoms.
+For community transmission: testing capacity may be severely overwhelmed in community transmission. Thus, testing
+should be reserved for health care workers suspected of COVID-19 and suspected COVID-19 cases or contacts who have
+or may develop severe disease.
+
+13. Isolate and treat all mild and moderate cases with no risk factors in designated facilities
+
+Key reference: IPC during health care when COVID-19 infection is suspected; Home care for patients with COVID-19
+presenting with mild symptoms and management of their contacts; Operational considerations for case management
+of COVID-19 in health facility and community
+
+Public health principles and approaches to adaptations and enablers for implementation
+Identifying and isolating probable and confirmed cases as early as possible are the most important measures to control the
+outbreak. With testing most likely not available, following the confirmation of the presence of COVID-19 cases in the area,
+suspect cases who cannot be tested should be isolated and managed as COVID-19 cases, and all other potential aetiologies
+diagnosed. Preservation of family unity, particularly for young children, should remain a key principle in all isolation efforts.
+Where possible, children should be isolated together with a caregiver.
+In most instances, there may not be sufficient space in health facilities to treat all cases, and these facilities also need to be
+preserved for the treatment of non-COVID-19 cases, such as maternity wards. Identify in advance empty spaces, ideally
+next to the local health facility, where a new (temporary) structure could be put in place for isolation and treatment, or
+existing community facilities (i.e. community hall, sports hall, etc.) that can be repurposed for the isolation and treatment of
+mild and low to moderate risk cases as well as the isolation and monitoring of contacts of cases. This needs to be done
+hand in hand with ample communication to and engagement of the community to address concerns and potentials for
+resistance. Subsequently, plan for human resources, materials, equipment needed for the operation of these isolation
+facilities.
+The hierarchy of isolation priority is as follow: all suspect and confirmed cases need to be isolated at a health care facility if
+resources allow, or at designated community or additional temporary facility (or designated area in the detention facility) look for locally-adapted approach to support cases and their families during isolation to ensure their safety and wellbeing.
+All efforts must be made to increase the capacity of these collective isolation facilities, including through external support.
+Home care should only be done when these other options are not feasible, or because of protection considerations for
+children and other vulnerable individuals; it should be done for a short period of time and only if the home/accommodation
+conditions allow and while waiting for transfer to a designated facility. In such situation, refer to home-based care for selfisolation: stay in room, own utensils and linen, no contact with anyone else but caregiver who should wear a mask.
+Individuals requiring isolation and treatment who do not have an adequate shelter should be prioritized for facility isolation.
+If an individual develops symptoms that may correspond to progression of disease and complications, it is important to
+organize the rapid referral of these cases from isolation facilities to hospital.
+
+16 | P a g e
+
+Modalities of isolation and treatment should be voluntary to minimize avoidance and consider greater protections or
+alternative measures for those who are at highest risk of poor outcomes if infected, including older caregivers or individuals
+with underlying health conditions.
+Key actions
+Use hierarchy of isolation priority to isolate and treat mild and moderate cases without risk factors
+Mobilize resources and establish community structures and/ or construct additional (temporary) structures for
+isolation of cases based on the levels of severity
+Considerations according to transmission scenarios
+For no reported cases: identify community facilities that can be repurposed for the isolation and treatment of COVID-19
+cases according to the level of severity, or available land where new/temporary structures can be set up, ideally next to a
+health facility; recruit and train HCWs, plan for logistics and materials for the operations of these isolation facilities
+For sporadic and clusters of cases: operationalize these isolation facilities as described above
+For community transmission: when the number of COVID-19 cases exceed the capacity of isolation facilities, prioritize
+the more severe cases in the facilities, and home care for milder cases until isolation space becomes available. In isolation
+facilities, if there is not enough space for droplet isolation, screens should be placed between patients to limit potential
+transmission.
+
+14. Identify, monitor and quarantine contacts
+Key references: Considerations for quarantine of individuals in the context of containment for COVID-19
+Public health principles and approaches to adaptations and enablers for implementation
+Contact tracing should take place for all probable and confirmed cases. Suspected cases who cannot be tested should be
+considered as probable cases, and their contacts traced accordingly.
+Identify the contacts of each case and monitor their health status for the potential development of COVID-19 signs and
+symptoms for 14 days since the last day of possible contact. Use the network of trained CHWs described above for this
+purpose – the community will be a major contributor to ensure contact tracing and monitoring are done properly, and that
+contacts follow the quarantine recommendations. Ideally, during this period, all contacts should be quarantined in a
+dedicated facility4. Consider protection of family members left behind during the quarantine period.
+If facility quarantine is not possible, contacts must self-quarantine at home. Each contact should be provided with clear
+information about the contact tracing process, self-monitoring of symptoms and signs together with resources (soap, face
+masks if become symptomatic, etc) adequate for the tracing period. Information not coupled with resources may only
+enhance COVID-19 infection in the household and the community. If tracing of all contacts is not feasible, at least
+identification of health care contacts, household and close contacts should take place. Consideration should be made to
+supporting the nutrition and livelihood of quarantined contacts who are unable to provide for themselves and/or their
+dependants because of quarantine.
+Close contacts should self-quarantine at home, and if they must leave their homes then temperature checks must be done
+every day for the duration of quarantine. Other contacts will need to continue to be monitored daily. High-risk contact (elderly,
+with comorbidities) should be monitored vigilantly as their existing conditions may worsen in lieu of developing any
+respiratory symptoms, or their clinical course may be more rapid than with other contacts who develop the disease.
+Establish alternate accommodations for high-risk household members during the contact tracing period. Consider
+transferring them to an alternative shelter/household for the tracing period following thorough assessment of the secondary
+household for safety of transfer.
+Where quarantine will affect caregiving arrangements, the best interests of the child or other dependant should be a primary
+consideration. Preservation of family unity, particularly for young children, should remain a key principle and where possible,
+children should be quarantined together with a caregiver. In all measures for quarantine, take necessary measures to
+prevent family separation in collaboration with child protection actors and facilitate communication with family members.
+
+Quarantine is only intended for contacts – those with clearly established exposure; history to areas with reported cases is not criteria for
+quarantine.
+4
+
+17 | P a g e
+
+Encourage use of technological solutions to conduct contact tracing, where and when feasible (SMS, WhatsApp, specific
+software like GODATA). If non-touch thermometers are not available to check fever, actively enquire about signs and
+symptoms. In the absence of testing, any contact who shows relevant symptoms and signs should be considered as a
+probable COVID-19 case.
+Key actions
+Add strict daily monitoring of contacts, especially close contacts, when they cannot remain in quarantine
+Considerations according to transmission scenarios
+For no reported cases: establish contact tracing mechanism, train and equip CHWs for the task
+For sporadic and cluster of cases: systematically identify and list all contacts and trace them on a daily basis
+For community transmission: if listing and tracing of all contacts are not possible, prioritize close contacts, household
+members, vulnerable contacts and healthcare contacts. Pay special attention to the vulnerable contacts and reporting of
+their clinical signs and symptoms.
+
+D. REDUCE MORTALITY BY PROVIDING APPROPRIATE CLINICAL CARE
+15. Treat all severe and critical cases and those at risk of developing severe disease in equipped
+health facilities
+Key references: COVID-19 technical guidance: patient management; IPC during health care when COVID-19 infection
+is suspected
+
+Public health principles and approaches to adaptations and enablers for implementation
+All moderate cases with risk factors and all severe and critical cases must be treated at a health facility capable of managing
+the level of care demanded. Based on current knowledge of the disease, the majority of people infected with COVID-19 will
+develop mild and moderate (including pneumonia) disease for which isolation and treatment at a community facility can be
+done. However, approximately 20-30% of cases will require clinical care at a hospital with respiratory support, and this
+needs to be carefully planned in advance: which hospitals have the capacity to treat severe cases, should COVID-19
+hospitals be designated, how many beds and how many hospitals are needed based on the estimated number of cases and
+what biomedical equipment and staff are available and needed.
+Efforts and partners should be mobilized to urgently strengthen oxygen supply systems, including through external support.
+This should look at already available systems and how to surge (i.e. PSA plants), and introduction of new oxygen supply
+systems (i.e. concentrators, liquid oxygen) according to absorptive capacity. Ensure all consumables and accessories are
+available, including splitters and delivery services. Ensure pulse oximeters are available at all care points. Essential care
+includes: pulse oximetry monitoring, treatment for co-infections such as bacterial pneumonia, malaria, diarrhoea,
+malnutrition with appropriate use of antimalarials/ antibiotics and provision of oxygen therapy, when appropriate.
+If capacity is lacking and additional beds are created, do this in a holistic way making sure not only the structural elements
+such as beds, building, equipment are available but also trained human resources and PPEs proportional to the increase in
+beds. Emergency medical teams can augment local health services capacities. Refer to WHO SARI Treatment Facility for
+design principles to ensure all IPC circuits for patient and health worker movement are well defined.
+Follow established protocols for clinical management. Ensure dynamic adaptations to the protocols following the evolution
+of collective knowledge of COVID-19.
+Key actions
+Make every effort, mobile resources and partners to strengthen oxygen supply system
+Isolation and treatment of mild/ moderate cases should be prioritized in community facilities and those with
+moderate diseases and risk factors, severe and critical cases can be done in designated community facilities that
+have appropriate clinical care capacity if hospital beds are insufficient
+Sustain treatment of symptoms and co-infections
+
+18 | P a g e
+
+E. SUSTAIN ESSENTIAL HEALTH AND SOCIAL SERVICES
+16. Maintain essential health and social services for all
+Key references: COVID-19: operational guidance for maintaining essential health services during an outbreak;
+Community-based health care, including outreach and campaigns, in the context of the COVID-19 pandemic (hyperlink
+to be added when guidance is published shortly)
+Public health principles and approaches to adaptations and enablers for implementation
+Protect non-COVID-19 health services and their patients by cohorting COVID-19 patients in separate wards and/or
+(temporary) structures. Prioritise safe water, IPC, PPE, personal and environmental hygiene resources to staff working in
+all health facilities and allocate such resources appropriately between COVID-19 and essential services.
+When normal services become compromised by COVID-19 caseload and when reassignment of staff to dedicated COVID19 treatment wards or facilities is needed, service providers need to put in place measures to ensure maintenance of
+essential health services for all. Current experience indicates that stringent public health and social measures combined
+with fear of people becoming infected in a health facility reduce utilization of essential services to below 50%. Increased
+health needs should be anticipated for when routine services are being restored, to address the backlog of patients and
+increased needs resulting from the disrupted services and emergency conditions, including domestic violence and GBV.
+The selection of essential health services versus services that can be suspended will be guided by the health system’s
+baseline capacity and burden of disease, the socio-economic conditions of the communities and the COVID-19 transmission
+context. High priority categories for continuity include preventing and treating communicable diseases (malaria, tuberculosis,
+HIV, etc), averting maternal and child morbidity and mortality, preventing acute exacerbations of chronic conditions by
+maintaining established treatment regimens, continuity of critical inpatient therapies, managing emergency conditions
+requiring time-sensitive intervention, and auxiliary services as diagnostic imaging, laboratory and blood-banks. Routine
+health promotion visits and elective encounters may be limited, and delivery of vaccinations, antenatal and postnatal care
+will likely need to be adapted. Transmission of COVID-19 through breast milk and breastfeeding has not been detected to
+date hence standard WHO recommendations regarding breastfeeding apply.
+Optimize service delivery settings and platforms by leveraging existing mechanisms, including modification of platform of
+delivery of care (e.g. through outreach activities), staggering and managing patient flows (including distancing in waiting
+areas, hand hygiene for outpatients when they enter and leave the facility); adequate IPC and physical distancing of
+distributors and beneficiaries of essential commodities (e.g. ARVs, TB medicines) and supplies (e.g. ITNs) during
+community-based distribution should be ensured.
+Chronic non-communicable diseases (NCD) treatment may likely be temporarily suspended if longer continuity of existing
+treatment regimens can be ensured; people with chronic NCDs can avoid health care facilities unless they have acute
+symptoms or other urgent needs. The role of primary care level facilities can be enhanced in absorbing much of the nonCOVID-19 cases where possible e.g. through redirecting acute management of NCDs from hospitals to PHC level.
+Rapidly redistribute the health workforce capacity where available or consider the recruitment of volunteers, including by
+reassignment and task sharing (for example assigning more responsibilities to supervised CHWs). Explore the rapid
+recruitment of additional health workers. Along with capacity development measures to bolster IPC and risk communication,
+consider incentives for staff working during the epidemic, as they are at higher risk. Incentives scales need to be collectively
+agreed with communities and local authorities, with clear activation and deactivation plans.
+Ensure risk communication to the community to reduce fear of coming to a health facility with symptoms other than
+associated with COVID-19, to reduce delays in seeking care and to promote safe care seeking for morbidity for which
+essential services are being maintained.
+Assign a designated focal point for non-COVID-19 essential health services as a member of the COVID-19 emergency
+team, to ensure appropriate prioritisation for the continuity of non-COVID-19 essential services, and balanced resource
+allocation for it with the resources required for COVID-19 control.
+Key actions
+Identify high priority essential services according to context and burden of disease and map them to the resource
+requirements
+Ensure appropriate balance in allocation of PPE and IPC resources for staff between essential services and
+dedicated COVID-19 services, and other care providers e.g. in detention and long-term care facilities
+
+19 | P a g e
+
+Identify context specific alternative platforms and approaches to service delivery
+Reassignment of staff and task sharing, identify context specific mechanisms for incentives for staff
+Apply hands-off outpatient consultation approach
+Anticipate increased needs for essential services after their suspension and/or disruption, when COVID-19
+becomes under control, and lockdown measures are being lifted
+Considerations according to transmission scenarios
+For no reported cases: this is an opportune time to plan, if not already done, for prioritisation of non-COVID-19 essential
+services and put measures in place to ensure continuity of services when transmission increases, and services start being
+compromised.
+For sporadic and clusters of cases: disruption of essential services may be minimal and limited to affected geographical
+areas and facilities in affected regions may still be able to redirect patients to unaffected nearby facilities for routine services.
+For community transmission: the risk of disruption of non-COVID-19 essential services is greatest in this scenario. As
+the demand for services and resources increases, alternative models of provision of services that are context friendly are
+needed. Physical space may become a challenge and options such as use of community centres, mobile clinics etc for nonCOVID-19 essential services may be considered. Health workforce to support essential services may become limited,
+options to explore surge capacity could include remunerated overtime; health workers from non-affected regions; licensed
+retirees; medical trainees for appropriate supervised roles; workers from non-health sectors to support with supportive roles
+e.g. transport, administration, maintenance etc.
+
+17. Suspend user fees of essential services
+Key reference: Health systems governance and financing & COVID-19
+Public health principles and approaches to adaptations and enablers for implementation
+When COVID-19 is declared a national emergency, advocate for the suspension of user fees for essential health and other
+services by all providers for the duration of the crisis. Establish a system through front-loading budgets and pre-funding
+public and private providers. When this is not feasible, consider reimbursement mechanisms to compensate for loss of
+revenue.
+Consider cash and voucher assistance targeted to health needs and indirect expenditures, to ensure people are still able to
+access essential health services, if cost is a barrier, and that the risk-benefit of such assistance has been evaluated. When
+households start losing income due to the lockdown measures, social cash transfers (multi-purpose cash) will also contribute
+to reduced financial barriers to access health services.
+Key actions
+Establish a system through front-loading budgets and pre-funding public and private providers, contracting and
+reimbursement mechanisms, equity funds or voucher systems
+Consider cash and voucher assistance targeted to health needs and indirect expenditures
+Negotiate with agencies implementing social cash transfers to include a proportion for health
+Make access to health care independent of migration status
+
+ACKNOWLEDGEMENT
+This Interim Guidance was jointly developed by personnel of IASC member organizations and partners. In particular, we would
+like to thank: Graham Alabaster (UN-HABITAT), Raya Alchukr (UNFPA), Benedetta Allegranzi (WHO), Ida M. Ameda
+(UNICEF), Maya Arii (UNICEF), Maaike Arts (UNICEF), Joseph Ashmore (IOM), Ombretta Baggio (IFRC), April Baller (WHO),
+Amrish Baidjoe (ICRC), Federica Battista (FAO), Viorica Berdaga (UNICEF), Anjana Bhushan (WHO), Christine Brown
+(WHO), Gregory Bulit (UNICEF), Tatjana Buzeti (WHO), Maurizio Campailla (ICRC), Penelope Campbell (UNICEF), Simone
+Carter (UNICEF), William Carter (NRC), Alessandro Cassini (WHO), Jorge Castilla Echenique (WHO), Anirban Chatterjee
+(UNICEF), Kathleen Clark (IFRC), Anna Coates (WHO), Giorgio Cometto (WHO), Ana P Coutinho Rehse (WHO), Carla Daher
+
+20 | P a g e
+
+(UNICEF), Henia Dakkak (UNFPA), Fernando de Medina Rosales (NRC), Roger Dean (NRC), Filiep Decorte (UN-HABITAT),
+Sandra Del Pino (WHO), Anne Detjean (UNICEF), Charles Deutscher (ICRC), Janet V. Diaz (WHO), Hannah S. Dini
+(UNICEF), Gwendolen Eamer (IFRC), Jain Eijkenaar (UNICEF), Rene E. Ekpini (UNICEF), Zahra El Amine (WHO), Gabriele
+Fontana (UNICEF), Gregory Garras (UNHCR), Thomas George (UNICEF), Tasha Gill (UNICEF), Suvajee Good (WHO),
+Andre Griekspoor (WHO), Farah Husain (US-CDC), Aynur Kadihasanoglu (IFRC), Catherine Kane (WHO), Sarah Karmin
+(UNICEF), Edward T. Kelley (WHO), Brigid Kennedy Pfister (UNICEF), Hyo Jeong Kim (WHO), Theadora Koller (WHO),
+Christine Knudsen (UN-HABITAT), Fernanda Lessa (WHO), Rosamund Lewis (WHO), Ramona Ludolph (WHO), Ruth Mabry
+(WHO), Sophie Maes (WHO), Allen Maina (UNHCR), Christopher Maher (WHO), Franck Mahoney (IFRC), Hani Mansourian
+(UNICEF), Claire Mariani (UNICEF), Rosanne Marchesich (FAO), Adelheid Marschang (WHO), Madison Moon (WHO),
+Naureen Naqvi (UNICEF), Carlos Navarro Colorado (UNICEF), Andre Peter Obat Mbala (IOM), Taiwo Oyelade (WHO), Maria
+C. Padoveze Fonseca (WHO), Boris Pavlin (WHO), Jerome Pfaffmann-Zambruni (UNICEF), Catherine Poulton (UNICEF),
+Daniela Raiman (UNHCR), Pryanka Relan (WHO), Sophie Reshamwalla (IFRC), Braeden Rogers (UNICEF), Anna Ronzoni
+(WHO), Marc Rubin (UNICEF), Paul Rutter (UNICEF), Sohel Saikat (WHO), Gina Samaan (WHO), Cecilia Sanchez Bodaz
+(UNICEF), Ela Serdaroglu (IFRC), Pramila Shrestha (WHO), Mirela Shuteriqi (ICVA), Princess Nothemba Simelela (WHO),
+Alice Simniceanu (WHO), Wan S. Sophonpanich (IOM), David Stewart (UNICEF), Soumya Swaminathan (WHO), Aicha Taybi
+(WHO), Antonio Torres (IOM), Nicole Valentine (WHO), Maria Van Kerkhove (WHO), Katelijn A.H. Vandemaele (WHO), Yaron
+Waldman (UNICEF), Kolitha P. Wickramage (IOM), Niluka Wijekoon Kannangarage (WHO), Alice Wimmer (IOM), Isabel Yordi
+(WHO), Teresa Zakaria (WHO), Zandile Zibwowa (WHO), Dominik Zenner (IOM).
+For further correspondence on the guidance:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+FAO: Federica Battista (Federica.battista@fao.org)
+ICRC : Charles Deutscher (cdeutscher@icrc.org)
+IFRC: Gwendolen Eamer (gwen.eamer@ifrc.org)
+IOM: Alice Wimmer (awimmer@iom.int)
+NRC: William Carter (william.carter@nrc.no)
+UN-HABITAT: Filiep Decorte (decorte@un.org)
+UNICEF: Carlos Navarro Colorado (cnavarrocolorado@unicef.org)
+UNFPA: Henia Dakkak (dakkak@unfpa.org)
+UNHCR: Allen Maina (mainaa@unhcr.org)
+WHO: Teresa Zakaria (zakariat@who.int)
+
+21 | P a g e
+
+Annex 1.
+Special Considerations for COVID-19 Outbreak Readiness and Response to support those who reside
+in Urban Informal Settlements and Slums
+______________________________________________
+The global crisis caused by COVID-19 pandemic is likely to have severe health and socio-economic impacts on urban
+populations, particularly on the poorest of the poor, and those living in informal settlements and slums. Currently, around 56
+per cent of the world’s population- 4.4 billion- lives in cities, with over a billion living in slums and informal settlements. There
+are specific challenges and issues which arise due to exacerbating chronic vulnerabilities in these settings, which must be
+seen together with the health and socio-economic impact of COVID-19. The potential scale and impact of COVID-19 in these
+challenging environments, calls for urgency to enable us to be better prepared and ready to respond.
+OBJECTIVES
+It is of critical importance from a protection, gender and inclusion, human-rights and public health perspective, that people
+living in urban informal settlements and slums are included in all COVID-19 outbreak preparedness, response and recovery
+planning. This interim guidance is in alignment with the WHO COVID-19 Strategic Preparedness and Response Plan and
+WHO Technical guidance for COVID-19, and mainly targets the wider humanitarian/development community working in
+humanitarian situations. Those who are involved in the decision-making and implementation of multi-sectorial COVID-19
+outbreak readiness and response activities, need to understand how to respond appropriately and effectively in the informal
+settlements in urban settings. It is not intended to be comprehensive and cross-references are made to other relevant IASC
+Guidance Notes and briefs.
+SPECIAL CONSIDERATIONS FOR INFORMAL SETTLEMENTS
+This Guidance, drawing from a brief developed by Social Science in Humanitarian Action Platform [link], sets out key
+considerations for protecting informal urban settlements from the spread and impacts of COVID-19. The guidance issued on
+“Scaling-Up COVID-19 Outbreak Readiness and Response Operations in Humanitarian Situations, Including Camps and
+Camp-Like Settings” [link] is also relevant but informal settlements need additional focus, as informal settlements have no
+formal management through a designated entities, their residents have a very diverse profile and they tend to be outside the
+scope of government responses due to their informal nature.
+Main characteristics
+Informal settlements and slums are unplanned. Many are overcrowded, both at the neighborhood and house level, with very
+limited public space, and lack access (or have limited access) to basic services such as affordable water, sanitation and health
+facilities. In informal settlements, housing and land tenure is often insecure with threats of eviction from landlords and from
+the local governments, which often prevent any interventions to improve the collective conditions. There is a need to pay
+particular attention to the needs of vulnerable groups identified, especially those in need of specific assistance and support in
+this crisis, including both medical and social vulnerabilities [link].
+Many of the broader recommendations to protect from COVID-19 (to frequently wash hands, self-isolate and physical
+distancing) are almost impossible to implement. Lack of in-house access to water and sanitation services, coupled with
+household level overcrowding, make strict self-isolation or lockdowns extremely difficult. Slums are concentrations of urban
+poverty and consequently, slum dwellers have very limited capacity to manage socio-economic shocks. Staying home for the
+urban poor is often not a feasible option, as they live day-to-day, both for their work and access to food. Access to education
+is at the best of times, difficult for many young people in slums, is negatively impacted by the crisis.
+The informality of these communities means they are not officially recognized by governments. Little data is available on their
+size and socio-economic profile, with statistics at city-level masking the inequities. This exclusion often translates into
+ignorance about the community, stigmatization, mutual distrust and exclusion of government-led responses. The reach of
+formal governance structures is limited, and residents have great difficulty in having their voice heard. Informal governance
+mechanisms are important, but they risk fragmentation and are often contested.
+Aside from their apparent informality, many slums are highly organized, with well-established leadership structures. Informal
+settlements and slums tend to have a wide variety of community-based organizations each with their own level of legitimacy
+that often fill gaps in service provisions (ex. garbage collection, safety). These include women and youth groups, faith groups,
+traditional community structures, etc. Traditional leadership structures sometimes overlap with criminal or other groups.
+Understanding these complex relationships requires a good knowledge of their socio-cultural diversity, framed by their areas
+of origin and ethnicity. Larger slums are not homogeneous but can have several smaller “villages” with different customs and
+social behaviors.
+
+22 | P a g e
+
+Inhabitants of informal settlements and slums maintain strong links to their rural homes, sending revenue, and travelling
+frequently for work and social reasons. They will also return when sick, or to return their deceased relatives to the family home.
+This mobility often contributes greatly to the spreading of pandemics.
+These challenges are further exacerbated for some inhabitants, due to their gender, age, disability, refugee or migrant status,
+sexual orientation, faith and other intersectional identity factors. Displaced persons often find informal settlements and slums
+the only affordable housing option when moving to urban areas. Special attention should be paid to youth and children,
+particularly child headed households, which may already be particularly vulnerable. Evidence from previous pandemics (as
+well as preliminary information from the COVID-19 outbreak) shows that several factors increase the risk of sexual and genderbased violence (SGBV) and harm to women, children and other vulnerable groups. In addition, many people who live in
+informal settlements are not able to work from home and so this raises issues with youth and children who are left at home,
+with lack of access to education and being vulnerable to violence.
+The following are key special considerations for inclusion in national and local COVID-19 readiness and response operations:
+Key principles for preparedness, response and recovery
+1. Support community leaders to operationalize a preparedness and a response plan, mobilizing the assets and response
+capacity of all community-based organizations
+2. Adopt an area-based integrated multi-sectoral response, that recognizes the spatial characteristics as well as social and
+cultural norms and power dynamics
+3. Ensure that the new operational modalities in response to COVID-19 are relevant to and improve long term preparedness
+and risk reduction efforts
+4. Prioritize emergency interventions that can be sustained and consolidated in the recovery phase
+Data and assessments
+5. Invest early in profiling informal settlements and slums, both in terms of its population (chronic and acute vulnerabilities
+– health, food security, income/expenditures, diverse socio-cultural profiles) and its spatial organization (ex. water,
+sanitation and solid waste points, markets, transport hubs)
+6. Map the different self-organized groups and community-based organizations, their current roles and interrelations and
+their potential as assets in a humanitarian response
+7. Support community-led data collection, building on local knowledge, ensuring ownership of the data collected and
+aggregation into local government-led databases and assessments
+8. Map and monitor the relations and movements within and between specific informal settlements and slums communities
+and their areas of origin
+Governance
+9. Facilitate connections between formal and informal governance mechanisms (incl. local government – communities) to
+give voice to the urban poor and ensure they can help shape interventions
+10. Harmonize the specific assets of existing community-based organizations for a more effective response, while aiming to
+strengthen inclusive representation
+11. Assess the impact of the in-flow of resources during a crisis so they do not exacerbate tensions between different groups
+Communication
+12. Establish trust and ensure mutual understanding so people living in informal settlements fully understand the risks and
+are able to mobilize their communities to take all possible measures, while overcoming distrust in public messaging and
+to counter disinformation
+13. Identify community leaders among different social groups and areas and leverage their influence to disseminate the right
+messages and information
+14. Ensure that communication methods and messaging is sensitive to the diverse socio-cultural backgrounds in a specific
+settlement, translating material into the languages used, in multiple and accessible formats, including for people with
+hearing, visual and intellectual impairments and people with low literacy
+15. Ensure feedback mechanisms on the feasibility of imposed mitigation measures and assistance are in place
+16. Prepare and share public communication to address and prevent stigma and discrimination that can prevent people from
+seeking healthcare. Messaging about “high risk groups” should be sensitive to minimize negative impact on those groups
+Access of basic and survival services in informal settlements
+17. Work with local governments and service providers to rapidly scale-up affordable provision of safe water, sanitation and
+solid waste management, ensuring sufficient coverage, in light of likely increases in demand. Water utilities should be
+encouraged to extend service lines and to make water provision for free services, and work closely with informal service
+providers
+18. Position adequate handwashing stations in strategic locations (ex. near toilets, markets, transport hubs, information
+centres, main entry and exit routes) and use them as main hubs for awareness raising around COVID-19
+
+23 | P a g e
+
+19. Devise strategies for food and water provision that consider that households may not have enough capacity for storage
+for several days and find creative ways to facilitate physical distancing (ex. dispersed mini-markets, home deliveries)
+20. Monitor food insecurity and access to and affordability of nutritious food carefully and promote mitigation measures (ex.
+urban agriculture, replacement programmes for school feeding)
+21. Focus on creative ways to provide children with alternatives to school and play, to mitigate school closures and restrictions
+on movements in the absence of community or household level space, which disrupt children's routine while also placing
+new stressors on caregivers. This should include early learning opportunities for the youngest, that may entail providing
+parenting tips and ideas for engaging their children at home
+Shelter and settlements
+22. Analyse the spatial set-up of the settlement to provide guidance on movement control, improved coverage of basic service
+provisions, alternative food distribution systems, etc.
+23. Map spaces and buildings (ex. vacant buildings, hotels, schools, etc.) in or nearby informal settlements and slums that
+can be used for isolation of the most vulnerable, triage of potential cases and limited quarantine while also taking into
+consideration their current use
+24. Provide low-cost options to facilitate isolation for low risk cases in single room dwellings considering options for
+partitioning
+Livelihoods and mobility
+25. Promote and tailor social safety nets to the reality of the informal settlements and slums (incl. very limited savings or
+capacity to save), ensuring access to health services, water and food, while being sensitive to internal inequalities as to
+avoid disruptive tensions
+26. Prioritize cash-based assistance to help cover rent, utilities, and other housing related needs.
+27. Make provisions so that essential informal services such as food selling, provision of water, hygienic articles, care for
+children, persons with disabilities, older persons, and those with illnesses, can be sustained in the safest possible way,
+including during lock down
+28. Map movements between urban informal settlements and slums and rural areas of origin and consider working with local
+leaders and communities on both ends to implement control strategies, focusing also on transport hubs and points of
+entry
+Protection
+29. Ensure protection remains central to the response and through multi-sectoral partnerships, the detection of protection
+challenges and monitoring of protection needs to provide response to identified protection risks, with a focus also on
+health workers, service providers, etc
+30. Monitor increases in community and household level tensions and violence carefully and work with community-based
+organizations and leaders to raise awareness and mitigate, paying attention to gender-based violence. Further guidance
+on addressing gender equality and women empowerment can be adapted from the IASC Gender Alert
+31. Ensure that isolation of family members does not deprive people of their social support systems and coping mechanisms
+or exacerbate stigmatization, including the use of public health measures as a pretext to address the informal status of
+the settlement of slum.
+32. Monitor the risk of possible evictions, as families risk to fail on rental payments, as marginalized members of the
+community, victims of the disease or health care providers risk to be stigmatized
+33. Advocate for the suspension of all residential evictions for the duration of the health emergency since evictions can
+greatly heighten the risks of community transmission and work with governments to set up monitoring and intervention
+systems to avoid also informal evictions
+34. Ensure any measures to quarantine or separate sick or vulnerable groups should be temporary, so they can return home
+once the risk is gone. Such guarantees will be essential to build community trust in quarantine measures, reducing the
+chances of resistance to these measures which could hinder protection and mitigation actions
+35. Monitor the protection needs of pregnant women, gender-based violence survivors, indigenous people, refugees,
+migrants, internally displaced persons, people with disabilities and older people
+UN-Habitat COVID-19 Response [link]
+
+24 | P a g e
+
+Annex 2. Rapid risk assessment for humanitarian emergencies and displaced population
+Risk assessment involves three factors: the hazard i.e. SARS CoV-2, exposure and context. Based on current evidence, the
+hazard is assumed to be a constant. Thus, the difference in risk can be largely attributed to exposure and context elements.
+Basic steps to conduct a rapid risk assessment:
+1.
+2.
+3.
+
+Finalize risk questions based on current situation/site.
+Assign a risk level for each question (green, yellow, red see table 2). This will be subjective but determined via
+consensus of key stakeholders.
+Aggregate categories to obtain a composite score to determine overall risk level: minimal, minor, moderate, major,
+severe (See figure 1). This can be for an area (example, by camp or zone) or for the overall population.
+
+The risk assessment identifies risks that can be effectively mitigated. The risk assessment should be closely coupled with
+mitigation actions and response plan. It should be reviewed or repeated whenever significant changes occur in transmission
+or in each risk component (i.e. influx of new arrivals, mutation in virus, etc.).
+Table 1 provides key questions to consider in order to determine exposure and context risk levels. They are based on basic
+epidemiological data: who, what, where, when and how. These will need to be adapted and prioritized for each site as well as
+for the level of the assessors (health care, non-health care etc.).
+
+25 | P a g e
+
+Table 1. Risk characterization process
+Process
+
+Operational and risk communication
+
+Inform response groups via regular meetings, public with IEC materials, radio jingle s
+
+etc
+
+•
+
+•
+•
+
+•
+•
+•
+
+What are clinical
+signs and
+symptoms?
+Who is most
+vulnerable for
+COVID-19? Age
+group(s), sex or
+occupational
+group(s)?
+How severe is the
+disease?
+Is the disease
+preventable and
+how? Is there a
+vaccine?
+What is the natural
+outcome of the
+disease?
+Is there an effective
+treatment available?
+What can be said
+about the rapidity of
+spread of disease?
+
+•
+•
+•
+•
+•
+•
+•
+•
+
+•
+
+Number of people
+likely to be
+susceptible?
+New arrivals? From
+where?
+Potential for
+transmission?
+Number of people
+already affected?
+Number of clusters
+of infection?
+No. of HCWs
+infected?
+Number of people
+dead/ CFR?
+Number of immunecompromised
+people? HIV/TB?
+Malnutrition?
+Elderly?
+Concurrent, ongoing
+outbreaks (cholera,
+measles, etc.)?
+
+Context assessment (per site, district, camp, etc.)
+
+What is the national risk? How many confirmed cases/locations? Is there local transmission,
+particularly, among the host community?
+Is there an early warning alert and response (EWAR) surveillance system in place that can
+trigger quick alert notification for COVID-19 for the affected population?
+What is the population density? HH size?
+Is the site near high traffic/travel area (major airport, highway, bus, border?
+What is the health system capacity? Available beds, isolation tents, staff, supplies, etc.?
+Is the area easily accessible? If there is a suspected case, how will it be verified/investigated?
+Is there access to adequate handwashing facilities at the household level?
+Are there cultural practices/traditions holidays/events which affect COVID-19 transmission?
+Mass gatherings at funerals, weddings, etc.
+Are their known barriers to early health seeking behavior?
+Is there triage, referral, isolation procedures in place for suspected case?
+Are relevant surveillance/health staff trained on the use of case definitions, case management,
+isolation process?
+Is there an Identified RRT who can quickly conduct investigation and response among the
+population?
+Is there access to reference laboratories for COVID-19 testing?
+What is the transport and communication method between lab and health facility? Do you have
+adequate specimen collection, packaging and transportation supplies, PPE?
+Are there identified community members to support COVID-19 surveillance? Key informants,
+community volunteers, CHW, leaders, teachers, etc. who will assist with case detection, contact
+tracing and IEC?
+
+Risk characterization
+
+Risk mitigation action
+Select risks for mitigation actions, implement, review implementation
+
+26 | P a g e
+
+Risk monitoring and review
+
+•
+
+Exposure assessment
+
+Ongoing process of risk monitoring and review during the outbreak
+
+Hazard
+assessment/COVID-19
+
+Table 2. Risk levels
+Colour
+Green
+Yellow
+Red
+
+Risk
+Low
+Medium
+High
+
+Action
+Managed according to standard surveillance response protocols
+Needs improvement, strengthening, additional control measures required (e.g. enhanced surveillance, isolation facilities, contact tracing)
+Immediate response required
+
+Figure 1. Risk matrix with define boundaries to aid risk characterization process
+
+27 | P a g e
+
+Annex 3. COVID-19 case and contact definition
+
+Case and contact definitions are based on the current available information and are regularly revised as new information
+accumulates. Countries may need to adapt case definitions depending on their local epidemiological situation and other
+factors. All countries are encouraged to publish definitions used online and in regular situation reports, and to document
+periodic updates to definitions which may affect the interpretation of surveillance data.
+Suspect case
+A.
+
+A patient with acute respiratory illness (fever and at least one sign/symptom of respiratory disease, e.g., cough,
+shortness of breath), AND a history of travel to or residence in a location reporting community transmission of
+COVID-19 disease during the 14 days prior to symptom onset;
+OR
+B. A patient with any acute respiratory illness AND having been in contact with a confirmed or probable COVID-19
+case (see definition of contact) in the last 14 days prior to symptom onset;
+OR
+C. A patient with severe acute respiratory illness (fever and at least one sign/symptom of respiratory disease, e.g.,
+cough, shortness of breath; AND requiring hospitalization) AND in the absence of an alternative diagnosis that fully
+explains the clinical presentation.
+Probable case
+A.
+B.
+
+A suspect case for whom testing for the COVID-19 virus is inconclusive.
+OR
+A suspect case for whom testing could not be performed for any reason.
+
+Confirmed case
+A person with laboratory confirmation of COVID-19 infection, irrespective of clinical signs and symptoms.
+Contact
+A contact is a person who experienced any one of the following exposures during the 2 days before and the 14 days after the
+onset of symptoms of a probable or confirmed case:
+1.
+2.
+3.
+4.
+
+Face-to-face contact with a probable or confirmed case within 1 meter and for more than 15 minutes
+Direct physical contact with a probable or confirmed case
+Direct care for a patient with probable or confirmed COVID-19 disease without using proper personal protective
+equipment OR
+Other situations as indicated by local risk assessments.
+
+Note: for confirmed asymptomatic cases, the period of contact is measured as the 2 days before through the 14 days after the
+date on which the sample was taken which led to confirmation.
+Community case definition – example to be adapted
+1.
+2.
+
+Fever + dry cough + difficulty in breathing OR
+Unusual cluster of illnesses or deaths in a community
+
+28 | P a g e
+
+

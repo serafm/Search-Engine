@@ -1,0 +1,548 @@
+WHO R&D Blueprint
+
+COVID-19 new variants:
+Knowledge gaps and research
+WHO reference number
+© World Health Organization 2020. All rights reserved.
+This is a draft. The content of this document is not final, and the text may be subject to
+revisions before publication. The document may not be reviewed, abstracted, quoted,
+reproduced, transmitted, distributed, translated or adapted, in part or in whole, in any form
+or by any means without the permission of the World Health Organization.
+The mention of specific companies or of certain manufacturers’ products does not imply that
+they are endorsed or recommended by WHO in preference to others of a similar nature that
+are not mentioned. Errors and omissions excepted, the names of proprietary products are
+distinguished by initial capital letters.
+
+12 January 2021
+
+COVID-19 new variants: Knowledge gaps and research
+12 January 2021
+
+Table of Contents
+TABLE OF CONTENTS ............................................................................................................................... 2
+PREFACE ..................................................................................................................................................... 3
+EXECUTIVE SUMMARY .............................................................................................................................. 4
+INTRODUCTION ........................................................................................................................................... 7
+COVID-19 EPIDEMIOLOGY ......................................................................................................................... 7
+VIRUS EVOLUTION ..................................................................................................................................... 8
+MONITORING AND CONTROL ................................................................................................................... 8
+ANIMAL MODELS ........................................................................................................................................ 9
+CLINICAL IMPLICATIONS......................................................................................................................... 10
+IMPLICATIONS FOR VACCINES .............................................................................................................. 11
+THEMES FROM BREAKOUT GROUPS ................................................................................................... 11
+DETECTION OF VARIANTS ........................................................................................................................... 12
+UNDERSTANDING THE EPIDEMIOLOGY AND EVOLUTION OF VARIANTS ............................................................ 12
+UNDERSTANDING VARIANT BIOLOGY ........................................................................................................... 13
+UNDERSTANDING IMPACTS ON CLINICAL COURSE ......................................................................................... 14
+UNDERSTANDING IMPACTS ON VACCINATION ............................................................................................... 14
+FACILITATORS OF RESEARCH ..................................................................................................................... 15
+CONCLUSION ............................................................................................................................................ 17
+
+COVID-19 new variants: Knowledge gaps and research
+12 January 2021
+
+COVID-19 new variants: Knowledge gaps and research
+priorities
+WHO ad hoc consultation
+
+12 January 2021
+Virtual meeting
+
+Preface
+Like all RNA viruses, SARS-CoV-2 is prone to mutation. Multiple viral variants have been detected, most of which
+appear to have little if any biological significance. However, a small number of ‘variants of concern’ appear to
+influence SARS-CoV-2 transmissibility and possibly also host immune responses.
+
+In light of the potential risk posed by SARS-CoV-2 variants, in January 2021 WHO organized an ad hoc consultation
+to discuss the development of an R&D agenda in response to existing and emerging SARS-CoV-2 variants. The key
+objectives were to identify the critical research questions related to variants and agree on a research approach to
+address them.
+
+The meeting was introduced by Dr Tedros (WHO Director-General) and chaired by Professor David Heymann (WHO
+adviser). Six breakout groups covered a range of specific issues related to COVID-19 variants: Epidemiology and
+mathematical modelling; evolutionary biology; animal models; assays and diagnostics; clinical management and
+therapeutics; and vaccines. The meeting was summarized by Dr Soumya Swaminathan (Chief Scientist, WHO). An
+agenda including the names of breakout group chairs and panel members is provided in Annex 1.
+
+This report is a summary of presentations and panel discussions. It does not necessarily reflect the views of the
+organizers, participants or panel members.
+
+COVID-19 new variants: Knowledge gaps and research
+12 January 2021
+
+Executive summary
+Replication of the SARS-CoV-2 genome frequently introduces mutations, leading to the emergence of genetic
+variants. The vast majority of these variants appear to be of little or no significance. However, some may affect viral
+transmission, the severity or clinical course of disease, or the potency of natural or vaccine-induced immune
+responses.
+
+Towards the end of 2020, a new variant was identified in the UK (B.1.1.7) that is associated with greater
+transmissibility. In South Africa, the B.1.351/501.YV2 variant has rapidly become the dominant strain nationally and
+carries mutations that appear to influence the potency of protective immune responses. A third variant
+(B.1.1.248/B1.1.28/P1), detected in Japan in a traveller from Brazil, may also be less sensitive to host immune
+responses. All these variants have since spread to other countries. Other new variants are expected to arise.
+
+At a global discussion meeting organized by the WHO R&D Blueprint initiative in January 2021, members of the
+global research community discussed the threat posed by SARS-CoV-2 variants and the research response required
+to control them. Participants identified a range of priority areas of research:
+
+Detection of variants: Participants identified a need for a global surveillance strategy to detect and track new
+variants of concern. Global coverage needs to be wider than at present, as genomic sequence data are currently
+coming primarily from a limited number of countries with well-developed genome-sequencing capacity.
+
+Understanding the epidemiology and evolution of variants: There is a need to track the evolution of SARS-CoV2 globally and to understand how variants contribute to changing patterns of disease. Research is also required
+to understand the forces driving the emergence and spread of variants, including the selection pressures
+exerted by use of vaccines, antivirals and other therapeutics, and other control measures.
+
+Understanding variant biology: Experimental studies are needed to establish how mutations affect the biology
+of variant SARS-CoV-2 strains. In particular, in vitro and in vivo studies are needed to explore the impact of variants
+on transmission, sensitivity to host immune responses, pathogenicity and response to therapeutics. Integration of
+experimental and clinical data will provide insights into the clinical consequences of changes in virus biology.
+Rapid in vitro and in vivo characterization is required to inform timely risk assessments, followed by more in-depth
+evaluation of new variants.
+
+Understanding clinical impacts: The clinical consequences of infection with SARS-CoV-2 variants need to be
+thoroughly investigated, including in special populations such as children, pregnant women and the
+
+COVID-19 new variants: Knowledge gaps and research
+12 January 2021
+
+immunosuppressed. Studies need to examine the effects of variants on both protective and harmful immune
+responses, and on responses to therapeutics. The long-term health effects of infection, such as long COVID and
+neurocognitive sequelae, also need to be assessed.
+
+Understanding impacts on vaccination: Global systems are required to assess the impact of variants on vaccine
+effectiveness, potentially building on systems used for influenza. Investigations also need to focus on breakthrough
+infections in vaccinated individuals or unexpected clusters of cases in populations with high levels of vaccination. It
+will be important to determine how the immune response to variants is affected by prior infection and vaccination
+against wild-type strains. Similarly, there is a need to investigate the degree to which modified vaccines targeting
+variants can also protect against wild-type strains.
+
+Participants also identified a range of key facilitators of research into SARS-CoV-2 variants:
+Sharing: Rapid and efficient sharing of viral specimens, sera and data is essential. Currently, import/export
+restrictions and consent issues are significantly delaying the sharing of materials. Central biobanks are needed to
+facilitate academic research and new product development.
+
+Standardization: It is vital that experimental studies follow standardized procedures, to ensure both the quality of
+research and the comparability of findings. A set of international standards has been developed for antibody studies.
+
+Data integration: Multidisciplinary efforts are required to provide a full understanding of viral variants and their
+clinical and epidemiological impact. It is important that, as far as possible, data sources are linked, particularly of
+genomic, epidemiological and clinical data. Existing platforms, such as the COVID-19 Clinical Data Platform, may
+need to be expanded or new structures established.
+
+Capacity building: Greater capacity in genomic surveillance is urgently required in several regions to detect and
+monitor emerging variants. The current picture of viral evolution is heavily skewed towards countries with extensive
+genome-sequencing capabilities.
+
+New diagnostic tools: Alternative approaches to genome sequencing are required to support more extensive
+surveillance and analysis. Genotype-based assays, for example, are relatively straightforward to implement and
+scale, and could be used to track known variants.
+
+Leveraging trials and cohorts: Key information on variants can be obtained both from randomized trials and
+longitudinal population cohort studies. Both types of study should include approaches for linking genomic, clinical and
+other data.
+
+COVID-19 new variants: Knowledge gaps and research
+12 January 2021
+
+Nomenclature: Multiple nomenclature systems are currently in use for SARS-CoV-2 variants. A unified approach
+would reduce confusion caused by different naming conventions. The use of country identifiers needs to be avoided,
+but a simplified form of nomenclature may be needed for public communication.
+
+Communication: Open communication with the public is required to provide a balanced picture of the threat posed
+by variants, while avoiding false reassurance. There is a need to convey the message that the global scientific
+community has a coherent strategy to address emerging variants.
+
+Global coordination: An over-arching conclusion was the need for global cooperation and collaboration, with WHO
+the most appropriate body to lead a globally coordinated approach to variant identification and analysis.
+
+Within a year, enormous progress has been made in understanding SARS-CoV-2 and developing effective medical
+countermeasures to control it. Emerging variants present a new challenge, but the collaborative structures and
+relationships established in 2020 can now be leveraged and enhanced to address this new threat.
+
+COVID-19 new variants: Knowledge gaps and research
+12 January 2021
+
+Introduction
+Like all RNA viruses, SARS-CoV-2 is prone to mutation. Since the virus was first described and its genome
+sequenced, many mutations have been detected globally. Most of these genetic changes appear to have few if any
+consequences for virus biology. However, some may provide an adaptive advantage, by promoting greater
+transmissibility or reducing susceptibility to natural immunity or medical countermeasures. Through natural selection,
+variants with an adaptive advantage will over time tend to displace existing strains.
+
+In late 2020 and early 2021, SARS-CoV-2 variants were identified in high-incidence settings that appear to be more
+transmissible than existing strains and possibly less susceptible to neutralization by host antibodies. Furthermore, it is
+almost certain that other new ‘variants of concern’ will appear. Hence there is an urgent need to develop a research
+agenda to ensure rapid detection and characterization of variants of concern, to underpin swift and effective global
+public health responses.
+
+COVID-19 epidemiology
+In February 2020, a major shift in SARS-CoV-2 occurred, with G614 spike protein strains superseding D614 strains
+globally. The change at position 614 in the spike protein appeared to enhance viral replication, leading to higher
+transmissibility, but there is no evidence that it caused more severe disease or was better able to evade host immune
+responses.
+
+In June 2020, new variants were identified following infection of farmed mink in Denmark. A small number of people
+were infected with a variant (‘cluster 5’) carrying a distinct suite of mutations. No cases have been detected recently,
+and this variant may have disappeared from humans.
+
+In December 2020, the UK reported a new variant with multiple mutations (VOC 202012/01 or B.1.1.7). By early
+2021, this variant had spread throughout the UK and to multiple other countries, in some cases rapidly becoming the
+dominant strain. Secondary attack rates for B.1.1.7 have been found to be higher in all age groups and in all
+geographic regions of the UK. However, case control studies have found no evidence for increased severity of
+infection.
+
+A further variant of concern (501.YV2, B.1.351) was first identified in South Africa and has rapidly become the
+dominant strain in that country. As well as higher transmissibility, this variant appears to be less effectively
+neutralized by host antibodies. It has also been detected in multiple countries worldwide.
+
+COVID-19 new variants: Knowledge gaps and research
+12 January 2021
+
+In early January 2021, a variant of concern (B.1.1.248/B1.1.28/P1) was detected in Japan in a traveller from Brazil.
+This variant has 12 mutations in the viral spike protein, including changes likely to affect antibody neutralization.
+
+These discoveries highlight the potential for SARS-CoV-2 variants to emerge in high-incidence settings. To date,
+variants of concern have been found to affect transmissibility and, to an extent, antibody neutralization, but not
+disease severity. However, with so many factors influencing the epidemiology of COVID-19, relating disease patterns
+to the properties of circulating virus is extremely difficult. In addition, since genome sequencing is limited in many
+parts of the world, it is hard to tell how far variants are spreading and if new variants of concern are emerging.
+
+Virus evolution
+The B.1.1.7 variant includes 17 amino acid-altering mutations. These are likely to have taken several months to
+accumulate, suggesting transmission was occurring in an unknown population or in an immunocompromised
+individual, where prolonged viral replication has been seen.
+
+The B.1.351 variant includes three mutations in the receptor-binding domain of the viral spike protein. These appear
+to increase binding affinity for the ACE receptor in the respiratory tract and confer some level of resistance to
+neutralizing antibodies. A growth advantage in the respiratory tract contributes to higher transmissibility.
+
+Several factors could drive viral evolution. These include the selective pressures exerted by host responses,
+replication in other species and transmission back to humans, prolonged replication in immunocompromised hosts,
+nsp12 (RNA polymerase) mutations that interfere with the virus’s proofreading function, or deletions that are not
+detected by its proofreading machinery.
+
+Genomic sequences provide vital insight into how SARS-CoV-2 is evolving. Genomic surveillance can reveal how the
+virus is changing over time, and also provides a way to assess the effectiveness of medical countermeasures.
+Genomic analyses can reveal whether variants are spreading by chance or being selected for, and which mutations
+are conferring a selective advantage. Follow-up studies can then explore effects on transmission, antigenicity and
+virulence, as well their implications for diagnostics and medical countermeasures. These questions are being
+addressed collectively by the WHO Virus Evolution Working Group.
+
+Monitoring and control
+WHO is establishing a risk assessment framework to identify, track and evaluate new variants, to provide guidance
+on appropriate global responses. This spans surveillance and genomic characterization, experimental studies on
+
+COVID-19 new variants: Knowledge gaps and research
+12 January 2021
+
+variants of concern, and rapid risk assessments to determine the implications for diagnostics, treatments and
+vaccines. Ultimately, the aim is to support clear, consistent and evidence-based communications and actions.
+
+Surveillance has taken advantage of multiple existing mechanisms. A COVID-19 reference lab network was rapidly
+established in 2020 and PCR assays were developed and made available within weeks. In regions such as Africa,
+existing laboratory capacity has been repurposed for SARS-CoV-2 detection and analysis.
+
+Genomic surveillance has also taken advantage of existing infrastructure, including the Global Influenza Surveillance
+and Response System (GISRS) and the GISAID genomic database. Several platforms are analysing data and
+exploring phylogenetic relatedness, including GISAID, Pangolin and Nextstrain. In January 2021, WHO issued
+guidance on use of whole genome sequencing for SARS-CoV-2, with advice on which samples to prioritize for
+sequencing, as well as a detailed implementation guide. Although a remarkable 350 000 genome sequences had
+been shared by mid-January 2021, the distribution of data is highly uneven globally.
+
+Future priorities include strengthening of mechanisms to rapidly identify, characterize and prioritize variants,
+evaluation of mitigation strategies, and study of the impacts of variants through in vitro and in vivo studies. There is
+also a need to standardize the nomenclature of variants. Criteria to support the formal definition of variants of concern
+are required, building on models established for flu. More generally, there is a need to coordinate prioritized research
+to close gaps in knowledge.
+
+Animal models
+Animal models play a critical role in understanding the biology of viral variants. This can include studies to explore the
+mechanisms underlying higher transmissibility, virulence, antigenicity and host tropism.
+
+To study transmission, a variety of in vitro and in vivo assays can be used, with data on variants compared with those
+obtained with wild-type strains. However, some viral adaptations may be specific for humans, requiring use of human
+primary cell cultures. Non-human primates are the closest models to human disease, although ‘humanized’
+transgenic mice with human ACE2 receptors have been developed. Comparisons across multiple animal models can
+provide insights into host factors affecting transmission.
+
+Virulence appears to be associated with higher viral titres in the upper respiratory tract, which may lead to higher viral
+loads in the lower respiratory tract and trigger more severe disease. Virulence generally has to be studied in animal
+models, but if the function of individual proteins is known, these can also be studied in vitro.
+
+COVID-19 new variants: Knowledge gaps and research
+12 January 2021
+
+In terms of host tropism, SARS-CoV-2 can infect a relatively wide range of animals. The N501Y mutation, associated
+with enhanced human transmission due to stronger binding to human ACE2 receptors, may also enable more
+efficient infection of mouse cells. Host tropism can be studied in vitro or in vivo.
+
+Studies of antigenicity are increasingly important as the proportion of people with immunity increases, following
+vaccination or infection. Antibody binding can be studied using engineered forms of the spike protein and its receptorbinding domain, as well as pseudotyped virus. Work on sera from vaccine recipients and convalescent plasma
+suggest that N501Y mutations have little impact on immunogenicity. Research in animal models will be important for
+exploring the impact of past infection and vaccination on protection against new strains.
+
+Rapid and coordinated assessment of variants of concern is essential. Through the Agility initiative, the Coalition for
+Epidemic Preparedness Innovations (CEPI) has established a mechanism to identify variants that might influence the
+effectiveness of vaccination, supporting collaborative comparative neutralization studies with standardized
+procedures.
+
+Clinical implications
+The B.1.1.7 variant was first detected in the UK in September 2020 and has since spread widely across the UK. As
+well as being detectable by whole-genome sequencing, fortuitously a deletion in the variant affects a commonly used
+commercial assay, leading to loss of a signal in otherwise positive samples (S-gene target failure, SGTF). This
+provides a convenient marker of B.1.1.7 infections in routine testing data.
+
+Genomic surveillance in the UK is projected to reach 20 000 genomes a week by March 2021. Small numbers of
+other variants, such as B.1.351 and B1.1.28/E484K, have been detected. Public Health England has established a
+risk assessment framework for the UK based on a range of criteria, including zoonotic potential, transmissibility,
+disease severity, susceptibility to immunity, and implications for vaccines, drugs and therapeutics.
+
+Impacts on severity of disease are assessed by linking strain identification to routine morbidity and mortality data,
+while the ISARIC4C consortium and Intensive Care National Audit Research Centre (ICNARC) explore more granular
+clinical data. For B.1.1.7, a matched cohort study found no evidence for any impact on the risk of hospitalization or
+28-day mortality. In addition, no mortality differences were seen in cases identified using the SGTF proxy. Too few
+cases of the B.1.351 variant have been identified in the UK for similar analyses to be carried out. Multiple studies are
+being undertaken to relate genetic alterations in the variants to changes in their properties and host–pathogen
+interactions.
+
+COVID-19 new variants: Knowledge gaps and research
+12 January 2021
+
+Multiple studies of therapeutic antibodies are also underway. Under laboratory conditions, escape mutations are
+relatively easy to generate, even for polyclonal therapeutics, and there is evidence that some variants show reduced
+neutralization by monoclonal antibody therapies. In particular, the E484K substitution, found in B.1.351, has a marked
+impact on neutralization, for example conferring resistance to bamlanivimab. This could have important implications
+for the use of antibody monotherapies.
+
+Implications for vaccines
+Although no variant has yet been found to confer vaccine resistance, it should be assumed that such variants are
+likely to arise. Disease control should continue to be prioritized to reduce the risk of their emergence and planning put
+in place to mitigate their impact.
+
+In terms of the drivers of vaccine resistance, these could include use of immune-based therapies, high levels of
+community transmission, or use or less effective vaccines or suboptimal dosing. Strong vaccine-induced T-cell
+responses may reduce the risk of immune escape. Monitoring for resistance will require testing of samples from
+vaccine recipients, requiring sharing of strains, or production of strains in vitro, or use of pseudovirus-based
+approaches. Standardized assays are also required.
+
+Clinical studies may reveal the emergence of resistance. However, vaccine effectiveness may be lost gradually,
+which could be challenging to detect. Clinical trials should also monitor for variants. A reduction in neutralization
+potency may not be clinically relevant and require modification of a vaccine, but it may be prudent to begin
+development of vaccines targeting variants in case significant impacts on vaccine efficacy are discovered.
+
+Key questions for modified vaccines include their effectiveness against wild-type strains and their effects on
+previously immunized people. Use of multiple vaccines or multivalent vaccines could be considered. How best to
+evaluate and license modified vaccines is also important to consider, given the need to respond swiftly.
+
+Important research questions include whether it is possible to limit viral evolution, whether modified vaccines are
+needed, how vaccine development can be facilitated, and when a change of strain in a vaccine is warranted.
+
+Themes from breakout groups
+Six breakout groups covered a range of specific issues related to COVID-19 variants: Epidemiology and
+mathematical modelling; evolutionary biology; animal models; assays and diagnostics; clinical management and
+therapeutics; and vaccines. Discussions identified a range of research priorities and facilitators of research.
+
+COVID-19 new variants: Knowledge gaps and research
+12 January 2021
+
+Detection of variants
+Participants identified the need for comprehensive global surveillance systems to detect and track emerging
+variants. Currently, variants are mainly being identified in countries that have extensive genomic surveillance
+capabilities, highlighting the risk that variants of concern may be arising without being detected in high-incidence
+settings lacking good genome sequencing capacity.
+
+A global sampling strategy is required to ensure wide coverage in surveillance. Existing structures such as those
+established for influenza could potentially be adapted to cover SARS-CoV-2, although additional capacity is likely to
+be required. As well as national sentinel surveillance, genomic analysis should be integrated into clinical trials so that
+any impact of variants on response to therapeutics, vaccines or the course of disease can be determined. Genomic
+surveillance should also be integrated into population cohort studies. Environmental surveillance, for example of
+sewage systems, could be a cost-effective way of detecting or monitoring variants.
+
+Given the potential for transmission to and from animals, and for viral evolution within animal hosts, surveillance may
+also need to embrace a One-Health perspective and include animal populations.
+
+Platforms are required to capture, share and analyse genomic sequence data. Again, this could build on the
+infrastructure developed for influenza. Ultimately a globally coordinated risk assessment framework is required to
+coordinate surveillance activities, to integrate information about the properties of variants and their implications for
+disease and disease control, and to recommend appropriate responses, including public health measures and
+updating of vaccines.
+
+Globally comprehensive surveillance is critical from the perspective of global equity. In addition, rapid detection of
+variants wherever they emerge is also central to global health security.
+
+Understanding the epidemiology and evolution of variants
+Effective surveillance will provide essential information on the global distribution of variants. Rapid and efficient
+sharing of sequence data is required to facilitate studies of the evolution of SARS-CoV-2 and the epidemiology of
+COVID-19.
+
+The epidemiology of COVID-19 is complex and affected by multiple factors, including viral biology, host responses,
+population immunity levels, behavioural factors, public health control measures, geography, and weather and climate.
+Disentangling the impact of viral genetic variation on epidemiology will therefore be challenging, and require
+
+COVID-19 new variants: Knowledge gaps and research
+12 January 2021
+
+integration of data from multiple sources, including experimental studies of viral biology and linkage of genomic and
+clinical data.
+
+Data integration will support the development of models to explore the epidemiological impact of variants. Modelling
+can also be used to explore the potential impact of public health interventions, as well as the impact of variants on
+their effectiveness.
+
+Integration of data from multiple sources will also provide opportunities to investigate the drivers of the emergence
+and spread of variants. Multiple selective pressures may be exerted, for example by rising levels of population
+immunity, potentially leading to immune escape, and by use of therapeutics such as antivirals and monoclonal or
+polyclonal antibody therapies, which may select for resistance.
+
+Understanding variant biology
+Epidemiological data may suggest that a variant has important biological consequences but experimental studies
+are required to confirm their significance. Rapid in vitro and in vivo characterization is required to feed into timely risk
+assessments, followed by more in-depth research on new variants to assess their biological impacts.
+
+Key issues to explore are the potential impacts of variants on transmission, antigenicity,
+pathogenicity/virulence and response to therapeutics. Multiple in vitro assays and animal models have been
+developed that can be used to address these questions. No single animal model fully recapitulates all features of
+COVID-19, so research is likely to draw on a range of models, with choice of model being dependent on the scientific
+question being asked. Comparisons between models may also be insightful. Viral adaptation to a human host may
+present challenges to model animal studies, requiring use of human primary cell cultures or ‘humanized’ models
+(such as mice engineered to express the human ACE2 receptor).
+
+Of particular importance will be the need to assess the impact of variants on natural and vaccine-induced
+immunity. There are indications that some SARS-CoV-2 mutations, such as E484K, affect the binding of neutralizing
+antibodies and reduce the efficacy of vaccines (though it is not yet clear whether this has clinical implications). In vitro
+assays and animal models can be used to address questions such as whether prior infection with or vaccination
+against wild-type strains protects against infection by a variant, as well as the reverse – whether infection with a
+variant virus (or use of vaccine targeting a variant) provides protection against a wild-type strain.
+
+Although most focus has been on neutralizing antibody, the exact correlates of protection against SARS-CoV-2 are
+not yet clear. Other aspects of the immune response to variants therefore also need to be explored, including innate
+immune mechanisms and T cell responses.
+
+COVID-19 new variants: Knowledge gaps and research
+12 January 2021
+
+To provide a full picture, it is essential that in vitro, in vivo and clinical data are integrated to provide a comprehensive
+understanding of the virological properties of variants and their clinical impact.
+
+Understanding impacts on clinical course
+As a new human pathogen, it is likely that SARS-CoV-2 will continue to adapt to human hosts. This will have
+implications for the spread of disease, as seen with variants that appear to enhance transmissibility, but it may also
+lead to changes in pathogenicity or to sensitivity to medical interventions.
+
+The impact of variants on host responses and the clinical course of disease must therefore be evaluated.
+Particular attention needs to be given to potentially vulnerable populations, such as pregnant women, children and
+the immunosuppressed. The potential for reinfection and co-infection also needs to be explored.
+
+It will also be important to determine whether any changes to transmissibility have implications for infection
+prevention and control. If variants enhance transmission through particular routes (such as via aerosols), for
+example, this could have implications for use of particular personal protective equipment (PPE). Potential impacts on
+healthcare workers therefore also need to be monitored.
+
+Infection is based on the interplay between pathogen and host. Host factors affecting susceptibility to COVID-19 have
+been identified, but it will also be important to explore the interplay between host and viral genetics and factors such
+as transmissibility, response to interventions and severity of disease.
+
+While much attention is naturally focused on acute infections, the potential long-term health impacts of infection,
+such as long COVID and neurocognitive sequelae, should also be explored.
+
+Use of monotherapies creates significant selective pressures driving the emergence of resistant variants. Research is
+urgently required on the use of combination therapies to reduce the risk of resistance, while drug development will
+need to target resistant strains.
+
+Understanding impacts on vaccination
+Global systems are required to assess early impacts on vaccine effectiveness. Population-based studies similar to
+those used for influenza could provide information on declines in vaccine effectiveness in real-world settings. Use of
+
+COVID-19 new variants: Knowledge gaps and research
+12 January 2021
+
+genomic characterization in trials and cohort studies will provide data on differential sensitivity of strains to
+vaccination.
+
+Declining vaccine effectiveness is likely to be gradual, which may make the impact of variants hard to detect. Other
+possible approaches include investigation of breakthrough infections in vaccinated individuals or unexpected
+clusters of cases in populations with high levels of vaccination.
+
+It will be important to determine how the immune response to variants is affected by prior infection and
+vaccination against wild-type strains. Similarly, the degree to which modified vaccines targeting variants protect
+against wild-type strains would also need to be investigated.
+
+Consideration also needs to be given to potential impacts on vaccine uptake if some variants are found to be less
+susceptible to first-generation vaccines. Concerns about variants present at low levels could reduce take up of
+vaccines that in reality are highly effective.
+
+Global monitoring of variants and their impacts on vaccination need to feed into an integrated global risk
+assessment framework. These efforts need to be coordinated with existing work, such as that being carried out
+under CEPI’s Agility initiative. One key role of this framework will be to make recommendations on when vaccines
+need updating. Globally coordinated regulatory mechanisms are needed to support the rapid development,
+evaluation and deployment of modified vaccines targeting variants should they be required.
+
+Facilitators of research
+Sharing: Rapid and efficient sharing of viral specimens, sera and data was seen to be absolutely essential.
+International sharing of biological samples is often held up by paperwork requirements and/or issues related to the
+nature of the consent provided by patients. Biobanks offering global access to materials are also required, such as
+the one being established in Switzerland on behalf of WHO. The WHO COVID-19 Clinical Data Platform may also
+provide a mechanism to promote enhanced data sharing.
+
+Standardization: It is also vital that experimental studies follow standardized procedures, to ensure both the quality
+of research and the comparability of findings. Mutation of cultured virus, for example, could have significant
+implications for its biology and potentially generate misleading results. The WHO Working Group on Assays is
+working with partners to develop a standardized set of assays and biological resources.
+
+COVID-19 new variants: Knowledge gaps and research
+12 January 2021
+
+Data integration: Multidisciplinary research efforts are required to provide a full understanding of viral variants and
+their impact. It is important that, as far as possible, data sources are linked, particularly of genomic, epidemiological
+and clinical data. An understanding of the biological impact of variants will require integration of in vitro, in vivo and
+clinical data.
+
+Capacity building: Greater capacity in genomic surveillance is urgently required to detect and monitor emerging
+variants. The current picture of viral evolution is heavily skewed towards countries with extensive genomesequencing capabilities. Although some centres have offered to act as regional resources, in reality they are
+generally struggling to cope with national demands.
+
+New diagnostic tools: Alternative approaches to genome sequencing are required to support more extensive
+surveillance and analysis. Fortuitously, a small deletion in the B.1.1.7 strain has provided a way to identify this variant
+by S-gene target failure (SGTF). New PCR-based and non-PCR-based methods (such as SNP genotyping) are
+required to track variants.
+
+Leveraging trials and cohorts: Key information on variants can be obtained both from randomized trials and
+longitudinal population cohort studies. Both types of study should include approaches for linking genomic, clinical and
+other data.
+
+Nomenclature: Multiple nomenclature systems are currently in use for SARS-CoV-2. A unified approach would
+reduce confusion caused by different naming conventions. From a scientific perspective, a convention that
+incorporates virologically important information into strain names would be useful. A complementary but more
+informal system might be required for public communication. Ideally, any naming system should avoid the use of
+country names or locations.
+
+Communication: The emergence of variants has understandably raised public fears. Open but careful public
+communication is important to provide an accurate assessment of the risk posed by specific variants and gaps in
+knowledge, to maintain confidence without providing false reassurance. It is important to convey the message that
+the dangers posed by variants are recognized and that the global scientific community has a coherent strategy to
+address them.
+
+Global coordination: An over-arching conclusion was the need for global cooperation and collaboration, with WHO
+the most appropriate body to lead global coordination. The COVID-19 research agenda is vast in scope and there is
+an urgent need for data to inform decision-making and the development of interventions. Coordination can ensure a
+focus on priority questions, avoid unnecessary duplication of efforts, and provide platforms for the rapid sharing and
+
+COVID-19 new variants: Knowledge gaps and research
+12 January 2021
+
+assimilation of data so that all can benefit. A core aspect of global cooperation is that the roles and responsibilities of
+all partners – multilateral agencies, national governments, academia, the private sector and others – are clearly
+defined.
+
+Conclusion
+Viral evolution is an inevitability, and further SARS-CoV-2 variants are bound to arise. It is vital that global systems
+are put in place to detect, characterize and respond to these variants to minimize their public health impact.
+
+In 2020, the global research community came together to agree a global research agenda to tackle COVID-19. These
+coordinated efforts underpinned the development of COVID-19 vaccines at unprecedented speed, as well as the
+generation of evidence on therapeutics. Similar efforts are now needed to address the threat posed by SARS-CoV-2
+variants.
+
+

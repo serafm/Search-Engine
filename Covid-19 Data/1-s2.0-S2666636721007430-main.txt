@@ -1,0 +1,269 @@
+Journal Pre-proof
+
+COVID-19 Cliff Notes–A COVID-19 Multi-disciplinary Care
+Compendium
+KM Williams MD , PT Wilson MD, MPH , F Silva-Palacios MD ,
+J Kebbe MD , AD LaBeaud MD MS , Higuita N Agudelo MD ,
+RF Sidonio MD MSc , SR Stowell MD PhD , C Josephson MD ,
+A. Tarini Beth MD MS , Chakrabarty J Holter MD ,
+AL Agwu MD ScM
+PII:
+DOI:
+Reference:
+
+S2666-6367(21)00743-0
+https://doi.org/10.1016/j.jtct.2021.02.036
+JTCT 56328
+
+To appear in:
+
+Transplantation and Cellular Therapy
+
+Received date:
+Accepted date:
+
+18 February 2021
+28 February 2021
+
+Please cite this article as: KM Williams MD , PT Wilson MD, MPH , F Silva-Palacios MD ,
+J Kebbe MD ,
+AD LaBeaud MD MS ,
+Higuita N Agudelo MD ,
+RF Sidonio MD MSc ,
+SR Stowell MD PhD ,
+C Josephson MD ,
+A. Tarini Beth MD MS ,
+Chakrabarty J Holter MD ,
+AL Agwu MD ScM , COVID-19 Cliff Notes–A COVID-19 Multi-disciplinary Care Compendium,
+Transplantation and Cellular Therapy (2021), doi: https://doi.org/10.1016/j.jtct.2021.02.036
+
+This is a PDF file of an article that has undergone enhancements after acceptance, such as the addition
+of a cover page and metadata, and formatting for readability, but it is not yet the definitive version of
+record. This version will undergo additional copyediting, typesetting and review before it is published
+in its final form, but we are providing this version to give early visibility of the article. Please note that,
+during the production process, errors may be discovered which could affect the content, and all legal
+disclaimers that apply to the journal pertain.
+© 2021 Published by Elsevier Inc. on behalf of The American Society for Transplantation and
+Cellular Therapy.
+
+Highlights:
+
+
+Optimal COVID-19 treatment includes a multidisciplinary approach.
+
+
+
+We provide a compendium of COVID-19 therapies for children and adults.
+
+
+
+Rapid COVID-19 therapy is vital for stem cell transplant and cell therapy patients.
+
+COVID-19 Cliff Notes--A COVID-19 Multi-disciplinary Care Compendium
+Williams, KM MD1, Wilson PT MD, MPH2, Silva-Palacios F MD3, Kebbe J MD4, LaBeaud AD MD
+MS5, Agudelo Higuita N MD6, Sidonio RF MD MSc1, Stowell SR MD PhD7, Josephson C MD8, Beth
+A. Tarini MD MS,9 Holter Chakrabarty J MD10*, and Agwu, AL MD ScM11*
+1
+
+Aflac Cancer and Blood Disorders Center, Children’s Healthcare of Atlanta, Emory University School
+of Medicine, Atlanta, GA
+2
+
+Department of Pediatrics, Division of Pediatric Critical Care Medicine, Columbia University Medical
+Center, New York, NY
+3
+
+Vascular Medicine, Cardiovascular Section, Department of Medicine, University of Oklahoma Health
+Sciences Center, Oklahoma City, OK.
+4
+
+Department of Medicine, Section of Pulmonary, Critical Care and Sleep Medicine, University of
+Oklahoma Health Sciences Center, Oklahoma City, OK
+5
+
+Department of Pediatrics, Division of Infectious Diseases, Stanford University School of Medicine,
+Stanford, CA
+6
+
+Section of Infectious Diseases, Department of Medicine. University of Oklahoma Health Science
+Center, Oklahoma City, OK
+7
+
+Department of Pathology and Laboratory Medicine, Center for Transfusion and Cellular Therapies,
+Emory University School of Medicine, Atlanta, GA
+8
+
+Department of Pathology and Laboratory Medicine, Center for Transfusion and Cellular Therapies,
+Emory University School of Medicine, Atlanta, GA
+9
+
+Children’s Research Institute, Children’s National Hospital, Washington DC; Department of Pediatrics,
+George Washington University
+10
+
+Department of Medicine, Division of Hematology/Oncology/Marrow Transplantation and Cell
+Therapy, University of Oklahoma, Stephenson Cancer Center, Oklahoma City, OK* co-last
+11
+
+Department of Pediatrics and Medicine, Division of Infectious Diseases, Johns Hopkins University
+School of Medicine, Baltimore, MD* co-last
+Contact: Kirsten M. Williams MD
+Associate Professor
+Blood and Marrow Transplant Program
+Aflac Cancer & Blood Disorders Center
+Children’s Healthcare of Atlanta
+Department of Pediatrics, Emory University School of Medicine
+1760 Haygood Drive, 3rd Floor W362
+Atlanta, GA 30322
+Phone: 404-727-4253/ Fax: 404-272-4455
+Email: Kwill99@emory.edu
+Running Head: COVID-19 Cliff Notes
+
+Abstract: As we pass the nearly 9 month mark of the coronavirus virus disease 2019 (COVID-19)
+pandemic in the United States, we sought to compile a brief multi-disciplinary compendium of COVID19 information learned to date. COVID-19 is an active viral pandemic caused by severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2) that confers high morbidity and mortality. COVID19 has been associated with: pulmonary compromise and acute respiratory distress syndrome,
+thrombotic events, inflammation and cytokine, and post-infectious syndromes. Mitigation of these
+complications and expeditious therapy are a global urgency; this is brief summary of current data and
+management approaches synthesized from publications, experience, cross-disciplinary expertise (Figure
+1).
+Pulmonary and supportive care: Progressive COVID-19 requires critical care. Priorities include:
+appropriate personal protective equipment, negative pressure rooms and minimization of particle
+aerosolization: regular or high flow nasal cannula (limited to ≤30 liters/minute), oxygen mask, and in
+very select cases a trial of non-invasive ventilation.1 Progressive failure necessitates safe endotracheal
+intubation by experienced providers and lung-protective mechanical ventilation (high positive end
+expiratory pressure and low tidal volumes), with adjunct therapies including: proning, inhaled
+pulmonary vasodilators, Extracorporeal Membrane Oxygenation, vasopressors, nutrition, and renal
+replacement therapy. Safe and expedient extubation must be prioritized in patients with successful
+spontaneous breathing trials1. Adult Respiratory Distress Syndrome (ARDS) is a life-threatening
+complication, with data suggesting low dose, short term, dexamethasone may have a critical role. 2
+Cardiac complications are increasingly recognized in COVID-19, including myocarditis, heart failure,
+arrhythmia; thus, cardiac evaluation is recommended in children and adults with severe disease.
+Additional risks of ulcers, thrombi, and fluid overload should be minimized. Evaluation for co-infections
+is warranted, as data have shown that bacterial and fungal pathogens contribute to mortality, and some
+suggest empiric anti-microbials.1
+
+COVID-19 Treatments: Two therapies continue to show promise for primary treatment of COVID-19.
+Convalescent plasma, i.e., plasma containing antibodies to SARS-CoV-2, obtained from individuals who
+have recovered from COVID-19, has a good safety record, data to suggest efficacy in severe disease,
+and was recently given emergency use authorization (EUA) by the FDA for use in COVID-19.3 Studies
+in children and adults are ongoing, with best results anticipated in patients who receive products with
+high neutralization titers. To date, the most encouraging antiviral agent is remdesivir, with some data
+showing it decreases time to recovery in adults.4 Antiviral treatment is likely most effective earlier in the
+illness (day 0-7) when there is active viral replication. It has been given emergency use authorization for
+the treatment of SARS-Co-V-2 in hospitalized adult and pediatric patients with severe disease.
+Emerging data suggests that monoclonal antibody therapy to SARS-COV2 may mitigate severe disease
+in outpatients early in the disease process, with either casirivimab and imdevimab or bamlanivimab
+(under EUA). 5, 6
+Coagulopathy and bleeding diathesis: SARS-CoV-2 infection predisposes patients to venous and
+arterial thrombosis, due to excessive inflammation, platelet activation, endothelial dysfunction and
+stasis. 7 Venous thromboembolism incidence risk is associated with disease severity, ≤70% in intensive
+care patients.7 Bleeding diatheses also occur in up to 5% of patients with COVID-19 and can be
+accompanied by hypofibrinogemia.7 To risk stratify, follow coagulation and hematology labs daily.
+Intermediate dose prophylaxis should be considered in ill patients, using anti-FXa to evaluate resistance
+and adjust dosage, including those on therapeutic dosing.
+
+7
+
+Careful consideration of changing renal
+
+function, thrombocytopenia, and impact of BMI on dosing of anticoagulation. Consider a very low
+threshold for chest computer tomography angiography, venous ultrasound. In ill adults, post-discharge
+thromboembolism prophylaxis could be considered for up to 4-5 weeks.
+Inflammation/ cytokine storm: Severe COVID-19 may present with life-threatening, uncompensated
+shock similar to cytokine release or macrophage activation syndromes with elevated ferritin, c-reactive
+protein, and d-dimers. Hallmarks include lymphopenia, elevated interleukin-6 (IL-6), and tumor necrosis
+
+factor alpha. Tociluzumab, an IL-6 antagonist, has shown survival benefit in the treatment of COVID198 without affecting viral clearance. This may be especially important for immunocompromised
+patients e.g. after cellular transplantation.9 In contrast, the risks of secondary infections have cautioned
+against systemic steroids in patients who do not have ARDS. For those refractory to tocilizumab, a
+method for in-line cytokine removal, CytoSorb, has received EUA for adults, though limited data exists.
+Post-infectious syndromes: Post-infectious syndromes such as a Guillain-Barré and a severe multisystem disease inflammatory syndrome in children (MIS-C) (also called pediatric inflammatory
+multisystem syndrome temporally associated with SARS-CoV-2) are emerging. MIS-C, is characterized
+by fever with one of the following: hypotension or shock, severe cardiac illness, severe end-organ
+involvement; or two or more of the following: maculopapular rash, bilateral non-purulent conjunctivitis,
+mucocutaneous inflammatory signs, acute gastrointestinal symptoms; and not explained by another
+diagnosis.10 Echocardiogram should be performed at presentation and repeated in 1-2 weeks. Treatment
+includes supportive care alongside consideration of immunomodulation, e.g. steroids, intravenous
+immunoglobulin, with uncommon use of inhibitors to IL-1 or Il-6, and anticoagulation.10
+This perspective is not a guideline, but provides a brief summary of current considerations for the care
+of patients with COVID-19, including details of: pulmonary and intensive care management, specific
+treatments for severe disease, coagulopathy, dysregulated inflammation, and post-infectious syndromes.
+The care of COVID-19 patients is a rapidly evolving field, which will require continued collaborations
+across disciplines and age groups to best care for these patients and improve outcomes as is highlighted
+by the patient synopsis.
+
+Conflict of Interest statement: All authors have no relevant conflict of interest for this work. Dr. Agwu
+has served as an HIV expert on the scientific advisory board of Gilead Sciences and expert advisory
+panel and consultant for Merck Pharmaceuticals for HIV therapies. Searches for institutional funding
+from Gilead (remdesivir) and Roche (Tociluzumab) revealed only that Emory University received a
+
+COMPASS grant from Gilead for HIV therapies. No known monetary compensation from industry
+related to COVID-19 is forthcoming to the hospitals/authors listed on this manuscript.
+
+Author statement: All authors contributed to the generation of the manuscript, editing, and final review.
+Dr. Williams initially crafted the outline of the manuscript and the panel of individuals to be included,
+which was further broadened by those individuals’ subsequent invitations.
+
+References:
+1.
+
+Poston JT, Patel BK, Davis AM. Management of Critically Ill Adults With COVID-19. JAMA 2020.
+e-pub ahead of print 2020/03/28; doi: 10.1001/jama.2020.4914
+
+2.
+
+Group RC, Horby P, Lim WS, Emberson JR, Mafham M, Bell JL et al. Dexamethasone in
+Hospitalized Patients with Covid-19 - Preliminary Report. N Engl J Med 2020. e-pub ahead of
+print 2020/07/18; doi: 10.1056/NEJMoa2021436
+
+3.
+
+Li L, Zhang W, Hu Y, Tong X, Zheng S, Yang J et al. Effect of Convalescent Plasma Therapy on
+Time to Clinical Improvement in Patients With Severe and Life-threatening COVID-19: A
+Randomized Clinical Trial. JAMA 2020. e-pub ahead of print 2020/06/04; doi:
+10.1001/jama.2020.10044
+
+4.
+
+Beigel JH, Tomashek KM, Dodd LE, Mehta AK, Zingman BS, Kalil AC et al. Remdesivir for the
+Treatment of Covid-19 - Preliminary Report. N Engl J Med 2020. e-pub ahead of print
+2020/05/24; doi: 10.1056/NEJMoa2007764
+
+5.
+
+Gottlieb RL, Nirula A, Chen P, Boscia J, Heller B, Morris J et al. Effect of Bamlanivimab as
+Monotherapy or in Combination With Etesevimab on Viral Load in Patients With Mild to
+Moderate COVID-19: A Randomized Clinical Trial. JAMA 2021. e-pub ahead of print 2021/01/22;
+doi: 10.1001/jama.2021.0202
+
+6.
+
+Weinreich DM, Sivapalasingam S, Norton T, Ali S, Gao H, Bhore R et al. REGN-COV2, a
+Neutralizing Antibody Cocktail, in Outpatients with Covid-19. N Engl J Med 2021; 384(3): 238251. e-pub ahead of print 2020/12/18; doi: 10.1056/NEJMoa2035002
+
+7.
+
+Al-Samkari H, Karp Leaf RS, Dzik WH, Carlson JCT, Fogerty AE, Waheed A et al. COVID-19 and
+coagulation: bleeding and thrombotic manifestations of SARS-CoV-2 infection. Blood 2020;
+136(4): 489-500. e-pub ahead of print 2020/06/04; doi: 10.1182/blood.2020006520
+
+8.
+
+Salama C, Han J, Yau L, Reiss WG, Kramer B, Neidhart JD et al. Tocilizumab in Patients
+Hospitalized with Covid-19 Pneumonia. N Engl J Med 2021; 384(1): 20-30. e-pub ahead of print
+2020/12/18; doi: 10.1056/NEJMoa2030340
+
+9.
+
+Sharma A, Bhatt NS, St Martin A, Abid MB, Bloomquist J, Chemaly RF et al. Clinical
+characteristics and outcomes of COVID-19 in haematopoietic stem-cell transplantation
+recipients: an observational cohort study. Lancet Haematol 2021. e-pub ahead of print
+2021/01/23; doi: 10.1016/S2352-3026(20)30429-4
+
+10.
+
+Feldstein LR, Rose EB, Horwitz SM, Collins JP, Newhams MM, Son MBF et al. Multisystem
+Inflammatory Syndrome in U.S. Children and Adolescents. N Engl J Med 2020. e-pub ahead of
+print 2020/07/01; doi: 10.1056/NEJMoa2021680
+
+

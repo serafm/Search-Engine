@@ -1,0 +1,253 @@
+Journal Pre-proof
+BCG vaccination and COVID-19: Was ﬂattening the curve just an illusion?
+Matteo Ricco Dr Silvia Ranzieri
+
+PII:
+
+S2666-9919(21)00037-3
+
+DOI:
+
+https://doi.org/doi:10.1016/j.idnow.2021.02.003
+
+Reference:
+
+IDNOW 4436
+
+To appear in:
+Received Date:
+
+20 January 2021
+
+Please cite this article as: Ricco M, Ranzieri S, BCG vaccination and COVID-19: Was
+ﬂattening the curve just an illusion?, Infectious Diseases Now (2021),
+doi: https://doi.org/10.1016/j.idnow.2021.02.003
+
+This is a PDF ﬁle of an article that has undergone enhancements after acceptance, such as
+the addition of a cover page and metadata, and formatting for readability, but it is not yet the
+deﬁnitive version of record. This version will undergo additional copyediting, typesetting and
+review before it is published in its ﬁnal form, but we are providing this version to give early
+visibility of the article. Please note that, during the production process, errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal
+pertain.
+© 2020 Published by Elsevier.
+
+BCG vaccination and COVID-19: Was flattening the curve just an illusion?
+Authors
+Matteo RICCO’1*, Silvia RANZIERI2
+Affiliation of the authors:
+(1) AUSL–IRCCS di Reggio Emilia, Servizio di Prevenzione e Sicurezza negli ambienti di
+Lavoro (SPSAL), Via Amendola n.2, I-42122, Reggio Emilia (RE), Italy;
+matteo.ricco@ausl.re.it / mricco2000@gmail.com ;
+(2) University of Parma, Department of Medicine and Surgery, School of Occupational
+Medicine, I-43123 Parma (PR), Italy; silvia.ranzieri@unipr.it ;
+
+ro
+of
+
+Key words: BCG Vaccine, COVID-19, Correlation of Data, Incidence, Mortality,
+Tuberculosis.
+
+-p
+
+Correspondence:
+Dr. Matteo RICCO', AUSL – IRCCS di Reggio Emilia, Servizio di Prevenzione e Sicurezza
+negli ambienti di Lavoro (SPSAL), Via Amendola n.2, Reggio Emilia (RE),
+Tel. 0039.3392994343 – 0039.522.837587;
+Email: matteo.ricco@ausl.re.it / mricco2000@gmail.com
+
+re
+
+Dear Sir,
+
+lP
+
+During the early stages of the ongoing SARS-CoV-2 pandemic, some reports hinted at a
+“protective” effect of BCG vaccination regarding COVID-19, mainly in terms of avoided
+
+Jo
+ur
+na
+
+mortality (1,2). As a result, BCG vaccination emerged as being possibly instrumental in
+“flattening” the curves of the pandemic.
+However, in a previous systematic review, we suggested that initial reports may have been
+“distorted” by the diachronous nature of the pandemic, of which the early stages strongly
+depended on the spreading of single outbreaks, which in turn were the eventual consequence
+of separate, even serendipitous events (3). While Europe is faced with a sustained resurgence
+of SARS-CoV-2 infection, it is reasonable to surmise that initial differences may have been
+leveled out, allowing more consistent comparison between various countries, particularly
+when dealing with ecological factors such as BCG vaccination rates.
+
+Page 1 of 5
+
+Therefore, with the aim of assessing the actual effect of BCG vaccination rates on SARS-CoV2 incidence rates and mortality, we retrieved official data on 47 European Countries from the
+ECDC “COVID-19 situation update for the EU/EEA” (http://ecdc.europa.eu/en/cases-2019ncov-eueea) in the 01/03/2020–14/12/2020 timeframe. Available data included daily
+notification rates on new COVID-19 cases and deaths. Respective 7-day moving average for
+notification of incident cases and 14-day moving average for death cases were calculated
+
+ro
+of
+
+accordingly. As BCG vaccination policies across European countries have been and remain
+quite heterogeneous (4), we utilized 12th month vaccination coverage 1980-2019 from
+WHO/UNICEF
+
+-p
+
+(https://apps.who.int/immunization_monitoring/globalsummary/timeseries/tswucoverageb
+
+re
+
+cg.html) as a proxy, which was then codified as dummy variable: 0 for countries without any
+previous vaccination policy or discontinuing mass vaccination before 1990; 1 for BCG
+
+lP
+
+vaccination rates ≤ 80%, 2 for rates 80% to 89.9%, 3 for rates 90 to 94.9%, 4 for rates ≥ 95%.
+Eventual estimates were then included as outcome variables of two distinctive regression
+
+Jo
+ur
+na
+
+models that were assumed as explanatory variables: BCG rate, population density, share of
+the general population aged 60 years or older, and two synthetic indices represented by the
+Gini coefficient and the Human Development Index (HDI) (5). The aforementioned factors
+were retrieved from the Eurostat database (https://ec.europa.eu/eurostat/). Gini Coefficient
+is a measure of statistical dispersion designed to represent income inequality or wealth
+inequality within a nation. HDI is a composite statistical index of life expectancy, education,
+and per capita income. A summary of raw data is reported in Appendix 1.
+
+Notification rates were not correlated with BCG rates or economic and demographic indices,
+nor, as shown in Table 1, was BCG rate an effective predictor for either incident cases (Beta
+
+Page 2 of 5
+
+0.074; 95%CI -1.364 to 1512, p = 0.918) or death cases (Beta -0.016; 95%CI -0.046 to 0.013 p
+= 0.271).
+
+Our estimates are affected by significant limits. First, not only are European policies on BCG
+heterogenous, but also, the reporting of corresponding vaccination rates is often inconsistent
+(4). As a result, we were forced to approximate, referring to a proxy rather than to actual
+
+ro
+of
+
+vaccination rates. Second, notification rates on COVID-19 are characterized by significant
+heterogeneities, with resultingly uncertain estimates (6). Third, different European countries
+applied mitigation measures that were heterogenous in terms of timing, scope and means
+
+-p
+
+(3,6). Such factors are essentially qualitative, and decidedly elusive in terms of statistical
+
+re
+
+modelling. Lastly, European countries are highly variable in terms of ethnographic
+
+ecological study (3).
+
+lP
+
+composition; as a result, background genetic factors can hardly be ruled out by means of
+
+Jo
+ur
+na
+
+To conclude, our analyses suggest that the effects of BCG on the ongoing dynamics of the
+SARS-CoV-2 pandemic are very difficult, if not impossible to ascertain,. Even though the role
+of BCG-elicited “trained immunity” (i.e. enhanced reactivity of the innate immune system by
+means of increased secretion of pro-inflammatory cytokines) in COVID-19 has not been
+clearly ruled out, there is no evidence that BCG may protect people against SARS-CoV-2
+infection (1–3), and there is no evidence justifying recommendation of BCG vaccination as a
+means of preventing COVID-19.
+
+Conflict of Interest: Each author declares that he or she has no commercial associations (e.g.
+consultancies, stock ownership, equity interest, patent/licensing arrangement etc.) that might
+pose a conflict of interest in connection with the submitted article. The facts, conclusions, and
+
+Page 3 of 5
+
+Jo
+ur
+na
+
+lP
+
+re
+
+-p
+
+ro
+of
+
+opinions stated in the article represent the authors’ research, conclusions, and opinions, and are
+believed to be substantiated, accurate, valid, and reliable. However, as this article includes the
+results of personal research of the authors, presenting correspondent, personal conclusions, and
+opinions, parent employers are not forced in any way to endorse or share its content and its
+potential implications.
+
+Page 4 of 5
+
+References
+1.
+
+Urashima M, Otani K, Hasegawa Y, Akutsu T. BCG Vaccination and mortality of
+
+covid-19 across 173 countries: An ecological study. Int J Environ Res Public Health.
+2020;17(15):5589. doi: 10.3390/ijerph17155589
+2.
+
+Brooks N, Puri A, Garg S, Nag S, Kaka N, Zemmel R, et al. The association of
+
+Coronavirus Disease-19 mortality and prior bacille Calmette-Guerin vaccination: a robust
+ecological evaluation using unsupervised machine learning. Sci Rep 2021;11:774. doi:
+
+3.
+
+ro
+of
+
+10.1038/s41598-020-80787-z
+
+Riccò M, Gualerzi G, Ranzieri S, Luigi Bragazzi N. Stop playing with data: There is
+
+no sound evidence that bacille calmette-guérin may avoid SARS-CoV-2 infection for now.
+
+Dierig A, Tebruegge M, Krivec U, Heininger U, Ritz N. Current status of Bacille
+
+re
+
+4.
+
+-p
+
+Acta Biomed. 2020;91(2):207–13. doi: 10.23750/abm.v91i2.9700
+
+Calmette Guérin (BCG) immunisation in Europe - A ptbnet survey and review of current
+
+5.
+
+lP
+
+guidelines. Vaccine 2015;33(38):4994–9. doi: 10.1016/j.vaccine.2015.06.097
+Zille AI, Werneck GL, Luiz RR, Conde MB. Social determinants of pulmonary
+
+Jo
+ur
+na
+
+tuberculosis in Brazil: an ecological study. BMC Pulmunary Med. 2019;19:87. doi:
+10.1186/s12890-019-0855-1.
+6.
+
+Fuller JA, Hakim A, Victory KR, Date K, Lynch M, Dahl B. Mitigation Policies and
+
+COVID-19 – Associated Mortality - 37 European Countries, January 23 - June 30, 2020.
+Morb Mortal Wkly Rep. 2021;70(2):58–62. doi: 10.15585/mmwr.mm7002e4
+
+Page 5 of 5
+
+

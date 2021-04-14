@@ -1,0 +1,2329 @@
+Infection prevention and control healthcare facility response for COVID-19
+A module from the suite of health service capacity assessments in
+the context of the COVID-19 pandemic
+INTERIM GUIDANCE
+20 October 2020
+
+Infection prevention and control healthcare facility response for COVID-19
+A module from the suite of health service capacity assessments in
+the context of the COVID-19 pandemic
+INTERIM GUIDANCE
+20 October 2020
+
+Infection prevention and control health-care facility response for COVID-19
+WHO continues to monitor the situation closely for any changes that may affect this interim
+guidance. Should any factors change, WHO will issue a further update. Otherwise, this interim
+guidance document will expire 2 years after the date of publication.
+
+© World Health Organization 2020. Some rights reserved. This work is available under the
+CC BY-NC-SA 3.0 IGO licence.
+WHO reference number: WHO/2019-nCoV/HCF_assessment/IPC/2020.1
+
+Contents
+Acknowledgements ................................................................................................................... iv
+Introduction................................................................................................................................. 1
+Section 1: Health facility identification and description ................................................................ 4
+Section 2: IPC programme ......................................................................................................... 6
+Section 3: IPC guidelines and standard operating procedures (SOPs) ....................................... 7
+Section 4: IPC training and monitoring...................................................................................... 10
+Section 5: Screening, triage, early recognition and testing of COVID-19 .................................. 12
+Section 6: Built environment, infrastructure and supplies .......................................................... 15
+Section 7: Visitors ..................................................................................................................... 20
+Section 8: Maintaining IPC interventions .................................................................................. 21
+Results summary ...................................................................................................................... 22
+Workplan to address gaps ........................................................................................................ 23
+References ............................................................................................................................... 24
+Annex 1. Suite of health service capacity assessments in the context of the COVID-19
+pandemic ................................................................................................................... 25
+Annex 2. Data Sharing.............................................................................................................. 27
+
+iii
+
+Acknowledgements
+This assessment tool was developed under the leadership of the World Health Organization (WHO) Health
+Services Performance Assessment unit, in collaboration with WHO colleagues from the crossprogrammatic working group on monitoring essential health services in the context of the COVID-19
+pandemic and under the incident management support team pillar 9 (Maintaining essential health services
+and systems). The work was led and coordinated by Benedetta Allegranzi, Anthony Twyman, Matias
+Chiarastelli Salomao and Vicky Willet.
+WHO wishes to thank the external experts who contributed to the different stages of development of this
+assessment tool: John Conly, University of Calgary, Alberta Health Services, Canada; Fernanda
+Constantino Lessa, United States Centers for Disease Control and Prevention, United States of America
+(USA); Shaheen Mehtar, Cape Town, South Africa; Maria Clara Padoveze, University of São Paulo, Brazil;
+and Mitchell Schwaber, Ministry of Health, Israel.
+Thanks are also due to the following WHO staff who contributed to the development of the tool: WHO
+headquarters – April Baller, Isabel Bergeri, Alessandro Cassini, Thomas Grein, Ann-Lise Guisset,
+Siddhivinayak Shriram Hirve, Dirk Horemans, Madison Taylor Moon, Madison Taylor Moon, Kathryn
+O’Neill, Briana Rivas-Morello and Alice Simniceanu; WHO Regional Office for Africa – Mahamed Ibrahuim
+Abdi, Gertrude Avortri, Mekdim Ayana, Amy Elizabeth Barrera-Cancedda, Nino Dayanghirang, Landry
+Kabego, Pierre Kariyo, Awa Ndir and Kevin Ousman; WHO Regional Office for the Americas/Pan American
+Health Organization – Jonas Gonseth-Garcia, Pilar Ramon-Pardo and Joao Toledo; WHO Regional Office
+for South-East Asia – Richard Brown, Mark Simmerman, Pushpa Ranjan Wijesinghe and Masahiro Zakoji;
+WHO Regional Office for Europe – Ana Paula Coutinho Rehse; WHO Regional Office for the Eastern
+Mediterranean – Iman Heweidy, Mondher Letaief, Maha Talaat and Bassim Zayed; WHO Regional Office
+for the Western Pacific – Jocelyne Marie Basseal, Sophie Harriet Dennis, Socorro Escalante, Chin-Kei Lee,
+Takeshi Nishijima, Sharon Salmon and Peta-Anne Patricia Zimmerman.
+
+iv
+
+Introduction
+Context
+
+On 30 January 2020, the Director-General of the World Health Organization (WHO), declared the
+COVID‑19 outbreak to be a global public health emergency of international concern under the International
+Health Regulations. Following the spread of COVID-19 cases in many countries across continents,
+COVID-19 was characterized as a pandemic on 11 March 2020 by the Director-General, upon the advice
+of the International Health Regulations Emergency Committee.
+The COVID-19 pandemic has continued to shine a light on the fragility of health services and public health
+systems globally. It has revealed that even robust health systems can be rapidly overwhelmed and
+compromised by an outbreak. Against this rapidly evolving situation, many countries are facing challenges
+in the availability of accurate and up-to-date data on capacities to respond to COVID-19 while maintaining
+the provision of essential health services. Few countries have reliable and timely data on existing and surge
+health workforce and service capacities.
+In response to this situation WHO has developed the “Infection prevention and control health-care facility
+response for COVID-19” monitoring tool. This tool has been designed to assess infection prevention and
+control capacities to respond to COVID-19 in health facilities. This tool forms part of a wider Suite of health
+service capacity assessments in the context of the COVID-19 pandemic. These different monitoring tools
+focus on different aspects of the dual-track of maintaining essential health services while continuing to
+manage COVID-19 cases. The suite and the different modules are described in annex 1.
+
+Objectives of this module: Infection prevention and control health-care facility
+response for COVID-19
+
+This self-assessment tool is designed for acute health-care facilities (i.e. tertiary and secondary) but can be
+modified for the use in long-term care facilities, to help identify, prioritize and address the gaps in infection
+prevention and control (IPC) capacity in managing their response to COVID-19. The tool should be used by
+IPC professionals and/or those responsible for disaster planning or outbreak management in the facility
+(such as the response to the COVID-19 outbreak) at the start of the improvement process. A sample
+workplan template is provided to address gaps identified and record required actions. Repeat assessments
+are recommended (i.e. once a month), in order to correct actions and maintain an adequate response to
+the COVID-19 outbreak. In order to best evaluate the facility’s improving opportunities, it is suggested to
+answer the questions carefully and critically.
+This tool focuses on the readiness, response and maintenance of the COVID-19 outbreak for IPC. It takes
+into account the most essential elements to prevent and control COVID-19 in acute health facilities as well
+as long-term care facilities. It is based on the currently available, up-to-date and published WHO interim
+guidance for IPC in the context of COVID-19, as well as the minimum requirements for IPC programmes
+(2). All published materials on COVID-19 can be found on the WHO website (3).
+This tool does not replace the IPC Assessment Framework (IPCAF) tool (4), which was developed to
+support the implementation of the WHO guidelines on core components of IPC programmes at the acute
+health-care facility level (5).
+
+Content areas
+This assessment tool covers the following aspects:
+•
+•
+
+IPC programmes;
+IPC guidelines and standard operating procedures;
+
+•
+•
+•
+•
+•
+
+IPC training and monitoring;
+screening, triage, early recognition and testing of COVID-19;
+built environment, infrastructure and supplies;
+visitors; and
+maintaining IPC interventions.
+
+Target audience
+The tool is primarily intended to be self-administered (i.e. a self-assessment tool), but it can also be used
+for joint assessments, through careful discussions between external assessors (for example, from the
+ministry of health, WHO or other stakeholders) and facility staff, IPC professionals and/or facility managers.
+
+Key questions that this tool can help to answer
+The self-assessment tool is intended to answer the following key questions:
+•
+•
+•
+•
+•
+
+Do facilities have a minimum IPC programme or focal point assisting in their COVID-19 response?
+Are facilities adequately equipped with critical IPC supplies and infrastructure to support a robust
+COVID-19 response or resurgence?
+Are facilities providing baseline IPC training in standard precautions and COVID-19-related
+guidelines and protocols as per international guidance?
+Are facilities performing IPC monitoring of COVID-19 infections in patients/residents, residents
+and staff?
+Do facilities have appropriate flow and visitor restrictions in place?
+
+When to use this module
+This module should be used as part of preparedness and/or response.
+
+Mode of data collection
+Paper-based and electronic collection of data is used.
+
+Methodology
+
+The tool should be used to assess your facility according to the seven sections presented and to help
+identify, prioritize and address gaps in the facility’s IPC capacity. Each row in the assessment tool contains
+three statements related to targets for a specific response facet. These three statements are presented for
+each target, and describe whether the facility meets the target (+++, 3), partially meets the target (++, 2),
+or does not meet the target (+, 1). Read each statement carefully, then in the columns to the right place an
+X or check mark to indicate which description best fits this facility. If it is not possible to find out, check "DK"
+to indicate "don't know", and if the statement does not apply at this facility, check "NA" for "not applicable".
+Only check one category (meets/partial/does not/DK/NA) per row.
+Mark the points for each subsection in the first line and add up the points at the end of each section to
+assess overall performance. For “partially meets the target” (++, 2) or “does not meet the target” (+, 1),
+be sure to list any gaps identified, to help create action plans.
+
+Ethical considerations
+The guidance provided is not considered research, therefore, there is no need to submit it to the WHO
+Research Ethics Review Committee (ERC). Individual countries may need local ethics committee approval,
+depending on local law and guidelines and exactly what is done. They should ensure that they fulfil their
+ethical obligations submitting the document to the pertinent local ethics boards.
+2
+
+Respondents should be asked upfront for their informed consent. The WHO data sharing agreement
+“Policy on use and sharing of data collected in Member States by the World Health Organization (WHO)
+outside the context of public health emergencies” specifies arrangement with regards to usage, and
+dissemination of the data gathered. The agreement is attached as annex 2.
+
+3
+
+Section 1: Health facility identification and description
+The questions in this section are related to the facility identification and description.
+No.
+
+Question
+
+1.1
+
+Facility code
+
+1.1.1
+
+Region/province name
+
+1.1.2
+
+District/county name
+
+1.1.3
+
+(Country-specific question)
+Village/clan/locality name
+
+Response options
+
+1.2
+
+Facility name
+
+1.3
+
+Address of facility
+
+1.4
+
+Residence area
+
+1. Urban
+2. Peri-/ex-urban (country-specific, if relevant)
+3. Rural
+
+1.5
+
+Type of facility
+
+1. Primary care centre/clinic
+2. First referral hospital (district hospital)
+3. Other general hospital with specialties
+or single-specialty hospital
+4. Long-term care facility
+5. Other
+If other, please specify:
+___________________________________
+(Note: adapt response options to the country’s
+own health system.)
+
+1.6
+
+Managing authority
+
+1. Government
+2. Private for profit
+3. Private not for profit (e.g. nongovernmental
+organization, faith-based)
+4. Other
+
+1.7
+
+Facility director/manager’s name
+
+1.8
+
+Facility director/manager’s
+telephone number
+
+1.9
+
+Facility director/manager’s email
+address
+
+1.10
+
+Respondent or key informant’s name
+
+1.11
+
+Respondent or key informant’s position
+
+1.12
+
+Date
+
+1.13
+
+Geographical coordinates of the facility
+(if applicable)
+
+1.13.1
+
+Latitude
+
+1.13.2
+
+Longitude
+
+1.14
+
+Day:
+
+Interviewer code
+
+4
+
+Month:
+
+Year:
+
+The following questions relate to the services offered in this facility.
+No.
+
+Question
+
+Response options
+
+1.15
+
+Does this facility provide
+inpatient services?
+
+1. Yes
+2. No – skip to question 1.16
+
+1.16
+
+How many overnight/inpatient beds
+does the facility have in total, excluding
+delivery beds?
+
+____________________ beds (numeric entry)
+
+1.17
+
+Does the facility have the following
+departments or wards/spaces?
+
+1. Yes
+
+2. No
+
+1.17.1
+
+Dedicated 24-hour staffed
+emergency unit
+
+☐
+
+☐
+
+1.17.2
+
+Intensive care or other highdependency unit
+
+☐
+
+☐
+
+1.17.3
+
+Operating room
+
+☐
+
+☐
+
+1.18
+
+If the answer to question 1.16.2 is “No”,
+skip to next section
+
+1.19
+
+Of the total number of inpatient beds,
+how many are intensive care unit
+(ICU) beds?
+
+____________________ beds (numeric entry)
+
+5
+
+Section 2: IPC programme
+Meets target
++++ (3)
+
+Partially meets target
+++ (2)
+
+IPC
+programme
+
+The facility has BOTH of
+the following:
+• an IPC programme,
+supported by at
+least one full-time IPC
+professional or
+equivalent (nurse or
+doctor working 100%
+in IPC) per 250 beds
+• an IPC professional or
+focal point that
+participates in
+outbreak management planning
+activities for COVID-19
+
+The facility has one of the
+following:
+• an IPC programme,
+supported by at least
+one full-time IPC
+professional or
+equivalent (nurse or
+doctor working 100%
+in IPC) per 250 beds
+• an IPC professional or
+focal point that
+participates in
+outbreak management planning
+activities for COVID-19
+
+The facility does NOT
+have either an IPC
+programme or an IPC
+focal point
+
+2.2
+
+IPC committee
+
+The facility has an IPC
+committeea actively
+supporting the IPC
+programme
+
+The facility has an IPC
+committeea but it is
+NOT active
+
+The facility does NOT
+have an IPC committeea
+
+2.3
+
+IPC budget
+
+The facility has a
+dedicated budget to
+secure all IPC needs for
+the COVID-19 response
+and to ensure continuous
+support to other core IPC
+activities within healthcare delivery
+
+The facility has funds to
+secure some IPC needs
+for COVID-19 response
+but does NOT have a
+dedicated budget for
+continuous support to
+other core IPC activities
+
+The facility does NOT
+have either sufficient
+emergency funds for IPC
+needs for COVID-19
+response or a dedicated
+budget for continuous
+support to other core IPC
+activities
+
+No.
+
+Area
+
+2.1
+
+Total
+a
+
+Does not meet target
++ (1)
+
+Score
+
+Gaps identified
+
+/9
+
+An IPC committee is a multidisciplinary group with interested stakeholders across the facility, which interacts with and advises the IPC team. An IPC team includes dedicated IPC
+professionals who are responsible for the IPC programme.
+
+6
+
+Section 3: IPC guidelines and standard operating procedures (SOPs)
+No.
+3.1
+
+Area
+IPC
+guidelines
+and SOPs –
+general IPC
+
+Meets target
++++ (3)
+
+Partially meets target
+++ (2)
+
+Does not meet target
++ (1)
+
+The facility has ALL of the
+following guidelines and/or
+SOPs available:
+• standard precautionsa
+• transmission-based
+precautionsb
+• decontamination of
+medical devices
+• aseptic technique for
+invasive procedures,
+including surgery
+• specific SOPs to
+prevent the most
+prevalent hospitalacquired infections,
+based on the local
+context/epidemiology
+• occupational health
+
+The facility has at least 3
+of the following guidelines
+and/or SOPs available:
+• standard precautionsa
+• transmission-based
+precautionsb
+• decontamination of
+medical devices
+• aseptic technique for
+invasive procedures,
+including surgery
+• specific SOPs to
+prevent the most
+prevalent hospitalacquired infections,
+based on the local
+context/epidemiology
+• occupational health
+
+The facility has 2 or fewer
+of the following guidelines
+and/or SOPs available:
+• standard precautionsa
+• transmission-based
+precautionsb
+• decontamination of
+medical devices
+• aseptic technique for
+invasive procedures,
+including surgery
+• specific SOPs to
+prevent the most
+prevalent hospitalacquired infections,
+based on the local
+context/epidemiology
+• occupational health
+
+7
+
+Score
+
+Gaps identified
+
+Meets target
++++ (3)
+
+Partially meets target
+++ (2)
+
+Does not meet target
++ (1)
+
+COVID-19
+guidelines
+and SOPs
+
+The facility has ALL of the
+following guidelines and/or
+SOPs available:
+• IPC during health care
+for suspected and
+confirmed COVID-19c
+• dead body
+management
+• rational and extended
+use of personal
+protective equipment
+(PPE) and masks
+
+The facility has at least 2
+of the following guidelines
+and/or SOPs available:
+• IPC during health care
+for suspected and
+confirmed COVID-19c
+• dead body
+management
+• rational and extended
+use of PPE and masks
+
+The facility has 1 or none
+of the following guidelines
+and/or SOPs available:
+• IPC during health care
+for suspected and
+confirmed COVID-19c
+• dead body
+management
+• rational and extended
+use of PPE and masks
+
+Health workers
+and
+COVID-19
+
+The facility has ALL of the
+following guidelines and/or
+SOPs available:
+• monitoring health
+workers exposed to
+and/or infected with
+COVID-19
+• protocols for health
+workers returning to
+work post-COVID
+
+The facility has at least 1
+of the following guidelines
+and/or SOPs available:
+• monitoring health
+workers exposed to
+and/or infected with
+COVID-19
+• protocols for health
+workers returning to
+work post-COVID
+
+The facility has NONE of
+the guidelines and/or
+SOPs for monitoring
+health workers NOR
+management protocols
+
+No.
+
+Area
+
+3.2
+
+3.3
+
+8
+
+Score
+
+Gaps identified
+
+No.
+3.4
+
+Area
+COVID-19
+surveillance
+
+Meets target
++++ (3)
+
+Partially meets target
+++ (2)
+
+Does not meet target
++ (1)
+
+The facility has ALL of the
+following guidelines and/or
+SOPs available:
+• screening for
+COVID-19 (triage and
+inpatients/residents)
+• COVID-19 testing and
+specimen transport
+• monitoring staff and
+inpatients/residents for
+COVID-19 infections
+• reporting and
+notification of
+COVID-19 infections
+and outbreaks for
+inpatients/residents
+
+The facility has at least 2
+of the following guidelines
+and/or SOPs available:
+• screening for
+COVID-19 (triage and
+inpatients/residents)
+• COVID-19 testing and
+specimen transport
+• monitoring staff and
+inpatients/residents for
+COVID-19 infections
+• reporting and
+notification of
+COVID-19 infections
+and outbreaks for
+inpatients/residents
+
+The facility has 1 or none
+of the following guidelines
+and/or SOPs available:
+• screening for
+COVID-19 (triage and
+inpatients/residents)
+• COVID-19 testing and
+specimen transport
+• monitoring staff and
+inpatients/residents for
+COVID-19 infections
+• reporting and
+notification of
+COVID-19 infections
+and outbreaks for
+inpatients/residents
+
+Total
+
+Score
+
+Gaps identified
+
+/12
+
+a Standard precautions as per aide-mémoire: hand hygiene, use of PPE and risk assessment, respiratory hygiene and cough etiquette, injection safety (including management of needlestick
+injury), environmental cleaning, linen management, waste management, and cleaning and disinfection of equipment for patient care (non-critical equipment only) (6).
+b Transmission-based precautions are: contact, droplet and airborne precautions.
+c IPC for suspected and confirmed COVID-19 should include: screening and triage for early recognition of patients/residents with suspected COVID-19, rapid implementation of source-control
+measures (isolation and designated waiting areas), hand hygiene, respiratory hygiene, use of PPE, environmental cleaning, waste management, transmission-based precautions (including
+cohorting), airborne precautions during aerosol-generating procedures, and administrative and engineering controls.
+
+9
+
+Section 4: IPC training and monitoring
+No.
+
+Area
+
+Meets target
++++ (3)
+
+Partially meets target
+++ (2)
+
+Does not meet target
++ (1)
+
+4.1
+
+IPC
+training –
+general
+
+ALL health workers (≥70%)
+in the facility are trained
+and documented on the
+following topics:
+• standard precautions
+• transmission-based
+precautionsa
+• prevention of the most
+prevalent hospitalacquired infections (e.g.
+prevention of surgical
+site infection) based on
+the local context and as
+it relates to their role
+• refresher training
+completed at least
+annually
+
+At least 50–70% of health
+workers in the facility are
+trained and documented
+on the following topics:
+• standard precautions
+• transmission-based
+precautionsa
+• prevention of the most
+prevalent hospitalacquired infections (e.g.
+prevention of surgical
+site infection) based on
+the local context and as
+it relates to their role
+• refresher training
+completed at least
+annually
+
+LESS THAN 50% of health
+workers in the facility are
+trained and documented on
+the following topics:
+• standard precautions
+• transmission-based
+precautionsa
+• prevention of the most
+prevalent hospitalacquired infections (e.g.
+prevention of surgical
+site infection) based on
+the local context and as
+it relates to their role
+• refresher training
+completed at least
+annually
+
+4.2
+
+IPC
+training –
+COVID-19
+
+There is documentation
+that ALL health workers
+have received training for
+IPC and COVID-19-related
+protocols and procedures
+(as listed in Section 3), as
+it relates to their role
+
+There is documentation
+that at least 70% of health
+workers have received
+training for IPC and
+COVID-19-related
+protocols and procedures
+(as listed in Section 3), as
+it relates to their role
+
+Documentation that <70%
+of health workers have
+received training for IPC
+and COVID-19-related
+protocols and procedures
+(as listed in Section 3), as it
+relates to their role
+
+10
+
+Score
+
+Gaps identified
+
+No.
+
+Area
+
+Meets target
++++ (3)
+
+Partially meets target
+++ (2)
+
+Does not meet target
++ (1)
+
+4.3
+
+IPC training –
+patients/
+residents
+
+The facility offers IPC
+training and/or education
+to patients/residents and
+visitors, explaining
+necessary IPC intervention
+and other measures for
+ensuring patient and health
+worker safety
+
+The facility offers IPC
+training and/or education
+to patients/residents and
+visitors but NOT in a
+standardized way
+
+The facility does NOT offer
+IPC training and/or
+education to
+patients/residents and
+visitors
+
+4.4
+
+Monitoring
+
+The facility monitors, at a
+minimum, ALL of the
+following:
+• compliance with hand
+hygiene
+• appropriate use of
+personal protective
+equipment (PPE)
+• other facility-defined
+IPC indicators (e.g.
+health worker
+infections)
+
+The facility monitors, at a
+minimum, 1 of the
+following:
+• compliance with hand
+hygiene
+• appropriate use of PPE
+• other facility-defined
+IPC indicators (e.g.
+health worker
+infections)
+
+The facility does NOT
+monitor any IPC-specific
+indicators
+
+4.5
+
+Feedback
+
+The facility provides
+routine (monthly or
+quarterly) feedback to key
+stakeholdersb and the
+COVID-19 response
+committee
+
+The facility provides
+routine (1–2 times per
+year) feedback to key
+stakeholdersb and the
+COVID-19 response
+committee
+
+The facility does NOT
+provide routine feedback to
+key stakeholdersb and the
+COVID-19 response
+committee
+
+Total
+
+Score
+
+/15
+
+a
+
+Transmission-based precautions are: contact, droplet and airborne precautions.
+
+b
+
+Stakeholders may include: lead doctors and nurses, hospital managers, quality management and any other relevant party.
+
+11
+
+Gaps identified
+
+Section 5: Screening, triage, early recognition and testing of COVID-19
+Meets target
++++ (3)
+
+Partially meets target
+++ (2)
+
+Does not meet target
++ (1)
+
+Communication
+(posters,
+announcements,
+TV displays,
+etc.)
+
+The facility performs ALL
+of the following:
+• has signs or posters
+directing patients/
+residents and visitors
+to follow a specific
+pathway at all facility
+entrances
+• communicates about
+COVID-19 signs and
+symptoms to patients/
+residents and visitors
+• communicates how to
+correctly perform hand
+hygiene and respiratory
+etiquette, maintain
+physical distance and
+use a mask when
+needed
+
+The facility performs 2 of
+the following:
+• has signs or posters
+directing patients/
+residents and visitors
+to follow a specific
+pathway at all facility
+entrances
+• communicates about
+COVID-19 signs and
+symptoms to patients/
+residents and visitors
+• communicates how to
+correctly perform hand
+hygiene and respiratory
+etiquette, maintain
+physical distance and
+use a mask when
+needed
+
+The facility performs 1 or
+none of the following:
+• has signs or posters
+directing patients/
+residents and visitors
+to follow a specific
+pathway at all facility
+entrances
+• communicates about
+COVID-19 signs and
+symptoms to patients/
+residents and visitors
+• communicates how to
+correctly perform hand
+hygiene and respiratory
+etiquette, maintain
+physical distance and
+use a mask when
+needed
+
+Waiting area –
+physical
+separation
+
+A method is in place (to
+ensure a minimum of 1 m
+distance or physical
+separation (plastic/glass
+window, etc.) between
+patients/residents and
+visitors at all times
+
+NO standard method is
+in place (plastic/glass
+window, physical distance,
+etc.) but some distance
+and/or physical separation
+is observed of at least 1 m
+between patients/
+residents and visitors,
+but not at all times
+
+NO method is in place
+to ensure physical or
+geographical distance
+of at least 1 m between
+patients/residents and
+visitors
+
+No.
+
+Area
+
+5.1
+
+5.2
+
+12
+
+Score
+
+Gaps identified
+
+No.
+5.3
+
+5.4
+
+Area
+Waiting area –
+supplies
+
+Screening
+and triage
+
+Meets target
++++ (3)
+
+Partially meets target
+++ (2)
+
+Does not meet target
++ (1)
+
+The facility provides all of
+the following at all times
+for patients/residents
+and visitors:
+
+The facility provides 2 of
+the following at all times
+for patients/residents
+and visitors:
+
+The facility provides none
+or 1 of the following at all
+times for patients/
+residents and visitors:
+
+• hand hygiene
+stations (alcoholbased hand rub
+[ABHR] and/or soap,
+water and clean or
+disposable towels)
+• masks
+• tissues
+• waste bin
+
+• hand hygiene
+stations (ABHR and/
+or soap, water and
+clean or disposable
+towels)
+• masks
+• tissues
+• waste bin
+
+• hand hygiene
+stations (ABHR and/
+or soap, water and
+clean or disposable
+towels)
+• masks
+• tissues
+• waste bin
+
+The facility has ALL of the
+following in place:
+• physical barriers
+(plastic/glass window,
+tables) or geographic
+distancing (benches,
+chairs) in place, to
+ensure separation at
+least 1 m between staff
+and patients/ residents
+and among
+patients/residents in the
+screening and triage
+area
+• a separate and wellventilated (natural or
+mechanicala) area
+
+The facility has at least 2
+of the following in place:
+• physical barriers
+(plastic/glass window,
+tables) or geographic
+distancing (benches,
+chairs) in place, to
+ensure separation at
+least 1 m between staff
+and patients/ residents
+and among
+patients/residents in the
+screening and triage
+area
+• a separate and wellventilated (natural or
+mechanicala) area
+
+The facility has 1 or none
+of the following in place:
+• physical barriers
+(plastic/glass window,
+tables) or geographic
+distancing (benches,
+chairs) in place, to
+ensure separation at
+least 1 m between staff
+and patients/ residents
+and among
+patients/residents in the
+screening and triage
+area
+• a separate and wellventilated (natural or
+mechanicala) area
+
+13
+
+Score
+
+Gaps identified
+
+No.
+
+Area
+
+Meets target
++++ (3)
+
+Partially meets target
+++ (2)
+
+Does not meet target
++ (1)
+
+Score
+
+Gaps identified
+
+• access to personal
+• access to PPE for staff • access to PPE for staff
+protective equipment
+use at all times
+use at all times
+(PPE) for staff use at all • clear protocols for
+• clear protocols for
+times
+screening patients/
+screening patients/
+residents for
+residents for
+• clear protocols for
+COVID-19, with
+COVID-19, with
+screening patients/
+additional processes for
+additional processes for
+residents for
+screening visitors and
+screening visitors and
+COVID-19, with
+staff for COVID-19
+staff for COVID-19
+additional processes for
+screening visitors and
+• hand hygiene stations
+• hand hygiene stations
+staff for COVID-19
+(ABHR and/or soap,
+(ABHR and/or soap,
+water and clean or
+water and clean or
+• hand hygiene stations
+disposable
+towels)
+disposable towels)
+(ABHR and/or soap,
+water and clean or
+disposable towels)
+5.5
+
+Transfer of
+COVID-19
+patients/
+residents/
+
+The facility has BOTH of
+the following in place:
+• a clear pathway exists,
+is posted and
+appropriate staff
+trained for transferring
+suspected COVID-19
+patients/residents
+• PPE is accessible to
+all staff for transferring
+suspected COVID-19
+cases
+
+The facility has 1 of the
+following in place:
+• a clear pathway exists,
+is posted and
+appropriate staff
+trained for transferring
+suspected COVID-19
+patients/residents
+• PPE is accessible to
+all staff for transferring
+suspected COVID-19
+cases
+
+Total
+a
+
+•
+•
+
+The facility does NOT
+have a clear pathway
+available
+There is insufficient
+accessible PPE
+
+/15
+
+Natural ventilation: outdoor air driven by natural forces (for example, winds) through purpose-built openings in the building, including windows, doors, solar chimneys, wind towers and trickle
+ventilators. Mechanical ventilation: air driven by mechanical fans installed directly in windows or walls or in air ducts for supplying air into, or exhausting air from, a room. More information is
+available in reference (7)
+
+14
+
+Section 6: Built environment, infrastructure and supplies
+No.
+
+Area
+
+6.1
+
+Built
+environment and
+infrastructure
+
+Meets target
++++ (3)
+
+Partially meets target
+++ (2)
+
+Does not meet target
++ (1)
+
+The facility has ALL of the
+following in place:
+• at least one designated
+isolation area for taking
+care exclusively of
+inpatients/residents
+with COVID-19
+• patients/residents with
+suspected or confirmed
+COVID-19 are placed
+in single rooms/
+isolation area or
+cohorted according to
+status (suspected with
+suspected and
+confirmed with
+confirmed) in dedicated
+rooms with at least 1 m
+distance between beds
+• signs at the entrances
+of dedicated COVID-19
+isolation areas that
+describe the risk of
+transmission (droplet/
+contact) of COVID-19
+and indicate correct
+use of personal
+protective equipment
+(PPE)
+
+The facility has at least 2
+of the following in place:
+• at least one designated
+isolation area for taking
+care exclusively of
+inpatients/residents
+with COVID-19
+• patients/residents with
+suspected or confirmed
+COVID-19 are placed
+in single rooms/
+isolation area or
+cohorted according to
+status (suspected with
+suspected and
+confirmed with
+confirmed) in dedicated
+rooms with at least 1 m
+distance between beds
+• signs at the entrances
+of dedicated COVID-19
+isolation areas that
+describe the risk of
+transmission (droplet/
+contact) of COVID-19
+and indicate correct
+use of PPE
+• areas identified for
+health workers to safely
+put on and remove
+PPE
+
+The facility has 1 or none
+of the following in place:
+• at least one designated
+isolation area for taking
+care exclusively of
+inpatients/residents
+with COVID-19
+• patients/residents with
+suspected or confirmed
+COVID-19 are placed
+in single rooms/
+isolation area or
+cohorted according to
+status (suspected with
+suspected and
+confirmed with
+confirmed) in dedicated
+rooms with at least 1 m
+distance between beds
+• signs at the entrances
+of dedicated COVID-19
+isolation areas that
+describe the risk of
+transmission (droplet/
+contact) of COVID-19
+and indicate correct
+use of PPE
+• areas identified for
+health workers to safely
+put on and remove
+PPE
+
+15
+
+Score
+
+Gaps identified
+
+No.
+
+6.2
+
+Area
+
+Hand hygiene
+
+Meets target
++++ (3)
+
+Partially meets target
+++ (2)
+
+Does not meet target
++ (1)
+
+• areas identified for
+health workers to safely
+put on and remove
+PPE
+• an airborne infection
+isolation room or
+other adequately
+ventilated (natural or
+mechanicala) room for
+performing aerosolgenerating procedures
+(AGPsb)
+
+• an airborne infection
+• an airborne infection
+isolation room or other
+isolation room or other
+adequately ventilated
+adequately ventilated
+(natural or mechanicala)
+(natural or mechanicala)
+room for performing
+room for performing
+aerosol-generating
+aerosol-generating
+b
+procedures (AGPs )
+procedures (AGPsb)
+
+The facility has BOTH of
+the following in place:
+• functioning and
+continuously equipped
+hand hygiene stations
+(alcohol-based hand
+rub [ABHR] or soap
+and water) at all points
+of carec
+• hand hygiene stations
+(ABHR and/or soap
+and water) available at
+all entrances, including
+wards and all toilets
+
+The facility has 1 of the
+following in place:
+• functioning and
+continuously equipped
+hand hygiene stations
+(ABHR or soap and
+water) at all points of
+carec
+• hand hygiene stations
+(ABHR and/or soap
+and water) available at
+all entrances, including
+wards and all toilets
+
+16
+
+The facility does NOT
+have hand hygiene
+stations at all points of
+carec or entrances
+
+Score
+
+Gaps identified
+
+No.
+
+Area
+
+Meets target
++++ (3)
+
+Partially meets target
+++ (2)
+
+Does not meet target
++ (1)
+
+6.3
+
+IPC supplies
+
+The facility has ALL of the
+following in place:
+• a person responsible
+for managing the
+supply chain for critical
+IPC supplies (9)
+• all critical IPC supplies
+are continuously and
+readily available for
+providing care to
+suspected and/or
+confirmed COVID-19
+patients/residents
+• a plan to address
+supply shortages and
+monitor consumption of
+IPC supply
+• routinely provides
+patients/residents and
+visitors with masks
+
+The facility has at least 2
+of the following in place:
+• a person responsible
+for managing the
+supply chain for critical
+IPC supplies (9)
+• all critical IPC supplies
+are continuously and
+readily available for
+providing care to
+suspected and/or
+confirmed COVID-19
+patients/residents
+• a plan to address
+supply shortages and
+monitor consumption of
+IPC supply
+• routinely provides
+patients/residents and
+visitors with masks
+
+The facility has 1 or none
+of the following in place:
+• a person responsible
+for managing the
+supply chain for critical
+IPC supplies (9)
+• all critical IPC supplies
+are continuously and
+readily available for
+providing care to
+suspected and/or
+confirmed COVID-19
+patients/residents
+• a plan to address
+supply shortages and
+monitor consumption of
+IPC supply
+• routinely provides
+patients/residents and
+visitors with masks
+
+6.4
+
+Environmental
+cleaning
+
+The facility has ALL of the
+following in place:
+• screening/triage area
+and inpatient rooms are
+disinfected at least
+twice daily
+• outpatient or
+ambulatory rooms are
+cleaned and disinfected
+after each patient visit
+(high-touch surfaces)
+and once-daily terminal
+cleaning
+
+The facility has at least 2
+of the following in place:
+• screening/triage area
+and inpatient rooms are
+disinfected at least
+twice daily
+• outpatient or
+ambulatory rooms are
+cleaned and disinfected
+after each patient visit
+(high-touch surfaces)
+and once-daily terminal
+cleaning
+
+The facility has 1 or none
+of the following in place:
+• screening/triage area
+and inpatient rooms are
+disinfected at least
+twice daily
+• outpatient or
+ambulatory rooms are
+cleaned and disinfected
+after each patient visit
+(high-touch surfaces)
+and once-daily terminal
+cleaning
+
+17
+
+Score
+
+Gaps identified
+
+No.
+
+6.5
+
+Area
+
+Waste
+management
+
+Meets target
++++ (3)
+
+Partially meets target
+++ (2)
+
+Does not meet target
++ (1)
+
+• shared toilets are
+cleaned and disinfected
+at least three times a
+day and private patient
+toilets are cleaned at
+least twice daily
+• cleaners have regular
+access to and wear
+PPE according to the
+facility’s standard
+operating procedure
+(SOP)
+• the facility uses an
+approved hospital
+disinfectant
+
+• shared toilets are
+cleaned and disinfected
+at least three times a
+day and private patient
+toilets are cleaned at
+least twice daily
+• cleaners have regular
+access to and wear
+PPE according to the
+facility’s SOP
+• the facility uses an
+approved hospital
+disinfectant
+
+• shared toilets are
+cleaned and disinfected
+at least three times a
+day and private patient
+toilets are cleaned at
+least twice daily
+• cleaners have regular
+access to and wear
+PPE according to the
+facility’s SOP
+• the facility uses an
+approved hospital
+disinfectant
+
+• The facility has
+differential wastecollection containers for
+non-infectious
+(general), infectious
+and sharps waste in
+close proximity to all
+waste-generation
+points
+• The facility manages
+and disposes of waste
+accordingly, using an
+incinerator or
+alternative technology
+for the treatment of
+infectious and sharp
+waste
+
+• The facility has
+differential wastecollection containers for
+non-infectious (general)
+waste, infectious waste
+and sharps waste, but
+they are NOT at all
+waste-generation
+points
+• The facility has an
+incinerator or
+alternative technology
+for the treatment of
+infectious and sharp
+waste, however, it is
+NOT always functional
+and/or of a sufficient
+capacity
+
+• The facility does NOT
+have differential wastecollection containers for
+non-infectious (general)
+waste, infectious waste
+and sharps waste
+• The facility does NOT
+have an incinerator or
+alternative technology
+for the treatment of
+infectious and sharp
+waste
+
+18
+
+Score
+
+Gaps identified
+
+No.
+
+Area
+
+6.6
+
+Decontamination
+of medical
+equipment
+
+Meets target
++++ (3)
+• There is a dedicated
+and regularly
+functioning
+decontamination and
+sterile supply area for
+the decontamination
+and sterilization of
+medical devices and
+other items/equipment
+
+Partially meets target
+++ (2)
+
+Does not meet target
++ (1)
+
+• There is a dedicated
+decontamination and/or
+sterile supply area for
+the decontamination
+and sterilization of
+medical devices and
+other items/equipment,
+but it is NOT always
+functioning or up to
+standard
+
+• There is NO dedicated
+decontamination area
+and/or sterile supply
+area for the
+decontamination and
+sterilization of medical
+devices and other
+items/equipment
+
+Total
+
+Score
+
+/18
+
+a
+
+Natural ventilation: outdoor air driven by natural forces (for example, winds) through purpose-built openings in the building, including
+windows, doors, solar chimneys, wind towers and trickle ventilators. Mechanical ventilation: air driven by mechanical fans installed
+directly in windows or walls or in air ducts for supplying air into, or exhausting air from, a room. More information is available in
+reference (7).
+
+b
+
+AGPs are defined as per IPC interim guidance: tracheal intubation, non-invasive ventilation (e.g. bilevel positive airway pressure
+[BiPAP], continuous positive airway pressure [CPAP]), tracheotomy, cardiopulmonary resuscitation, manual ventilation before
+intubation, bronchoscopy, sputum induction induced by using nebulized hypertonic saline, and autopsy procedures (8).
+
+c
+
+The place where three elements come together: the patient, the health worker, and care or treatment involving contact with the patient
+or his/her surroundings (within the patient zone). The concept embraces the need to perform hand hygiene at recommended moments
+exactly where care delivery takes place. This requires that a hand hygiene product (e.g. ABHR, if available) be easily accessible and as
+close as possible – within arm’s reach of where patient care or treatment is taking place. Point-of-care products should be accessible
+without having to leave the patient zone.
+
+19
+
+Gaps identified
+
+Section 7: Visitors
+Note: If the health facility has a strict no visitors policy, then please skip and proceed to the next section.
+No.
+7.1
+
+Total
+
+Area
+Visitors
+
+Meets target
++++ (3)
+
+Partially meets target
+++ (2)
+
+Does not meet target
++ (1)
+
+The facility has ALL of the
+following in place:
+• visitors are screened
+for signs and symptoms
+of COVID-19 at the
+entrance to the facility
+• there are signs or other
+materials visible at the
+entrances to the facility
+instructing visitors not
+to visit if they have
+fever or symptoms of
+COVID-19
+• the facility has a
+protocol to limit or
+restrict visitors into
+patients/residents’
+rooms
+• the facility provides
+basic IPC education
+(hand hygiene, limiting
+surfaces touched, and
+use of personal
+protective equipment
+[PPE]) for visitors
+(e.g. folder, banner,
+interview)
+
+The facility has at least 2
+of the following in place:
+• visitors are screened
+for signs and symptoms
+of COVID-19 at the
+entrance to the facility
+• there are signs or other
+materials visible at the
+entrances to the facility
+instructing visitors not
+to visit if they have
+fever or symptoms of
+COVID-19
+• the facility has a
+protocol to limit or
+restrict visitors into
+patients/residents’
+rooms
+• the facility provides
+basic IPC education
+(hand hygiene, limiting
+surfaces touched, and
+use of PPE) for visitors
+(e.g. folder, banner,
+interview)
+
+The facility has none or 1
+of the following in place:
+• visitors are screened
+for signs and symptoms
+of COVID-19 at the
+entrance to the facility
+• there are signs or other
+materials visible at the
+entrances to the facility
+instructing visitors not
+to visit if they have
+fever or symptoms of
+COVID-19
+• the facility has a
+protocol to limit or
+restrict visitors into
+patients/residents’
+rooms
+• the facility provides
+basic IPC education
+(hand hygiene, limiting
+surfaces touched, and
+use of PPE) for visitors
+(e.g. folder, banner,
+interview)
+
+Score
+
+/3
+
+20
+
+Gaps identified
+
+Section 8: Maintaining IPC interventions
+Note: This section is only to be completed if there is a decrease in local transmission of COVID-19.
+No.
+8.1
+
+Total
+
+Area
+In the context
+of a decrease
+in local transmission of
+COVID-19
+
+Meets target
++++ (3)
+
+Partially meets target
+++ (2)
+
+Does not meet target
++ (1)
+
+The facility has ALL of the
+following in place:
+• there is an IPC focal
+point in the facility
+• The facility monitors
+the epidemiology of
+COVID-19 through the
+local surveillance
+systems
+• triage of patients/
+residents with
+COVID-19 symptoms
+is still in place in
+the facility
+• there are isolation
+rooms/areas readily
+available to be used for
+patient with COVID-19
+symptoms
+• the facility continues
+to monitor personal
+protective equipment
+(PPE) and critical
+supplies
+• the facility can reinstate
+all measures against
+COVID-19 in less than
+a week in the event of a
+new increase in local
+transmission
+
+The facility has at least 3
+of the following in place:
+• there is an IPC focal
+point in the facility
+• The facility monitors
+the epidemiology of
+COVID-19 through the
+local surveillance
+systems
+• triage of patients/
+residents with
+COVID-19 symptoms
+is still in place in
+the facility
+• there are isolation
+rooms/areas readily
+available to be used for
+patient with COVID-19
+symptoms
+• the facility continues
+to monitor PPE and
+critical supplies
+• the facility can reinstate
+all measures against
+COVID-19 in less than
+a week in the event of
+a new increase in local
+transmission
+
+The facility has 1 or none
+of the following in place:
+• there is an IPC focal
+point in the facility
+• The facility monitors
+the epidemiology of
+COVID-19 through the
+local surveillance
+systems
+• triage of patients/
+residents with
+COVID-19 symptoms
+is still in place in
+the facility
+• there are isolation
+rooms/areas readily
+available to be used for
+patient with COVID-19
+symptoms
+• the facility continues
+to monitor PPE and
+critical supplies
+• the facility can reinstate
+all measures against
+COVID-19 in less than
+a week in the event of
+a new increase in local
+transmission
+
+21
+
+Score
+
+/3
+
+Gaps identified
+
+Results summary
+No.
+
+Score
+achieved
+
+Domain
+
+Maximum
+score
+
+1
+
+IPC programme
+
+9
+
+2
+
+IPC guidelines and standard operating procedures
+
+12
+
+3
+
+IPC training and monitoring
+
+15
+
+4
+
+Screening, triage, early recognition and testing of COVID-19
+
+15
+
+5
+
+Built environment, infrastructure and supplies
+
+18
+
+6
+
+Visitors
+
+3
+
+7
+
+Maintaining IPC interventions
+
+3
+
+Total
+
+75
+
+22
+
+Workplan to address gaps
+At the end of the assessment, the facility should review the tool and identify all items recorded as “No.” The facility, should prioritize these items based on the
+ease of addressing each gap, the availability of resources to address gaps (including partner support, human resources, financial resources, etc.), the impact
+of bridging the gap, and the local epidemiological situation. Priority gaps and activities to address them should be recorded in the workplan below, along with a
+person(s) responsible for implementing the activities and a timeline for implementation.
+
+No.
+
+Domain
+
+1
+
+IPC programme
+
+2
+
+IPC guidelines and standard operation procedures
+
+3
+
+IPC training and monitoring
+
+4
+
+Screening, triage, early recognition and testing of COVID-19
+
+5
+
+Built environment, infrastructure and supplies
+
+6
+
+Visitors
+
+7
+
+Maintaining IPC interventions
+
+Gap identified
+
+23
+
+Activities to
+address gap
+
+Responsible
+
+Timeline
+
+References
+1. Suite of health service capacity assessments in the context of the COVID-19 pandemic. Geneva: World
+Health Organization; 2020 (https://www.who.int/teams/integrated-health-services/monitoring-healthservices, accessed 8 October 2020).
+2. Minimum requirements for infection prevention and control programmes. Geneva: World Health
+Organization; 2019 (https://www.who.int/infection-prevention/publications/min-req-IPC-manual/en/,
+accessed 8 October 2020).
+3. Country and technical guidance – coronavirus disease. Geneva: World Health Organization; 2020
+(https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance-publications,
+accessed 8 October 2020).
+4. Infection Prevention and Control Assessment Framework at the facility level. Geneva: World Health
+Organization; 2018 (https://www.who.int/infection-prevention/tools/core-components/IPCAFfacility.PDF?ua=1, accessed 8 October 2020).
+5. Core components for IPC – implementation tools and resources. Geneva: World Health Organization;
+2020 (https://www.who.int/infection-prevention/tools/core-components/en/, accessed 8 October 2020).
+6. Aide memoire. Standard precautions in health care. Geneva: World Health Organization; 2007
+(https://www.who.int/csr/resources/publications/EPR_AM2_E7.pdf?ua=1, accessed 8 October 2020).
+7. Atkinson J, Chartier Y, Pessoa-Silva CL, Jensen P, Li Y, Seto W-H, editors. Natural ventilation
+for infection control in health-care settings. Geneva: World Health Organization; 2009
+(https://www.who.int/water_sanitation_health/publications/natural_ventilation/en/, accessed
+13 October 2020).
+8. Infection prevention and control during health care when coronavirus disease (COVID-19)
+is suspected or confirmed. Interim guidance. Geneva: World Health Organization; 2020
+(https://apps.who.int/iris/handle/10665/332879, accessed 9 October 2020).
+9. Coronavirus disease (COVID-19) technical guidance: essential resource planning.
+WHO surge calculators. Geneva: World health Organization; 2020
+(https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/COVID-19critical-items, accessed 9 October 2020).
+
+24
+
+Annex 1. Suite of health service capacity assessments in the context
+of the COVID-19 pandemic
+On 30 January 2020, the Director-General of the World Health Organization (WHO), declared the
+COVID‑19 outbreak to be a global public health emergency of international concern under the
+International Health Regulations. Following the spread of COVID-19 cases in many countries across
+continents, COVID-19 was characterized as a pandemic on 11 March 2020 by the Director-General,
+upon the advice of the International Health Regulations Emergency Committee.
+In response to this situation, the Suite of health service capacity assessments in the context of the
+COVID-19 pandemic has been developed to support rapid and accurate assessments of the current, surge
+and future capacities of health facilities throughout the different phases of the COVID-19 pandemic (1). The
+suite consists of two sets of modules that can be used to inform the prioritization of actions and decisionmaking at health facility, subnational and national levels:
+1. Hospital readiness and case management capacity for COVID-19
+This set of modules can be used to assess health facility readiness and case management
+capacities for COVID-19.
+2. Continuity of essential health services in the context of the COVID-19 pandemic
+This set of modules can be used to assess health facility capacities to maintain delivery of essential
+health services. It can also be used to assess community needs and access to services during the
+COVID-19 outbreak.
+The modules are listed in Table 1.
+Table 1. Suite of health service capacity assessment modules
+Hospital readiness and case management capacity for COVID-19
+Module
+
+Purpose
+
+Rapid hospital readiness checklist
+
+To assess the overall readiness of hospitals and to identify
+a set of priority actions to prepare for, be ready for and
+respond to COVID-19
+
+Diagnostics, therapeutics, vaccine
+readiness, and other health products
+for COVID-19
+
+To assess present and surge capacities for the treatment of
+COVID-19 in health facilities with a focus on availability of
+diagnostics, therapeutics and other health products as well
+as vaccine readiness, availability of beds and space
+capacities
+
+Biomedical equipment for COVID-19
+case management – inventory tool
+
+To conduct a facility inventory of biomedical equipment
+re-allocation, procurement and planning measures for
+COVID-19 case management
+
+Ensuring a safe environment for
+patients and staff in COVID-19
+health-care facilities
+
+To assess the structural capacities of hospitals to allow safe
+COVID-19 case management, maintain the delivery of
+essential services and enable surge capacity planning
+
+Infection prevention and control
+health-care facility response for
+COVID-19
+
+To assess infection prevention and control capacities to
+respond to COVID-19 in health facilities
+
+25
+
+Continuity of essential health services in the context of the COVID-19 pandemic
+Module
+
+Purpose
+
+Continuity of essential health services:
+Facility assessment tool
+
+• To assess the capacity of health facilities to maintain
+the provision of essential health services during the
+COVID-19 outbreak
+• To assess workforce capacity during the outbreak,
+including availability, absences, COVID-19 infections,
+support and training
+
+Continuity of essential health services:
+Community demand side tool
+
+To conduct a rapid pulse survey on community needs and
+perceptions around access to essential health services and
+community resilience during the COVID-19 outbreak
+
+Countries may select different combinations of modules according to context and need for one-time or
+recurrent use throughout the pandemic.
+
+26
+
+Annex 2. Data Sharing
+Policy on use and sharing of data collected in Member States by the World Health
+Organization (WHO) outside the context of public health emergencies
+Data are the basis for all sound public health actions and the benefits of data sharing are widely
+recognized, including scientific and public health benefits. Whenever possible, WHO wishes to promote the
+sharing of health data, including but not restricted to surveillance and epidemiological data.
+In this connection, and without prejudice to information sharing and publication pursuant to legally binding
+instruments, by providing data to WHO, the Ministry of Health of your Country confirms that all data to be
+supplied to WHO have been collected in accordance with applicable national laws, including data protection
+laws aimed at protecting the confidentiality of identifiable persons;
+Agrees that WHO shall be entitled, subject always to measures to ensure the ethical and secure use of the
+data, and subject always to an appropriate acknowledgement of your Country:
+- to publish the data, stripped of any personal identifiers (such data without personal identifiers being
+hereinafter referred to as “the Data”) and make the Data available to any interested party on request (to the
+extent they have not, or not yet, been published by WHO) on terms that allow non-commercial, not-for-profit
+use of the Data for public health purposes (provided always that publication of the Data shall remain under
+the control of WHO);
+- to use, compile, aggregate, evaluate and analyse the Data and publish and disseminate the results
+thereof in conjunction with WHO’s work and in accordance with the Organization’s policies and practices.
+- Except where data sharing and publication is required under legally binding instruments (IHR, WHO
+Nomenclature Regulations 1967, etc.), the Ministry of Health of your Country may in respect of certain data
+opt out of (any part of) the above, by notifying WHO thereof, provided that any such notification shall clearly
+identify the data in question and clearly indicate the scope of the opt-out (in reference to the above), and
+provided that specific reasons shall be given for the opt out.
+
+27
+
+

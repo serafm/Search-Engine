@@ -1,0 +1,1474 @@
+Considerations for implementing and adjusting public
+health and social measures in the context of COVID-19
+Interim guidance
+4 November 2020
+must be weighed against the impacts these measures have on
+societies and individuals. Considerations include impact on the
+economy, security, mental health and psychosocial well-being,
+human rights, food security, socioeconomic disparities,
+continuity of health and public health programmes, treatment
+and management of conditions other than COVID-19, genderbased violence, and public sentiment and adherence to PHSM.
+The overall health and wellbeing of communities should
+therefore be at the forefront of considerations when deciding on
+and implementing PHSM.
+
+Key points
+• Public health and social measures (PHSM) have
+proven critical to limiting transmission of COVID19 and reducing deaths.
+• The decision to introduce, adapt or lift PHSM
+should be based primarily on a situational
+assessment of the intensity of transmission and the
+capacity of the health system to respond, but must
+also be considered in light of the effects these
+measures may have on the general welfare of
+society and individuals .
+
+PHSM include personal protective measures (such as hand
+hygiene, respiratory etiquette, mask wearing); environmental
+measures (such as cleaning, disinfection, ventilation),
+surveillance and response measures (including contact tracing,
+isolation and quarantine); physical distancing measures (e.g.
+limiting the size of gatherings, maintaining distance in public
+or workplaces, domestic movement restrictions); and
+international travel-related measures.1 PHSM act in concert,
+and a combination of measures is required to ensure adequate
+control. Measures should be tailored to the lowest
+administrative level for which situational assessment is
+possible and measures can be enacted practically.
+
+• Indicators and suggested thresholds are provided to
+gauge both the intensity of transmission and the
+capacity of the health system to respond; taken
+together, these provide a basis for guiding the
+adjustment of PHSM. Measures are indicative and
+need to be tailored to local contexts.
+• PHSM must be continuously adjusted to the
+intensity of transmission and capacity of the health
+system in a country and at sub-national levels.
+
+Changes from the previous version
+
+• When PHSM are adjusted, communities should be
+fully consulted and engaged before changes are
+made.
+
+This document provides guidance to help Member States assess
+the situation at national and sub-national levels, as well as key
+recommendations about the implementation of PHSM. It should
+be read in conjunction with WHO interim guidance on Critical
+preparedness, readiness and response actions for COVID-19,2
+which addresses several other elements of preparedness,
+readiness and response for COVID-19 beyond PHSM.
+
+Introduction
+This document is an update to the interim guidance published
+on 16 April 2020 entitled “Considerations in adjusting public
+health and social measures in the context of COVID-19”.
+
+The new guidance contains several important changes. First,
+it provides an updated transmission classification, subdividing ‘community transmission’ into four sub-categories,
+from low to very high incidence. The associated annex
+provides revised indicators and thresholds for determining the
+transmission classification, as well as the current health
+system capacity. The document then provides a situational
+assessment matrix, which takes into consideration the
+transmission classification and the health system response
+capacity to arrive at an overall Situational Level. Finally, the
+document provides guidance about the PHSM to implement
+or adjust at each Situational Level.
+
+Public health and social measures (PHSM) are being
+implemented across the globe to limit transmission and
+reduce mortality and morbidity from COVID-19. PHSM
+include non-pharmaceutical individual and societal
+interventions to control COVID-19.
+As the pandemic unfolds, PHSM should be regularly reviewed
+and adapted and their effectiveness in controlling SARS-CoV-2
+transmission evaluated. This requires agile decision-making
+based on ongoing situational assessments at the most local
+administrative level possible. Such assessments should be based
+on a risk/benefit approach considering the intensity of
+transmission, the health system’s capacity to respond, other
+contextual considerations (such as upcoming events which may
+alter transmission or capacity) and the overall strategic approach
+to responding to COVID-19 in each specific setting. Decisions
+to tighten, loosen, or introduce PHSM to control COVID-19
+
+This guidance document is intended for public health and
+health services decision-makers at all operational levels (i.e.,
+at any level at which decisions about tailored PHSM are made)
+and technical actors involved in relevant sectors (e.g.
+-1-
+
+Considerations for implementing and adjusting public health and social measures in the context of COVID-19: Interim guidance
+
+community engagement, education,
+supporting or impacted by PHSM.
+
+social
+
+services)
+
+The Annex below provides the method for assessing the
+health system response capacity.
+
+Situational assessment using transmission level and
+response capacity
+
+Transmission scenarios
+Assessing the level of transmission is key to assessing the
+overall COVID-19 situation in a given area and therefore
+guiding essential decisions on response activities and
+tailoring epidemic control measures.
+
+The decision to introduce, adapt or lift PHSM, or to scale up
+health system capacity, should be based on an analysis of the
+level of transmission, the health system response capacity,
+and other contextual factors.
+
+WHO previously defined four transmission scenarios to
+describe the dynamic of the epidemic: no reported cases
+(including both zero transmission and the absence of detected
+and reported cases), sporadic cases, clusters of cases and
+community transmission.
+
+Based on the joint assessment of these factors, a Situational
+Level should be assigned to a geographic area that will inform
+whether and how to adjust PHSM (see Table 1). The
+assessment should be strengthened through examination of
+quantitative and qualitative information from multiples
+sources, which should be triangulated to provide an additional
+reality check on the assessed Situational Level. The resultant
+Situational Levels should only be considered indicative
+because they may not correspond well to the response
+required in a specific context. For example, in a small island
+developing state with limited capacity, stringent PHSM may
+be warranted at a relatively low level of transmission.
+
+With many countries now experiencing community
+transmission and seeking to adjust PHSM to various levels of
+intensity, an update of the transmission classification has
+been developed to provide more granularity. A range of
+indicators to capture transmission intensity, thereby aiding
+decision making, also has been developed.
+The community transmission (CT) classification is now divided
+into four levels, from low incidence (CT1) to very high incidence
+(CT4). Consequently, there are now seven categories (the
+definitions below are abbreviated; details about the transmission
+classifications can be found in an Annex to this guidance entitled
+“Public health criteria to adjust public health and social measures
+in the context of COVID-19”).
+•
+•
+•
+•
+•
+•
+•
+
+The indicators should be monitored regularly (e.g. biweekly)
+and the Situational Level assessed accordingly to inform the
+appropriateness and impact of the PHSM measures taken and
+to anticipate future changes.
+Table 1: Situational Level assessment matrix using
+transmission level and response capacity indicators to guide
+adjustment of PHSM
+
+No (active) cases
+Imported / Sporadic cases
+Clusters of cases
+CT1: Low incidence of locally acquired widely
+dispersed cases detected in the past 14 days
+CT2: Moderate incidence of locally acquired
+widely dispersed cases detected in the past 14 days
+CT3: High incidence of locally acquired widely
+dispersed cases in the past 14 days
+CT4: Very high incidence of locally acquired
+widely dispersed cases in the past 14 days
+
+Response capacity
+Transmission level
+
+The transmission level classification for a geographic area
+will change (improve or worsen) over time, and different
+geographic areas within a country will likely experience
+different levels of transmission concurrently.
+Community engagement strategies based on community
+perceptions, needs and feedback should be implemented to
+inform PHSM decision making with the objective that the
+community perceives that it owns the public health response.
+
+Adequate Moderate
+
+Limited
+
+No cases
+
+0
+
+0
+
+1
+
+Imported/Sporadic cases
+
+0
+
+1
+
+1
+
+Clusters of cases
+
+1
+
+1
+
+2
+
+Community - CT1
+
+1
+
+2
+
+2
+
+Community - CT2
+
+2
+
+2
+
+3
+
+Community - CT3
+
+2
+
+3
+
+3
+
+Community - CT4
+
+3
+
+3
+
+4
+
+• Situational Level 0 corresponds to a situation with no
+known transmission of SARS-CoV-2 in the preceding
+28 days. The health system and public health
+authorities are ready to respond, but there should be no
+restrictions on daily activities.
+
+The process for determining the transmission classification is
+outlined in the Annex below.
+
+Response capacity
+
+• Situational Level 1 is a situation where basic
+measures are in place to prevent transmission; or if
+cases are already present, the epidemic is being
+controlled through effective measures around the
+cases or clusters of cases, with limited and transient
+localized disruption to social and economic life.
+
+In addition to assessing the level of transmission, it is also
+necessary to understand the available health system response
+capacity–depending on whether there is adequate, moderate,
+or limited capacity, the same level of transmission can result
+in a drastically different situation and require a different
+degree of PHSM implementation. For the purposes of this
+document, ‘response capacity’ encompasses both clinical
+care and public health services, and is measured in terms of
+both the actual capacity (ability) to deliver services, and the
+performance of those services.
+
+• Situational Level 2 represents a situation with low
+community incidence or a risk of community
+transmission beyond clusters. Additional measures
+may be required to control transmission; however,
+-2-
+
+Considerations for implementing and adjusting public health and social measures in the context of COVID-19: Interim guidance
+
+disruptions to social and economic activities can still
+be limited.
+
+• Any decision to apply stringent PHSM must weigh in
+equal measure the impact of the measures (lives lost in
+the short and long term compared to lives saved by
+applying PHSM).
+• Protection of vulnerable populations (including those
+clinically at risk for severe disease [aged >60 years
+and/or with comorbidities that increase risk of serious
+COVID-19 disease], and disadvantaged groups such
+as marginalized populations, migrants and refugees,
+and those in high density/low resource settings and
+lower income groups) should be central in the decision
+to implement, maintain or lift a measure.
+• Policies restricting travel between areas should be
+based on an assessment of their respective
+transmission levels and health system capacities, with
+the objectives of avoiding re-seeding of lowertransmission areas and of minimizing further burden
+on stretched health systems. In all cases, essential
+workers should be permitted to travel as needed to
+support continuation of essential services.
+• When lifting PHSM, the potential impact of lifting
+those measures on the capacity of the system to rapidly
+respond to any new increase in cases should be
+considered.
+– Adequate health system capacities should be
+in place to detect, test and manage new cases.
+– The risk of outbreaks in settings with
+vulnerable individuals should be minimized.
+This requires identifying all major drivers of
+COVID-19 transmission (e.g. various types
+of closed settings) in the local context, with
+appropriate measures in place to maximize
+physical distancing and minimize the risk of
+new outbreaks. Measures must be in place to
+reduce the risk of nosocomial transmission
+and outbreaks in settings such as care homes.
+– Key drivers of transmission in the local area
+under assessment must be well understood
+using local surveillance data, and measures
+should rapidly be re-implemented should
+incidence increase. A particular focus should
+be on prevention and earlier detection of
+potential superspreading events.
+
+• Situational Level 3 is a situation of community
+transmission with limited additional capacity to
+respond and a risk of health services becoming
+overwhelmed. A larger combination of measures may
+need to be put in place to limit transmission, manage
+cases, and ensure epidemic control.
+• Situational Level 4 corresponds to an uncontrolled
+epidemic with limited or no additional health system
+response capacity available, thus requiring extensive
+measures to avoid overwhelming of health services
+and substantial excess morbidity and mortality.
+
+Adjusting public health and social measures
+Key principles
+Decisions on which measures to implement, lift or strengthen
+and the order in which these measures should occur, should
+be based on the following guiding principles:
+• Measures with the highest level of acceptability and
+feasibility, proven effectiveness–and which minimize
+the negative consequences on health and well-being of
+all members of society and the economy–should be
+considered first. Acceptability and feasibility should
+be determined through active discussion with
+community members in order to maximize the
+likelihood of compliance and adherence, while
+effectiveness and potential negative effects of PHSM
+should be evaluated through an evidence-based
+assessment (e.g. literature review, WHO guidance, etc)
+and active monitoring of the impact of implemented
+PHSM.
+• Additional measures should be considered as soon as
+the situation deteriorates and the Situational Level
+increases. Delays in implementation of measures have
+been linked to increased mortality and the need for
+more stringent measures to regain control. In
+particular, every effort should be made to prevent an
+intensification in transmission from ‘clusters’ to
+‘community transmission.’
+• When feasible, measures should be adopted (or lifted)
+in a controlled, stepwise manner to allow better
+understanding of the effects of each measure on
+transmission dynamics.
+• Public health surveillance data and case and cluster
+investigations may provide important information on
+conditions associated with transmission. Such
+information may help targeting application or
+intensification of certain PHSM without imposing the
+measures universally on all settings.
+• Vulnerable communities and disadvantaged
+individuals may face immediate challenges in
+meeting their basic life needs, such as income, shelter
+and food, when stringent PHSM are imposed. It is
+crucial that those essential needs be addressed before
+measures are instituted to enable people to comply.
+It is critical to safeguard vulnerable and
+disadvantaged populations by implementing specific
+measures to support them, mobilizing resources and
+engaging all relevant sectors and communities to
+learn about their concerns and receive feedback.
+
+When PHSM are adjusted, communities should be fully
+consulted and engaged before changes are made.3 Clear,
+concise and transparent communication, including an
+evidence-based rationale for changing measures, should be
+developed with communities targeted for PHSM.
+In particular:
+• Communities should be given recognized roles to
+provide input on when and how PHSM will be
+implemented or lifted.
+• Communities will be critical to implementing
+population-wide PHSM and contributing to the
+mitigation of the social and economic impact of
+certain measures (e.g. disrupting availability of food
+and other needed supplies).
+• Feedback mechanisms should be established to ensure
+that any societal impact of changes to PHSM are
+quickly identified and reported for action.
+Communities should lead solutions to ensure adoption
+of measures that best meet local needs (for example by
+-3-
+
+Considerations for implementing and adjusting public health and social measures in the context of COVID-19: Interim guidance
+
+considering local cultural practices) and increase
+likelihood of adherence.
+• Local community level networks should be leveraged
+for sustained efforts, building capacity through
+training of local leaders.
+• The infodemic4 that has emerged from a COVID-19
+information and disinformation overload should be
+managed at all stages of the response by providing the
+right information at the right time to the right people
+through trusted channels (e.g. community and faith
+leaders, family doctors and other influential members
+of society).
+• A communication and community engagement
+strategy should be developed before any changes to
+PHSM are implemented.3 The strategy should be
+developed in consultation with relevant stakeholders
+from government, civil society and community groups.
+Plans should include, at a minimum, behavioural
+objectives, target audiences, priority channels and a
+mix of strategies and activities to inform and engage
+
+the public. Key information such as the extent and
+estimated duration of the measures in place should be
+part of the priority messaging of developed plans.
+Community engagement is essential not only for
+compliance and support for public health measures but
+also for the development of adaptive social measures
+and to inform PHSM decision making.
+PHSM implementation based on situational assessment
+Table 2 provides more detail on what types of measures may
+be implemented for each Situational Level. The measures at
+each level are indicative, since some measures may be more
+or less feasible or appropriate in specific contexts and
+locations. Note that recommendations on international travel
+can be found in a separate document.5
+Measures should be time-bound and regularly re-assessed, at
+least every two weeks, along with the Situational Level.
+
+Table 2: Guidance on the implementation of PHSM for each level of severity
+Situational Level
+Situational Level 0: No
+known transmission of
+SARS-CoV-2 in the
+preceding 28 days. The
+health system and public
+health authorities are ready
+to respond, but there should
+be no restrictions on daily
+activities
+
+Situational Level 1: Basic
+measures are in place to
+prevent transmission; or if
+cases are already present, the
+epidemic is being controlled
+through effective measures
+around the cases or clusters
+of cases, with limited and
+transient localized disruption
+to social and economic life.
+
+Considerations for implementation of PHSM by Situational Level*
+At this level, surveillance should ensure that any new case can be detected and managed as early as
+possible, but there should be no restrictions on daily activities.
+Authorities may consider implementing the following measures:
+• Continue strengthening emergency preparedness and response, ensuring adequate stockpiles of
+medicines and medical equipment and that sufficient staff have been recruited and trained to
+handle anticipated surges in workload.
+• Individuals should apply basic individual precautionary measures and behaviours such as hand
+hygiene,6 cough etiquette, staying home / wearing a mask7 if unwell and voluntary physical
+distancing.
+• Robust surveillance8 should be in place to rapidly detect and investigate suspected cases and
+clusters9 and ensure public health measures such as isolation and quarantine10 are undertaken to
+reduce onward spread if cases are confirmed and contacts are traced, respectively.
+• Travel outside the area should be permitted as per national policy; attention should be paid to
+the risk of introduction of the virus into the area by travellers from higher incidence areas.
+• Clear information should be provided to the public about what to do if unwell and whom to
+contact for advice, testing and/or treatment.
+At this level, specific measures should be taken around cases and/or clusters, and individual
+measures should be strengthened, with limited impact on social and economic activities.
+In addition to measures on emergency preparedness and response and surveillance, individual
+precautionary measures and risk communications, authorities may consider implementing the
+following measures:
+• Emphasis should be placed on case and cluster detection, investigation, tracking and tracing of
+contacts.
+• Individual should apply individual precautionary measures and behaviours such as hand
+hygiene, cough etiquette, staying home if unwell, wearing a mask where appropriate, and
+physical distancing.
+• Promote avoidance of the ‘3 Cs’ – closed spaces, crowded places and close-contact settings.
+• Daily activities and services, such as educational settings,11 businesses12 and leisure/tourism
+can remain open with safety measures in place to limit the risk of spread.
+• Measures should be in place to protect the most vulnerable, particularly ensuring that there are
+appropriate measures in place in long-term care13 and other residential facilities.
+
+-4-
+
+Considerations for implementing and adjusting public health and social measures in the context of COVID-19: Interim guidance
+
+Situational Level
+Situational Level 2: Low
+community incidence or a
+risk of community
+transmission beyond
+clusters. Additional
+measures may be required to
+control transmission;
+however, disruptions to
+social and economic
+activities can still be limited
+
+Considerations for implementation of PHSM by Situational Level*
+At this level, measures should be applied to limit the number of social encounters in the community
+while ensuring services can remain open with safety measures in place. A wider range of PHSM
+may be required to control transmission.
+
+Situational Level 3:
+Community transmission
+with limited additional
+capacity to respond and a
+risk of health services
+becoming overwhelmed. A
+larger combination of
+measures may need to be put
+in place to limit
+transmission, manage cases,
+and ensure epidemic control.
+
+At this level, a strengthening of all PHSM is needed to avoid more stringent restrictions on
+movement and other related measures applied under level 4. All individuals should reduce their
+social contacts, and some activities may need to close while allowing for essential services and in
+particular schools to remain open.
+
+Situational Level 4: An
+uncontrolled epidemic with
+limited or no additional
+health system response
+capacity available, thus
+requiring extensive
+measures to avoid
+overwhelming of health
+services and substantial
+excess morbidity and
+mortality.
+
+At this level, reducing transmission in the community will be challenging, and more stringent
+movement restrictions and related measures may need to be put in place to significantly reduce the
+number of in-person encounters. Such measures should geographically limited to where needed, be
+time-bound and aimed to be as short as reasonably possible.
+In addition to measures on emergency preparedness and response and surveillance, individual
+precautionary measures and risk communications, authorities may consider implementing the
+following measures:
+• Individuals should stay at home and limit social contact with people outside the household.
+• Essential workers will need to continue activities, with maximum support and safety measures
+in place.
+• Closure of non-essential businesses or remote working.
+• Consider all options for continuity of in-person learning. If not possible, limit in-person
+contact. This may include in person teaching, blended or remote learning strategies that strictly
+limit the number of people physically on site (exceptions would include children of essential
+workers and their teachers). The closure of educational facilities should only be considered
+when there are no other alternatives.
+• All long-term care and other residential facilities should consider strict measures to limit the
+risk of infection, such as prohibiting in-person visitors.
+
+In addition to measures on emergency preparedness and response and surveillance, individual
+precautionary measures and risk communications, authorities may consider implementing the
+following measures:
+• Education settings remain open with infection prevention and control (IPC) measures in place.
+• Businesses remain open, with safety measures in place, with teleworking encouraged as much
+as possible.
+• Individual should apply individual precautionary measures and behaviours such as hand
+hygiene, cough etiquette, staying home if unwell, wearing a mask where appropriate, physical
+distancing and avoiding the ‘3C’s’ – closed spaces, crowded places and close-contact settings.
+• Limit the size of social and other mass gatherings.14
+• If required, further emphasis may be needed on protecting the most clinically vulnerable,
+through strict application of PPE and IPC measures, heightened surveillance and managing
+visits in long term care and other residential facilities.
+
+In addition to measures on emergency preparedness and response and surveillance, individual
+precautionary measures and risk communications, authorities may consider implementing the
+following measures:
+• Closure of non-essential businesses or remote working as much as possible.
+• Individual should apply individual precautionary measures and behaviours such as hand
+hygiene, cough etiquette, staying home if unwell, wearing a mask where appropriate, physical
+distancing and avoiding the ‘3C’s’ – closed spaces, crowded places and close-contact settings.
+• Consider limiting in-person university teaching, and institute e-learning.
+• Childcare services and primary and secondary schools should remain open with adequate safety
+and surveillance measures in place as long as the local context allows. Continuity of education
+for children for their overall well-being, health and safety should be at the forefront of all
+relevant considerations and decisions.
+• Evaluate holding sporting and similar events, using a risk based approach; if held, they should
+be held under strict safety rules, e.g. without spectators. Other mass gatherings should be
+suspended, and the size of all social gatherings should be decreased.
+
+*The specific measures implemented at each level will need to be carefully considered based on the guiding principles outlined above. The
+measures at each level are indicative, since some measures may be more or less feasible or appropriate in specific contexts and locations.
+
+-5-
+
+Considerations for implementing and adjusting public health and social measures in the context of COVID-19: Interim guidance
+
+References
+1.
+
+World Health Organization. Taxonomy and Glossary of Public Health and Social Measures that may be Implemented to
+Limit the Spread of COVID-19. https://www.who.int/docs/default-source/documents/phsm/20200923-phms-whoint.zip?sfvrsn=691966ba_2
+
+2.
+
+World Health Organization. Critical preparedness, readiness and response actions for COVID-19
+https://www.who.int/publications-detail/critical-preparedness-readiness-and-response-actions-for-covid-19
+
+3.
+
+World Health Organization. Risk Communication and Community Engagement (RCCE) Action Plan Guidance COVID19 Preparedness and Response https://www.who.int/publications-detail/risk-communication-and-communityengagement-(rcce)-action-plan-guidance
+
+4.
+
+World Health Organization. Managing the COVID-19 Infodemic - Call for Action
+https://www.who.int/publications/i/item/9789240010314
+
+5.
+
+World Health Organization. Public Health Considerations while Resuming International Travel.
+https://www.who.int/news-room/articles-detail/public-health-considerations-while-resuming-international-travel
+
+6.
+
+World Health Organization. Recommendations to Member States to improve hand hygiene practices to help prevent the
+transmission of the COVID-19 virus. https://www.who.int/publications/i/item/recommendations-to-member-states-toimprove-hand-hygiene-practices-to-help-prevent-the-transmission-of-the-covid-19-virus
+
+7.
+
+World Health Organization. Advice on the use of masks in the context of COVID-19 https://www.who.int/publicationsdetail/advice-on-the-use-of-masks-in-the-community-during-home-care-and-in-healthcare-settings-in-the-context-of-thenovel-coronavirus-(2019-ncov)-outbreak
+
+8.
+
+World Health Organization. Public health surveillance for COVID-19: interim guidance.
+https://www.who.int/publications/i/item/who-2019-nCoV-surveillanceguidance-2020.7
+
+9.
+
+World Health Organization. Considerations in the investigation of cases and clusters of COVID-19
+https://www.who.int/who-documents-detail/considerations-in-the-investigation-of-cases-and-clusters-of-covid-19
+
+10. World Health Organization. Considerations for quarantine of individuals in the context of containment for coronavirus
+disease (COVID-19) https://www.who.int/publications-detail/considerations-for-quarantine-of-individuals-in-thecontext-of-containment-for-coronavirus-disease-(covid-19)
+11. World Health Organization. Considerations for school-related public health measures in the context of COVID-19.
+https://www.who.int/publications/i/item/considerations-for-school-related-public-health-measures-in-the-context-ofcovid-19
+12. World Health Organization. Getting your workplace ready for COVID-19 https://www.who.int/docs/defaultsource/coronaviruse/advice-for-workplace-clean-19-03-2020.pdf
+13. World Health Organization. Infection Prevention and Control guidance for long-term care facilities in the context of
+COVID-19 https://apps.who.int/iris/bitstream/handle/10665/331508/WHO-2019-nCoV-IPC_long_term_care-2020.1eng.pdf
+14. World Health Organization. Key planning recommendations for Mass Gatherings in the context of the current COVID-19
+outbreak https://www.who.int/publications/i/item/10665-332235
+
+-6-
+
+Annex: Public health criteria to adjust public health and social measures in the context of COVID-19
+
+Annex: Public health criteria to adjust public health and social measures in the context of COVID-19
+Introduction
+In response to the COVID-19 pandemic, countries around the globe have implemented public health and social measures (PHSM)
+for epidemic control. As the local epidemiology of the disease changes, countries adjust (loosen/reinstate) these measures
+accordingly.
+This annex updates the annex published on 12 May 2020 and outlines a process for decision-making on adapting PHSM to the
+epidemiological situation and the health system’s capacity for response. It should be read in conjunction with the main body of this
+document and the interim guidance on Critical preparedness, readiness and response actions for COVID-19.1
+This annex is intended for the public health divisions of national and sub-national authorities in locations that have introduced
+PHSM and are considering adjusting them. Its guidance is restricted to the public health domain. Other documents published by
+WHO address different considerations that should enter into decision-making about introducing or loosening PHSM, including
+the well-being and welfare of a population.
+
+How to use the guidance in this annex
+The public health criteria in this annex are grouped into two domains that should be evaluated to address two main questions:
+1.
+
+Epidemiological situation/Transmission classification - Is the epidemic controlled?
+
+2.
+
+Health system and public health services capacity and performance - Is the health system able to detect and cope
+with COVID-19 cases while maintaining other essential health services?
+
+The criteria are not prescriptive, and it may not be feasible to assess some of them; for example, because of a lack of data. Countries
+should focus on the criteria most relevant for them to inform decision making. The thresholds are indicative and may need to be
+revisited as further information about the epidemiology of COVID-19 and the impact of measures become available. It is
+recommended to systematically assess these criteria at least biweekly at the lowest operational subnational administrative
+level that is practical to inform tailored local responses.
+
+1. Epidemiological situation/Transmission classification
+Transmission classification categories can be used to determine the extent to which the epidemic can be considered controlled within
+each country/area and at sub-national levels. The transmission categories in one country are also useful to others when considering
+changed policies on trade and travel.
+Defining Transmission Classification
+WHO previously defined four transmission scenarios to describe the dynamic of the epidemic: no reported cases (including both
+zero transmission and the absence of detected and reported cases), sporadic cases, clusters of cases and community transmission.
+The community transmission (CT) classification is now divided into four levels, from low incidence (CT1) to very high incidence
+(CT4). Consequently, there are now seven categories.
+Table 1: Definition of the categories for transmission classification
+Category name
+
+Definition
+Countries/territories/areas with:
+
+No (active) cases
+
+No new cases detected for at least 28 days (two times the maximum
+incubation period), in the presence of a robust* surveillance system. This
+implies a near-zero risk of infection for the general population.
+
+Imported / Sporadic cases
+
+Cases detected in the past 14 days are all imported, sporadic (e.g. laboratory
+acquired or zoonotic) or are all linked to imported/sporadic cases, and there
+are no clear signals of further locally acquired transmission. This implies
+minimal risk of infection for the general population.
+
+Clusters of cases
+
+Cases detected in the past 14 days are predominantly limited to well-defined
+clusters that are not directly linked to imported cases, but which are all linked
+by time, geographic location and common exposures. It is assumed that
+there are a number of unidentified cases in the area. This implies a low risk
+of infection to others in the wider community if exposure to these clusters is
+avoided.
+-7-
+
+Annex: Public health criteria to adjust public health and social measures in the context of COVID-19
+Category name
+
+Definition
+Countries/territories/areas with:
+
+Community transmission – level 1 (CT1)
+
+Low incidence of locally acquired, widely dispersed cases detected in the
+past 14 days, with many of the cases not linked to specific clusters;
+transmission may be focused in certain population sub-groups. Low risk of
+infection for the general population.
+
+Community transmission – level 2 (CT2)
+
+Moderate incidence of locally acquired, widely dispersed cases detected in
+the past 14 days; transmission less focused in certain population sub-groups.
+Moderate risk of infection for the general population.
+
+Community transmission – level 3 (CT3)
+
+High incidence of locally acquired, widely dispersed cases in the past 14
+days; transmission widespread and not focused in population sub-groups.
+High risk of infection for the general population.
+
+Community transmission – level 4 (CT4)
+
+Very high incidence of locally acquired, widely dispersed cases in the past
+14 days. Very high risk of infection for the general population.
+
+* Note that in situations where COVID-19 surveillance is not robust, a lack of identified cases should not be interpreted as an
+absence of transmission; alternate indicators (see Table 5) should be examined to assess the possibility of undetected COVID-19
+cases.
+Indicators to determine community transmission
+Four primary indicators to determine community transmission are proposed in Table 2. They are based on data that should be
+routinely collected during the pandemic. The relative importance of each available indicator will vary according to the local context
+(e.g. the reliability of the data for each indicator); and described limitations to interpreting each indicator should be taken into
+account. Indicators should be measured at the lowest administrative level of operations possible to inform targeted public health
+interventions. To develop transmission classification at a higher administrative level, a separate analysis should be conducted using
+indicators for the higher administrative level, rather than attempting to aggregate lower-level transmission classifications.
+These indicators should be used alongside other epidemiologic information available either routinely or through special studies or
+modelling estimates, as well as non-epidemiologic data and other considerations, for informing strategic and operational decisions.
+It is recommended that these indicators be assessed biweekly, adopting the epidemiological week definition used in the country.
+Assessing the level of community transmission
+Ranges for the four indicators (in Table 2), were developed through a review of existing data. They can be used to guide the
+application of the transmission classification at sub-national levels. These ranges are indicative and may require adjustment to local
+contexts and based on the performance (e.g. sensitivity, representativeness) of the local surveillance system and testing strategy,
+and should be revisited periodically. Caution should be exercised when interpreting changes in indicators that occur in the context
+of changes to the surveillance system (e.g. an increase in testing rate or a change in the population under surveillance). Note that
+some indicators (e.g. overall incidence) may be higher in the presence of very large clusters, such as mass gathering outbreaks, than
+during community transmission.
+It is helpful to monitor the testing rate as a measure of the coverage of surveillance - a minimum recommended rate is at least one
+person tested per 1000 population per week. Testing should not be limited to specific populations (e.g. only those in urban settings
+with high access to testing). Denominator data must be available at the level of disaggregation being assessed (e.g. district, province).
+Some authorities may choose to track these indicators among individuals at greatest risk for severe disease and death.
+After all available indicators are calculated, if the levels calculated based on each indicator are different, a qualitative review should
+be undertaken to determine the final transmission classification. It is recommended that if data are not available (or reliable) for all
+indicators, more weight should be given to the indicators considered more reliable in the local context. In many cases, indicators
+listed higher in Table 2 may be more reliable than those lower in the table.
+In places where indicator values are not reliable, but the system is stable, trends can be used as an alternative assessment. One
+example would be a situation in which there is a very low testing rate, and many cases are likely missed, but the testing strategy is
+not changed.
+Additional indicators that can provide further evidence to help classify the level of transmission are listed in Table 3. These indicators
+may not be readily available at the lowest administrative level of operations, however. They are therefore considered secondary to
+the primary four indicators listed in Table 2. Furthermore, they may not directly reflect transmission or force of infection of SARSCoV-2 or may be more difficult to interpret and compare than those listed in Table 2. Thresholds are not presented for the secondary
+indicators, due to a lack of available data, high local variability, or both.
+As a last resort, where no indicator values are available, subjective assessment can be used, but this should be done over several
+weeks to avoid influences from transient or anecdotal observations.
+-8-
+
+Annex: Public health criteria to adjust public health and social measures in the context of COVID-19
+Table 2: Primary Epidemiological Indicators and Proposed Ranges to Assess the Level of COVID-19 Community
+Transmission
+Domain
+
+Indicator
+
+Description/Rationale
+
+Major limitations
+
+Level of community transmission
+CT 1
+
+CT 2
+
+CT 3
+
+CT 4
+
+Hospitalization
+Rate
+
+New COVID19
+hospitalizations
+per 100 000
+population per
+week averaged
+over a twoweek period
+
+A subset of all incident
+cases require
+hospitalization; thus,
+this is an indirect
+indicator of incidence.
+Unlikely to be subject to
+surveillance policy
+changes/differences.
+
+May be influenced
+by hospitalization
+policy, e.g. if even
+mild cases are
+hospitalized for
+isolation purposes.
+Delayed measure
+of incidence.
+
+<5
+
+5 - <10
+
+10 <30
+
+30+
+
+Mortality
+
+Number of
+COVID-19
+attributed
+deaths per 100
+000 population
+per week
+averaged over
+a two-week
+period
+
+A subset of all incident
+cases are fatal, and thus
+this is an indirect
+indicator of incidence.
+Minimally influenced
+by surveillance policy if
+testing is
+comprehensive.
+
+Delayed measure
+of incidence. At
+low levels and in
+small geographical
+regions, can be
+sensitive to minor
+fluctuations (e.g.
+one versus two
+deaths).
+
+<1
+
+1-<2
+
+2-<5
+
+5+
+
+Case Incidence
+
+New confirmed
+cases per 100
+000 population
+per week
+averaged over
+a two-week
+period
+
+Direct measure of
+incidence
+
+Heavily influenced
+by surveillance
+system
+performance,
+testing policy and
+laboratory
+capacity. At low
+levels and in small
+geographical
+regions, can be
+sensitive to minor
+fluctuations in case
+counts, particularly
+due to batch
+reporting.
+
+<20
+
+20 <50
+
+50 <150
+
+150+
+
+Testing
+
+Test positivity
+proportion
+from sentinel
+sites averaged
+over a twoweek period.
+
+Not influenced by
+surveillance capacity or
+strategy. Minimally
+influenced by testing
+strategy or capacity.
+
+May not be
+representative of
+the general
+population if there
+are only limited
+sentinel sites. May
+miss mild or
+atypical cases if
+testing criteria
+require influenzalike presentation.
+
+< 2%
+
+2% - <
+5%
+
+5% <20%
+
+20%+
+
+Note: the thresholds in this table may be updated as additional data become available.
+Trends in Transmission
+In addition to calculating the category of transmission classification, it is also important to understand the direction of the trends of
+contributing indicators (stable, decreasing or increasing) over several weeks. This can assist in determining whether measures
+implemented are improving the epidemiological situation in the area, and for planning future changes, or putting in place anticipatory
+changes, to public health measures based on a likely change in the transmission classification.
+
+-9-
+
+Annex: Public health criteria to adjust public health and social measures in the context of COVID-19
+Table 3: Additional epidemiological indicators to assess level of COVID-19 Community Transmission*
+Indicator
+
+Description/Limitations
+
+ICU proportional occupancy
+
+The proportion of new ICU admissions attributed to COVID-19, out of all
+ICU admissions for the same period (alternatively, proportion of current
+ICU beds occupied by patients with COVID-19, out of all occupied ICU
+beds)
+
+Effective reproductive number (Rt)
+
+The effective reproductive number during the previous one or more
+epidemiological weeks. While this is a widely used indicator of
+transmission, it requires familiarity with the various methods for calculation
+and sufficiently reliable and timely data on incidence.2
+
+Doubling time
+
+The number of days required to double the total cumulative number of cases.
+This is linked to Rt.
+
+Proportion of unlinked cases amongst new
+cases
+
+This is defined as the proportion of cases not previously listed as contacts
+(alternatively, the proportion not linked to known clusters/transmission
+chains). It is a measure of the spread in the community beyond known
+clusters. It is heavily influenced by case investigation and contact tracing
+capacity.
+
+Overall (non-sentinel) test positivity
+
+This may be useful if there are limited sentinel sites. It may capture atypical
+cases better than sentinel surveillance. This is heavily influenced by testing
+strategy and capacity.
+
+Influenza-like-illness (ILI) or Severe Acute
+Respiratory Infection (SARI) trends
+
+This is not directly indicative of COVID-19 cases, but sentinel surveillance
+for ILI and SARI can also capture a proportion of COVID-19 cases, and
+thus this is useful for monitoring trends for COVID-19. This measure may
+be helpful where COVID-19-specific surveillance is not robust.
+
+All-cause hospitalization rate trends
+
+This is not directly indicative of COVID-19 hospitalizations, but, where
+COVID-19 cases make up a substantial proportion of hospitalizations, this
+can be useful for identifying trends in COVID-19 cases. These rates may
+decline due to restricted service provision and other public health measures.
+Trends must be analyzed in the context of other potential causes of changes
+in hospitalization rates (e.g. concurrent influenza circulation). These trends
+may be helpful where COVID-19-specific surveillance is not robust.
+
+All-cause (excess) mortality trends
+
+This measure is not directly indicative of COVID-19 cases/deaths, but where
+COVID-19 deaths make up a substantial proportion of overall deaths, this can
+be useful for identifying trends in COVID-19 cases. Trends must be analyzed
+in the context of other potential causes of changes in mortality rates (e.g.
+concurrent influenza circulation), and ideally compared with baseline data on
+mortality to identify excess above expected (e.g. seasonal) fluctuations. While
+this is a widely used indicator of transmission, it requires careful consideration
+of the inherent biases in mortality estimation methods.3 These trends may be
+helpful where COVID-19-specific surveillance is not robust.
+
+*This list should not be considered exhaustive.
+
+2. Health system and public health services capacity and performance
+The capacity to respond to the extant epidemiologic situation of COVID-19 (i.e. the transmission classification) is a key
+consideration in the decision to adapt PHSM. Clinical care and public health services are two key domains that reflect the ability of
+a country to adapt and respond to the requirements of both the COVID-19 caseload and the burden of disease more generally.
+Sufficient clinical care capacity is required to treat both inpatient and ambulatory cases of COVID-19 while ensuring that the health
+system is not overwhelmed and can continue to treat the regular caseload of patients, particularly during seasonal peaks, such as the
+influenza season, and at times of rapid or large increases in COVID-19 transmission. The public health response relies on the
+capacity of the surveillance system to detect and respond to changes in COVID-19 transmission and focuses on key activities
+including case detection, diagnostic testing and contact tracing. Each of the two domains (health services and public health) is
+divided into two principal sub-domains, namely capacity (output indicators) and performance (outcome and impact indicators).
+While this section is not aimed to be overly prescriptive, it provides quantitative thresholds (Table 4) to categorize response capacity
+and performance into three categories: adequate, moderate and limited. It is important to note that capacity needs to be assessed in
+the context of the current transmission classification. Response capacity that has been considered adequate may, under a higher
+incidence scenario, be reduced to moderate or limited response capacity.
+
+-10-
+
+Annex: Public health criteria to adjust public health and social measures in the context of COVID-19
+Assessing overall level of health system and public health services capacity and performance
+To assess the overall capacity and performance of the health system and public health services, authorities should use the same
+approach as outlined for transmission classification. This includes prioritizing those indicators that are available and reliable and
+adjusting thresholds to local contexts and reliability of the data; interpreting changes to indicators in the context of changes to data
+collection mechanisms; undertaking a qualitative review to determine the final health system capacity level if the levels calculated
+based on each indicator are different; using trends instead of quantitative thresholds where data are not reliable but denominators
+are stable; using subjective assessment as a last resort if no data are available; and observing trends in indicators to anticipate future
+changes to the health system and public health services capacity and performance level. Additional indicators that can be used for
+triangulation are provided in Table 5. Assessments should be updated biweekly.
+Table 4: Primary Epidemiological Indicators and Proposed Ranges to Assess Level of COVID-19 Health system and
+public health services capacity and performance
+Domain
+
+Indicator
+
+Description/
+Rationale
+
+Major limitations
+
+Capacity to respond
+Adequate
+
+Moderate
+
+Limited
+
+Clinical care
+capacity
+
+Proportion of
+occupied
+hospital beds
+
+High morbidity and
+mortality will occur if
+there is insufficient
+capacity to
+hospitalize severe
+cases. Should count
+all hospitalizations,
+not only COVID-19.
+
+May be influenced by
+hospitalization policy (e.g.
+if all cases are isolated in
+hospital), which does not
+indicate true saturation of
+hospital capacity.
+
+<75%†
+
+75-<90%†
+
+90%+ †
+
+Clinical care
+performance
+
+Case fatality
+rate of
+resolved (i.e.,
+outcome
+known)
+hospitalized
+cases
+
+Overall impact
+indicator of adequate
+COVID-19 care.
+
+Highly dependent on age
+and various biases. 3 Must
+take into account any
+changes in case detection
+or testing strategy.
+
+Decreasin
+g trend
+
+Stable
+trend
+
+Increasing
+trend
+
+Public health
+response
+capacity
+
+Number of
+persons tested
+per 1000
+population per
+week,
+averaged over
+a two-week
+period
+
+Without sufficient
+testing, it is difficult
+to appropriately
+isolate and treat
+cases.
+
+Not all laboratories are
+able to report individuals
+tested; if possible, can
+count number of new
+rather than repeat tests;
+otherwise can count
+number of tests but this
+may be misleading due to
+repeat testing. Laboratories
+not reporting location of
+cases may mask disparities
+in testing (e.g. among nonurban populations). If
+using rapid diagnostic
+tests, these should be used
+according to guidance, and
+thresholds may need to be
+raised.
+
+2+
+
+1-<2
+
+<1
+
+Public health
+response
+performance
+
+Proportion of
+cases for
+which an
+investigation
+has been
+conducted
+within 24
+hours of
+identification
+
+This indicates that the
+capacity to identify
+transmission risks and
+exposed contacts.
+Where investigation
+is not recorded
+directly, can be
+measured by proxy
+indicator - proportion
+of cases with contacts
+listed.
+
+May be difficult to obtain
+timely data.
+
+80%+
+
+60-<80%
+
+<60%
+
+-11-
+
+Annex: Public health criteria to adjust public health and social measures in the context of COVID-19
+Domain
+
+Public health
+response
+performance
+
+Indicator
+
+Support for /
+Adherence to
+PHSM
+
+Description/
+Rationale
+Qualitative
+assessment based on
+observation, media
+monitoring,
+perception or
+behaviour surveys,
+hotlines, focus
+groups, etc. Predictor
+of effectiveness of
+PHSM put in place; it
+is important to
+identify not only the
+current status but any
+barriers or enablers to
+improvement.
+
+Major limitations
+
+May be highly variable
+between sub-groups and
+across individual PHSM.
+Difficult to assess
+objectively.
+
+Capacity to respond
+Adequate
+
+Moderate
+
+Limited
+
+High
+(nearly
+universal
+adherence
+to most
+PHSM).
+
+Moderate
+(modest
+adherence
+to most
+PHSM, or
+variable
+adherence
+across
+individual
+PHSM).
+
+Low
+(minimal
+adherence
+to most
+PHSM).
+
+Hospital occupancy routinely varies considerably between countries, and so baseline occupancy must be taken into
+consideration.
+
+†
+
+Table 5: Additional Epidemiological Indicators to Assess Level of COVID-19 Health system and public health services
+capacity and performance*
+Indicator
+
+Description/Limitations
+
+Number of trained ICU staff per 10
+000 population
+
+This indicates sufficient clinical capacity to respond to cases most likely to lead to
+mortality. This indicator may be more relevant when measured against population of
+clinically vulnerablei persons, if data are available. This indicator is difficult to
+measure. It is a necessary but insufficient measure of ability to provide intensive care.
+
+Number of ICU beds per 10 000
+clinically vulnerable populationi
+
+Mortality from COVID-19 will be highest if capacity for intensive care is exceeded.
+Strictly counting the number of ICU beds does not guarantee successful care if there is
+inadequate staffing, equipment or supplies.
+
+Proportion of occupied ICU beds
+
+This indicator assesses sufficient clinical capacity to respond to cases most likely to
+lead to mortality. It may not be useful in countries with very few ICU beds (can be
+substituted with proportion of occupied hospital beds +/- oxygen in these situations);
+if this indicator is very low, overall health system capacity should be considered
+limited, regardless of adequate levels of other capacity indicators
+
+Proportion of occupied beds with
+access to oxygen supply
+
+As oxygen is an important treatment for COVID-19 and sufficient capacity to provide
+oxygen can be useful even in the absence of ICU capacity. This indicator may be
+difficult to measure and may not be useful in countries with very low capacity.
+
+Crude case fatality rate of COVID19
+
+This is an overall impact indicator of adequate COVID-19 care. It is highly dependent
+on age and other risk factors, and various reporting biases.3 Analysis of trends should
+consider any changes in case detection or testing strategy. Countries are advised to
+collect additional information on age, as this measure will be heavily affected by the
+age structure of the population.
+
+Number of contact tracers per 100
+000 population [alternatively per
+number of new cases in a week]
+
+This indicates capacity to conduct sufficient contact tracing to interrupt transmission.
+It is an input indicator which may not correlate well with actual contact tracing
+outcomes. There is minimal evidence base for determining thresholds. This may be
+difficult to accurately measure where contact tracing is done by persons other than
+formally designated “contact tracers”.
+
+Number of points of entry
+surveillance officers per 100 000
+daily travellers
+
+This is a measure of the ability to successfully mitigate the risk of importation. It is a
+poor indicator of actual internal domestic capacity; is minimally relevant during
+widespread community transmission; and may be achieved when human resources are
+inappropriately diverted from internal domestic use.
+
+-12-
+
+Annex: Public health criteria to adjust public health and social measures in the context of COVID-19
+Indicator
+
+Description/Limitations
+
+Proportion of newly confirmed or
+probable cases interviewed for
+contact elicitation within 24 hours
+of identification
+
+This indicator measures the timeliness of contact listing, which shortens exposure to
+potentially infected persons. A better metric of contact listing timeliness is the actual
+proportion of contacts identified and traced/quarantined within 48 hours.
+
+Proportion of contacts of new cases
+who are monitored for 14 days (or
+locally specified period)
+
+This indicates that contacts are monitored until no longer at risk for becoming
+secondary cases (linked to a particular source case). This indicator may be particularly
+important for assessment of public health system performance in the
+‘imported/sporadic’ and ‘clusters’ transmission scenarios. It can be spuriously inflated
+by poor contact listing.
+
+Proportion of identified cases
+isolated within 24 hours of positive
+test result (or determination as a
+probable case)
+
+This indicates that investigation and isolation of new cases is sufficiently rapid to
+minimize the generation of secondary cases. This indicator may be particularly
+important for assessment of public health system performance in the
+Imported/Sporadic and Clusters transmission scenarios.
+
+Time from symptom onset to case
+confirmation
+
+This measures the ability of the surveillance system to promptly detect, test and
+confirm symptomatic cases. Individual components (i.e., time from symptom onset to
+detection, detection to testing and test turnaround time can also be measured
+independently.
+
+Proportion of cases arising from
+contact lists
+
+This describes the extent to which new cases are already captured by and known to the
+surveillance system through adequate case investigation. When this is low, it suggests
+widespread existence of “hidden” chains of transmission and/or poor-quality case
+investigation.
+
+This list should not be considered exhaustive.
+‘Clinically vulnerable’ in this context refers to individuals aged >60 years and/or with comorbidities that increase risk of serious
+COVID-19 disease, including heart disease, asthma and diabetes.
+*
+i
+
+References
+1.
+
+Critical preparedness, readiness and response actions for COVID-19. Geneva: World Health Organization;
+(https://www.who.int/publications/i/item/critical-preparedness-readiness-and-response-actions-for-covid-19)
+
+2.
+
+Megan O’Driscoll, Carole Harry, Christl A Donnelly, Anne Cori, Ilaria Dorigatti, A comparative analysis of statistical
+methods to estimate the reproduction number in emerging epidemics with implications for the current COVID-19
+pandemic, Clinical Infectious Diseases, 2020; ciaa1599, https://doi.org/10.1093/cid/ciaa1599
+
+3.
+
+Estimating mortality from COVID-19: Scientific brief. Geneva: World Health Organization;
+https://apps.who.int/iris/handle/10665/333642.
+
+WHO continues to monitor the situation closely for any changes that may affect this interim guidance. Should any factors change,
+WHO will issue a further update. Otherwise, this interim guidance document will expire 2 years after the date of publication.
+
+© World Health Organization 2020. Some rights reserved. This work is available under the CC BY-NC-SA 3.0 IGO licence.
+WHO reference number: WHO/2019-nCoV/Adjusting_PH_measures/2020.2
+-13-
+
+

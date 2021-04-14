@@ -1,0 +1,293 @@
+International Journal of Cardiology Congenital Heart Disease 3 (2021) 100097
+
+Contents lists available at ScienceDirect
+
+International Journal of Cardiology Congenital Heart Disease
+journal homepage: www.journals.elsevier.com/international-journal-of-cardiologycongenital-heart-disease
+
+The spectrum of COVID-19 in complex adult congenital heart disease: A case series
+A R T I C L E I N F O
+Keywords
+Adult congenital heart disease
+Complex adult congenital heart disease
+Covid-19
+
+Correspondence
+The coronavirus disease 2019 (COVID-19) pandemic has proven to be
+a signiﬁcant challenge both for physicians and patients with chronic
+conditions. There is a continuous ﬂow of data for patients with congenital
+heart disease, however resources are limited and recommendations rely
+mainly on expert opinion [2]. Complex adult congenital heart disease
+(ACHD) patients represent a highly heterogenous population with great
+anatomical complexity and are considered a high-risk group for complications associated with COVID-19 [1]. Herein, we present ﬁve cases of
+complex ACHD diagnosed with COVID-19 (Table 1). Informed consent
+has been obtained from each patient presented.
+Cases managed in hospital
+Case 1
+A 35-year old male with a history of Eisenmenger syndrome in the
+setting of unrepaired ventricular septal defect (VSD) and atrial septal
+defect (ASD) was presented to the emergency department because of
+persistent fever and productive cough. He had already been diagnosed
+positive with SARS-CoV-2 infection ten days ago. Vitals at admission
+revealed oxygen desaturation at 74% with a baseline SO2 at 80%,
+without respiratory distress. An ECG was performed and revealed the
+known right ventricular hypertrophy patient's pattern with no ischaemic
+or arrhythmic alterations. The admission laboratory tests were signiﬁcant
+for increased LDH and CRP values, without lymphopenia and increased
+haemoglobin 18.9 g/dl. NT-proBNP was 108 pg/ml. A chest CT was
+performed and revealed extensive bilateral lesions compatible with
+COVID-19 (Fig. 1). The patient required oxygen therapy via a face mask
+(he could not tolerate nasal cannula) at 5L/min to achieve oxygen saturation 80–85%. He was started on remdesivir, dexamethasone, ampicillin/sulbactam and azithromycin. His baseline medication included
+bosentan and acenocoumarol, which were continued. Throughout hospitalization he was clinically stable, progressively tapered off oxygen
+therapy and was discharged after 7 days.
+Case 2
+A 28-year old male with a history of transposition of the great arteries
+and atrial switch operation was presented to the emergency department
+
+due to fever. Rapid antigen SARS-CoV-2 testing was positive and was
+later conﬁrmed by RT-PCR testing. Arterial blood gases showed satisfactory partial pressure of oxygen 78 mmHg on air. Laboratory measurements included mildly increased CRP, LDH and d-dimer levels and
+reduced lymphocyte count but normal ferritin levels. BNP at admission
+was 275 pg/ml (baseline NT-proBNP was 636 pg/ml). A chest CT
+revealed small areas of ground glass opacity bilaterally and mainly in the
+right lower pulmonary lobe (Figure). An echocardiogram was performed
+at the COVID-19 ward and was not altered from baseline, namely a hypertrophied and dilated systemic right ventricle with moderate systolic
+dysfunction and severe systemic atrioventricular valve regurgitation. The
+patient was started on ceftriaxone, azithromycin and low molecular
+weight heparin and continued baseline therapy with b-blocker, sacubitril/valsartan, eplerenone and furosemide. He did not require any oxygen
+therapy throughout his stay. His hospitalization lasted 8 days and was
+discharged in a stable condition.
+Cases managed at home
+Three patients with complex ACHD were diagnosed with COVID-19
+and were managed at home (Table). All patients reported fever, one patient fatigue and another sore throat. None experienced dyspnoea, chest
+pain or arrhythmia during the disease. They were instructed to an everyday measurement of oxygen saturation and early admission in case of
+deterioration. The median symptomatic duration was 6 days and all
+patients completed a 14-day self-isolation uneventfully.
+Teleconsultation for all infected patients has been scheduled one
+month after the infection in order to evaluate their post-COVID clinical
+status.
+Risk stratiﬁcation and treatment considerations in complex ACHD
+patients with COVID-19 remain vague. However, factors such as the
+presence of physiologic state C and D, rather than sole anatomic
+complexity, seem to be of paramount importance in relation to the
+severity of COVID-19 disease and decreased ventricular function is linked
+to a longer duration of symptoms [3]. Patients with cyanotic heart disease, systemic right ventricular dysfunction and pulmonary hypertension
+are prone to arrhythmias and rapid clinical deterioration [4]. Ideally,
+these patients should be admitted in expertized ACHD centres [5]. In our
+case, a multidisciplinary approach, involving continuous communication
+
+https://doi.org/10.1016/j.ijcchd.2021.100097
+Received 9 February 2021; Accepted 12 February 2021
+2666-6685/© 2021 The Author(s). Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/bync-nd/4.0/).
+
+I. Farmakis et al.
+
+International Journal of Cardiology Congenital Heart Disease 3 (2021) 100097
+
+Table 1
+Characteristics of patients.
+Patients
+
+CHD diagnosis
+
+Baseline echochardiographic indices
+
+Symptoms
+
+Hospital
+admission
+(Yes/No)
+
+Treatment for COVID-19
+
+Case 1
+Male, 35
+
+ASD and VSD, Eisenmenger
+syndrome
+
+Hypertrophied RV with preserved systolic function
+
+Yes
+
+Case 2
+Male, 28
+
+Transposition of the great
+arteries, status post atrial
+switch operation
+Congenitally corrected
+transposition of the great
+arteries, VSD, pulmonary
+stenosis
+Double inlet left ventricle, total
+cavopulmonary connection
+
+Hypertrophic and dilated systemic RV, moderate RV
+systolic dysfunction, severe systemic AV regurgitation
+
+Dyspnoea, fever,
+productive
+cough
+Fever
+
+Dexamethasone, remdesivir,
+ampicillin/sulbactam,
+azithromycin, acenocoumarol
+Ceftriaxone, azithromycin, low
+molecular weight heparin
+
+Mild systemic RV hypertrophy and dilation, borderline RV
+systolic dysfunction, mild systemic AV regurgitation
+
+Fever
+
+No
+
+Symptomatic relief
+
+Unobstructed total cavopulmonary connection, no leaks in
+the fenestrated device. Single ventricle (LV) dilated with
+moderately impaired systolic function, mild left AV
+regurgitation
+Unobstructed Fontan circuit, no leaks. Preserved systemic
+systolic function
+
+Fever, sore
+throat
+
+No
+
+Symptomatic relief
+
+Fever, fatigue
+
+No
+
+Azithromycin, Symptomatic
+relief
+
+Case 3
+Male, 19
+
+Case 4
+Female,
+35
+Case 5
+Male, 26
+
+Double outlet right ventricle,
+VSD, status post Damus-KayeStansel operation
+
+Yes
+
+ASD: atrial septal defect, AV: atrioventricular, CHD: congenital heart disease, LV: left ventricle, NT-proBNP: N-terminal pro-brain natriuretic peptide, RV: right ventricle,
+VSD: ventricular septal defect, TAPSE: tricuspid annular plane systolic excursion.
+
+Fig. 1. A: Case 1. Chest high-resolution computed tomography (HRCT) ﬁndings consist of pure ground glass opacities (GGOs) and patchy consolidation surrounded by
+wide range of GGOs distributed in both lower lung ﬁelds. В: Case 2. Chest HRCT, less extended, yet similar ﬁndings are localized mainly on the right and are
+characterized by lower density of the lesions. In comparison with case 1, this CT image is in accordance with milder clinical course of the disease.
+
+Funding
+
+of attending internists and the ACHD expert, was opted for hospitalized
+patients. Suitably, treatment in Eisenmenger syndrome was titrated according to the baseline oxygen saturation, consistent with the elevated
+haemoblogin levels. Also, echocardiography, as illustrated in the second
+case, is not a routine as we know it and is only performed to assess
+deterioration in cardiac function and/or presence of pericardial effusion,
+and no extensive measurements are performed in order to prevent prolonged patient-echocardiographist contact. Lastly, there is no speciﬁc
+treatment targeting SARS-CoV-2 at the moment, therefore, hospitalized
+patients needing oxygen supplementation were treated mainly with
+remdesivir and dexamethasone [6].
+There is limited amount of data as to which factors related to ACHD
+are prognostic for COVID-19 increased severity and is hard to predict
+clinical outcomes [7]. However, amidst the pandemic, the need for
+intensive follow-up of ACHD patients, no matter if their clinical condition is deemed stable, persists [8]. Vaccines offer hope, however the
+limited availability of data hinders speciﬁc recommendations. In other
+respects, ACHD patients should maintain a healthy, active lifestyle,
+maintain social distancing and utilize technology to preserve continuity
+of care [9,10].
+
+None.
+Declaration of competing interest
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂuence
+the work reported in this paper.
+References
+[1] Radke RM, Frenzel T, Baumgartner H, Diller G-P. Adult congenital heart disease and
+the COVID-19 pandemic. Heart 2020;106(17):1302–9. https://doi.org/10.1136/
+heartjnl-2020-317258.
+[2] Diller G-P, Gatzoulis MA, Broberg CS, et al. Coronavirus disease 2019 in adults with
+congenital heart disease: a position paper from the ESC working group of adult
+congenital heart disease, and the International Society for Adult Congenital Heart
+Disease. Eur Heart J. Published online December 2020;12. https://doi.org/10.1093/
+eurheartj/ehaa960.
+[3] Lewis MJ, Anderson BR, Fremed M, et al. Impact of coronavirus disease 2019
+(COVID-19) on patients with congenital heart disease across the lifespan: the
+2
+
+I. Farmakis et al.
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
+
+International Journal of Cardiology Congenital Heart Disease 3 (2021) 100097
+
+Ioannis Farmakis, Diamantis Kosmidis
+Cardiology Department, AHEPA University Hospital, Aristotle University of
+Thessaloniki, Greece
+
+experience of an academic congenital heart disease center in New York city. JAHA
+2020;9(23). https://doi.org/10.1161/JAHA.120.017580.
+Hern
+andez-Madrid A, Paul T, Abrams D, et al. Arrhythmias in congenital heart
+disease: a position paper of the European heart rhythm association (EHRA), association for European paediatric and congenital cardiology (AEPC), and the European society of cardiology (ESC) working group on grown-up congenital heart
+disease, endorsed by HRS, PACES, APHRS, and SOLAECE. Europace 2018;20(11):
+1719–53. https://doi.org/10.1093/europace/eux380.
+Brida M, Chessa M, Gu H, Gatzoulis MA. The globe on the spotlight: coronavirus
+disease 2019 (Covid-19). Int J Cardiol 2020;310:170–2. https://doi.org/10.1016/
+j.ijcard.2020.04.006.
+Therapeutic management. COVID-19 treatment guidelines. https://www.covid19tr
+eatmentguidelines.nih.gov/therapeutic-management/. [Accessed 9 December
+2020].
+Haiduc AA, Ogunjimi M, Shammus R, et al. COVID-19 and congenital heart disease:
+an insight of pathophysiology and associated risks. Cardiol Young 2020;11:1–8.
+https://doi.org/10.1017/S1047951120003741. Published online November.
+Dawson KL, Vincent LL, Krieger EV, Stout KK, Buber J. Acute increase in deaths
+among patients with adult congenital heart disease during COVID-19. JACC (J Am
+Coll Cardiol): Case Reports 2020;2(9):1275–8. https://doi.org/10.1016/
+j.jaccas.2020.06.013.
+Polyviou S, Frigiola A, Charakida M. Physical activity assessment and advice as part
+of routine clinical care in patients with congenital heart disease. Hellenic J Cardiol
+2020;61(3):187–9. https://doi.org/10.1016/j.hjc.2020.09.001.
+Gatzoulis MA, Chung N, Ferrero P, et al. Adult congenital heart care in the COVID19 era, and beyond: a call for action. International Journal of Cardiology Congenital
+Heart Disease 2020;1:100002. https://doi.org/10.1016/j.ijcchd.2020.100002.
+
+Christos Liantzakis
+Internal Medicine Department, General Hospital of Florina, Greece
+Evangelia Serasli
+Pulmonary Medicine Department, “G. Papanikolaou” General Hospital of
+Thessaloniki, Greece
+Haralambos Karvounis, Athanasios Koutsakis, George Giannakoulas*
+Cardiology Department, AHEPA University Hospital, Aristotle University of
+Thessaloniki, Greece
+*
+
+Corresponding author. Aristotle University of Thessaloniki, AHEPA
+Hospital, Cardiology Department Stilp. Kiriakidi 1, 54637, Thessaloniki,
+Greece.
+E-mail address: ggiannakoulas@auth.gr (G. Giannakoulas).
+
+3
+
+

@@ -1,0 +1,3824 @@
+Background document on the mRNA-1273 vaccine
+(Moderna) against COVID-19
+Background document to the WHO Interim
+recommendations for use of the mRNA-1273
+vaccine (Moderna)
+3 February 2021
+
+-1-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+Contents
+Background ............................................................................................................................................................ 3
+Methods .................................................................................................................................................................. 3
+General considerations on mRNA vaccines ........................................................................................................... 3
+Characteristics of COVID-19 vaccine mRNA-1273 (Moderna) ............................................................................ 3
+Vaccine composition and storage ...................................................................................................................... 3
+Vaccine dosing .................................................................................................................................................. 3
+Efficacy of the Moderna mRNA-1273 COVID-19 vaccine ................................................................................... 3
+Trial population ................................................................................................................................................. 3
+Efficacy against COVID-19 .............................................................................................................................. 4
+Efficacy against severe COVID-19 ................................................................................................................... 4
+Summary ........................................................................................................................................................... 4
+Safety of the Moderna mRNA-1273 COVID-19 vaccine ...................................................................................... 4
+Adverse events................................................................................................................................................... 4
+Adverse events of special interest (that would potentially require longer follow-up) ....................................... 5
+Lymphadenopathy-related events ................................................................................................................. 5
+Bell’s palsy ................................................................................................................................................... 5
+Hypersensitivity-related events..................................................................................................................... 5
+Serious adverse events ....................................................................................................................................... 5
+Special populations............................................................................................................................................ 5
+Pregnancies ................................................................................................................................................... 5
+Summary ........................................................................................................................................................... 6
+Reference................................................................................................................................................................ 6
+Funding source ....................................................................................................................................................... 6
+Acknowledgements ................................................................................................................................................ 6
+Annexes .................................................................................................................................................................. 7
+
+-2-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+Background
+This background document has been prepared by the Strategic Advisory Group of Experts (SAGE) on Immunization Working
+Group on COVID-19 Vaccines to inform the discussions of SAGE at its 21 January 2021 extraordinary meeting (1), which
+resulted in the issuance of the 25 January 2021 WHO Interim recommendations for use of the Moderna mRNA-1273 vaccine
+against COVID-19.
+Both recommendations and background document are available on the SAGE Covid-19
+https://www.who.int/groups/strategic-advisory-group-of-experts-on-immunization/covid-19-materials.
+
+webpage:
+
+Declarations of interests were collected from all external contributors and assessed for any conflicts of interest. Summaries of
+the reported interests can be found on the SAGE meeting website and SAGE Working Group website.
+
+Methods
+SAGE applies the principles of evidence-based medicine and has set in place a thorough methodological process for issuing or
+updating recommendations (2). Specifically for COVID-19 vaccines, a detailed description of the methodological processes can
+be found in the SAGE evidence framework for COVID-19 vaccines. This framework is intended to offer guidance for
+considering data emerging from clinical trials in support of issuing vaccine-specific evidence-based recommendations (3).
+
+General considerations on mRNA vaccines
+The advantage of RNA-based vaccines is their potential for rapid development and reduced side effects. mRNA-based vaccines
+avoid the risk of integration with the host cell genome and are able to produce pure viral protein. mRNA is transiently expressed,
+therefore allowing protein to be made within the cell. . Lipid nanoparticle (LNP)-formulated mRNA vaccine technology allows
+the delivery of precise genetic information together with an adjuvant effect to antigen-presenting cells. It is molecularly well
+defined, free from materials of animal origin, and synthesized by an efficient, cell-free in vitro transcription process from DNA
+templates. The technology associated with this vaccine is also capable of bypassing time-consuming standardization processes,
+thus speeding up its commercial production. The fast and highly scalable mRNA manufacturing and LNP formulation processes
+enable rapid production of many vaccine doses, making it suitable for rapid vaccine development and pandemic vaccine supply.
+
+Characteristics of COVID-19 vaccine mRNA-1273 (Moderna)
+Moderna’s mRNA-1273 COVID-19 vaccine is an LNP-encapsulated mRNA vaccine expressing the prefusion-stabilized spike
+glycoprotein. It was developed by Moderna and the Vaccine Research Center at the National Institute of Allergy and Infectious
+Diseases (NIAID) in the USA.
+Vaccine composition and storage
+The vaccine contains a synthetic mRNA (single-stranded, 5'-capped) encoding the prefusion-stabilized spike glycoprotein (S) of
+SARS-CoV-2 virus. The vaccine also contains the following ingredients: lipids (SM-102, 1,2-dimyristoyl-rac-glycero-3methoxypolyethylene glycol-2000 (PEG2000-DMG), cholesterol, and 1,2-distearoyl-sn-glycero-3-phosphocholine (DSPC)),
+tromethamine, tromethamine hydrochloride, acetic acid, sodium acetate, and sucrose. The Moderna COVID-19 vaccine is
+supplied as a frozen suspension, at between –25 ºC and –15 ºC (–13 ºF and 5 ºF), in a multidose vial containing 10 doses.
+The vaccine is a white to off-white, sterile, preservative-free frozen suspension for intramuscular injection. The vaccine must be
+thawed prior to administration. After thawing, a maximum of 10 doses (0.5 ml each) can be withdrawn from each vial. Vials can
+be stored refrigerated at 2–8 °C (36–46 °F) for up to 30 days prior to first use. Unopened vials may be stored at 8–25 °C (46–
+77 °F) for up to 12 hours. After the first dose has been withdrawn, the vial should be held at 2–25 °C (36–77 °F) and discarded
+after 6 hours.
+Vaccine dosing
+The Moderna COVID-19 vaccine, mRNA-1273 (100 μg), is administered intramuscularly as a series of two doses (0.5 ml each),
+given 28 days apart.
+
+Efficacy of the Moderna mRNA-1273 COVID-19 vaccine
+Trial population
+The pivotal phase 3 registration trial of the vaccine was conducted in 99 centres across the United States of America and involved
+about 30 000 participants aged 18 years or older with no known history of SARS-CoV-2 infection, but whose location or
+circumstances put them at appreciable risk of acquiring COVID-19 (4). Participants were healthy or had stable pre-existing
+-3-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+medical conditions. In total, 25% (7512 of 30 351) were aged 65 years or over (mean age: 70.6 years; range: 65–95 years) and
+16.7% (5065 of 30 351) were under 65 years and at risk of severe COVID-19 illness (mean age: 49.0 years; range: 18–64 years).
+The vaccine was administered in 2 doses separated by one month. The median age at vaccination was 51 years. Participants were
+randomized equally between vaccine and placebo groups. Women who were pregnant or breastfeeding were excluded. At entry
+to the trial, 2.2% of participants had serological or virological evidence of a past SARS-CoV-2 infection. Most were white (79%)
+and similar numbers of males and females were included. The median body mass index was 28.1. The primary analysis of the
+trial results was conducted when participants had been followed for a median of 64 days after the second vaccine dose; at that
+time, 61% had been followed for more than 56 days.
+Efficacy against COVID-19
+The primary endpoint was specified as efficacy against symptomatic COVID-19, starting 14 days after the second dose, among
+participants who were seronegative at trial entry. Efficacy was evaluated for those subjects who received the second dose 21-42
+days after the first dose. There were 196 cases that met this definition, 11 in the vaccinated group and 185 in the placebo group.
+Vaccine efficacy (VE) was estimated as 94.1% (95% confidence interval (CI) 89.3–96.8%).
+Analyses were also conducted including all cases from the time of the first dose. Adjusting for person–years, the VE and 95%
+CI are: from dose 1 to dose 2: 84.7% (65.8–94.2%); from dose 2 to 14 days after dose 2: 100% (78.6%, NE). There was no
+evidence of efficacy until approximately 14 days after the first dose.
+In the period 14 or more days after the second vaccine dose, no significant variations in the estimates of vaccine efficacy were
+apparent when the primary analyses were stratified according to sex, age, race and ethnic group, or for those at high risk of severe
+COVID-9. In particular, among those aged 65 years or older there were 4 cases in the vaccinated group and 29 cases in the
+placebo group (VE 86.4%, 95% CI 61.4–95.2%), based on a stratified Cox model.
+Efficacy against severe COVID-19
+A total of 30 cases of severe COVID-19 occurred in trial participants 14 or more days after the second dose, all in the placebo
+group (VE=100%, 95% CI 86.9–100%; adjusting for person-years, the 95% CI is 87.0%, NE.
+Summary
+The vaccine was highly efficacious against laboratory-confirmed COVID-19 from 14 days after the second vaccine dose until
+the end of the follow-up period, which was, on average, about two months after the second dose. Evidence of efficacy emerged
+from about 12 days after the first vaccine dose. No evidence of variation in efficacy was found in the various subgroups that
+were analysed, including, importantly, those likely to be at higher risk of severe COVID-19, e.g. those over 65 years. The
+estimates of efficacy were very high. Efficacy against severe COVID-19 was also very high, with all 30 cases occurring 14 or
+more days after the second dose being in the placebo group.
+
+Safety of the Moderna mRNA-1273 COVID-19 vaccine
+In the phase 3 trial, safety data were collected from 30 351 participants who received at least one dose of the vaccine (n = 15 185)
+or placebo (n = 15 166). 87.9% of study participants were followed up for at least 28 days after dose 2, and the median followup time for all participants was 9 weeks after dose 2 (4).
+The safety data supported a favorable safety profile. Reactogenicity symptoms, defined as solicited local injection site or
+systemic reactions during the seven days after vaccination, were frequent, mostly mild to moderate and short-lived after dosing
+for both adult age groups. Reactogenicity and adverse events (AEs) were generally milder and less frequent in participants in the
+older group (≥65 years of age) and tended to increase in frequency and severity after the second dose.
+The vaccine’s AE profile did not suggest any specific safety concerns. Severe adverse reactions occurred in 0.2–9.7% of
+participants, were more frequent after dose 2 than after dose 1, and were generally less frequent in older adults (≥65 years of
+age). The incidence rates of serious adverse events (SAEs), deaths, and discontinuations due to AEs were low and comparable
+for both the vaccine and placebo groups. There were no specific safety concerns identified in subgroup analyses by age, sex,
+race, ethnicity, medical comorbidities, or prior SARS-CoV-2 infection at enrolment. Of note, persons with a known history of
+COVID-19 were excluded from the trial. However, the trial collected nasopharyngeal swabs and serology on the day of
+enrollment and some persons were positive at that time based on those results, but had no symptoms.
+Adverse events
+Adverse events occurring within 28 days following each vaccination were reported by 23.9% (n = 3632) of participants who
+received the vaccine and 21.6% (n = 3277) of participants who received placebo. The most common adverse reactions in
+participants 18 years of age and older were pain at the injection site (92.0%), fatigue (70.0%), headache (64.7%), myalgia
+(61.5%), arthralgia (46.4%), chills (45.4%), nausea/vomiting (23.0%), axillary swelling/tenderness (19.8%), fever (15.5%),
+-4-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+swelling at the injection site (14.7%), and erythema at the injection site (10.0%). The median duration for pain was 2–3 days.
+The highest rates of pain were in participants aged 18–64 years after dose 2, with 90.1% reporting any pain and 4.6% reporting
+grade 3 pain. The median duration for fatigue in vaccine recipients was 2 days after any dose. The highest rates of fatigue were
+reported by participants aged 18–64 years after the second dose, with 67.6% reporting any fatigue, 10.6% reporting grade 3, and
+one participant reporting grade 4 (after dose 1).
+Delayed localized injection site reaction with onset after 7 days was more frequent in the vaccine group than in the placebo group
+and mostly occurred after the first dose.
+Adverse events of special interest (that would potentially require longer follow-up)
+Lymphadenopathy-related events
+Lymphadenopathy-related events were reported by 173 (1.1 %) vaccine recipients and 95 (0.63 %) placebo recipients. These
+events included lymphadenopathy (axillary swelling and tenderness of the vaccination arm), lymphadenitis, lymph node pain,
+vaccination-site lymphadenopathy and axillary mass. These were plausibly related to vaccination.
+The median duration of lymphadenopathy following any dose was 1–2 days, and fewer than 1% reported grade 3 axillary swelling
+or tenderness. Lymphadenopathy was more frequently observed in participants aged 18–64 years after dose 2, with 16.0%
+reporting any severity lymphadenopathy and 0.4% reporting grade 3 lymphadenopathy.
+Bell’s palsy
+There were three reports of Bell’s palsy in the vaccine group and one in the placebo group. In the vaccine recipients, the events
+occurred 22, 28, and 32 days after dose 2. One event was a serious adverse event (reported as resolving), one case has resolved
+and one is ongoing. In the placebo group, the event occurred 17 days after dose 1. Causality assessment is confounded by
+predisposing factors in all the participants. The usual incidence of Bell`s palsy is 15–30 per 100 000 per year. The observed
+frequency of reported Bell’s palsy in the vaccine group is consistent with the expected background rate in the general population.
+An association between COVID-19 and Bell’s palsy has been reported. Currently available information on Bell’s palsy is
+insufficient to determine a causal relationship with the vaccine. Surveillance for cases of Bell’s palsy with deployment of the
+vaccine in larger populations is required. Bell`s palsy has been addressed in the manufacturer’s risk management plan.
+Hypersensitivity-related events
+A total of 233 events (1.5%) occurred in the vaccine group and 166 events (1.1%) in the placebo group. The hypersensitivityrelated events included injection site rash, injection site urticaria and maculopapular rash. There is a plausible relationship to
+vaccination of these events.
+No anaphylactic or severe hypersensitivity reactions with close temporal relation to the vaccine were reported during the trial.
+Serious adverse events
+The frequency of serious adverse events was low (1.0% in the vaccine group and 1.0% in the placebo group), without meaningful
+imbalances between the two groups.
+As of 3 December 2020, there had been 13 deaths in total, with 6 in the vaccine group and 7 in the placebo group. No causal
+relationship was determined.
+The SAEs thought to be related to the vaccine included intractable nausea and vomiting in a 65-year-old one day after the second
+dose. Two subjects, who were 46 and 51 years old, reported facial swelling one and two days after the second dose, respectively.
+Both subjects had prior dermal fillers.
+Special populations
+Pregnancies
+Women were screened for pregnancy prior to each vaccination and were excluded or discontinued from vaccination if there was
+a positive test. As of 2 December 2020, 13 pregnancies (6 in the vaccine group and 7 in the placebo group) had been reported.
+The pregnancy outcomes in the placebo group included one spontaneous abortion and one elective abortion. The other outcomes
+are not known to date and the pregnant women are being followed.
+A combined developmental and perinatal/postnatal reproductive toxicity study of the vaccine in rats concluded that the vaccine
+at a dose of 100 μg, given prior to mating and during gestation periods, did not have any adverse effects (including on female
+reproduction, fetal/embryonal development, or postnatal development).
+
+-5-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+Summary
+The safety data supported a favourable safety profile. Reactogenicity was mostly mild to moderate, less frequent and severe in
+adults aged 65 years and over than in younger adults and generally more frequent after the second dose in both age groups. No
+safety concerns were identified in subgroup analyses by age, sex, race, ethnicity, comorbidities and health risks for severe
+COVID-19.
+Delayed localized injection site reaction with onset after 7 days was more frequent in the vaccine group than in the placebo group
+and mostly seen after the first dose.
+Lymphadenopathy-related events were more frequent in the vaccine group than the placebo group and were plausibly related to
+vaccination. Hypersensitivity-related events were more frequent in the vaccine group than the placebo group. No anaphylactic
+or severe hypersensitivity reactions with temporal relation to vaccination were reported during the trial. Three cases of Bell’s
+palsy were reported in vaccine recipients, and one in placebo recipients. Although there is no clear basis upon which to conclude
+a causal relationship at this time, further surveillance for Bell’s palsy is required as part of the risk management plan.
+
+Reference
+1.
+
+2.
+
+3.
+4.
+
+Extraordinary meeting of the Strategic Advisory Group of Experts on Immunization (SAGE) - 21 January 2021
+(https://www.who.int/news-room/events/detail/2021/01/21/default-calendar/extraordinary-meeting-of-the-strategicadvisory-group-of-experts-on-immunization-(sage)---21-january-2021, accessed 29 January 2021).
+SAGE Guidance for The Development of Evidence-Based Vaccination-Related Recommendations. World Health
+Organization. 2017.(https://www.who.int/immunization/sage/Guidelines_development_recommendations.pdf,
+accessed 6 January 2021).
+Evidence to recommendations for COVID-19 vaccines: Evidence framework. World Health Organization. 2020.
+(https://www.who.int/publications/i/item/WHO-2019-nCoV-SAGE-Framework-Evidence-2020-1, accessed 7 January
+2021).
+Baden LR, El Sahly HM, Essink B, Kotloff K, Frey S, Novak R et al. Efficacy and safety of the mRNA-1273 SARSCoV-2 vaccine. N Engl J Med. 2020 Dec 30:NEJMoa2035389. doi: 10.1056/NEJMoa2035389. Epub ahead of print.
+
+.
+
+Funding source
+SAGE members and SAGE working group members do not receive any remuneration from the Organization for any work related
+to the SAGE. The SAGE secretariat is funded through core contributions to WHO.
+
+Acknowledgements
+This document was developed in consultation with:
+External: Current members of the Strategic Advisory Group of Experts on Immunization (SAGE) and the SAGE Working Group
+on COVID-19 Vaccines.
+WHO: Annelies Wilder-Smith, Joachim Hombach, Melanie Marti.
+
+WHO continues to monitor the situation closely for any changes that may affect this interim guidance. Should any factors change,
+WHO will issue a further update. Otherwise, this interim guidance document will expire 2 years after the date of publication.
+
+-6-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+Annexes
+Annexes 1–6 contain tables that summarize the grading of recommendations, assessment, development and evaluations
+(GRADE). Annexes 7–9 contain the SAGE evidence-to-recommendation framework tables (ETR tables). The ETR tables are
+based on the DECIDE Work Package 5: Strategies for communicating evidence to inform decisions about health system and
+public health interventions. Evidence to a recommendation (for use by a guideline panel) (www.decide-collaboration.eu/,
+accessed 11 January 2021).
+
+-7-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+Annex 1. GRADE table: Efficacy of mRNA-1273 COVID-19 vaccine in adults
+Population : Adults (18–64 years)
+Intervention: Two doses of mRNA-1273 vaccine
+Comparison: Placebo/ no vaccination
+Outcome
+
+: COVID-19 (PCR-confirmed)
+
+What is the efficacy of two doses of mRNA-1273 vaccine compared with placebo in preventing PCR-confirmed
+COVID-19 in adults (18–64 years)?
+Rating
+No. of studies/starting rating
+
+Factors
+decreasing
+
+of
+
+Quality Assessment
+
+confidence
+
+Factors
+increasing
+confidence
+
+Adjustment to rating
+
+1/ RCT(1, 2)
+
+4
+
+Limitation in study
+design a
+
+Not serious b
+
+0
+
+Inconsistency
+
+Not serious
+
+0
+
+Indirectness
+
+Not serious
+
+0
+
+Imprecision
+
+Not serious
+
+0
+
+Publication bias
+
+Not serious
+
+0
+
+Large effect
+
+Not applicable
+
+0
+
+Dose-response
+
+Not applicable
+
+0
+
+Antagonistic bias
+and confounding
+
+Not applicable
+
+0
+
+Final numerical rating of quality of evidence
+
+4
+Evidence supports a high level of confidence that
+the true effect lies close to that of the estimate of the
+effect on the health outcome (level 4, or ⊕⊕⊕⊕).
+
+Summary
+Findings
+
+Statement on quality of evidence
+
+We are very confident that 2 doses of mRNA-1273
+vaccine are efficacious in preventing PCRconfirmed COVID-19 in adults (18–64 years).
+
+Conclusion
+
+References
+1.
+2.
+
+Vaccines and Related Biological Products Advisory Committee Meeting. December 17, 2020. FDA briefing
+document. Moderna COVID-19 vaccine. (www.fda.gov/media/144434/download, accessed 11 January 2021).
+Baden LR, El Sahly HM, Essink B, Kotloff K, Frey S, Novak R et al. Efficacy and safety of the mRNA-1273
+SARS-CoV-2 vaccine. N Engl J Med. 2020 Dec 30;NEJMoa2035389. doi: 10.1056/NEJMoa2035389. Online
+ahead of print.
+
+For the risk of bias assessments using the revised Cochrane risk-of-bias tool for randomized trials (RoB 2), please see www.covidnma.com/vaccines.
+b Data on long-term protection emerging from the ongoing phase 2/3 clinical trial remain limited, as trial data have so far been reported only
+for a follow-up of approximately 2 months. This was considered as not constituting a limitation that would lead to downgrading of the evidence.
+SAGE will continue to review any emerging data and adjust its quality assessment as required.
+a
+
+-8-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+Annex 2. GRADE table: Safety of mRNA-1273 COVID-19 vaccine in adults
+Population : Adults (18–64 years)
+Intervention: One or two doses of mRNA-1273 vaccine
+Comparison: Placebo/ no vaccination
+Outcome
+
+: Serious adverse events following immunization
+
+What is the risk of serious adverse events following mRNA-1273 vaccination compared with placebo in adults (18–
+64 years)?
+Rating
+No. of studies/starting rating
+
+Factors
+decreasing
+
+of
+
+Quality Assessment
+
+confidence
+
+Factors
+increasing
+confidence
+
+Adjustment to rating
+
+2/ RCT (1–3)
+
+4
+
+Limitation in study
+design a
+
+Serious b
+
+-1
+
+Inconsistency
+
+Not serious
+
+0
+
+Indirectness
+
+Not serious
+
+0
+
+Imprecision
+
+Not serious
+
+0
+
+Publication bias
+
+Not serious
+
+0
+
+Large effect
+
+Not applicable
+
+0
+
+Dose-response
+
+Not applicable
+
+0
+
+Antagonistic bias
+and confounding
+
+Not applicable
+
+0
+
+Final numerical rating of quality of evidence
+
+3
+Evidence supports a moderate level of confidence
+that the true effect lies close to the estimate of the
+effect on the health outcome (level 3, or ⊕⊕⊕).
+
+Summary
+Findings
+
+Statement on quality of evidence
+
+We are moderately confident that the risk of serious
+adverse events following one or two doses of
+mRNA-1273 vaccine in adults (18–64 years) is low.
+
+Conclusion
+
+References
+1.
+2.
+3.
+
+Vaccines and Related Biological Products Advisory Committee Meeting. December 17, 2020. FDA briefing
+document. Moderna COVID-19 vaccine. (www.fda.gov/media/144434/download, accessed 11 January 2021).
+Baden LR, El Sahly HM, Essink B, Kotloff K, Frey S, Novak R et al. Efficacy and safety of the mRNA-1273
+SARS-CoV-2 vaccine. N Engl J Med. 2020 Dec 30;NEJMoa2035389. doi: 10.1056/NEJMoa2035389. Online
+ahead of print
+Jackson LA, Anderson EJ, Rouphael NG, Roberts PC, Makhene M, Coler RN et al. An mRNA vaccine against
+SARS-CoV-2. Preliminary report. N Engl J Med. 2020;383(20):1920-31.
+
+a For the risk of bias assessments using the revised Cochrane risk-of-bias tool for randomized trials (RoB 2), please see www.covidnma.com/vaccines.
+b Downgraded for limitations in follow-up time of clinical trial, which may not allow detection of adverse events occurring several months
+after vaccination. Not adequately powered to detect rare adverse events. These may emerge only when large populations have been vaccinated.
+
+-9-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+Annex 3: GRADE table: Efficacy of mRNA-1273 COVID-19 vaccine in older adults
+Population : Older adults (≥65 years)
+Intervention: Two doses of mRNA-1273 vaccine
+Comparison: Placebo/ no vaccination
+Outcome
+
+: COVID-19 (PCR-confirmed)
+
+What is the efficacy of two doses of mRNA-1273 vaccine compared with placebo in preventing PCR-confirmed
+COVID-19 in older adults (≥65 years)?
+Rating
+
+Adjustment to rating
+
+1/ RCT (1, 2)
+
+4
+
+Limitation in study
+design a
+
+Not serious
+
+0
+
+Inconsistency
+
+Not serious
+
+0
+
+Indirectness
+
+Not serious b
+
+0
+
+Imprecision
+
+Not serious
+
+0
+
+Publication bias
+
+Not serious
+
+0
+
+Large effect
+
+Not applicable
+
+0
+
+Dose-response
+
+Not applicable
+
+0
+
+Antagonistic bias
+and confounding
+
+Not applicable
+
+0
+
+No. of studies/starting rating
+
+Factors
+decreasing
+
+Quality Assessment
+
+confidence
+
+Factors
+increasing
+confidence
+
+Summary of Findings
+
+Final numerical rating of quality of evidence
+
+4
+Evidence supports a high level of confidence that
+the true effect lies close to the estimate of the effect
+on the health outcome (level 4, or ⊕⊕⊕⊕).
+
+Statement on quality of evidence
+
+We are confident that 2 doses of mRNA-1273
+vaccine are efficacious in preventing PCRconfirmed COVID-19 in older adults (≥65 years).
+
+Conclusion
+
+References
+1.
+2.
+
+Vaccines and Related Biological Products Advisory Committee Meeting. December 17, 2020. FDA briefing
+document. Moderna COVID-19 vaccine. (www.fda.gov/media/144434/download, accessed 11 January 2021).
+Baden LR, El Sahly HM, Essink B, Kotloff K, Frey S, Novak R et al. Efficacy and safety of the mRNA-1273
+SARS-CoV-2 vaccine. N Engl J Med. 2020 Dec 30;NEJMoa2035389. doi: 10.1056/NEJMoa2035389. Online
+ahead of print.
+
+a For the risk of bias assessments using the revised Cochrane risk-of-bias tool for randomized trials (RoB 2), please see www.covidnma.com/vaccines.
+b Of the trial participants, approximately 25% were aged 65 years or over. Data on long-term protection emerging from the ongoing phase 2/3
+clinical trial remain limited, as trial data have so far been reported only for a follow-up of approximately 2 months. This was considered as not
+constituting a limitation that would lead to downgrading of the evidence. SAGE will continue to review any emerging data and adjust its quality
+assessment as required.
+
+-10-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+Annex 4: GRADE table: Safety of mRNA-1273 COVID-19 vaccine in older adults
+Population : Older adults (≥65 years)
+Intervention: One or two doses of mRNA-1273 vaccine
+Comparison: Placebo/ no vaccination
+Outcome
+
+: Serious adverse events following immunization
+
+What is the risk of serious adverse events following mRNA-1273 vaccination compared with placebo in older adults
+(≥65 years)?
+Rating
+
+Adjustment to rating
+
+2/ RCT(1, 2, 3)
+
+4
+
+Limitation in study
+design a
+
+Serious b
+
+-1
+
+Inconsistency
+
+Not serious
+
+0
+
+Indirectness
+
+Not serious c
+
+0
+
+Imprecision
+
+Not serious
+
+0
+
+Publication bias
+
+Not serious
+
+0
+
+Large effect
+
+Not applicable
+
+0
+
+Dose-response
+
+Not applicable
+
+0
+
+Antagonistic bias
+and confounding
+
+Not applicable
+
+0
+
+No. of studies/starting rating
+
+Summary of Findings
+
+Quality Assessment
+
+Factors
+decreasing
+confidence
+
+Factors
+increasing
+confidence
+
+Final numerical rating of quality of evidence
+
+3
+Evidence supports a moderate level of confidence
+that the true effect lies close to the estimate of the
+effect on the health outcome (level 3, or ⊕⊕⊕).
+We are moderately confident that the risk of serious
+adverse events following one or two doses of
+mRNA-1273 vaccine in older adults (≥65 years) is
+low.
+
+Statement on quality of evidence
+
+Conclusion
+
+References
+1.
+2.
+3.
+
+Vaccines and Related Biological Products Advisory Committee Meeting. December 17, 2020. FDA briefing
+document. Moderna COVID-19 vaccine. (www.fda.gov/media/144434/download, accessed 11 January 2021).
+Baden LR, El Sahly HM, Essink B, Kotloff K, Frey S, Novak R et al. Efficacy and safety of the mRNA-1273
+SARS-CoV-2 vaccine. N Engl J Med. 2020 Dec 30;NEJMoa2035389. doi: 10.1056/NEJMoa2035389. Online
+ahead of print.
+Anderson EJ, Rouphael NG, Widge AT, Jackson LA, Roberts PC, Makhene M et al. Safety and immunogenicity
+of SARS-CoV-2 mRNA-1273 vaccine in older adults. N Engl J Med. 17;383(25):2427-38.
+
+For the risk of bias assessments using the revised Cochrane risk-of-bias tool for randomized trials (RoB 2), please see https://www.covidnma.com/vaccines/.
+b Downgraded for limitations in follow-up time of clinical trial, which may not allow detection of adverse events occurring several months
+after vaccination. Not adequately powered to detect rare adverse events. These may emerge only when large populations have been vaccinated.
+c Of the participants within the RCT, approximately 25% were aged 65 years or over. This was considered as not constituting a limitation that
+would lead to downgrading of the evidence.
+a
+
+-11-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+Annex 5. GRADE table: Efficacy of mRNA-1273 COVID-19 vaccine in individuals with underlying conditions
+Population : Individuals with comorbidities or health states that increase risk for severe COVID-19
+Intervention: Two doses of mRNA-1273 vaccine
+Comparison: Placebo/ no vaccination
+Outcome
+
+: COVID-19 (PCR-confirmed)
+
+What is the efficacy of two doses of mRNA-1273 vaccine compared with placebo in preventing PCR-confirmed
+COVID-19 in individuals with comorbidities or health states that increase risk for severe COVID-19?
+Rating
+
+Adjustment to rating
+
+1/ RCT(1, 2)
+
+4
+
+Limitation in study
+design a
+
+Not serious
+
+0
+
+Inconsistency
+
+Not serious
+
+0
+
+Indirectness
+
+Serious b,c
+
+-1
+
+Imprecision
+
+Not serious
+
+0
+
+Publication bias
+
+Not serious
+
+0
+
+Large effect
+
+Not applicable
+
+0
+
+Dose-response
+
+Not applicable
+
+0
+
+Antagonistic bias
+and confounding
+
+Not applicable
+
+0
+
+No. of studies/starting rating
+
+Factors
+decreasing
+
+Quality Assessment
+
+confidence
+
+Factors
+increasing
+confidence
+
+Final numerical rating of quality of evidence
+
+3
+Evidence supports a moderate level of confidence
+that the true effect lies close to the estimate of the
+effect on the health outcome (level 3, or ⊕⊕⊕).
+
+Summary of Findings
+
+Statement on quality of evidence
+
+We are moderately confident that 2 doses of
+mRNA-1273 vaccine are efficacious in preventing
+PCR-confirmed COVID-19 in individuals with
+comorbidities or health states that increase risk for
+severe COVID-19 as included in the clinical trial.
+No data were obtained on vaccination of pregnant
+or breastfeeding women, or persons who were
+immunocompromised.
+
+Conclusion
+
+References
+1.
+2.
+
+Vaccines and Related Biological Products Advisory Committee Meeting. December 17, 2020. FDA briefing
+document. Moderna COVID-19 vaccine. (www.fda.gov/media/144434/download, accessed 11 January 2021).
+Baden LR, El Sahly HM, Essink B, Kotloff K, Frey S, Novak R et al. Efficacy and safety of the mRNA-1273
+SARS-CoV-2 vaccine. N Engl J Med. 2020 Dec 30;NEJMoa2035389. doi: 10.1056/NEJMoa2035389. Online
+ahead of print.
+
+For the risk of bias assessments using the revised Cochrane risk-of-bias tool for randomized trials (RoB 2), please see https://www.covidnma.com/vaccines.
+b Underlying comorbidities included diabetes, chronic lung disease, severe obesity, significant cardiovascular disease, liver disease and
+infection with HIV. Around 46% of the trial population were either obese or affected by comorbidities. Data on long-term protection emerging
+from the ongoing phase 2/3 clinical trial remain limited, as trial data have so far been reported only for a follow-up of approximately 2 months.
+This was considered as not constituting a limitation that would lead to downgrading of the evidence. SAGE will continue to review any
+emerging data and adjust its quality assessment as required.
+c Trial excluded pregnant and breastfeeding women, and persons who were immunocompromised.
+a
+
+-12-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+Annex 6. GRADE table: Safety of mRNA-1273 COVID-19 vaccine in individuals with underlying conditions
+Population : Individuals with comorbidities or health states that increase risk for severe COVID-19
+Intervention: One or two doses of mRNA-1273 vaccine
+Comparison: Placebo/ no vaccination
+Outcome
+
+: Serious adverse events following immunization
+
+What is the risk of serious adverse events following mRNA-1273 vaccination compared with placebo in individuals
+with comorbidities or health states that increase risk for severe COVID-19?
+Rating
+
+Adjustment to rating
+
+1/ RCT(1, 2)
+
+4
+
+Limitation in study
+design a
+
+Serious b
+
+-1
+
+Inconsistency
+
+Not serious
+
+0
+
+Indirectness
+
+Serious c
+
+-1
+
+Imprecision
+
+Not serious
+
+0
+
+Publication bias
+
+Not serious
+
+0
+
+Large effect
+
+Not applicable
+
+0
+
+Dose-response
+
+Not applicable
+
+0
+
+Antagonistic bias
+and confounding
+
+Not applicable
+
+0
+
+No. of studies/starting rating
+
+Factors
+decreasing
+
+Quality Assessment
+
+confidence
+
+Factors
+increasing
+confidence
+
+Summary of Findings
+
+Final numerical rating of quality of evidence
+
+2
+Evidence supports a limited level of confidence that
+the true effect lies close to the estimate of the effect
+on the health outcome (level 2, or ⊕⊕).
+
+Statement on quality of evidence
+
+We have low confidence in the quality of evidence.
+Limited data are available on the risk of serious
+adverse events in individuals with comorbidities or
+health states that increase risk for severe COVID19 following vaccination with mRNA-1273
+vaccine.
+
+Conclusion
+
+References
+1.
+2.
+
+Vaccines and Related Biological Products Advisory Committee Meeting. December 17, 2020. FDA briefing document.
+Moderna COVID-19 vaccine. (www.fda.gov/media/144434/download, accessed 11 January 2021).
+Baden LR, El Sahly HM, Essink B, Kotloff K, Frey S, Novak R et al. Efficacy and safety of the mRNA-1273 SARSCoV-2 vaccine. N Engl J Med. 2020 Dec 30;NEJMoa2035389. doi: 10.1056/NEJMoa2035389. Online ahead of print.
+
+For the risk of bias assessments using the revised Cochrane risk-of-bias tool for randomized trials (RoB 2), please see https://www.covidnma.com/vaccines.
+b Downgraded for limitations in follow-up time of clinical trial, which may not allow detection of adverse events occurring several months
+after vaccination. Not adequately powered to detect rare adverse events. These may emerge only when large populations have been vaccinated.
+c Trial excluded pregnant and breastfeeding women, and persons who were immunocompromised.
+a
+
+-13-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+Annex 7: SAGE evidence-to-recommendation framework: mRNA-1273 mRNA vaccine use in adults
+
+Question: Should mRNA-1273 vaccine be administered to adults to prevent COVID-19?
+Population: Adults (18–64 years)
+Intervention: Two doses of mRNA-1273 vaccine
+Comparison(s): No vaccination/placebo
+Outcome: COVID-19 (PCR-confirmed)
+
+BENEFITS & HARMS OF THE OPTIONS
+
+PROBLEM
+
+Background: On 31 December 2019, WHO was alerted to several cases of pneumonia of unknown origin in Wuhan City, Hubei Province, China. The cause was found to be a novel
+coronavirus, SARS-CoV-2. The disease caused by this novel virus has been named COVID-19. The outbreak of COVID-19 was declared a public health emergency of international concern
+in January 2020. The disease has since spread, with an enormous impact on the health and well-being of individuals and populations worldwide. It has further caused major disruptions to
+various sectors of society and the economy across the globe.
+CRITERIA
+
+JUDGEMENTS
+
+Is the problem a
+public
+health
+priority?
+
+No
+
+Uncertain
+☐
+
+Benefits of the
+intervention
+
+Varies
+by
+setting
+
+Yes
+
+☐
+
+☒
+
+☐
+
+No
+
+Uncertain
+
+Yes
+
+Varies
+
+☐
+
+☐
+
+☒
+
+☐
+
+Are the desirable
+anticipated effects
+large?
+
+RESEARCH EVIDENCE
+
+ADDITIONAL INFORMATION
+
+The cumulative number of COVID-19 cases
+globally has surpassed 88 828 387 with more than
+1 926 635 deaths. Cases have been found in 190
+different countries or territories throughout the
+world (status 11 January 2021). There has been
+collateral damage to other public health
+programmes.
+
+The COVID-19 situation is evolving rapidly; the
+most recent epidemiological situation can be
+found on the following website:
+
+Primary efficacy analysis shows that mRNA-1273
+vaccine is 95.6% efficacious (95%CI: 90.6–97.9%)
+in individuals aged 18–64 years against COVID-19
+beginning 14 days after the second dose (1, 2).
+
+Phase 1 trial data showed seroconversion of all
+participants by day 15, independent of dosage
+used. The study showed immunogenicity of the
+mRNA-1273 vaccine, binding antibody IgG
+concentrations and SARS-CoV-2 neutralizing
+titres in sera increased with dose level (25, 100
+and 250 μg) and after a second dose. Further, two
+doses of either 25 or 100 μg of mRNA-1273
+vaccine elicited a robust CD4+ T-cell response.
+CD8+ T-cell responses were elicited at low levels
+after the second dose in the 100 μg group (3).
+
+https://covid19.who.int/table
+
+A phase 2a trial showed that the immune
+response, as assessed by binding antibody IgG
+and neutralizing antibodies after 2 doses, were
+comparable in the two groups assessed (50 μg
+and 100 μg) (1).
+-14-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+Harms of
+intervention
+
+the
+
+No
+
+Uncertain
+
+Yes
+
+Varies
+
+Are
+the
+undesirable
+anticipated effects
+small?
+
+☐
+
+☒
+
+☐
+
+☐
+
+Data from over 30 420 participants demonstrate
+that mRNA-1273 vaccine was well tolerated
+across all populations. Solicited systemic adverse
+events occurred more often in the mRNA-1273
+group than in the placebo group after both the first
+dose (8320/15 168 (54.9%) vs 6399/15 155
+(42.2%)) and the second dose (11 652/14 677
+(79.4%) vs. 5323/14 566 (36.5%)), with severity
+increasing after the second dose. Both solicited
+injection-site and systemic adverse events were
+more common among younger participants (18–
+64 years of age) than among older participants
+(≥65 years of age).
+The frequency of grade 3 adverse events in the
+placebo group (202/15 166 (1.3%)) was similar to
+that in the vaccine group (234/15 185 (1.5%)), as
+were the frequencies of medically attended
+adverse events (1465/15 166 (9.7%) vs
+1372/15 185 (9.0%)) and serious adverse events
+(89/15 166 vs 93/15 185 (0.6% in both groups)).
+There are no long-term safety data available yet
+and follow-up time remains limited.
+
+Balance between
+benefits
+and
+harms
+
+Favou
+rs
+interventio
+n
+
+Favo
+urs
+comparis
+on
+
+☒
+
+☐
+
+After country implementation of vaccination
+programmes using mRNA vaccines in the United
+Kingdom and the USA, cases of anaphylactic
+reactions to the vaccine were observed in people
+with and without a history of anaphylactic reactions
+to other antigens (5).
+
+both
+
+Favo
+urs
+neith
+er
+
+☐
+
+☐
+
+Favo
+urs
+
+Unclear
+
+Efficacy data suggest benefit, and short-term
+safety data suggest minimal harms. Further
+ongoing studies are being undertaken as part of
+post-marketing surveillance.
+
+☐
+
+-15-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+What is the overall
+quality of this
+evidence for the
+critical outcomes?
+
+Effectiveness of the intervention
+No
+included
+studies
+
+Ver
+y
+low
+
+Low
+
+Moderate
+
+High
+
+☐
+
+☐
+
+☐
+
+☐
+
+☒
+
+No
+included
+studies
+
+Ver
+y
+low
+
+Low
+
+Moderate
+
+High
+
+Safety of the intervention
+
+How certain is the
+relative
+importance of the
+desirable
+and
+undesirable
+outcomes?
+
+☐
+Import
+ant
+uncert
+ainty
+or
+variab
+ility
+
+☐
+Possi
+bly
+import
+ant
+uncert
+ainty
+or
+variab
+ility
+
+VALUES & PREFERENCES
+
+☐
+
+Values
+and
+preferences of the
+target population:
+Are the desirable
+effects
+large
+relative
+to
+undesirable
+effects?
+
+Please see the related GRADE tables.
+
+No
+
+☐
+
+☐
+☒
+☐
+Proba
+No
+bly no
+No
+import
+import
+known
+ant
+ant
+uncert undesi
+uncert
+rable
+ainty
+ainty
+outco
+or
+or
+mes
+variabi
+variab
+lity
+ility
+
+☒
+Prob
+ably
+
+☐
+
+☐
+
+☐
+
+Prob
+ably
+Yes
+
+Ye
+s
+
+Varies
+
+No
+
+Unc
+ertai
+n
+
+☐
+
+☐
+
+☒
+
+☐
+
+☐
+
+Available scientific evidence on the relative
+importance of the intervention, as well as the
+relative weights that the target population
+attributes to the desirable (i.e. protection conferred
+by the vaccine) and the undesirable outcomes (i.e.
+the currently reported safety signals), vary.
+There may also be variability around acceptance
+of novel product platforms for mRNA vaccines,
+which may represent a source of
+uncertainty/variability.
+Different population groups may have different
+opinions regarding the weights assigned to
+desirable and undesirable outcomes.
+Available scientific evidence suggests that target
+population probably assigns more weight to the
+desirable effects than to the undesirable effects
+related to COVID-19 vaccination in general.
+Targeted information campaigns should
+assess this aspect.
+
+-16-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+Are the resources
+required small?
+
+RESOURCE USE
+
+Costeffectiveness
+
+EQUITY
+
+What would be the
+impact on health
+inequities?
+
+No
+
+Uncertain
+
+Yes
+
+Varies
+
+☒
+
+☐
+
+☐
+
+☐
+
+No
+
+Uncertain
+
+Yes
+
+Varies
+
+☐
+
+☐
+
+☐
+
+☒
+
+Increased
+
+Uncertain
+
+Reduced
+
+Varies
+
+☒
+
+☐
+
+☐
+
+☐
+
+Considerable resources will be needed to ensure
+the implementation of a COVID-19 vaccination
+programme, especially given: (i) that COVID-19
+vaccination is likely to be prioritized for populations
+(e.g. health care workers, older adults) without
+pre-existing robust immunization programmes in
+many settings, and (ii) the urgency of vaccination
+roll-out worldwide, which may necessitate
+additional surge resources to accelerate
+implementation with adequate infection prevention
+and control procedures in the context of COVID19. Resources required include, but are not
+restricted to, human resources, vaccine costs,
+logistics, cold-chain capacity, planning and
+coordination, training, social mobilization and
+communications, and immunization safety
+surveillance.
+
+An estimated US$15.9 billion is needed for the
+vaccines pillar (COVAX) of the Access to COVID19 Tools Accelerator (ACT-A) for 2020–21, in
+order to deliver 2 billion doses by the end of 2021.
+This does not include all delivery costs in all
+countries participating in COVAX, bilateral
+procurement deals, or research and development
+investments outside of COVAX (6). The World
+Bank has approved a financing window of up to
+US$12 billion to support low- and middle-income
+countries in purchasing and distributing vaccine
+(7).
+
+Formal global cost-effectiveness analyses have
+not been conducted, but the emerging evidence
+indicates that the benefits, including the impact on
+recovery of the global economy, are likely to
+outweigh the cost of COVID-19 vaccination in
+general. Cost-effectiveness analyses should be
+conducted at country level; cost-effectiveness of
+COVID-19 vaccination may vary by country
+depending on COVID-19 burden, comparator
+interventions assessed, analysis perspective, and
+local cost-effectiveness thresholds used.
+
+The global economy is estimated to be losing
+US$375 billion per month due to the coronavirus
+pandemic. G20 countries have invested
+approximately US$10 trillion in domestic
+economic stimulus to mitigate the economic
+consequences of reduced business activity and
+unemployment due to the pandemic. Initial
+estimates suggest that COVID-19 vaccination will
+provide substantial economic value in terms of
+averted morbidity and mortality costs and averted
+losses in gross domestic product (GDP) (6, 8–13).
+
+Equity and ethical considerations are critical.
+SAGE has produced a Values Framework (14),
+which offers guidance on the fair allocation of
+COVID-19 vaccines based on six core ethical
+principles that should guide distribution. If
+distributed fairly, COVID-19 vaccines may have
+considerable impact on reducing health inequities.
+
+Vaccine nationalism is seen as a threat to
+reducing health inequity, in particular as highincome countries have arranged bilateral
+contracts with manufacturers. This has led to the
+establishment of the Access to COVID-19 Tools
+(ACT) Accelerator and within this, the COVAX
+facility, which aims to ensure equitable access to
+vaccines for its participating member states, most
+of whom do not have bilateral contracts (15).
+
+mRNA-1273 vaccine needs to be stored and
+distributed at –20 °C. Once thawed, it can be kept
+in a refrigerator for up to 30 days. This requirement
+is not shared by many other vaccine platforms.
+-17-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+This cold-chain capacity is not currently available
+in many low- and middle-income-countries, and in
+some regions of high-income countries,
+particularly in hard-to-reach or otherwise already
+disadvantaged communities. If other vaccines with
+less demanding storage requirements are not
+made available, or if vaccines that are feasible and
+available to deliver are less efficacious or less
+safe, health inequities will result and existing
+health inequities may be exacerbated.
+Which option is
+acceptable to key
+stakeholders (e.g.
+ministries
+of
+health,
+immunization
+managers)?
+
+Com
+paris
+on
+
+Both
+
+Neith
+er
+
+Unclear
+
+☒
+
+☐
+
+☐
+
+☐
+
+☐
+
+Interventio
+n
+
+Com
+paris
+on
+
+Both
+
+Neith
+er
+
+Unclear
+
+☒
+
+☐
+
+☐
+
+☐
+
+☐
+
+The fact that 190 economies are participating in
+COVAX suggests a very high acceptability of
+COVID-19 vaccination in general, though not
+necessarily of this vaccine in particular.
+
+Vaccine acceptability varies between (sub-)
+population groups and may be correlated with the
+perceived risk posed by the disease. In a global
+survey (19 countries) of acceptance rates in the
+general population of any COVID-19 vaccine
+product, 71.5% of participants reported that they
+would be very or somewhat likely to take a COVID19 vaccine. Acceptance rates ranged from almost
+55% to 87% (16). Acceptability of COVID-19
+vaccination is currently being assessed in
+international polls (www.yougov.co.uk and
+www.ipsos.com).
+
+WHO has worked with an external expert group to
+develop tools to understand the intentions of the
+general public with regard to being vaccinated
+against COVID-19. The survey and interview
+guides are targeted towards populations
+prioritized for COVID-19 vaccines: adults and
+health workers. Gathering and using quality data
+on the behavioural and social drivers of
+vaccination will allow programmes to design,
+target and evaluate interventions to achieve
+greater impact with more efficiency, and to
+examine trends over time. The tools measure four
+domains that influence vaccine uptake: what
+people think and feel about vaccines; social
+processes that drive or inhibit vaccination;
+individual motivations (or hesitancy) to seek
+vaccination; and practical factors involved in
+seeking and receiving vaccination. Assessing all
+domains will allow more comprehensive planning
+and evaluation. Publication is expected
+imminently.
+
+ACCEPTABILITY
+
+Which option is
+acceptable
+to
+target group?
+
+Interventio
+n
+
+No scientific evidence is available. As vaccination
+is an eagerly awaited tool to combat the COVID19 pandemic, it is assumed that key stakeholders,
+in particular ministries of health and immunization
+managers, are strongly in favour of it.
+
+-18-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+FEASIBILITY
+
+Is the intervention
+feasible
+to
+implement?
+
+Balance of consequences
+
+Type of recommendation
+
+No
+
+Pro
+babl
+y
+No
+
+☐
+
+☐
+
+Pro
+babl
+y
+
+Uncert
+ain
+
+Yes
+
+Varies
+
+☐
+
+☒
+
+Yes
+
+☐
+
+☐
+
+Cold-chain requirements and logistics may not be
+available in all settings, in particular in low- and
+middle-income countries, and are expensive and
+time-consuming to establish.
+
+The combination of the product’s logistic features
+and its reactogenicity makes mass workplace
+vaccination, which will be intended for this vaccine
+in many settings, more difficult. In particular, if
+many health workers are vaccinated at the same
+time, several may be unable to work the next day
+because of mild post-vaccination immune
+responses.
+
+Undesirable
+consequences
+clearly outweigh
+desirable
+consequences
+in most settings
+
+Undesirable
+consequences probably
+outweigh
+desirable consequences
+in most settings
+
+The
+balance
+between
+desirable
+and
+undesirable
+consequences
+is closely balanced or uncertain
+
+Desirable consequences
+probably
+outweigh
+undesirable consequences
+in most settings
+
+☐
+
+☐
+
+☐
+
+We recommend
+the intervention
+
+We suggest considering recommendation of the intervention
+
+☐
+We
+recommend
+comparison
+
+☐
+
+☐ Only in the context of rigorous research
+☒ Only with targeted monitoring and evaluation
+
+☐
+
+the
+
+Desirable
+clearly
+undesirable
+in most settings
+
+consequences
+outweigh
+consequences
+
+☒
+We recommend against the
+intervention and the comparison
+
+☐
+
+☐ Only in specific contexts or specific (sub)populations
+
+Recommendation (text)
+
+Vaccination with mRNA-1273 is recommended in persons aged 18 and above. The recommended schedule is two doses (100 µg, 0.5 ml each) given
+intramuscularly into the deltoid muscle. An interval of 28 days between the doses is recommended. If the second dose is inadvertently administered less
+than 28 days after the first, the dose does not need to be repeated. If administration of the second dose is inadvertently delayed it should be given as
+soon as possible thereafter, according to the manufacturer’s instructions. It is currently recommended that individuals receive no more than two doses in
+total.
+
+Implementation considerations
+
+Before implementation, countries should consider whether they have adequate logistic and cold-chain capacity in place to ensure vaccine distribution and
+administration under the mentioned requirements. In countries where various immunization stakeholders have a crucial role in vaccine distribution,
+information and open discussion will be required before the vaccine is deployed.
+
+-19-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+WHO recommends the following post-authorization monitoring activities:
+vaccine effectiveness over time;
+ongoing collection of safety data in vaccine recipients;
+surveillance for COVID-19 among vaccinated individuals, looking for vaccine-induced enhanced disease (possibly as vaccine-induced antibody
+levels decline);
+• safety data from inadvertently vaccinated pregnant women during trials and post-authorization;
+• safety data from pregnant women who receive vaccine because they are members of prioritized groups, e.g. health workers;
+• prospective studies on the safety of mRNA-1273 in pregnant women;
+• impact on infants of vaccination of breastfeeding mothers;
+• safety data on vaccination in immunocompromised persons, including persons living with HIV and persons with autoimmune disease;
+• impact of delayed second dose as currently implemented by certain countries.
+WHO recommends the following research activities:
+•
+•
+•
+
+Monitoring and evaluation
+
+•
+
+Research priorities
+
+•
+•
+•
+•
+•
+•
+•
+
+immunogenicity and safety studies of co-administration with other vaccines, including influenza and pneumococcal vaccines, to adults and older
+persons;
+studies to demonstrate whether this vaccine reduces SARS-CoV-2 transmission and viral shedding;
+clinical trials on the efficacy and safety of vaccination of children below the age of 18 years;
+stability of vaccine under alternative cold-chain distribution and storage conditions;
+effectiveness of the proposed strategies for the prevention and management of anaphylactic reactions;
+interchangeability and “mix and match” studies within and across COVID-19 vaccine platforms;
+global surveillance of virus evolution and the impact of virus mutants on vaccine effectiveness to support possible update of vaccines if needed;
+head-to-head studies with other vaccines on extent and duration of immunity using standardized neutralization assays and mucosal immunity
+assays.
+
+-20-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+References
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+
+Vaccines and Related Biological Products Advisory Committee Meeting. December 17, 2020. FDA briefing document. Moderna COVID-19 vaccine.
+(www.fda.gov/media/144434/download, accessed 11 January 2021).
+Baden LR, El Sahly HM, Essink B, Kotloff K, Frey S, Novak R et al. Efficacy and safety of the mRNA-1273 SARS-CoV-2 vaccine. N Engl J Med. 2020 Dec
+30:NEJMoa2035389. doi: 10.1056/NEJMoa2035389. Epub ahead of print.
+Jackson LA, Anderson EJ, Rouphael NG, Roberts PC, Makhene M, Coler RN et al. An mRNA vaccine against SARS-CoV-2. Preliminary report. N Engl J Med.
+2020;383(20):1920-31.
+Anderson EJ, Rouphael NG, Widge AT, Jackson LA, Roberts PC, Makhene M et al. Safety and immunogenicity of SARS-CoV-2 mRNA-1273 vaccine in older adults.
+N Engl J Med. 2020;383(25):2427-38.
+Confirmation of guidance to vaccination centres on managing allergic reactions following COVID-19 vaccination with the Pfizer/BioNTech vaccine.
+(www.gov.uk/government/news/confirmation-of-guidance-to-vaccination-centres-on-managing-allergic-reactions-following-covid-19-vaccination-with-the-pfizerbiontech-vaccine, accessed 14 December 2020).
+ACT Accelerator: An economic investment case & financing requirements. Geneva: World Health Organization; 2020 (www.who.int/publications/i/item/an-economicinvestment-case-financing-requirements, accessed 13 December 2020) .
+COVID-19 Strategic Preparedness and Response Program (SPRP) using the Multiphase Programmatic Approach (MPA) Project. Additional financing. Washington,
+DC: World Bank; 2020 (http://documents.worldbank.org/curated/en/882781602861047266/World-COVID-19-Strategic-Preparedness-and-Response-Program-SPRPusing-the-Multiphase-Programmatic-Approach-MPA-Project-Additional-Financing, accessed 21 December 2020).
+Cutler DM, Summers LH. The COVID-19 pandemic and the $16 trillion virus. JAMA 2020;324(15):1495-6.
+Sandmann FG, White PJ, Ramsay M, Jit M. Optimising benefits of testing key workers for infection with SARS-CoV-2: a mathematical modelling analysis. Clin
+Infect Dis. 2020 Dec 15;71(12):3196-3203. doi: 10.1093/cid/ciaa901.
+Ending the COVID-19 pandemic: the need for a global approach. New York: Eurasia Group; 2020 (www.who.int/publications/m/item/ending-the-covid-19-pandemicthe-need-for-a-global-approach, accessed 13 December 2020).
+Hafner M, Yerushalmi E, Fays C, Dufresne E, Van Stolk C. COVID-19 and the cost of vaccine nationalism. Cambridge: RAND Europe; 2020
+(www.rand.org/t/RRA769-1, accessed 13 December 2020) .
+World Economic Outlook: a long and difficult ascent. Washington, DC: International Monetary Fund; 2020
+(www.imf.org/en/Publications/WEO/Issues/2020/09/30/world-economic-outlook-october-2020#Full%20Report%20and%20Executive%20Summary, accessed 13
+November 2020).
+Bartsch SM, O'Shea KJ, Ferguson MC, Bottazzi ME, Wedlock PT, Strych U et al. Vaccine efficacy needed for a COVID-19 coronavirus vaccine to prevent or stop an
+epidemic as the sole intervention. Am J Prev Med. 2020;59(4):493-503.
+WHO SAGE values framework for the allocation and prioritization of COVID-19 vaccination. Geneva: World Health ORganization; 2020
+(https://www.who.int/publications/i/item/who-sage-values-framework-for-the-allocation-and-prioritization-of-covid-19-vaccination, accessed 29 January 2021).
+ACT Accelarator and COVAX facility. Geneva: World Health ORganization; 2020 (https://www.who.int/initiatives/act-accelerator, accessed 29 January 2021).
+Lazarus JV, Ratzan SC, Palayew A, Gostin LO, Larson HJ, Rabin K et al. A global survey of potential acceptance of a COVID-19 vaccine. Nat Med. 2020 Oct 20:1–4.
+doi: 10.1038/s41591-020-1124-9. Epub ahead of print. Erratum in: Nat Med. 2021 Jan 11.
+
+-21-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+Annex 8. SAGE evidence-to-recommendation framework: MRNA-1273 mRNA vaccine use in older adults
+Question: Should mRNA-1273 vaccine be administered to older adults to prevent COVID-19?
+Population: Older adults (≥65 years)
+Intervention: Two doses of mRNA-1273 vaccine
+Comparison(s): No vaccination/Placebo
+Outcome: COVID-19 (PCR-confirmed)
+Background: On 31 December 2019, WHO was alerted to several cases of pneumonia of unknown origin in Wuhan City, Hubei Province, China. The cause was found to be a novel
+coronavirus, SARS-CoV-2. The disease caused by this novel virus has been named COVID-19. The outbreak of COVID-19 was declared a public health emergency of international concern
+in January 2020. The disease has since spread with an enormous impact on the health and well-being of individuals and populations worldwide. It has further caused major disruptions to
+various sectors of society and the economy across the globe.
+CRITERIA
+
+JUDGEMENTS
+
+Is the problem a
+public
+health
+priority?
+
+No
+
+Uncertain
+
+☐
+
+BENEFITS & HARMS OF THE
+OPTIONS
+
+PROBLEM
+
+☒
+
+Benefits of the
+intervention
+Are the desirable
+anticipated effects
+large?
+
+No
+
+☐
+
+Varies
+by
+setting
+
+Yes
+
+☒
+
+Uncertain
+
+Yes
+
+☐
+
+☒
+
+☐
+
+Varies
+
+RESEARCH EVIDENCE
+
+ADDITIONAL INFORMATION
+
+The cumulative number of COVID-19 cases globally
+has surpassed 88 828 387 with more than 1 926 635
+deaths. Cases have been found in 190 different
+countries or territories throughout the world (status 11
+January 2021). There has been collateral damage to
+other public health programmes.
+
+The COVID-19 situation is evolving rapidly; the
+most recent epidemiological situation can be found
+on the following website:
+
+Older adults are particularly affected by COVID-19
+and bear a significantly higher risk of severe COVID19 outcomes and death.
+
+Of the trial participants, approximately 25% were aged
+65 years or older.
+Primary efficacy analysis shows that mRNA-1273 is
+86.4% efficacious (95%CI: 61.4–95.2%) in individuals
+aged 65 years and older.
+
+☐
+
+https://covid19.who.int/table
+
+Primary efficacy analysis shows that mRNA-1273
+vaccine is 95.6% efficacious (95%CI: 90.6–97.9%) in
+individuals aged 18–64 years against COVID-19
+beginning 14 days after the second dose.(1, 2)
+-22-
+
+Phase 1 trial data showed seroconversion of all
+participants by day 15, independent of dosage used.
+The study showed immunogenicity of the mRNA1273 vaccine; binding antibody IgG concentrations
+and SARS-CoV-2 neutralizing titres in sera increased
+with dose level (25, 100 and 250 μg) and after a
+second dose. Further, two doses of either 25 or 100
+μg of mRNA-1273 vaccine elicited robust CD4+ Tcell response. CD8+ T-cell responses were elicited at
+low levels after the second dose in the 100 μg group
+(3).
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+A phase 2a trial showed that the immune responses,
+as assessed by binding antibody IgG and neutralizing
+antibodies after 2 doses, were comparable in the two
+groups assessed (50 μg and 100 μg) (1).
+Harms of
+intervention
+
+the
+
+No
+
+Uncertain
+
+Yes
+
+Varies
+
+Are
+the
+undesirable
+anticipated effects
+small?
+
+Data from over 30 420 participants demonstrate that
+mRNA-1273 vaccine was well tolerated across all
+populations. Solicited systemic adverse events
+occurred more often in the mRNA-1273 group than in
+the placebo group after both the first dose
+(8320/15 168 (54.9%) vs 6399/15 155 (42.2%)) and
+the second dose (11 652/14 677 (79.4%) vs
+5323/14 566 (36.5%)), with severity increasing after
+the second dose.
+Both solicited injection-site and systemic adverse
+events were more common among younger
+participants (18–64 years of age) than among older
+participants (≥65 years of age).
+
+☐
+
+Balance between
+benefits
+and
+harms
+
+☒
+
+Favour
+s interventio
+n
+
+Favo
+urs
+compariso
+n
+
+☒
+
+☐
+
+☐
+
+☐
+
+In those 65 years and over, the frequency of grade 3
+adverse events in the placebo group (70/3750 (1.9%))
+was similar to that in the vaccine group (78/3770
+(2.1%)), as were the frequencies of medically attended
+adverse events (414/3750 (11.0%) vs 381/3770
+(10.1%)) and serious adverse events (43/3750 (1%)
+and 39/3770 (1.1%)).
+There are no long-term safety data available yet and
+follow-up time remains limited. Post-authorization
+surveillance showed a risk of anaphylaxis with 11.1
+cases of anaphylaxis following vaccination out of 1
+million doses administered.
+
+both
+
+Favo
+urs
+neithe
+r
+
+☐
+
+☐
+
+Favo
+urs
+
+Unclear
+
+Efficacy data suggest benefit, and short-term safety
+data suggest minimal harm. Further studies are being
+undertaken as part of post-marketing surveillance.
+
+☐
+-23-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+What is the overall
+quality of this
+evidence for the
+critical outcomes?
+
+Effectiveness of the intervention
+No
+included
+studies
+
+Ver
+y
+low
+
+Low
+
+Moderate
+
+High
+
+☐
+
+☐
+
+☐
+
+☐
+
+☒
+
+No
+included
+studies
+
+Ver
+y
+low
+
+Low
+
+Moderate
+
+High
+
+Safety of the intervention
+
+How certain is the
+relative
+importance of the
+desirable
+and
+undesirable
+outcomes?
+
+☐
+Import
+ant
+uncert
+ainty
+or
+variabi
+lity
+
+☐
+Possib
+ly
+import
+ant
+uncert
+ainty
+or
+variabi
+lity
+
+VALUES & PREFERENCES
+
+☒
+
+Values and
+preferences of the
+target population:
+Are the desirable
+effects large
+relative to
+undesirable
+effects?
+
+Please see the related GRADE tables.
+
+No
+
+☐
+
+☐
+☒
+☐
+Proba
+No
+bly no
+No
+import
+import
+known
+ant
+ant
+uncert undesi
+uncert
+rable
+ainty
+ainty
+outco
+or
+or
+mes
+variabi
+variabi
+lity
+lity
+
+☒
+Prob
+ably
+
+☐
+
+☐
+
+☐
+
+Prob
+ably
+Yes
+
+Ye
+s
+
+Varies
+
+No
+
+Unc
+ertai
+n
+
+☐
+
+☐
+
+☒
+
+☐
+
+☐
+
+The majority of severe disease occurs in older
+individuals. Available scientific evidence suggests that
+the target population probably considers the desirable
+effects, i.e. the protection conferred by the vaccine,
+more important than the undesirable effects, i.e. the
+currently reported safety signals related to COVID-19
+vaccination.
+There may also be variability around acceptance of
+novel product platforms for mRNA vaccines, which
+may represent a source of uncertainty/variability.
+Different population groups may have different
+opinions regarding the weights assigned to desirable
+and undesirable outcomes.
+Available scientific evidence suggests that the target
+population probably assigns more weight to the
+desirable effects than the undesirable effects related
+to COVID-19 vaccination.
+Targeted information campaigns should assess this
+aspect.
+
+-24-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+Are the resources
+required small?
+
+RESOURCE USE
+
+Costeffectiveness
+
+EQUITY
+
+What would be the
+impact on health
+inequities?
+
+No
+
+Uncertain
+
+Yes
+
+Varies
+
+☒
+
+☐
+
+☐
+
+☐
+
+No
+
+Uncertain
+
+Yes
+
+Varies
+
+☒
+
+☐
+
+☐
+
+☒
+
+Increased
+
+Uncertain
+
+Reduced
+
+Varies
+
+☒
+
+☐
+
+☐
+
+☐
+
+Considerable resources will be needed to ensure the
+implementation of a COVID-19 vaccination
+programme, especially given: (i) that COVID-19
+vaccination is likely to be prioritized for populations
+(e.g. health care workers, older adults) without preexisting robust immunization programmes in many
+settings, and (ii) the urgency of vaccination roll-out
+worldwide, which may necessitate additional surge
+resources to accelerate implementation with adequate
+infection prevention and control procedures in the
+context of COVID-19. Resources required include, but
+are not restricted to, human resources, vaccine costs,
+logistics, cold-chain capacity, planning and
+coordination, training, social mobilization and
+communications,
+and
+immunization
+safety
+surveillance.
+
+An estimated US$15.9 billion is needed for the
+vaccines pillar (COVAX) of the Access to COVID19 Tools Accelerator (ACT-A) for 2020–21, in
+order to deliver 2 billion doses by the end of 2021.
+This does not include all delivery costs in all
+countries participating in COVAX, bilateral
+procurement deals, or research and development
+investments outside of COVAX (6).
+
+Formal global cost-effectiveness analyses have not
+been conducted, but the emerging evidence indicates
+that the benefits, including the impact on recovery of
+the global economy, are likely to outweigh the cost of
+COVID-19 vaccination in general. Cost-effectiveness
+analyses should be conducted at country level; costeffectiveness of COVID-19 vaccination may vary by
+country depending on COVID-19 burden, comparator
+interventions assessed, analysis perspective, and
+local cost-effectiveness thresholds used.
+
+The global economy is estimated to be losing
+US$375 billion per month due to the coronavirus
+pandemic.
+G20 countries have invested
+approximately US$10 trillion in domestic economic
+stimulus to mitigate the economic consequences
+of reduced business activity and unemployment
+due to the pandemic. Initial estimates suggest that
+COVID-19 vaccination will provide substantial
+economic value in terms of averted morbidity and
+mortality costs and averted GDP losses (6, 8–13).
+
+Equity and ethical considerations are critical. SAGE
+has produced a Values Framework (14), which offers
+guidance on the fair allocation of COVID-19 vaccines
+based on six core ethical principles that should guide
+distribution. If distributed fairly, COVID-19 vaccines
+may have considerable impact on reducing health
+inequities.
+
+Vaccine nationalism is seen as a threat to reducing
+health inequity, in particular as high-income
+countries have arranged bilateral contracts with
+manufacturers. This has led to the establishment
+of the Access to COVID-19 Tools (ACT)
+Accelerator and, within this, the COVAX facility,
+which aims to ensure equitable access to vaccines
+for its participating member states, most of whom
+do not have bilateral contracts (15).
+
+mRNA-1273 vaccine needs to be stored and
+distributed at –20 °C. This requirement is not shared
+by many other vaccine platforms. Once thawed, it can
+be kept in a refrigerator for up to 30 days.
+-25-
+
+The World Bank has approved a financing window
+of up to US $12 billion to support low- and middleincome countries in purchasing and distributing
+vaccine (7).
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+This cold-chain capacity is not currently available in
+many low- and middle-income-countries, and in some
+regions of high-income countries, particularly in hardto-reach or otherwise already disadvantaged
+communities. If other vaccines with less demanding
+storage requirements are not made available, or if
+vaccines that are feasible and available to deliver are
+less efficacious or less safe, health inequities will
+result and existing health inequities may be
+exacerbated.
+Which option is
+acceptable to key
+stakeholders (e.g.
+ministries
+of
+health,
+immunization
+managers)?
+
+ACCEPTABILITY
+
+Which option is
+acceptable
+to
+target group?
+
+Interventio
+n
+
+Comp
+arison
+
+Both
+
+Neith
+er
+
+Unclear
+
+☒
+
+☐
+
+☐
+
+☐
+
+☐
+
+Interventio
+n
+
+Comp
+arison
+
+Both
+
+Neith
+er
+
+Unclear
+
+☒
+
+☐
+
+☐
+
+☐
+
+☐
+
+No scientific evidence is available. As vaccination is
+an eagerly awaited tool to combat the COVID-19
+pandemic, it is assumed that key stakeholders, in
+particular ministries of health and immunization
+managers, are strongly in favour of COVID-19
+vaccination.
+
+The fact that 190 economies are participating in
+COVAX suggests a very high acceptability of
+COVID-19 vaccination in general, though not
+necessarily of this vaccine in particular.
+
+Vaccine acceptability varies between (sub-)
+population groups, and may be correlated with the
+perceived risk posed by the disease. In a global survey
+(19 countries) of acceptance rates in the general
+population of any COVID-19 vaccine product, 71.5%
+of participants reported that they would be very or
+somewhat likely to take a COVID-19 vaccine.
+Acceptance rates ranged from almost 55% to 87%
+(16).
+
+WHO has worked with an external expert group to
+develop tools to understand the intentions of the
+general public with regard to being vaccinated against
+COVID-19. The survey and interview guides are
+targeted towards populations prioritized for COVID-19
+vaccines: adults and health workers. Gathering and
+using quality data on the behavioural and social
+drivers of vaccination will allow programmes to
+design, target and evaluate interventions to achieve
+greater impact with more efficiency, and to examine
+trends over time. The tools measure four domains
+that influence vaccine uptake: what people think and
+feel about vaccines; social processes that drive or
+inhibit vaccination; individual motivations (or
+hesitancy) to seek vaccination; and practical factors
+involved in seeking and receiving vaccination.
+
+Acceptability of COVID-19 vaccination is currently
+being
+assessed
+in
+international
+polls
+(www.yougov.co.uk and www.ipsos.com).
+
+-26-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+FEASIBILITY
+
+Assessing all domains will allow more comprehensive
+planning and evaluation. Publication is expected
+imminently.
+
+Is the intervention
+feasible
+to
+implement?
+
+Balance of consequences
+
+Type of recommendation
+
+No
+☐
+
+Pro
+babl
+y
+No
+☐
+
+Pro
+babl
+y
+
+Uncert
+ain
+
+Yes
+☐
+
+☐
+
+Yes
+
+Varies
+
+☐
+
+☒
+
+Cold-chain requirements and logistics may not be
+available in all settings, in particular in low- and
+middle-income-countries, and are expensive and timeconsuming to establish.
+
+Undesirable
+consequences
+clearly outweigh
+desirable
+consequences in
+most settings
+
+Undesirable
+consequences probably
+outweigh
+desirable
+consequences in most
+settings
+
+The
+balance
+between
+desirable
+and
+undesirable
+consequences is closely balanced
+or uncertain
+
+Desirable consequences
+probably
+outweigh
+undesirable consequences
+in most settings
+
+Desirable consequences clearly
+outweigh undesirable consequences
+in most settings
+
+☐
+
+☐
+
+☐
+
+☐
+
+☒
+
+We recommend
+the intervention
+
+We suggest considering recommendation of the intervention
+
+We
+recommend
+comparison
+
+☐
+
+☐ Only in the context of rigorous research
+
+☐
+
+the
+
+We recommend against
+intervention and the comparison
+
+the
+
+☐
+
+☒ Only with targeted monitoring and evaluation
+☐ Only in specific contexts or specific (sub)populations
+
+Recommendation (text)
+
+The risk of severe COVID-19 and death increases steeply with age. Data from the phase 3 trial indicate that the efficacy and safety
+of the vaccine are comparable across all age groups (above the age of 18). Vaccination is recommended for older persons. Extremely frail older persons and
+persons above the age of 95 years were not included in the clinical trials. However, the safety and immunogenicity data obtained in a large subset of older
+people with and without comorbidities suggest that the benefits of vaccination outweigh the potential risks. Vaccination is recommended for older persons
+without an upper age limit. For very frail older persons with a life expectancy anticipated to be less than 3 months, an individual risk–benefit assessment will
+need to be conducted.
+
+Implementation
+considerations
+
+Before implementation, countries should consider whether they have adequate logistic and cold-chain capacity in place to ensure vaccine distribution and
+administration under the mentioned requirements. In the countries where various immunization stakeholders have a crucial role in vaccine distribution,
+information and open discussion will be required before the vaccine is deployed.
+-27-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+WHO recommends the following post-authorization monitoring activities:
+•
+•
+•
+Monitoring and evaluation
+
+•
+•
+•
+•
+•
+•
+
+vaccine effectiveness over time;
+ongoing collection of safety data in vaccine recipients;
+surveillance for COVID-19 among vaccinated individuals, looking for vaccine-induced enhanced disease (possibly as vaccine-induced
+antibody levels decline);
+safety data from inadvertently vaccinated pregnant women during trials and post-authorization;
+safety data from pregnant women who receive vaccine because they are members of prioritized groups, e.g. health workers;
+prospective studies on the safety of mRNA-1273 in pregnant women;
+impact on infants of vaccination of breastfeeding mothers;
+safety data on vaccination in immunocompromised persons, including persons living with HIV and persons with autoimmune disease;
+impact of delayed second dose as currently implemented by certain countries.
+
+WHO recommends the following research activities:
+•
+
+Research priorities
+
+•
+•
+•
+•
+•
+•
+•
+
+immunogenicity and safety studies of co-administration with other vaccines, including influenza and pneumococcal vaccines, to adults and older
+persons;
+studies to demonstrate whether this vaccine reduces SARS-CoV-2 transmission and viral shedding;
+clinical trials on the efficacy and safety of vaccination of children below the age of 18 years;
+stability of vaccine under alternative cold-chain distribution and storage conditions;
+effectiveness of the proposed strategies for the prevention and management of anaphylactic reactions;
+interchangeability and “mix and match” studies within and across COVID-19 vaccine platforms;
+global surveillance of virus evolution and the impact of virus mutants on vaccine effectiveness to support possible update of vaccines if needed;
+head-to-head studies with other vaccines on extent and duration of immunity using standardized neutralization assays and mucosal immunity
+assays.
+
+-28-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+References
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+
+Vaccines and Related Biological Products Advisory Committee Meeting. December 17, 2020. FDA briefing document. Moderna COVID-19 vaccine.
+(www.fda.gov/media/144434/download, accessed 11 January 2021).
+Baden LR, El Sahly HM, Essink B, Kotloff K, Frey S, Novak R et al. Efficacy and safety of the mRNA-1273 SARS-CoV-2 vaccine. N Engl J Med. 2020 Dec
+30:NEJMoa2035389. doi: 10.1056/NEJMoa2035389. Epub ahead of print.
+Jackson LA, Anderson EJ, Rouphael NG, Roberts PC, Makhene M, Coler RN et al. An mRNA vaccine against SARS-CoV-2. Preliminary report. N Engl J Med.
+2020;383(20):1920-31.
+Anderson EJ, Rouphael NG, Widge AT, Jackson LA, Roberts PC, Makhene M et al. Safety and immunogenicity of SARS-CoV-2 mRNA-1273 vaccine in older adults.
+N Engl J Med. 2020;383(25):2427-38.
+Confirmation of guidance to vaccination centres on managing allergic reactions following COVID-19 vaccination with the Pfizer/BioNTech vaccine.
+(www.gov.uk/government/news/confirmation-of-guidance-to-vaccination-centres-on-managing-allergic-reactions-following-covid-19-vaccination-with-the-pfizerbiontech-vaccine, accessed 14 December 2020).
+ACT Accelerator: An economic investment case & financing requirements. Geneva: World Health Organization; 2020 (www.who.int/publications/i/item/an-economicinvestment-case-financing-requirements, accessed 13 December 2020) .
+COVID-19 Strategic Preparedness and Response Program (SPRP) using the Multiphase Programmatic Approach (MPA) Project. Additional financing. Washington,
+DC: World Bank; 2020 (http://documents.worldbank.org/curated/en/882781602861047266/World-COVID-19-Strategic-Preparedness-and-Response-Program-SPRPusing-the-Multiphase-Programmatic-Approach-MPA-Project-Additional-Financing, accessed 21 December 2020).
+Cutler DM, Summers LH. The COVID-19 pandemic and the $16 trillion virus. JAMA 2020;324(15):1495-6.
+Sandmann FG, White PJ, Ramsay M, Jit M. Optimising benefits of testing key workers for infection with SARS-CoV-2: a mathematical modelling analysis. Clin
+Infect Dis. 2020 Dec 15;71(12):3196-3203. doi: 10.1093/cid/ciaa901.
+Ending the COVID-19 pandemic: the need for a global approach. New York: Eurasia Group; 2020 (www.who.int/publications/m/item/ending-the-covid-19-pandemicthe-need-for-a-global-approach, accessed 13 December 2020).
+Hafner M, Yerushalmi E, Fays C, Dufresne E, Van Stolk C. COVID-19 and the cost of vaccine nationalism. Cambridge: RAND Europe; 2020
+(www.rand.org/t/RRA769-1, accessed 13 December 2020) .
+World Economic Outlook: a long and difficult ascent. Washington, DC: International Monetary Fund; 2020
+(www.imf.org/en/Publications/WEO/Issues/2020/09/30/world-economic-outlook-october-2020#Full%20Report%20and%20Executive%20Summary, accessed 13
+November 2020).
+Bartsch SM, O'Shea KJ, Ferguson MC, Bottazzi ME, Wedlock PT, Strych U et al. Vaccine efficacy needed for a COVID-19 coronavirus vaccine to prevent or stop an
+epidemic as the sole intervention. Am J Prev Med. 2020;59(4):493-503.
+WHO SAGE values framework for the allocation and prioritization of COVID-19 vaccination. Geneva: World Health ORganization; 2020
+(https://www.who.int/publications/i/item/who-sage-values-framework-for-the-allocation-and-prioritization-of-covid-19-vaccination).
+ACT Accelarator and COVAX facility. Geneva: World Health ORganization; 2020 (www.who.int/initiatives/act-accelerator).
+Lazarus JV, Ratzan SC, Palayew A, Gostin LO, Larson HJ, Rabin K et al. A global survey of potential acceptance of a COVID-19 vaccine. Nat Med. 2020 Oct 20:1–4.
+doi: 10.1038/s41591-020-1124-9. Epub ahead of print. Erratum in: Nat Med. 2021 Jan 11.
+
+-29-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+Annex 9. SAGE evidence-to-recommendation framework: MRNA-1273 mRNA vaccine use in individuals with comorbidities
+Question: Should mRNA-1273 vaccine be administered to individuals with comorbidities or health states that increase risk for severe COVID-19 16 to prevent
+COVID-19?
+Population: Individuals with comorbidities or health states that increase risk for severe COVID-19
+Intervention: Two doses of mRNA-1273 vaccine
+Comparison(s): No vaccination/Placebo
+Outcome: COVID-19 (PCR-confirmed)
+Background: On 31 December 2019, WHO was alerted to several cases of pneumonia of unknown origin in Wuhan City, Hubei Province, China. The cause was
+found to be a novel coronavirus, SARS-CoV-2. The disease caused by this novel virus has been named COVID-19. The outbreak of COVID-19 was declared a
+public health emergency of international concern in January 2020. The disease has since spread, with an enormous impact on the health and well-being of individuals
+and populations worldwide. It has further caused major disruptions to various sectors of society and the economy across the globe.
+CRITERIA
+Is the problem a
+public
+health
+priority?
+
+JUDGEMENTS
+Uncertain
+
+No
+
+PROBLEM
+
+☐
+
+☐
+
+Varie
+s by
+settin
+g
+
+Yes
+
+☒
+
+☐
+
+RESEARCH EVIDENCE
+
+ADDITIONAL INFORMATION
+
+The cumulative number of COVID-19 cases
+globally has surpassed 88 828 387 with more
+than 1 926 635 deaths. Cases have been found in
+190 different countries or territories throughout
+the world (status 11 January 2021). There has
+been collateral damage to other public health
+programmes.
+
+The COVID-19 situation is evolving
+rapidly;
+the
+most
+recent
+epidemiological situation can be
+found on the following website:
+https://covid19.who.int/table
+
+Individuals with certain comorbidities are
+particularly affected by COVID-19 and bear a
+higher risk of severe COVID-19 outcomes and
+death.
+Identified
+risk factors
+include
+comorbidities such as hypertension, chronic
+cardiac
+disease,
+non-asthmatic
+chronic
+pulmonary disease, chronic kidney disease, liver
+
+16 Medical and health conditions in individuals of any age, including the following: chronic lung disease (e.g. emphysema, chronic bronchitis, idiopathic pulmonary fibrosis and cystic fibrosis),
+moderate to severe asthma, significant cardiac disease (e.g. heart failure, coronary artery disease, congenital heart disease, cardiomyopathies, and pulmonary hypertension), severe obesity (body
+mass index ≥40 kg/m2), diabetes (type 1, type 2 or gestational), liver disease, chronic HIV infection.
+
+-30-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+disease and obesity (particularly a body mass
+index (BMI) >40). People with multiple
+comorbidities are at a higher risk of COVID-19related adverse outcomes. Although the relative
+risk may be high for some conditions, the
+absolute risk for younger adults with
+comorbidities is typically lower than for healthy
+older adults (>75 years).
+Benefits of the
+intervention
+
+No
+
+Uncertain
+
+Yes
+
+Varie
+s
+
+BENEFITS & HARMS OF THE OPTIONS
+
+Are the desirable
+anticipated
+effects large?
+
+At least one protocol-defined high-risk condition
+for severe COVID-19 was present in 22.3% of
+participants; 4% of participants had two or more
+high-risk conditions.
+41.4% of the study population was either in the
+older age cohort (≥ 65 years of age) or in the
+younger cohort with a co-morbid condition
+(diabetes, chronic lung disease, severe obesity,
+significant cardiac disease, liver disease or living
+with HIV), putting them at increased risk for the
+severe complications of COVID-19. (1, 2).
+
+☐
+
+☐
+
+☒
+
+☐
+
+Primary efficacy analysis shows that mRNA1273 vaccine is 94.4% efficacious (95%CI:
+76.9–98.7%) beginning 14 days after the second
+dose in individuals aged 18–64 years at risk of
+severe COVID-19 due to underlying conditions.
+Efficacy analysis in individuals aged 65 years
+and older with and without underlying conditions
+shows that mRNA-1273 vaccine is 86.4%
+efficacious (95%CI: 61.4–95.2). Point estimates
+were provided by subgroup of risk factor
+(chronic lung disease, cardiac disease, severe
+obesity, diabetes, liver disease and HIV).
+Vaccine efficacy was consistent across
+subgroups and comparable with the efficacy
+observed for the overall study population, though
+interpretation of the results is limited by small
+numbers of participants and cases.
+
+-31-
+
+Phase 1 trial data showed
+seroconversion of all participants by
+day 15, independent of dosage used.
+The study showed immunogenicity
+of the mRNA-1273 vaccine; binding
+antibody IgG concentrations and
+SARS-CoV-2 neutralizing titres in
+sera increased with dose level (25,
+100 and 250 μg) and after a second
+dose. Further, two doses of either 25
+or 100 μg of mRNA-1273 vaccine
+elicited robust CD4+ T-cell
+response. CD8+ T-cell responses
+were elicited at low levels after the
+second dose in the 100 μg group (3).
+A phase 2a trial showed that the
+immune response, as assessed by
+binding
+antibody
+IgG
+and
+neutralizing antibodies after 2 doses,
+were comparable in the two groups
+assessed (50 μg and 100 μg) (1).
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+Harms of the
+intervention
+
+No
+
+Uncertain
+
+Yes
+
+Varie
+s
+
+Are
+the
+undesirable
+anticipated
+effects small?
+
+Data from over 30 420 participants demonstrate
+that mRNA-1273 vaccine was well tolerated
+across all populations. Solicited systemic
+adverse events occurred more often in the
+mRNA-1273 group than in the placebo group
+after both the first dose (8320/15 168 (54.9%) vs
+6399/15 155 (42.2%)) and the second dose
+(11 652/14 677 (79.4%) vs 5323/14 566
+(36.5%)), with severity increasing after the
+second dose.
+Both solicited injection-site and systemic
+adverse events were more common among
+younger participants (18–64 years of age) than
+among older participants (≥65 years of age).
+
+☐
+
+☐
+
+☐
+
+☐
+
+The frequency of grade 3 adverse events in the
+placebo group (202/15 166 (1.3%)) was similar
+to that in the vaccine group (234/15 185 (1.5%)),
+as were the frequencies of medically attended
+adverse events (1465/15 166 (9.7%) vs
+1372/15 185 (9.0%)) and serious adverse events
+(89/15 166 and 93/15 185 (0.6% in both
+groups)).There were no specific safety concerns
+identified in subgroup analyses by medical
+comorbidities.
+Occurrence
+of
+solicited,
+unsolicited, and serious adverse events in these
+subgroups was generally consistent with the
+overall study population.
+No long-term safety data are available yet and
+follow-up time remains limited.
+After
+implementation
+of
+vaccination
+programmes using mRNA vaccines in the United
+Kingdom and the USA, cases of anaphylactic
+reactions to the vaccine were observed in people
+with and without a history of severe anaphylactic
+reactions to other antigens (5).
+
+-32-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+Balance
+between benefits
+and harms
+
+What is the
+overall quality
+of this evidence
+for the critical
+outcomes?
+
+Favour
+s interventio
+n
+
+Favo
+urs
+compariso
+n
+
+☒
+
+☐
+
+both
+
+Favo
+urs
+neithe
+r
+
+☐
+
+☐
+
+Favo
+urs
+
+Unclea
+r
+
+Efficacy data suggest benefit, and the short-term
+safety data suggest minimal harms. Further
+studies are being undertaken as part of postmarketing surveillance.
+
+☐
+
+Effectiveness of the intervention
+
+Please see the related GRADE tables.
+
+No
+include
+d
+studies
+
+Ver
+y
+low
+
+Low
+
+Moderate
+
+High
+
+☐
+
+☐
+
+☐
+
+☒
+
+☐
+
+Moderate
+
+High
+
+Safety of the intervention
+No
+include
+d
+studies
+
+VALUES & PREFERENCES
+
+☐
+How certain is
+the
+relative
+importance of
+the desirable and
+undesirable
+outcomes?
+
+Import
+ant
+uncert
+ainty
+or
+variabi
+lity
+
+☐
+
+Ver
+y
+low
+☐
+Possib
+ly
+import
+ant
+uncert
+ainty
+or
+variabi
+lity
+☒
+
+Low
+
+☒
+☐
+☐
+Proba
+No
+bly no
+No
+import
+import
+known
+ant
+ant
+uncert undesi
+uncert
+rable
+ainty
+ainty
+outco
+or
+or
+mes
+variabi
+variabi
+lity
+lity
+☐
+
+☐
+
+☐
+
+There is possibly important uncertainty related to
+the target population weighing of desirable and
+undesirable effects ( i.e. the protection conferred
+by the vaccine weighed against the currently
+reported safety signals) related to COVID-19
+vaccination.
+There may also be variability around acceptance
+of novel product platforms for mRNA vaccines,
+which
+may
+represent
+a
+source
+of
+uncertainty/variability.
+Different population groups may have different
+opinions regarding the relative weights attributed
+to desirable and undesirable outcomes
+
+-33-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+and preferences
+of the target
+population: Are
+the desirable
+effects Values
+large relative to
+undesirable
+effects?
+Are
+the
+resources
+required small?
+
+RESOURCE USE
+
+Costeffectiveness
+
+No
+
+Prob
+ably
+No
+
+Unc
+ertai
+n
+
+Prob
+ably
+Yes
+
+Ye
+s
+
+Varies
+
+☐
+
+☐
+
+☐
+
+☒
+
+☐
+
+☐
+
+No
+
+Uncertain
+
+Yes
+
+Varies
+
+☒
+
+☐
+
+☐
+
+☐
+
+No
+
+Uncertain
+
+Yes
+
+Varies
+
+☐
+
+☐
+
+☐
+
+☐
+
+Available scientific evidence suggests that the
+target population probably attached more weight
+to the desirable effects than the undesirable
+effects related to COVID-19 vaccination in
+general.
+Targeted information campaigns should assess
+this aspect.
+Considerable resources will be needed to ensure the
+implementation of a COVID-19 vaccination
+programme, especially given: (i) that COVID-19
+vaccination is likely to be prioritized for populations
+(e.g. health care workers, older adults) without preexisting robust immunization programmes in many
+settings, and (ii) the urgency of vaccination roll-out
+worldwide, which may necessitate additional surge
+resources to accelerate implementation with
+adequate infection prevention and control
+procedures in the context of COVID-19. Resources
+required include, but are not restricted to: human
+resources, vaccine costs, logistics, cold-chain
+capacity, planning and coordination, training, social
+mobilization
+and
+communications,
+and
+immunization safety surveillance.
+
+An estimated US$15.9 billion is
+needed for the vaccines pillar
+(COVAX) of the Access to COVID19 Tools Accelerator (ACT-A) for
+2020–21, in order to deliver 2 billion
+vaccine doses by the end of 2021. This
+does not include all delivery costs in all
+countries participating in COVAX,
+bilateral procurement deals, or
+research and development investments
+outside of COVAX (6).
+
+Formal global cost-effectiveness analyses have
+not been conducted, but the emerging evidence
+indicates that the benefits, including the impact
+on recovery of the global economy, are likely to
+outweigh the cost of COVID-19 vaccination in
+general. Cost-effectiveness analyses should be
+conducted at country level; cost-effectiveness of
+COVID-19 vaccination may vary by country
+depending on COVID-19 burden, comparator
+interventions assessed, analysis perspective, and
+local cost-effectiveness thresholds used.
+
+The global economy is estimated to be
+losing US$375 billion per month due
+to the coronavirus pandemic. G20
+countries have invested approximately
+US$10 trillion in domestic economic
+stimulus to mitigate the economic
+consequences of reduced business
+activity and unemployment due to the
+pandemic. Initial estimates suggest
+that COVID-19 vaccination will
+provide substantial economic value in
+terms of averted morbidity and
+mortality costs and averted GDP
+losses (6, 8-13).
+
+-34-
+
+The World Bank has approved a
+financing window of up to US$12
+billion to support low- and middleincome countries in purchasing and
+distributing vaccine (7).
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+What would be
+the impact on
+health
+inequities?
+
+Increased
+
+Reduced
+
+☐
+
+☐
+
+Varie
+s
+
+☐
+
+ACCEPTABILITY
+
+EQUITY
+
+☒
+
+Uncertain
+
+Which option is
+acceptable
+to
+key stakeholders
+(e.g. ministries
+of
+health,
+immunization
+managers)?
+
+Which option is
+acceptable
+to
+target group?
+
+Interventio
+n
+
+Comp
+arison
+
+Both
+
+Neith
+er
+
+Unclear
+
+☒
+
+☐
+
+☐
+
+☐
+
+☐
+
+Interventio
+n
+
+Comp
+arison
+
+Both
+
+Neith
+er
+
+Unclear
+
+Equity and ethical considerations are critical.
+SAGE has produced a Values Framework (14),
+which offers guidance on the fair allocation of
+COVID-19 vaccines based on six core ethical
+principles that should guide distribution. If
+distributed fairly, COVID-19 vaccines may have
+considerable impact on reducing health
+inequities.
+mRNA-1273 vaccine needs to be stored and
+distributed at –20 °C. This requirement is not
+shared by many other vaccine platforms. Once
+thawed, it can be kept in a refrigerator for up to
+30 days.
+
+Vaccine nationalism is seen as a
+threat to reducing health inequity, in
+particular as high-income countries
+have arranged bilateral contracts
+with manufacturers. This has led to
+the establishment of the Access to
+Tools
+(ACT)
+COVID-19
+Accelerator and, within this, the
+COVAX facility, which aims to
+ensure equitable access to vaccines
+for its participating member states
+most of whom do not have bilateral
+contracts (15).
+
+This cold-chain capacity is not currently
+available in many low- and middle-income
+countries, and in some regions of high-income
+countries, particularly in hard-to-reach or
+otherwise already disadvantaged communities. If
+other vaccines with less demanding storage
+requirements are not made available, or if
+vaccines that are feasible and available to deliver
+are less efficacious or less safe, health inequities
+will result and existing health inequities may be
+exacerbated.
+No scientific evidence is available. As
+vaccination is an eagerly awaited tool to combat
+the COVID-19 pandemic, it is assumed that key
+stakeholders, in particular ministries of health
+and immunization managers, are strongly in
+favour of COVID-19 vaccination.
+
+The fact that 190 economies are
+participating in COVAX suggests a
+very high acceptability of COVID19 vaccination in general, though not
+necessarily of this vaccine in
+particular.
+
+Vaccine acceptability varies between (sub-)
+population groups, and may be correlated with
+the perceived risk posed by the disease. In a
+global survey (19 countries) on acceptance rates
+
+WHO has worked with an external
+expert group to develop tools to
+understand the intentions of the
+general public with regard to being
+
+-35-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+in the general population of any COVID-19
+vaccine product, 71.5% of participants reported
+that they would be very or somewhat likely to
+take a COVID-19 vaccine. Acceptance rates
+ranged from almost 55% to 87% (16).
+Acceptability of COVID-19 vaccination is
+currently being assessed by international polls
+(www.yougov.co.uk and www.ipsos.com).
+
+FEASIBILITY
+
+☒
+
+Is
+the
+intervention
+feasible
+to
+implement?
+
+Balance of consequences
+
+No
+
+☐
+
+Pro
+babl
+y
+No
+
+☐
+
+☐
+
+☐
+
+☐
+
+Pro
+babl
+y
+
+Uncert
+ain
+
+☐
+
+Yes
+
+Varies
+
+☐
+
+☒
+
+Yes
+
+☐
+
+☐
+
+vaccinated against COVID-19. The
+survey and interview guides are
+targeted
+towards
+populations
+prioritized for COVID-19 vaccines:
+adults and health workers. Gathering
+and using quality data on the
+behavioural and social drivers of
+vaccination will enable programmes to
+design,
+target
+and
+evaluate
+interventions to achieve greater impact
+with more efficiency, and to examine
+trends over time. The tools measure
+four domains that influence vaccine
+uptake: what people think and feel
+about vaccines; social processes that
+drive or inhibit vaccination; individual
+motivations (or hesitancy) to seek
+vaccination; and practical factors
+involved in seeking and receiving
+vaccination. Assessing all domains
+will allow more comprehensive
+planning and evaluation. Publication is
+expected imminently.
+
+Cold-chain requirements and logistics may not
+be available in all settings, in particular in lowand middle-income-countries, and are expensive
+and time-consuming to establish.
+
+Undesirable
+consequences
+clearly
+outweigh
+desirable
+consequences in
+most settings
+
+Undesirable
+consequences
+probably
+outweigh
+desirable
+consequences in most
+settings
+
+The
+balance
+between
+desirable and undesirable
+consequences
+is
+closely
+balanced or uncertain
+
+Desirable consequences
+probably
+outweigh
+undesirable
+consequences in most
+settings
+
+☐
+
+☐
+
+☐
+
+☒
+
+-36-
+
+Desirable consequences
+clearly
+outweigh
+undesirable
+consequences in most
+settings
+☐
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+Type of recommendation
+
+We recommend
+the intervention
+
+We suggest
+intervention
+
+considering recommendation
+
+☐
+
+☐ Only in the context of rigorous research
+
+of
+
+the
+
+We recommend
+comparison
+☐
+
+the
+
+We recommend against
+the intervention and the
+comparison
+☐
+
+☒ Only with targeted monitoring and evaluation
+☒ Only in specific contexts or specific (sub)populations
+Persons with comorbidities
+Certain comorbidities have been identified as increasing the risk of severe COVID-19 disease and death. The Cove Phase 3 clinical
+trial demonstrated that the vaccine has similar safety and efficacy profiles in persons with various underlying medical conditions,
+including those that place them at increased risk for severe COVID-19. The comorbidities studied in in the Cove Phase 3 clinical trial
+included chronic lung disease, significant cardiac disease, severe obesity, diabetes, liver disease and HIV infection. Vaccination is
+recommended for persons with such comorbidities that have been identified as increasing the risk of severe COVID-19.
+Immunocompromised persons
+
+Recommendation (text)
+
+Immunocompromised persons are at higher risk of severe COVID-19. Available data are currently insufficient to assess vaccine
+efficacy or vaccine-associated risks in severely immunocompromised persons. It is possible that the immune response to the vaccine
+may be reduced, which may alter its effectiveness. In the interim, given that the vaccine is not a live virus, immunocompromised
+persons who are part of a group recommended for vaccination may be vaccinated. Information and, where possible, counselling about
+vaccine safety and efficacy profiles in immunocompromised persons should be provided to inform individual benefit–risk assessment.
+Pregnant women
+Pregnant women are at higher risk of severe COVID-19 than women of childbearing age who are not pregnant, and COVID-19 has
+been associated with an increased risk of preterm birth. The available data on mRNA-1273 vaccination of pregnant women are
+insufficient to assess vaccine efficacy or vaccine-associated risks in pregnancy. However, it should be noted that the mRNA-1273
+vaccine is not a live virus vaccine, and the mRNA does not enter the nucleus of the cell and is degraded quickly.
+Developmental and reproductive toxicology (DART) studies in animals have not shown harmful effects in pregnancy. Further studies
+are planned in pregnant women in the coming months. As data from these studies become available, recommendations on vaccination
+will be updated accordingly. In the interim, WHO recommends not to use mRNA-1273 in pregnancy, unless the benefit of vaccinating
+a pregnant woman outweighs the potential vaccine risks, such as in health workers at high risk of exposure and pregnant women with
+comorbidities placing them in a high-risk group for severe COVID-19. Information and, if possible, counselling on the lack of safety
+and efficacy data for pregnant women should be provided.
+-37-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+WHO does not recommend pregnancy testing prior to vaccination. WHO does not recommend delaying pregnancy because of
+vaccination.
+Persons living with HIV
+Persons living with HIV may be at higher risk of severe COVID-19. Among the phase 3 clinical trial participants with well controlled
+HIV, there were no reported differences in safety signals. HIV-positive persons who are well controlled on highly active antiretroviral
+therapy and are part of a group recommended for vaccination can be vaccinated. Available data on administration of the vaccine are
+currently insufficient to allow assessment of vaccine efficacy or safety for persons living with HIV who are not well controlled on
+therapy. It is possible that the immune response to the vaccine may be reduced, which may alter its effectiveness. In the interim, given
+that the vaccine is not a live virus, persons living with HIV who are part of a group recommended for vaccination may be vaccinated.
+Information and, where possible, counselling about vaccine safety and efficacy profiles in immunocompromised persons should be
+provided to inform individual benefit–risk assessment. It is not necessary to test for HIV infection prior to vaccine administration.
+Persons with autoimmune conditions
+No data are currently available on the safety and efficacy of mRNA-1273 in persons with autoimmune conditions, although these
+persons were eligible for enrolment in the clinical trials. Persons with autoimmune conditions who have no contraindications to
+vaccination may be vaccinated.
+Implementation
+considerations
+
+Before implementation, countries should consider whether they have adequate logistic and cold-chain capacity in place to ensure
+vaccine distribution and administration under the mentioned requirements. In the countries where various immunization stakeholders
+have a crucial role in the vaccine distribution, information and open discussion will be required before the vaccine is deployed.
+WHO recommends the following post-authorization monitoring activities:
+•
+•
+•
+
+Monitoring and evaluation
+
+•
+•
+•
+•
+•
+•
+
+vaccine effectiveness over time;
+ongoing collection of safety data in vaccine recipients;
+surveillance for COVID-19 among vaccinated individuals, looking for vaccine-induced enhanced disease (possibly as
+vaccine-induced antibody levels decline);
+safety data from inadvertently vaccinated pregnant women during trials and post-authorization;
+safety data from pregnant women who receive vaccine because they are members of prioritized groups, e.g. health workers;
+prospective studies on the safety of mRNA-1273 in pregnant women;
+impact on infants of vaccination of breastfeeding mothers;
+safety data on vaccination in immunocompromised persons, including persons living with HIV and persons with autoimmune
+disease;
+impact of delayed second dose as currently implemented by certain countries.
+-38-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+WHO recommends the following research activities:
+•
+
+Research priorities
+
+•
+•
+•
+•
+•
+•
+•
+
+immunogenicity and safety studies of co-administration with other vaccines, including influenza and pneumococcal
+vaccines, to adults and older persons;
+studies to demonstrate whether this vaccine reduces SARS-CoV-2 transmission and viral shedding;
+clinical trials on the efficacy and safety of vaccination of children below the age of 18 years;
+stability of vaccine under alternative cold-chain distribution and storage conditions;
+effectiveness of the proposed strategies for the prevention and management of anaphylactic reactions;
+interchangeability and “mix and match” studies within and across COVID-19 vaccine platforms;
+global surveillance of virus evolution and the impact of virus mutants on vaccine effectiveness to support possible update of
+vaccines if needed;
+head-to-head studies with other vaccines on extent and duration of immunity using standardized neutralization assays and
+mucosal immunity assays.
+
+-39-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+References
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+
+Vaccines and Related Biological Products Advisory Committee Meeting. December 17, 2020. FDA briefing document. Moderna COVID-19 vaccine.
+(www.fda.gov/media/144434/download, accessed 11 January 2021).
+Baden LR, El Sahly HM, Essink B, Kotloff K, Frey S, Novak R et al. Efficacy and safety of the mRNA-1273 SARS-CoV-2 vaccine. N Engl J Med. 2020 Dec
+30:NEJMoa2035389. doi: 10.1056/NEJMoa2035389. Epub ahead of print.
+Jackson LA, Anderson EJ, Rouphael NG, Roberts PC, Makhene M, Coler RN et al. An mRNA vaccine against SARS-CoV-2. Preliminary report. N Engl J Med.
+2020;383(20):1920-31.
+Anderson EJ, Rouphael NG, Widge AT, Jackson LA, Roberts PC, Makhene M et al. Safety and immunogenicity of SARS-CoV-2 mRNA-1273 vaccine in older adults.
+N Engl J Med. 2020;383(25):2427-38.
+Confirmation of guidance to vaccination centres on managing allergic reactions following COVID-19 vaccination with the Pfizer/BioNTech vaccine.
+(www.gov.uk/government/news/confirmation-of-guidance-to-vaccination-centres-on-managing-allergic-reactions-following-covid-19-vaccination-with-the-pfizerbiontech-vaccine, accessed 14 December 2020).
+ACT Accelerator: An economic investment case & financing requirements. Geneva: World Health Organization; 2020 (https://www.who.int/publications/i/item/aneconomic-investment-case-financing-requirements, accessed 13 December 2020) .
+COVID-19 Strategic Preparedness and Response Program (SPRP) using the Multiphase Programmatic Approach (MPA) Project. Additional financing. Washington,
+DC: World Bank; 2020 (http://documents.worldbank.org/curated/en/882781602861047266/World-COVID-19-Strategic-Preparedness-and-Response-Program-SPRPusing-the-Multiphase-Programmatic-Approach-MPA-Project-Additional-Financing, accessed 21 December 2020).
+Cutler DM, Summers LH. The COVID-19 pandemic and the $16 trillion virus. JAMA 2020;324(15):1495-6.
+Sandmann FG, White PJ, Ramsay M, Jit M. Optimising benefits of testing key workers for infection with SARS-CoV-2: a mathematical modelling analysis. Clin
+Infect Dis. 2020 Dec 15;71(12):3196-3203. doi: 10.1093/cid/ciaa901.
+Ending the COVID-19 pandemic: the need for a global approach. New York: Eurasia Group; 2020 (www.who.int/publications/m/item/ending-the-covid-19-pandemicthe-need-for-a-global-approach, accessed 13 December 2020).
+Hafner M, Yerushalmi E, Fays C, Dufresne E, Van Stolk C. COVID-19 and the cost of vaccine nationalism. Cambridge: RAND Europe; 2020
+(www.rand.org/t/RRA769-1, accessed 13 December 2020) .
+World Economic Outlook: a long and difficult ascent. Washington, DC: International Monetary Fund; 2020
+(www.imf.org/en/Publications/WEO/Issues/2020/09/30/world-economic-outlook-october-2020#Full%20Report%20and%20Executive%20Summary, accessed 13
+November 2020).
+Bartsch SM, O'Shea KJ, Ferguson MC, Bottazzi ME, Wedlock PT, Strych U et al. Vaccine efficacy needed for a COVID-19 coronavirus vaccine to prevent or stop an
+epidemic as the sole intervention. Am J Prev Med. 2020;59(4):493-503.
+WHO SAGE values framework for the allocation and prioritization of COVID-19 vaccination. Geneva: World Health ORganization; 2020
+(https://www.who.int/publications/i/item/who-sage-values-framework-for-the-allocation-and-prioritization-of-covid-19-vaccination).
+ACT Accelarator and COVAX facility. Geneva: World Health ORganization; 2020 (https://www.who.int/initiatives/act-accelerator).
+Lazarus JV, Ratzan SC, Palayew A, Gostin LO, Larson HJ, Rabin K et al. A global survey of potential acceptance of a COVID-19 vaccine. Nat Med. 2020 Oct 20:1–4.
+doi: 10.1038/s41591-020-1124-9. Epub ahead of print. Erratum in: Nat Med. 2021 Jan 11.
+
+-40-
+
+Background document on the mRNA-1273 vaccine (Moderna) against COVID-19
+
+© World Health Organization 2021. Some rights reserved. This work is available under the CC BY-NC-SA 3.0 IGO
+licence.
+
+WHO reference number: WHO/2019-nCoV/vaccines/SAGE_recommendation/mRNA-1273/background/2021.1
+
+-41-
+
+

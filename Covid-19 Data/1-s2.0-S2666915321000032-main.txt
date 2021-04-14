@@ -1,0 +1,189 @@
+Journal of Aﬀective Disorders Reports 4 (2021) 100076
+
+Contents lists available at ScienceDirect
+
+Journal of Aﬀective Disorders Reports
+journal homepage: www.elsevier.com/locate/jadr
+
+Correspondence
+
+Mental health among justice-involved veterans during the
+COVID-19 pandemic: Understanding needs and proposing a
+research agenda
+Whereas researchers and clinicians alike have expressed concerns
+about the impact of the COVID-19 pandemic on mental health, recent
+articles have expanded this discussion to those experiencing deleterious
+eﬀects of adverse social conditions (i.e., social determinants of health),
+such as housing instability or homelessness (Tsai & Wilson, 2020). Similarly, commentaries have discussed the psychosocial impact of the
+COVID-19 pandemic on the general correctional population (Miller and
+Blumstein, 2020). Yet, no articles to date have examined nor discussed
+the impact of the pandemic on justice-involved Veterans. This is particularly problematic in light of the limited research speciﬁc to this population, as well as justice-involved Veterans’ notable risk for mental health
+conditions and suicide (Blodgett et al., 2015; Holliday et al., 2020).
+During the COVID-19 pandemic, individuals have reported substantial increases in mental health symptoms, concurrent with increased
+diﬃculty accessing resources and treatment (Rains et al., 2020). Indeed, as noted by Rains and colleagues, reports of depression, anxiety,
+and substance use have intensiﬁed. Such psychiatric symptoms are already highly prevalent among justice-involved Veterans (Blodgett et al.,
+2015). For example, prior to the pandemic, it was estimated that nearly
+half of all justice-involved Veterans met criteria for a substance use disorder (Blodgett et al., 2015). Further, although prevalence rates widely
+vary based on method of assessment and time interval (e.g., lifetime,
+past-month), reported rates of depression (14–51%), anxiety (10–51%),
+and posttraumatic stress disorder (4–39%) among justice-involved Veterans were also notably high (Blodgett et al., 2015).
+It is also well-documented that justice-involved Veterans experience diﬃculty connecting to and accessing health and social services.
+We anticipate that such challenges have been, and will continue to
+be, exacerbated during the COVID-19 pandemic, as demand for resources has increased and access to services has become more challenging (e.g., physical distancing). In particular, unemployment during
+COVID has peaked at unprecedented rates not seen in decades (e.g.,
+14.7%; Congressional Research Service, 2020). The U.S. Census Bureau
+(2020) has reported that over 30% of adults expect someone in their
+household to experience a loss of income in the next 4 weeks.
+Justice-involved Veterans are unlikely to have escaped such outcomes, and it is expected that the economic downturn of the COVID19 pandemic may have hit justice-involved Veterans particularly hard.
+Prior to the pandemic, those with a felony conviction had unemployment rates exceeding 27%, a rate that was 5-times greater than the
+general population and exceeded the national unemployment rate during the Great Depression (Shannon et al., 2017) as well as the more
+recent Great Recession (Kochhar, 2020). While exact unemployment
+rates among justice-involved Veterans during COVID-19 are presently
+unknown, given rising rates of unemployment, those with prior crimi-
+
+nal oﬀenses likely are experiencing further pronounced diﬃculty ﬁnding
+and maintaining employment in an increasingly competitive job market.
+These ﬁnancial stressors have had unfortunate ramiﬁcations with respect to housing stability and food security. Nearly 1 in 6 adults have
+reported they cannot make a rent or house payment, and between 9–
+16% of households have reported food insecurity in the past 7 days
+(Center on Budget and Policy Priorities, 2020). Such challenges have
+increased the burden on organizations providing social services (e.g.,
+housing, unemployment beneﬁts), which are traditionally underfunded
+(Tsega, Giantris, and Shah, 2020). This is further problematic given that
+ﬁnancial and occupational stress are noted risk factors for mental health
+symptoms and suicide (Milner et al., 2014; Paul and Moser, 2009).
+While the aforementioned factors are not circumscribed to justiceinvolved Veterans, and may indeed be present within the larger, corrections population, those with a history of military service diﬀer in a
+number of ways from justice-involved non-Veterans. Justice-involved
+Veterans have higher documented rates of violent oﬀenses, often resulting in more severe charges (e.g., felony) and lengthier prison sentences (Bronson et al., 2015). This population also often experiences
+compound, adverse social determinants of health (e.g., occupational difﬁculties, homelessness; Tsai and Rosenheck, 2015; Tsai et al., 2014).
+Such psychosocial stressors are often driven by and/or exacerbated by
+the Veterans’ history of justice involvement, which in turn can impede
+access to social services (e.g., shelters, housing) and create additional
+challenges to procuring employment and housing.
+An additional concern is the association between ﬁnancial
+stress and criminogenic behavior. For example, Elbogen and colleagues (2012) found that past criminal justice involvement was reported by 21% of Veterans with mental health problems who did not
+currently have suﬃcient income to cover basic needs (e.g., food, shelter)
+compared to 6% of Veterans with mental health problems who did have
+suﬃcient income to cover basic needs. Such diﬃculties can at times motivate recidivism as a means of survival. Therefore, it is plausible that the
+COVID-19 pandemic may indirectly drive criminogenic behavior among
+this at-risk population, further impeding rehabilitative processes.
+Taken in aggregate, these experiences can engender hopelessness,
+stigma, and social isolation (Desai et al., in press). Although Veterans
+are often viewed in a positive light, those interacting with the criminal justice system often experience negative appraisals by others and a
+more limited social network (Holliday et al., 2020). Among these Veterans, this can result in disconnection from their current social support system, as well as the Veteran community at large (Desai et al.,
+in press). Within the current climate, the already limited social support networks of justice-involved Veterans may be further strained by
+COVID-19 physical distancing initiatives to curb the spread of the virus.
+Although necessary from a public health lens, such initiatives likely reinforce social isolation and perceptions of loneliness, which are notable
+risk factors for psychiatric symptoms (e.g., depression) and suicidal self-
+
+https://doi.org/10.1016/j.jadr.2021.100076
+Received 16 December 2020; Accepted 11 January 2021
+Available online 12 January 2021
+2666-9153/Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Correspondence
+
+Journal of Aﬀective Disorders Reports 4 (2021) 100076
+
+directed violence, especially during and following the COVID-19 pandemic (Saltzman et al., 2020).
+By elucidating the experiences and mental health needs of justiceinvolved Veterans, we can better understand the acute- and long-term
+consequences of the COVID-19 pandemic in this subset of the Veteran population. Given the pre-COVID-19 mental health functioning and
+psychosocial stress experienced by justice-involved Veterans, it stands
+within reason that this pandemic can and likely is having substantially
+impactful, long-lasting repercussions for this population. Thus, it remains critical that research and policy discussions include this subset
+of the Veteran population. Only then can we guarantee that as a ﬁeld
+we are allowing all individuals to have a voice in mental health services
+and suicide prevention.
+
+Miller, J.M., Blumstein, A., 2020. Crime, justice & the COVID-19 pandemic: Toward a
+national research agenda. Am. J. Crim. Justice. 45, 515–524.
+Milner, A., Page, A., LaMontagne, A.D., 2014. Cause and eﬀect in studies on unemployment, mental health and suicide: a meta-analytic and conceptual review. Psychol.
+Med. 44, 909–917.
+Paul, K.I., Moser, K., 2009. Unemployment impairs mental health: meta-analyses. J. Vocat.
+Behav. 74 (3), 264–282.
+Rains, L.S., Johnson, S., Barnett, P., Steare, T., Needle, J.J., Carr, S., Taylor, B.E., Bentivegna, F., Edbrooke-Childs, J., Scott, H.R., Rees, J., Shah, P., Lomani, J., Chipp, B.,
+Barber, N., Dedat, Z., Oram, S., Morant, N., Simpson, A.the COVID-19 Mental Health
+Policy Research Unit Group, 2020. Early impacts of the COVID-19 pandemic on mental health care and on people with mental health conditions: framework synthesis of
+international experiences and responses. Soc. Psychiatry. Psychiatr. Epidemiol. Published online ahead of print.
+Saltzman, L.Y., Hansel, T.C., Bordnick, P.S., 2020. Loneliness, isolation, and social support
+factors in post-COVID19 mental health. Psychol. Trauma. 12 (S1), S55–S57.
+Shannon, S.K.S., Uggen, C., Schnittker, J., Thompson, M., Wakeﬁeld, S., Massoglia, M.,
+2017. The growth, scope, and spatial distribution of people with felony records in the
+United States, 1948-2010. Demography 54, 1795–1818.
+Tsega, M., Giantris, K., Shah, T., 2020. Essential Social Services are Struggling to
+Survive the COVID-19 Crisis Retrieved from https://www.commonwealthfund.org/
+blog/2020/essential-social-services-are-struggling-survive-covid-19-crisis.
+Tsai, J., Rosenheck, R.A., 2015. Risk factors for homelessness among US veterans. Epidemiol. Rev. 37 (1), 177–195.
+Tsai, J., Rosenheck, R.A., Kasprow, W.J., McGuire, J.F., 2014. Homelessness in a national
+sample of incarcerated veterans in state and federal prisons. Adm. Policy. Men. Health.
+41 (3), 360–367.
+Tsai, J., Wilson, M., 2020. COVID-19: a potential public health problem for homeless
+populations. Lancet. Public. Health. 5 (4), E186–E187.
+U.S.
+Census
+Bureau,
+2020.
+Household
+Pulse
+Survey
+Retrieved
+from
+https://www.census.gov/data-tools/demo/hhp/#/.
+
+Role of funding source
+This work is supported in part by Department of Veterans Aﬀairs
+(VA); the Rocky Mountain Mental Illness Research, Education and Clinical Center (MIRECC) for Veteran Suicide Prevention; the National Center on Homelessness Among Veterans; and the Veterans Aﬀairs MidAtlantic MIRECC. The authors did not receive any speciﬁc grant from
+funding agencies in the public, commercial or not-for-proﬁt sectors to
+support this submission. The views expressed are those of the authors
+and do not necessarily represent the views or policy of the VA or U.S.
+Government.
+Declaration of Competing Interest
+
+Ryan Holliday∗
+Rocky Mountain Mental Illness Research, Education and Clinical Center
+for Veteran Suicide Prevention USA
+University of Colorado Anschutz Medical Campus USA
+
+The authors do not have any additional conﬂicts of interest to disclose.
+References
+
+Alisha Desai
+VA Eastern Colorado Health Care System USA
+
+Blodgett, J.C., Avoundjian, T., Finlay, A.K., Rosenthal, J., Asch, S.M., Maisel, M.C., Midboe, A.M., 2015. Prevalence of mental health disorders among justice-involved Veterans. Epidemiol. Rev. 37 (1), 163–176.
+Bronson, J., Carson, A., Noonan, M., Berzofsky, M., 2015. Veterans in Prison and Jail.
+US Department of Justice, Oﬃce of Justice Programs, Bureau of Justice Statistics,
+Washington, DC, pp. 2011–2012.
+Center on Budget and Policy Priorities, 2020. Tracking the COVID-19 Recession’s Eﬀects on Food, Housing, and Employment Hardships Retrieved from
+https://www.cbpp.org/research/poverty-and-inequality/tracking-the-covid-19recessions-eﬀects-on-food-housing-and.
+Congressional Research Service, 2020. Unemployment Rates during the COVID-19 Pandemic. Brief Retrieved from https://fas.org/sgp/crs/misc/R46554.pdf.
+Desai, A., Holliday, R., Borges, L.M., Blue-Howells, J., Clark, S., Stimmel, M., Wortzel, H.S,
+2021. Facilitating successful reentry among justice-involved veterans: the role of veteran and oﬀender identity. J. Psychiatr. Pract.
+Elbogen, E.B., Johnson, S.C., Wagner, H.R., Newton, V.M., Beckham, J.C., 2012. Financial
+well-being and post-deployment adjustment in Iraq and Afghanistan War veterans.
+Mil. Med. 177, 669–675.
+Holliday, R., Martin, W.B., Monteith, L.L., Clark, S., LePage, J.P., 2020. Suicide Among
+Justice-Involved Veterans: A Brief Overview of Extant Research, Theoretical Conceptualization, and Recommendations for Future Research. J. Soc. Distress. Homeless
+Published online ahead of print.
+Kochhar, R., 2020. Unemployment Rose Higher in Three Months of COVID19 than it did in two Years of the Great Recession Retrieved from
+https://www.pewresearch.org/fact-tank/2020/06/11/unemployment-rose-higher-inthree-months-of-covid-19-than-it-did-in-two-years-of-the-great-recession/.
+
+Lisa A. Brenner
+Rocky Mountain Mental Illness Research, Education and Clinical Center
+for Veteran Suicide Prevention USA
+University of Colorado Anschutz Medical Campus USA
+Eric B. Elbogen
+National Center on Homelessness Among Veterans USA
+Veterans Aﬀairs Mid-Atlantic Mental Illness Research, Education and
+Clinical Center USA
+Duke University School of Medice USA
+Lindsey L. Monteith
+Rocky Mountain Mental Illness Research, Education and Clinical Center
+for Veteran Suicide Prevention USA
+University of Colorado Anschutz Medical Campus USA
+∗ Corresponding author.
+E-mail address: ryan.holliday@va.gov (R. Holliday)
+
+2
+
+

@@ -1,0 +1,1667 @@
+14 April 2020
+
+CO V I D‑ 19 STRATEGY UP DATE
+
+© World Health Organization 2020 Some rights reserved. This work is available
+under the Creative Commons Attribution-NonCommercialShareAlike 3.0 IGO licence
+(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo)
+Under the terms of this licence, you may copy, redistribute and adapt the work for
+non-commercial purposes, provided the work is appropriately cited, as indicated
+below. In any use of this work, there should be no suggestion that WHO endorses
+any specific organization, products or services. The use of the WHO logo is not
+permitted. If you adapt the work, then you must license your work under the
+same or equivalent Creative Commons licence. If you create a translation of this
+work, you should add the following disclaimer along with the suggested citation:
+“This translation was not created by the World Health Organization (WHO). WHO
+is not responsible for the content or accuracy of this translation. The original
+English edition shall be the binding and authentic edition”.
+Any mediation relating to disputes arising under the licence shall be conducted
+in accordance with the mediation rules of the World Intellectual Property
+Organization.
+The designations employed and the presentation of the material in this
+publication do not imply the expression of any opinion whatsoever on the part
+of WHO concerning the legal status of any country, territory, city or area or
+of its authorities, or concerning the delimitation of its frontiers or boundaries.
+Dotted and dashed lines on maps represent approximate border lines for which
+there may not yet be full agreement. The mention of specific companies or
+of certain manufacturers’ products does not imply that they are endorsed or
+recommended by WHO in preference to others of a similar nature that are not
+mentioned. Errors and omissions excepted, the names of proprietary products
+are distinguished by initial capital letters. All reasonable precautions have been
+taken by WHO to verify the information contained in this publication. However,
+the published material is being distributed without warranty of any kind, either
+expressed or implied. The responsibility for the interpretation and use of the
+material lies with the reader. In no event shall WHO be liable for damages
+arising from its use.
+Printed in Geneva, Switzerland.
+Cover photo: iStock.com/Hydromet
+
+FOREWORD
+Overcoming COVID‑19
+It has now been more than 100 days since WHO was
+notified of the first cases of what we now call COVID­‑19,
+and much has changed since we launched the first Strategic
+Preparedness and Response Plan two months ago.
+As of 13 April, more than 1.7 million people have been infected, and almost
+85 000 people have lost their lives. WHO grieves with all families who have lost
+a loved one, and salutes health workers all over the world who have put themselves
+in harm’s way every day to save lives.
+The global spread of the virus has overwhelmed health systems, and caused
+widespread social and economic disruption.
+By putting societies and economies on hold, we have curtailed the ability of the
+virus to spread through our communities. These defensive measures have helped
+to limit some of the short-term impacts of the virus, and bought us time to translate
+what we have learned about the virus into solutions so that we can get back
+to a more normal way of living: a new normal.
+We have learned so much about this virus, and we’re still learning. This strategy
+update is based on the evidence the world has accumulated in the past three
+months about how COVID‑19 spreads, the severity of disease it causes, how
+to treat it, and how to stop it.
+One of the main things we’ve learned is that the faster all cases are found, tested
+and isolated, the harder we make it for this virus to spread. This principle will save
+lives and mitigate the economic impact of the pandemic.
+This document guides the public health response to COVID‑19 at national
+and subnational levels, including practical guidance for strategic action, tailored
+to the local context.
+This pandemic is much more than a health crisis. It requires a whole-of-government
+and whole-of-society response. The resolve and sacrifice of frontline health
+workers must be matched by every individual and every political leader to put
+in place the measures to end the pandemic.
+We’re all in this together, and we will only succeed together. There is no time
+to waste. WHO’s singular focus is on working to serve all people to save lives
+and stop the pandemic.
+
+Dr Tedros Adhanom Ghebreyesus
+WHO Director-General
+
+14 April 2020
+
+COVID-19 STRATEGY UPDATE
+
+1
+
+ABOUT THIS DOCUMENT
+The coronavirus disease 2019 (COVID‑19) pandemic is exacting a huge toll on individuals,
+families, communities, and societies across the world. Daily lives have been profoundly
+changed, economies have fallen into recession, and many of the traditional social,
+economic, and public health safety nets that many people rely on in times of hardship
+have been put under unprecedented strain.
+In just a short time, a localised outbreak of COVID-19 evolved
+into a global pandemic with three defining characteristics:
+
+•
+•
+•
+
+Speed and scale: the disease has spread quickly
+to all corners of the world, and its capacity for explosive
+spread has overwhelmed even the most resilient health
+systems (figure 1).
+Severity: overall 20% of cases are severe or critical,
+with a crude clinical case fatality rate currently of over
+3%, increasing in older age groups and in those with
+certain underlying conditions.
+Societal and economic disruption: shocks to health
+and social care systems and measures taken to control
+transmission have had broad and deep socio-economic
+consequences.
+
+This document is intended to help guide the public health
+response to COVID-19 at national and subnational levels,
+and to update the global strategy to respond to the COVID-19
+pandemic. This document complements, and provides links
+to, the technical guidance published by WHO on preparing
+for and responding to COVID-19 since the beginning of the
+response. It translates knowledge accumulated since the
+publication of the Strategic Preparedness and Response Plan
+(SPRP)1 on 3 February 2020, into additional practical guidance
+for whole-of-government and whole-of-society strategic
+action that can be adapted according to specific national
+and subnational situations and capacities.
+This strategy update provides guidance for countries preparing
+for a phased transition from widespread transmission to a
+steady state of low-level or no transmission. This update also
+highlights the coordinated support that is required from the
+international community to meet the challenge of COVID‑19:
+it complements plans (including the Global Humanitarian
+Response Plan)2 that specifically address the issues
+of COVID‑19 response in humanitarian and fragile settings,
+and plans currently under development that will address
+the broader social and economic impacts of COVID‑19.
+
+iStock.com/Phynart Studio
+
+1 For the Strategic Preparedness and Response Plan see: https://www.who.int/docs/default-source/coronaviruse/srp-04022020.pdf
+2 For the Global Humanitarian Response Plan see: https://www.unocha.org/sites/unocha/files/Global-Humanitarian-Response-Plan-COVID‑19.pdf
+
+14 April 2020
+
+COVID-19 STRATEGY UPDATE
+
+2
+
+CURRENT SITUATION
+AND KEY INSIGHTS
+COVID‑19 is a new disease, distinct from other diseases caused by coronaviruses, such
+as Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome
+(MERS). The virus spreads rapidly, and outbreaks can grow at an exponential rate. At
+present, there are no therapeutics or vaccines proven to treat or prevent COVID‑19, although
+national governments, WHO and partners are working urgently to coordinate the rapid
+development of medical countermeasures.3 According to data from countries affected early
+in the pandemic, about 40% of cases will experience mild disease, 40% will experience
+moderate disease including pneumonia, 15% of cases will experience severe disease,
+and 5% of cases will have critical disease.
+The crude mortality rate varies substantially by country
+depending on the populations affected, the point a country
+is at in the trajectory of its outbreak, and the availability
+and application of testing (countries that only test
+hospitalized cases will have a higher reported crude mortality
+rate than countries with more widespread testing). The crude
+clinical case fatality is currently over 3%, increasing with
+age and rising to approximately 15% or higher in patients
+over 80 years of age. Morbidity associated with COVID‑19
+is also very high. Underlying health conditions that affect
+the cardiovascular, respiratory, and immune systems confer
+an increased risk of severe illness and death.
+Countries are at different stages of national and subnational
+outbreaks. Where there has been early action and
+implementation of comprehensive public health measures –
+such as rapid case identification, rapid testing and isolation
+of cases, comprehensive contact tracing and quarantine
+of contacts – countries and subnational regions have
+suppressed the spread of COVID‑19 below the threshold
+at which health systems become unable to prevent excess
+mortality. Countries that have been able to reduce transmission
+and bring outbreaks under control have maintained the
+ability to deliver quality clinical care, and minimize secondary
+mortality due to other causes through the continued safe
+delivery of essential health services.
+
+For countries that have introduced widespread physical
+distancing measures and population-level movement
+restrictions, there is an urgent need to plan for a phased
+transition away from such restrictions in a manner that
+will enable the sustainable suppression of transmission
+at a low-level whilst enabling the resumption of some
+parts of economic and social life, prioritized by carefully
+balancing socio-economic benefit and epidemiological
+risk. Without careful planning, and in the absence of scaled
+up public health and clinical care capacities, the premature
+lifting of physical distancing measures is likely to lead
+to an uncontrolled resurgence in COVID‑19 transmission
+and an amplified second wave of cases.
+For countries that currently have few reported cases,
+there is no time to lose in learning and applying the lessons
+of others to specific national contexts and capacities.
+
+In many countries where community transmission has
+led to outbreaks with near exponential growth, countries
+have introduced widespread population-level physical
+distancing measures and movement restrictions in order
+to slow spread and set in place other control measures.
+Physical distancing measures and movement restrictions,
+often referred to as “shut downs” and “lock downs,” can
+slow COVID‑19 transmission by limiting contact between
+people. However, these measures can have a profound
+negative impact on individuals, communities, and societies
+by bringing social and economic life to a near stop. Such
+measures disproportionately affect disadvantaged groups,
+including people in poverty, migrants, internally displaced
+people and refugees, who most often live in overcrowded
+and under resourced settings, and depend on daily
+labour for subsistence.
+iStock.com/Orbon Alija
+
+3 For the Global Research and Development Roadmap see: https://www.who.int/blueprint/priority-diseases/key-action/Roadmap-version-FINAL-for-WEB.pdf?ua=1
+
+14 April 2020
+
+COVID-19 STRATEGY UPDATE
+
+3
+
+A renewed focus on public health
+Perhaps the most important insight from the global
+COVID‑19 response to date has been that to successfully
+slow transmission and protect health systems, it is essential
+to accurately diagnose and effectively isolate and care for all
+cases of COVID‑19 including cases with mild or moderate
+disease (in health setting or home setting, depending on
+the context and degree of illness).
+
+A renewed focus on large-scale public health capacities must
+be implemented with urgency. The world stands at a pivotal
+juncture in the course of this pandemic. Collaborative
+research and knowledge sharing have helped to answer
+crucial questions about the benefits and costs of different
+response strategies in different contexts, the transmissibility
+of the virus, the clinical spectrum of the disease, and its
+capacity to rapidly overwhelm even the most resilient health
+systems. We know now what we are up against, and we
+are learning how to beat it. COVID‑19 threatens human life,
+threatens livelihoods, and threatens the way of life of every
+individual in every society.
+
+As COVID‑19 transmission has advanced globally,
+the primary focus of most countries has been the rapid
+identification, testing and treatment of patients with serious
+and severe COVID‑19, and the sheltering of individuals at
+the highest risk of poor outcomes. Fewer have put in place
+measures for those with mild disease, or contacts of cases.
+
+Speed, scale, and equity must be our guiding principles.
+Speed, because the explosive nature of the virus means
+every day lost in implementing effective response capacities
+and behaviors costs lives; scale, because everyone in society
+has a part to play in building the capacities required to
+control this pandemic; and equity, because everyone is at risk
+until the virus is controlled everywhere in the world: collective
+resources must be directed to where there is greatest risk.
+COVID‑19 is a truly global crisis: the only way to overcome
+it is together, in global solidarity.
+
+Countries must do everything they can to stop cases from
+becoming clusters and clusters from becoming explosive
+outbreaks. They must put in place the capacities for testing
+and diagnosis, isolation, contact tracing and quarantine;
+they must engage everyone in the response.
+
+Countries, areas or territories with COVID-19 cases reported in the last 7 days,
+as of 31 March 2020, 10:00 (CET)
+
+Figure 1 Countries, areas or territories with COVID‑19 cases reported in the last 7 days, as of 31 March 2020, 10:00 (CET)
+Greenland
+
+Iceland
+Faroe Islands
+
+Norway
+Sweden
+
+Canada
+The United Kingdom
+
+Denmark
+
+Ireland Isle of Man
+Netherlands
+Germany
+
+Finland
+Russian Federation
+
+Estonia
+Latvia
+Lithuania
+Belarus
+Poland
+
+Belgium
+Ukraine
+Czechia Slovakia
+Kazakhstan
+Jersey LuxembourgAustria
+Hungary Republic of Moldova
+Liechtenstein Slovenia
+France
+Switzerland Bosnia and Romania
+Herzegovina
+CroatiaSerbia
+San MarinoKosovo[1]
+Georgia
+Uzbekistan
+Bulgaria
+Spain
+Monaco Italy
+Montenegro
+Armenia
+Kyrgyzstan
+Andorra
+Portugal
+Holy SeeNorth Macedonia
+Turkey
+Azerbaijan
+Albania
+Greece
+Syrian Arab Republic
+Gibraltar
+Tunisia Malta
+Lebanon
+Cyprus
+Iran (Islamic Republic of)
+Morocco
+occupied Palestinian territory
+Afghanistan
+Iraq Kuwait
+Israel Jordan
+Nepal
+Algeria
+Libya
+Pakistan
+Egypt
+Bahrain
+Saudi Arabia
+Qatar
+India
+United Arab Emirates
+Guernsey
+
+United States of America
+
+Puerto Rico
+United States Virgin Islands
+Bermuda
+
+Anguilla
+Saint Martin
+Sint Maarten
+Saint Barthélemy
+
+Bahamas
+Mexico
+
+Cuba
+
+British Virgin Islands
+
+Turks and Caicos Islands
+
+Saint Kitts and Nevis
+Antigua and Barbuda
+Montserrat
+Mauritania
+Oman
+Mali
+Niger
+Guadeloupe
+Sudan
+Chad
+Dominica
+Eritrea
+Cabo Verde
+Senegal
+Martinique
+Guatemala
+Gambia
+Aruba
+Curacao
+Burkina Faso
+Djibouti
+Saint Lucia
+Nicaragua
+Guinea-Bissau
+El Salvador
+Guinea
+Barbados
+Benin Nigeria
+Panama
+Saint Vincent and the Grenadines
+Ethiopia
+Costa Rica
+Côte d’Ivoire
+Grenada
+Cameroon
+Togo
+Venezuela (Bolivarian Republic of)
+Somalia
+Trinidad and Tobago
+Ghana
+Liberia
+Central African Republic
+Guyana
+French Guiana
+Suriname
+Colombia
+Kenya
+Equatorial Guinea
+Uganda
+Congo
+Ecuador
+Rwanda
+Gabon
+Democratic Republic of the Congo
+Seychelles
+Cayman Islands
+Haiti
+Belize
+Jamaica
+Honduras
+
+Peru
+
+Mongolia
+
+Republic of Korea
+Bhutan
+Bangladesh
+Myanmar
+
+Lao People's Democratic Republic
+Viet Nam
+Thailand
+Cambodia
+
+Angola
+
+Northern Mariana Islands (Commonwealth of the)
+Guam
+
+Philippines
+
+Sri Lanka
+Maldives
+Singapore
+
+Brunei Darussalam
+Malaysia
+Indonesia
+Papua New Guinea
+Timor-Leste
+
+United Republic of Tanzania
+
+Brazil
+
+Japan
+
+China
+
+Mayotte
+
+Zambia
+
+Bolivia (Plurinational State of)
+
+French Polynesia
+
+Paraguay
+
+Namibia
+
+Mozambique
+Madagascar
+Zimbabwe
+
+Eswatini
+South Africa
+
+Fiji
+Réunion
+Mauritius
+
+Cases reported in the last 7 days
+
+Uruguay
+
+Australia
+
+New Caledonia
+
+1 - 100
+
+Argentina
+Chile
+
+101 - 1000
+1001 - 10000
+
+New Zealand
+
+10001 - 50000
+>50000
+Country, area or territory with no cases reported
+in the last 7 days
+Country, area or territory without cases
+Data Source: World Health Organization
+
+[1]Map
+AllProduction:
+references
+to Kosovo in this document should be
+WHO Health Emergencies Programme
+understood to be in the context of the United Nations
+Security Council resolution 1244 (1999).
+Number of cases of Serbia and Kosovo (UNSCR
+1244,1999) have been aggregated for visualization
+purposes.
+
+14 April 2020
+
+COVID-19 STRATEGY UPDATE
+
+The boundaries and names shown and the designations used on this map do not imply the expression of any
+
+opinion whatsoever
+on the Source:
+part of the World
+Health
+Organization
+concerning
+the legal status of any country,
+0
+The boundaries and
+names2,500
+shown and5,000
+the designations
+Data
+WHO
+and
+ministries
+of health
+
+km
+Not applicable
+used on this map do not imply the expression of any
+
+© World Health Organization 2020, All rights reserved.
+
+territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted
+and dashed lines on maps represent approximate border lines for which there may not yet be full agreement.
+
+opinion whatsoever on the part of the World Health
+Organization concerning the legal status of any country,
+territory, city or area or of its authorities, or concerning
+the delimitation of its frontiers or boundaries. Dotted and
+dashed lines on maps represent approximate border lines
+for which there may not yet be full agreement.
+
+4
+
+GLOBAL STRATEGY
+TO RESPOND TO COVID‑19
+The overarching goal is for all countries to control the pandemic by slowing
+down the transmission and reducing mortality associated with COVID‑19.
+The global strategic objectives are as follows:
+
+•
+
+•
+•
+
+•
+•
+
+Mobilize all sectors and communities to ensure that
+every sector of government and society takes ownership
+of and participates in the response and in preventing
+cases through hand hygiene, respiratory etiquette
+and individual‑level physical distancing.
+Control sporadic cases and clusters and prevent
+community transmission by rapidly finding and isolating
+all cases, providing them with appropriate care, and
+tracing, quarantining, and supporting all contacts.
+Suppress community transmission through
+context‑appropriate infection prevention and control
+measures, population level physical distancing
+measures, and appropriate and proportionate restrictions
+on non‑essential domestic and international travel.
+Reduce mortality by providing appropriate clinical care
+for those affected by COVID‑19, ensuring the continuity
+of essential health and social services, and protecting
+frontline workers and vulnerable populations.
+Develop safe and effective vaccines and therapeutics
+that can be delivered at scale and that are accessible
+based on need.
+
+iStock.com/stockstudioX
+
+14 April 2020
+
+COVID-19 STRATEGY UPDATE
+
+Every country should be implementing a comprehensive
+set of measures, calibrated to their capacity and context,
+to slow down transmission and reduce mortality associated
+with COVID‑19, ultimately with the aim of reaching and/or
+maintaining a steady state of low-level or no transmission.
+Appropriate strategies at the national level and subnational
+level must balance measures that address the direct mortality
+attributable to COVID‑19, the indirect mortality caused by
+the overwhelming of health systems and the interruption of
+other essential health and social services, and the acute and
+long-term detrimental effects on health and wellbeing of the
+socioeconomic consequences of certain response measures.
+Maintaining a steady state of low-level or no transmission
+is important because, as the pandemic has spread, its public
+health and socioeconomic impacts have been profound,
+and have disproportionately affected the vulnerable. Many
+populations have already experienced a lack of access to
+routine, essential health services. Migrants, refugees, displaced
+populations, and residents of high-density and informal
+settlements, are at a particularly high risk from the interruption
+of already limited health and social services. The closure of
+schools increases the risk of some students being neglected,
+abused or exploited, and risks the interruption of basic
+services such as school meals. Every action taken now to slow
+the transmission of COVID‑19 is an action that brings forward
+the day that these services can return.
+The risk of re-introduction and resurgence of the disease
+will continue and will need to be sustainably controlled
+through the rigorous application of public health interventions
+as the virus circulates between and within countries.
+Ultimately, the development and delivery of a safe and
+effective vaccine or vaccines and therapeutics may enable
+a transition away from some of the measures necessary
+to maintain this state of low-level or no transmission.
+
+5
+
+To prevail against COVID‑19, we need an approach that
+unites in common cause every individual and community,
+every business and non-profit, every department of every
+government, every non-governmental organization, every
+international organization, and every regional and global
+governance body, to harness their collective capacity
+into collective action. Everyone has a crucial role to
+play in stopping COVID‑19:
+
+•
+
+•
+
+•
+
+Individuals must protect themselves and others
+by adopting behaviours such as washing hands, avoiding
+touching their face, practicing good respiratory etiquette,
+individual level distancing, isolating in a community
+facility or at home if they are sick, identifying themselves
+as a contact of a confirmed case when appropriate,
+and cooperating with physical distancing measures
+and movement restrictions when called on to do so.
+Communities must be empowered to ensure that services
+and aid are planned and adapted based on their feedback
+and local contexts. Critical functions, such as community
+education, protecting vulnerable groups, supporting health
+workers, case finding, contact tracing, and cooperation
+with physical distancing measures can only happen with
+the support of every part of affected communities.
+
+•
+
+Governments must lead and coordinate the response
+across party lines to enable and empower all individuals
+and communities to own the response through
+communication, education, engagement, capacity building
+and support. Governments must also re-purpose and
+engage all available public, community and private sector
+capacity to rapidly scale up the public health system
+to find and test, isolate, and care for confirmed cases
+(whether at home or in a medical facility), and identify,
+trace, quarantine and support contacts. At the same time,
+governments must give the health system the support
+it needs to treat patients with COVID‑19 effectively
+and maintain other essential health and social services
+for all. Governments may have to implement blanket
+physical distancing measures and movement restrictions
+proportionate to the health risks faced by the community,
+if they need more time to put in place the above measures.
+Private companies must ensure the continuity
+of essential services such as the food chain, public
+utilities, and the manufacture of medical supplies.
+Private companies can provide expertise and innovation
+to scale and sustain the response, most notably through
+the production and equitable distribution of laboratory
+diagnostics, personal protective equipment, ventilators,
+medical oxygen and other essential medical equipment
+at fair prices, and the research and development
+of diagnostic tests, treatments and vaccines.
+
+iStock.com/olaser
+
+14 April 2020
+
+COVID-19 STRATEGY UPDATE
+
+6
+
+NATIONAL STRATEGIES
+TO RESPOND TO COVID‑19
+Each country must continue to implement National Action Plans based on a whole-ofsociety approach and a realistic appraisal of what is feasible to achieve first in terms
+of slowing down transmission and reducing mortality, and subsequently in terms of
+sustaining low level transmission while society and economic activity resumes. Plans
+must be flexible enough to react to rapidly changing epidemiological situations in different
+parts of the country, and take into account the local contexts and capacities to respond.4
+The core pillars of an effective national response were set out in detail in the SPRP.
+Every national strategy has a crucial part to play in
+meeting the global objectives, and must, at a minimum,
+set out the basis for a) coordination of the national and
+subnational response; b) engagement and mobilization
+of affected and at‑risk communities; c) implementation
+of context‑appropriate public health measures to slow
+transmission and control sporadic cases; d) preparation
+of the health system to reduce COVID‑19-associated
+mortality, maintain essential health services, and protect
+health workers, and e) contingency planning to ensure
+continuity of essential public functions and services.
+
+For example, many countries that have implemented
+restrictions on movement outside of households have
+reported sharp increases in gender-based violence, primarily
+impacting women. Additionally, women are often most likely
+to be in insecure work and least likely to be covered by
+income‑protection schemes, which are primarily designed
+for workers in formal employment.
+
+Coordination and planning
+
+Slowing the transmission of COVID‑19 and protecting
+communities will require the participation of every member
+of at-risk and affected communities6 to prevent infection
+and transmission. This requires everyone adopting individual
+protection measures such as washing hands, avoiding
+touching their face, practicing good respiratory etiquette,
+individual level distancing and cooperating with physical
+distancing measures and movement restrictions when
+called on to do so.
+
+Successful implementation of adaptive COVID‑19
+preparedness and response strategies will depend on
+all of society being engaged in the plan, and strong national
+and subnational coordination.5 To provide coordinated
+management of COVID‑19 preparedness and response,
+national public health emergency management mechanisms,
+including a multidisciplinary national coordination cell
+or incident management structure, should be activated,
+with the engagement of relevant ministries such as health,
+foreign affairs, finance, education, transport, travel and
+tourism, public works, water and sanitation, environment,
+social protection and agriculture. In certain contexts,
+this may be through the support of National Disaster
+Management or other crisis management authorities.
+If they have not done so already, national authorities
+should, as a matter of urgency, develop operational plans
+to address COVID‑19. Plans should include capacity
+assessments and risk analyses to identify high-risk and
+vulnerable populations. Plans should include civil society
+and national NGOs to extend the reach of public health
+and socioeconomic interventions. National plans should
+also be developed for the prevention and mitigation of
+the social impacts of the crisis, including areas of the
+response that disproportionately affect women and girls.
+
+Engage and mobilize communities
+to limit exposure
+
+It is therefore essential that international, national, and
+local authorities engage through participatory two-way
+communication efforts proactively, regularly, transparently
+and unambiguously with all affected and at-risk populations.
+Understanding knowledge, behaviours, perceptions, and
+identifying the right channels and community-based networks
+and influencers to promote scientific and public health
+messages will be a key determinant of the effectiveness of
+the response. Building the capacity of national, regional, and
+local stakeholders is essential to establish authority and trust.
+The role women play in communities needs to be harnessed
+in community mobilization efforts.
+Participatory community engagement interventions should
+include accurate information on risks, what is still unknown,
+what is being done to find answers, what actions are being
+taken by health authorities, and what actions people can
+take to protect themselves.
+
+4­ For all current WHO guidance related to Critical preparedness, readiness and response actions for COVID‑19 see:
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/critical-preparedness-readiness-and-response-actions-for-COVID‑19
+5 For all current WHO guidance related to national coordination and planning see: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/country-readiness
+6 For all current WHO guidance related to risk communication and community engagement see:
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/risk-communication-and-community-engagement
+
+14 April 2020
+
+COVID-19 STRATEGY UPDATE
+
+7
+
+Ensuring that global recommendations and communications
+are tested and adapted to local contexts is an essential
+part of helping countries to empower communities to own
+the response and control the COVID‑19 pandemic. Informed
+and empowered populations can protect themselves
+by taking measures at the individual and community
+level that will reduce the risk of transmission.
+By contrast, misleading, ambiguous, and false information
+can have serious negative public health consequences,
+including by undermining adherence to physical distancing
+measures and movement restrictions, promoting the hoarding
+and inappropriate use of essential supplies and equipment,
+and encouraging the inappropriate use of potentially
+dangerous or fatal curative and prophylactic measures
+without any evidence of benefit.
+In all the above, countries must ensure that communities,
+including the most hard-to-reach and vulnerable groups,
+have a voice and are part of the response.
+
+Find, test, isolate and care for
+cases and quarantine contacts
+to control transmission
+Stopping the spread of COVID‑19 requires finding and testing
+all suspected cases so that confirmed cases are promptly
+and effectively isolated and receive appropriate care, and the
+close contacts of all confirmed cases are rapidly identified
+so that they can be quarantined and medically monitored for
+the 14‑day incubation period7 of the virus.
+To achieve this, countries and communities must fundamentally
+increase their capacity to identify suspected cases of COVID‑19
+in the general population quickly based on the onset of signs
+or symptoms. This will require a shift from reliance on existing
+surveillance networks to system of rapid, population-level active
+surveillance. In addition to active case finding in communities,
+health facilities, and at points of entry, it will be necessary to
+enable the general population to practice self-surveillance, in
+which individuals are asked to self-report as a suspected case
+as soon as they have symptoms or signs and/or if they are a
+contact of a confirmed case. To achieve this shift, countries will
+need to rapidly scale up their workforce to find cases, including
+by looking outside the traditional public health system to train
+non-public-health workers, and by using innovative technology
+such as online applications to enable individuals to self-report.
+
+Once suspected cases are identified they should be tested
+immediately to confirm or rule out infection with COVID‑19.
+In contexts where testing is not possible, confirmation
+of COVID‑19 may instead be based on reported symptoms
+or signs.
+Confirmed cases – whether confirmed through testing or on
+the basis of symptoms or signs – should be safely, effectively,
+and rapidly isolated to prevent onward transmission in the
+community. Ideally, confirmed cases should be isolated
+in dedicated facilities to minimize the potential for onward
+transmission and maximize the provision of any support
+necessary. If this is not possible, and cases are instead required
+to self-isolate in households, there should be appropriate
+follow‑up and support to ensure that individuals are able
+to self isolate effectively with no social contact.
+It is also essential to identify and trace the close contacts
+of every confirmed or probable case, and quarantine
+and monitor them for 14 days. This ensures that even
+pre‑symptomatic cases (and potentially asymptomatic cases)
+that arise as a result of contact with a confirmed case do not
+mix with the general population. Quarantine can be a stressful
+experience and a significant imposition and disruption to the life
+of the quarantined individual and their family. Every effort must
+be made to support individuals required to undergo quarantine,
+including through the provision of basic necessities, income
+support, psychosocial support, and health care as needed.
+
+Provide clinical care and
+maintain essential health services
+to reduce mortality
+One of the defining features of COVID‑19 is the huge stress
+placed on health systems and health workers by the large
+proportion of COVID‑19 patients who can require quality
+clinical care.8 Many patients need help to breathe, with
+outbreaks placing acute burdens on staffing levels, availability
+of equipment, and crucial supplies such as medical oxygen,
+ventilators and personal protective equipment (PPE). Frontline
+health workers have had to put themselves in harm’s way
+to save lives, and some have lost their own lives as a result.
+In many countries, women account for up to 70% of the
+health workforce, and have therefore been disproportionality
+affected. Even very robust health systems can be rapidly
+overwhelmed and compromised by an explosive COVID­‑19
+outbreak. Contingency planning should include extreme
+scenarios, such as the need to rapidly and completely
+reconfigure and largely repurpose the entire health sector.
+
+7 For all current WHO guidance related to COVID‑19 surveillance see:
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/surveillance-and-case-definitions
+For all current WHO guidance related to national laboratories see: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance
+8 For all current WHO guidance related to maintenance of essential health services see:
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/maintaining-essential-health-services-and-systems
+For all current WHO guidance for health workers see: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/health-workers
+For all current WHO guidance on infection prevention and control see:
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/infection-prevention-and-control
+
+14 April 2020
+
+COVID-19 STRATEGY UPDATE
+
+8
+
+In addition to the direct mortality caused by COVID‑19,
+response at the national and subnational level must also
+address the risks of indirect mortality posed by the possible
+interruption of essential health and social services. The
+acute burden that COVID‑19 places on health systems,
+combined with the disruptive effects of shielding strategies,
+physical distancing and movement restrictions, must be
+mitigated in order to minimize the negative health impacts
+of COVID‑19 on individuals who depend on essential,
+non‑COVID‑19-related services.
+Maintaining population trust in the capacity of the health
+system to safely meet essential needs and to control
+infection risk in health facilities is key to ensuring appropriate
+care‑seeking behavior and adherence to public health advice.
+Continuation of primary health care services is essential.
+Where possible, the use of technological solutions such
+as telemedicine to monitor patients and remote consultations
+should be considered, to minimize risk to patients.
+Countries will need to make difficult decisions to balance
+the demands of responding directly to COVID‑19, while
+simultaneously engaging in strategic planning and coordinated
+action to maintain essential health service delivery, mitigating
+the risk of system collapse. Many routine and elective services
+might have to be postponed or suspended. In addition, when
+routine practice comes under pressure due to competing
+demands, simplified purpose-designed governance
+mechanisms and protocols can mitigate outright system
+failure. Establishing effective patient flow (through screening,
+triage, and targeted referral of COVID‑19 and non-COVID‑19
+cases) is essential at all levels.
+
+Adapt strategies based on risk,
+capacity, and vulnerability
+The ability of countries to engage and mobilize communities;
+find, test, and isolate cases; provide effective clinical care;
+and maintain essential health services will differ according
+to their capacity and context as well as the intensity and
+prevalence of COVID‑19 transmission. The combination
+of public health measures that should be implemented at
+any one time will depend to a large extent on whether there
+is community transmission, clusters of cases, sporadic cases,
+or no cases and the capacity of the public health system.
+Every country must put in place comprehensive public
+health measures to maintain a sustainable steady state
+of low-level or no transmission and have the surge capacity
+to rapidly control sporadic cases and clusters of cases
+to prevent community transmission from occurring.
+If community transmission occurs, exceptional measures
+will need to be taken to suppress transmission as quickly
+as possible and transition back to a steady state of low‑level
+or no transmission. This approach needs to be applied
+at the lowest administrative level possible in each country
+to ensure a tailored and appropriate response depending
+on the situation and capacities to respond.
+
+14 April 2020
+
+COVID-19 STRATEGY UPDATE
+
+Suppressing community transmission
+Even with the proactive implementation of comprehensive
+public health measures, transmission of COVID‑19 can rapidly
+become established in countries and subnational regions,
+with explosive outbreaks that grow at an exponential rate.
+In countries and/or subnational regions in which community
+transmission has become established, or that are at risk
+of entering this phase of an epidemic, authorities must
+immediately adopt and adapt population-level distancing
+measures and movement restrictions in addition to other
+public health and health system measures to reduce
+exposure and suppress transmission, including the following:
+
+•
+•
+•
+•
+
+Personal measures that reduce the risk of person-toperson transmission, such as hand washing, physical
+distancing, and respiratory etiquette;
+Community-level measures to reduce contact between
+individuals, such as the suspension of mass gatherings,
+the closure of non-essential places of work and educational
+establishments, and reduced public transport;
+Measures to reduce the risk of importation or reintroduction
+of the virus from high-transmission areas, such as limits
+on national and international travel, enhanced screening
+and quarantine;
+Measures to ensure the protection of health workers and
+vulnerable groups, such as through the provision of correct
+personal protective equipment.
+
+Targeted and time-limited implementation of these measures
+will potentially reduce mortality by flattening the trajectory
+of the epidemic and relieving some pressure on clinical
+care services. However, these measures are blunt tools
+with considerable social and economic costs, and should
+be implemented with the understanding, consent, and
+participation of communities, and based on the principle
+of doing no harm. The risks of implementing these measures
+must be effectively communicated to the affected populations
+and communities engaged to own and participate in them.
+Support systems must be in place to ensure communities
+are able to comply with these measures. Individuals,
+especially the most vulnerable, must also be supported
+(and be provided with refuge or safe spaces where necessary)
+through coordinated economic and social measures that
+provide incentives to participate, and which mitigate negative
+social and economic consequences. Food security, mental
+health, and gender safeguarding issues, including the need
+to protect women from an increased risk of domestic abuse,
+are high‑priority areas for attention.
+The precise nature and feasibility of implementing
+these measures will be heavily dependent on the context
+of affected communities. In low-income and crisis settings,
+physical distancing and movement restrictions are structurally
+more difficult to implement, and should only be implemented
+where justified by an analysis of the trade-offs between
+public health measures against COVID‑19 and the necessity
+for people to meet their basic food and protection needs.
+
+9
+
+During periods of sustained community transmission,
+diagnostic capacity may be insufficient, and it may be
+necessary to prioritize testing of vulnerable populations
+who are at risk of developing severe disease; symptomatic
+health workers and essential staff; and the first symptomatic
+individuals in a closed setting (e.g. schools, long term
+living facilities, prisons, hospitals) to quickly identify
+outbreaks and implement effective isolation of all
+confirmed and suspected cases.
+Innovative solutions to increase clinical care capacity
+will be required, such as substantially reconfiguring
+existing health facilities and repurposing existing public
+and private facilities to provide safe areas for emergency
+case management, quarantine and isolation – this should
+be feasible even in remote and low resource areas. Rapid
+expansion of clinical capacity for life-saving measures should
+be focused on care for the majority of patients through
+simple treatments such as providing oxygen. Other essential
+health and social services and systems must be maintained
+wherever possible with a focus on primary health care.
+The necessary duration of physical distancing measures
+and movement restrictions will be difficult to calculate
+accurately before their implementation: it is prudent to plan
+for the application of such measures for two to three months
+based on the experiences of the countries first affected
+by COVID‑19.
+
+Transitioning to and maintaining a steady
+state of low-level or no transmission
+For many countries and subnational authorities and
+communities, managing a controlled and deliberate transition
+from a scenario of community transmission to a sustainable,
+steady state of low-level or no transmission is, at present,
+the best-case outcome in the short and medium term in the
+absence of a safe and effective vaccine. For countries yet
+to report community transmission, preventing the escalation
+of transmission and maintaining a steady state of low-level
+or no transmission may be feasible.
+Achieving either of these aims will hinge on the ability
+of national and/or subnational authorities to ensure
+that six key criteria are satisfied:
+1 COVID‑19 transmission is controlled to a level of
+sporadic cases and clusters of cases, all from known
+contacts or importations and the incidence of new cases
+should be maintained at a level that the health system can
+manage with substantial clinical care capacity in reserve.
+
+2 Sufficient health system and public health capacities
+are in place to enable the major shift from detecting
+and treating mainly serious cases to detecting and
+isolating all cases, irrespective of severity and origin:
+• Detection: suspect cases should be detected quickly
+after symptom onset through active case finding,
+self‑reporting, entry screening, and other approaches;
+• Testing: all suspected cases should have test results
+within 24 hours of identification and sampling, and
+there would be sufficient capacity to verify the virus-free
+status of patients who have recovered;9
+Isolation:
+all confirmed cases could be effectively
+•
+isolated (in hospitals and/or designated housing for mild
+and moderate cases, or at home with sufficient support
+if designated housing is not available) immediately and
+until they are no longer infectious;10
+• Quarantine: all close contacts could be traced,
+quarantined and monitored for 14 days, whether
+in specialized accommodation or self-quarantine.
+Monitoring and support can be done through
+a combination of visits by community volunteers,
+phone calls, or messaging.11
+3 Outbreak risks in high-vulnerability settings
+are minimized, which requires all major drivers
+and/or amplifiers of COVID-19 transmission to have
+been identified, with appropriate measures in place
+to minimize the risk of new outbreaks and of nosocomial
+transmission (e.g. appropriate infection prevention
+and control, including triage, and provision of personal
+protective equipment in health care facilities and
+residential care settings).12
+4 Workplace preventive measures are established
+to reduce risk, including the appropriate directives
+and capacities to promote and enable standard COVID‑19
+prevention measures in terms of physical distancing, hand
+washing, respiratory etiquette and, potentially, temperature
+monitoring.13
+5 Risk of imported cases managed through an
+analysis of the likely origin and routes of importations,
+and measures would be in place to rapidly detect and
+manage suspected cases among travelers (including
+the capacity to quarantine individuals arriving from
+areas with community transmission).
+6 Communities are fully engaged and understand that the
+transition entails a major shift, from detecting and treating
+only serious cases to detecting and isolating all cases, that
+behavioural prevention measures must be maintained, and
+that all individuals have key roles in enabling and in some
+cases implementing new control measures.
+
+9 For guidance on the strategic use of diagnostic testing in different COVID-19 transmission scenarios see:
+https://apps.who.int/iris/bitstream/handle/10665/331509/WHO-COVID-19-lab_testing-2020.1-eng.pdf
+10 For advice on home care of individuals with suspected COVID-19 see:
+https://www.who.int/publications-detail/home-care-for-patients-with-suspected-novel-coronavirus-(ncov)-infection-presenting-with-mild-symptoms-and-management-of-contacts
+11 For guidance on quarantine of individuals see:
+https://www.who.int/publications-detail/considerations-for-quarantine-of-individuals-in-the-context-of-containment-for-coronavirus-disease-(covid-19)
+12 For IPC guidance for long-term care facilities see: https://apps.who.int/iris/bitstream/handle/10665/331508/WHO-2019-nCoV-IPC_long_term_care-2020.1-eng.pdf
+13 For all guidance related to schools, workplaces and institutions see:
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/guidance-for-schools-workplaces-institutions
+
+14 April 2020
+
+COVID-19 STRATEGY UPDATE
+
+10
+
+Decisions about when and where to transition must
+be evidence based, data driven and implemented
+incrementally. It is essential to have real-time, accurate data
+on the testing of suspected cases, the nature and isolation
+status of all confirmed cases, the number of contacts per
+case and completeness of tracing, and the dynamic capacity
+of health systems to deal with COVID-19 cases.
+To reduce the risk of new outbreaks, measures should be
+lifted in a phased, step-wise manner based on an assessment
+of the epidemiological risks and socioeconomic benefits
+of lifting restrictions on different workplaces, educational
+institutions, and social activities (such as concerts, religious
+events, sporting events). Risk assessments may eventually
+benefit from serological testing, when reliable assays are
+available, to inform understanding of population susceptibility
+to COVID‑19.
+Ideally there would be a minimum of 2 weeks (corresponding
+to the incubation period of COVID‑19) between each phase
+of the transition, to allow sufficient time to understand the
+risk of new outbreaks and to respond appropriately.
+
+Low-capacity and humanitarian settings
+Many low-capacity countries with comparatively weak health
+systems and limited capacity to offset the economic and
+social costs of population-level physical distancing, including
+some countries with health system fragility and extremely
+vulnerable populations, are now reporting sporadic cases,
+clusters of cases, and community transmission.14 The window
+for containment at the subnational and national level may
+be closing in many of these countries.
+
+iStock.com/Savas Bozkaya
+
+The trajectory of national outbreaks in these settings
+will depend not only on how effectively the health system
+capacity can be increased and public health measures
+implemented, but also on the complex interplay of
+demographics, the prevalence of underlying conditions
+associated with poor COVID‑19 outcomes, the prevalence
+of infections that could complicate the diagnosis of COVID‑19
+(such as malaria, bacterial pneumonias, and tuberculosis),
+and the relative importance of social, religious, and cultural
+gatherings that have been shown to be important drivers of
+COVID‑19 transmission in other contexts.
+Within the broader categories of low-capacity settings,
+it is also essential to consider the need for measures tailored
+specifically to humanitarian settings and high-risk groups.
+People affected by humanitarian crises, particularly those
+displaced and/or living in camps and camp-like settings,
+are often faced with specific challenges and vulnerabilities
+that must be taken into consideration when planning for
+COVID-19 readiness and response operations. Under the
+umbrella of the Inter-Agency Standing Committee, WHO has
+worked with the IFRC, IOM, and UNHCR to produce interim
+guidance15 to scale up readiness and response capacities for
+people in humanitarian settings, which may include internally
+displaced persons (IDPs), host communities, asylum seekers,
+refugees and returnees, and migrants.
+People living in collective sites are vulnerable to COVID-19
+in part because of the health risks associated with movement
+or displacement, overcrowding, increased climatic exposure
+due to sub-standard shelter, and poor nutritional and
+health status among affected populations. Although some
+adaptations of site plans may not be feasible, maximizing
+site planning for better distancing among residents and
+crowd management, adherence to infection prevention and
+control standards, strong risk communication and community
+engagement and a good surveillance system to detect initial
+cases early can greatly reduce the propensity for COVID-19
+to spread within such settings. Appropriate case
+management can reduce mortality among those infected with
+the virus. The Interim Guidance outlines the necessary steps
+to ensure all of these capacities are in place.
+As national governments act rapidly to protect their most
+vulnerable populations, it is essential that the international
+community come together in solidarity to protect the
+most vulnerable global populations. To address the needs
+of countries where urgent humanitarian activities must
+be supported to continue in addition to urgent new health
+and non-health requirements due to COVID-19, WHO is part
+of the IASC COVID-19 Global Humanitarian Response Plan
+(GHRP; issued on 25 March 2020) coordinated by the UN
+Office for Coordination of Humanitarian Affairs (OCHA).
+The GHRP sets out the most urgent health and humanitarian
+actions required to prepare and respond to COVID-19
+in these contexts.
+
+14 For all current WHO guidance on preparing for and responding to COVID‑19 in humanitarian operations, camps and other fragile settings see:
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/humanitarian-operations-camps-and-other-fragile-settings
+15 For the IASC interim guidance see: https://interagencystandingcommittee.org/other/interim-guidance-scaling-covid-19-outbreak-readiness-and-response-operations-camps-and-camp
+
+14 April 2020
+
+COVID-19 STRATEGY UPDATE
+
+11
+
+INTERNATIONAL COMMUNITY’S
+RESPONSE TO COVID‑19
+The scale of the COVID‑19 crisis requires a significant shift in the international system
+to support countries to plan, finance and implement their response. Countries need
+authoritative real-time information on the evolving epidemiology and risks; timely access
+to essential supplies, medicines and equipment; the latest technical guidance and best
+practices; rapidly accessible and deployable technical expertise, access to an emergency
+health workforce and medical teams; and equitable access to newly developed vaccines,
+therapeutics, diagnostics and other innovations, as well as complementary socio-economic
+measures, including material and protection assistance.
+Particular attention and support will be required in countries with low-capacity and
+humanitarian settings ill-equipped to cope with COVID‑19 due to weak health systems
+and workforces that are heavily reliant on the support of donors, UN and NGO partners.
+Coordination and monitoring of country preparedness and response
+This document builds on the Strategic Preparedness
+and Response Plan (SPRP), which was published on
+3 February 2020 and outlined the public health measures
+that the international community stands ready to provide
+to support all countries to prepare for and respond
+to COVID-19. Overall UN coordination is provided through
+the UN Crisis Management Team, which was established
+on 4 February 2020. This is the highest possible level of
+crisis alert in the UN system, and this is the first time this
+mechanism has been activated for a public health crisis.
+On 12 February 2020, the Operational Planning Guidelines
+to support the development National Action Plans were
+issued and the COVID-19 Partners Platform was launched
+to enable national authorities, UN Country Team and partners
+to plan resource needs, allocate resources and identify
+funding gaps, and monitor progress against the National
+Action Plans at the national and subnational level.
+On 25 March 2020, OCHA issued the COVID‑19 Global
+Humanitarian Response Plan and activated the IASC
+scale-up protocol to mobilize the whole humanitarian
+system to support its implementation. Simultaneously,
+the UN Development Coordination Office (UNDCO)
+has led the development of a UN framework for the
+immediate socio-economic response to COVID‑19, which
+outlines an integrated support package offered by the
+UN Development System to protect the needs and rights
+of people living under the duress of the pandemic, with
+a focus on the most vulnerable countries, groups, and
+people who risk being left behind.
+WHO coordinates actively with Member States. They
+have been actively engaged in the response and the
+WHO Director-General has provided the highest possible
+level of representation, advice, and support to all requests
+coming from various Member State groupings such as
+
+the African Union, ASEAN, the EU, the G7, the G20, the G12
+donors, as well as other regional multilateral organizations
+to support and finance the response. WHO provides Member
+States the best available advice based on all available
+evidence and science as it becomes available.
+The World Bank Group, International Monetary Fund
+and other multi-lateral development banks and financial
+institution’s including GAVI, the Global Fund and UNITAID,
+have provided emergency support for developing countries
+to fast-track financial and operational facilities for COVID-19
+response. Collaborative arrangements established under
+Global Action Plan for Healthy Lives and Well-being for
+All are being utilized for the COVID-19 response.
+Organizations representing aviation, maritime, trade,
+and tourism sectors have worked with WHO to develop
+joint guidance, joint statements of support, to monitor
+the measures taken by governments and private entities
+that impact international travel and trade, and to assess
+and mitigate the health and economic impact of such
+measures, in line with the provisions of the International
+Health Regulations (2005). WHO has also developed
+risk‑based approaches and guidance for the organization
+of mass gathering events,16 and is continuing to work
+with key partners from many sectors, including sports and
+entertainment sectors, as well as faith-based organizations.
+The unique scale of the COVID‑19 crisis requires
+the international community to reach out beyond its own
+capacity. The private sector has been actively engaged
+in the response, with high-level regular participation into
+the weekly consultations on the pandemic organized
+by industry bodies such as the World Economic Forum
+and the International Chamber of Commerce.
+
+16 For WHO guidance on point of entry and mass gatherings see:
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/points-of-entry-and-mass-gatherings
+
+14 April 2020
+
+COVID-19 STRATEGY UPDATE
+
+12
+
+Epidemiological analysis
+and risk assessment
+
+Risk communication and
+community engagement
+
+Ongoing, comprehensive and verified global surveillance
+data about COVID‑19 is crucial for response at the global,
+national, and local levels. Epidemiological surveillance
+information is collected from all countries, territories, and
+areas and is made accessible through multiple channels,
+including a dynamic dashboard, a daily situation report,
+as well as downloadable data extracts.17
+
+Accurate information of COVID‑19 has been communicated
+through multiple media channels to provide the right
+information, at the right time, to the right audience, so that it
+triggers the right action. Unfortunately, the global public health
+response to the COVID‑19 pandemic has been accompanied
+by an infodemic, which is an over-abundance of information –
+some accurate and some not – that makes it hard for people
+to find trustworthy sources and reliable guidance when they
+need it. This misinformation hampers public health responses
+to epidemics and prevents people from taking adequate
+measures to effectively prevent disease transmission. Some
+misinformation may also lead to dangerous behaviours, such
+as self-medication with harmful substances.
+
+There are challenges to conducting global surveillance
+includes the lack of a global data architecture that facilitates
+the rapid and efficient sharing of data and information from
+countries, states, or territories. While the IHR stipulates the
+legal responsibilities to inform WHO about the occurrence of
+certain public health events, there is currently no harmonized
+public health reporting mechanism that enables information
+exchange from public health institutes and agencies directly
+to WHO. The lack of such a mechanism is a barrier for access
+to disaggregated data, which is needed to understand ageand sex-specific epidemiologic features, risk characteristics
+of certain sub-groups, and distributions of cases over time
+and geographic areas.
+The global response to the COVID‑19 pandemic requires
+the capacity to conduct ongoing risk assessment at the
+global, regional, national, and subnational levels. To fully
+leverage the investments and capacities for data collection
+and analysis for risk assessment, a new global public health
+data architecture will be required.
+The foundations of such an architecture have already been
+laid through the creation of the Epidemic Intelligence from
+Open Sources (EIOS) data platform, which enables multiple
+communities of users to collaboratively assess and share
+information about outbreak events in real time. The future
+vision of the new data architecture has been articulated
+by the EPI-BRAIN initiative, which harnesses cutting-edge
+tools for big data, crowd sourcing and artificial intelligence
+to mitigate the impact of epidemics by allowing stakeholders
+to merge public health data with data on the myriad, complex
+factors that drive epidemics, including human and animal
+population movement, animal diseases, environmental
+and meteorological factors, using advances in language
+processing and machine learning to provide a more
+comprehensive analysis that helps to predict outbreaks
+and track their spread.
+
+To manage the infodemic, the communication around
+COVID‑19 has been monitored to detect as early as possible
+misinformation or gaps in information. Using the WHO
+Information Network for Epidemics (EPI-WIN)18 – a close
+partnership with various sectors and their respective
+members such as faith-based organizations, sporting event
+organizers, travel and trade sectors, international employers’
+organizations, trade unions organizations, health care delivery
+sector and others – existing trusted sources of information
+have been amplified and tailored for particular audiences.
+This has allowed for the timely corrective action such as
+displacing misinformation through a high output of public
+health messages that inform individuals and populations how
+to protect themselves and support outbreak control activities.
+The COVID‑19 pandemic continues to evolve rapidly.
+This heightens the need for accurate, trusted information
+adapted to changing scenarios. Trusted channels of
+communication and information through EPI-WIN play
+a critical role in meeting information needs.
+Through the Global Outbreak and Alert Network (GOARN),19
+IFRC, UNICEF, and WHO are coordinating technical and
+operational updates on risk communication and humanitarian
+partners, with a special focus on highly vulnerable populations,
+and the integration of humanitarian partners to support
+physical distancing solutions in migrant and camp settings.
+Social science and community insights, including perception
+surveys and feedback from communities affected by
+physical distancing and movement restrictions, are being
+rapidly synthesized to ensure that future response measures
+are informed by and calibrated according to the ongoing
+experiences of affected communities by GOARN research
+partners are supporting this effort through the creation
+of a repository of risk communication and community
+engagement data collection tools (surveys, questionnaires,
+rapid assessment methods) to aid researchers and public
+health organizations to roll out quick assessments in their
+communities of interest.
+
+17 For all WHO COVID‑19 situation reports see: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/
+18 For EPI-WIN see: https://www.who.int/teams/risk-communication
+19 For more information about GOARN see: https://www.who.int/ihr/alert_and_response/outbreak-network/en/
+
+14 April 2020
+
+COVID-19 STRATEGY UPDATE
+
+13
+
+Coordinated global supply
+chain management
+
+Technical expertise and
+health emergency workforce
+
+Essential health commodities (including vaccines,
+therapeutics and diagnostics) are a global good.
+The COVID‑19 pandemic has led to an acute shortage of
+essential supplies, including personal protective equipment,
+diagnostics, and medical products. The UN has rapidly
+convened a Supply Chain Task Force. This task force will,
+as an urgent priority, establish a new emergency global
+supply chain system (EGSCS) to provide countries with
+essential supplies related to COVID‑19 response.
+
+Operational, technical and research networks have all been
+activated in the fight against this pandemic. Experts from
+around the world and frontline responders are reviewing all
+available evidence to develop and update technical guidance
+for countries to prepare and respond to COVID‑19. Much
+has been learnt about COVID‑19 in the four months since
+this outbreak began, but there remain significant knowledge
+gaps that must be filled by ongoing surveillance and research
+activities. Research protocols to address these gaps have
+been rapidly and transparently developed.
+
+The task force will ensure that supply chains are driven
+by strategic and tactical health and medical priorities, and
+that the most critical gaps in supplies are identified and met
+in a timely fashion. This will include a dynamic view of global,
+regional, and national demand for infection prevention and
+control supplies, personal protective equipment, diagnostic
+tests, and clinical support equipment, supplies, therapeutics
+and vaccines (when available). A bottom-up assessment
+of needs through the COVID‑19 partners portal is being
+combined with top-down modelling to provide a robust
+forecast of overall needs, and flag areas with urgent
+unmet needs, vulnerabilities, and gaps in independent
+procurement capacity.
+A hub-and-spoke distribution chain will form the basis
+of a global logistics distribution chain. The system will include
+four strategic international consolidation hubs, including
+a sourcing hub in Shanghai and additional international
+consolidation hubs in Dubai, Atlanta, and Liege, as well
+as six regional staging areas located along primary corridors
+serving all countries.
+Airlifts will move cargo between international and regional
+hubs and onward to countries – these services are a crucial
+contribution of the task force given current disruptions to
+commercial operators and competing demand. A similar
+hub-and-spoke model will be established for passenger
+air services where commercial airlines are disrupted, to
+ensure that frontline health and humanitarian responders
+are operational in priority countries.
+
+The first comprehensive set of technical guidance20 was
+published on 10 January 2020, and is being constantly
+reviewed and revised based on available evidence.
+Technical guidance is being adapted for different settings
+and contexts based on the intensity of transmission, the
+capacity of countries to implement public health measures,
+and available resources, and translate key actions required
+for countries through the EPI-WIN platform and other
+information products. 1.2 million people have enrolled in
+the OpenWHO training platform which has COVID‑19-specific
+courses available in 43 languages.
+Direct technical assistance to Member States is also
+facilitated through GOARN which has made 209 offers
+of technical support. Experts have been deployed from
+27 partner institutions and technical networks to provide
+support to countries directly and by remote assistance.
+GOARN colleagues from UNICEF, IFRC, US CDC, and OCHA
+are embedded in the global COVID‑19 incident management
+team and are supporting all pillars of response.
+Access to emergency health workforce capacity
+is coordinated through the over 100 Emergency Medical
+Teams (EMTs)21 and focal points worldwide, who are working
+closely with the EMT secretariat to continuously monitor,
+guide, and facilitate national and international COVID‑19
+response operations.
+The EMT secretariat is involved in intensive discussions
+to strengthen capacity and support to countries in Africa.
+In addition, EMTs worldwide are identifying technical experts
+and coordinators who can support integrated public health
+and clinical teams.
+In addition, the Global Health Cluster (GHC)22 continues
+to support Health Clusters in 29 countries to implement
+the COVID‑19 GHRP to respond and preserve existing
+humanitarian health action and commitments in line
+with the GHRP 2020.
+
+20 For an overview of all technical guidance available for COVID‑19 see: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance
+For OpenWHO see: https://openwho.org/
+21 For more on the EMT initiative see: http://origin.who.int/hac/techguidance/preparedness/emergency_medical_teams/en/
+22 For more on the GHC see: https://www.who.int/health-cluster/about/structure/global-cluster-unit/en/
+
+14 April 2020
+
+COVID-19 STRATEGY UPDATE
+
+14
+
+Accelerating research, innovation,
+and knowledge sharing
+On 11 and 12 February 2020, the Global Research Forum,
+hosted by WHO in Geneva, developed an initial COVID‑19
+Global Research Roadmap to guide a united COVID‑19
+agenda for research and development.23 The forum was
+unanimous that there is an urgent need to research and
+develop medical countermeasures, including vaccines,
+therapeutics, and diagnostics.
+Important investments are already funding many efforts and
+activities to address the challenge of COVID‑19. A report on
+the landscape of global research efforts on vaccines is issued
+weekly and provides updates on the progress of research
+and innovation efforts including the stages of advancement
+of candidate vaccines, two of which are currently in clinical
+evaluation phase. There are already areas of targeted
+coordination and funding such as CEPI for vaccines and the
+WHO Solidarity Trial for therapeutics, which is a trial testing
+potential old and new therapies to fight COVID‑19. Many
+other efforts are also being independently organized and
+financed. For maximum impact, the global community will
+require a truly unified and international effort. Acting now
+requires the public and private sectors to come together
+in support of a transparent and coordinated global process
+to pursue research and innovation priorities for collective
+action around this common global threat.
+A global COVID‑19 accelerated vaccine venture has been
+established to coordinate an unprecedented partnership of
+stakeholders with WHO that is needed to align the ecosystem
+around a dedicated vaccine master plan and uncover every
+opportunity to maximize speed of innovation and scale
+of delivery. Within the context of the broader Research
+and Innovation Action Plan, this special initiative drives
+the unique targeting and intense global focus to achieve
+mass immunization from COVID‑19 at breakneck speed.
+Building and expanding on the Global Research Roadmap,
+WHO is working with partners to develop a framework
+for coordinated research and innovation and an overview
+of the scale of investments required for financing. Enabling
+the greatest global good will require solidarity and
+collaboration, establishing sufficiently funded, collaborative,
+cross-agency and public-private partnerships, and facilitating
+open data access and information sharing. Support and
+investment will be necessary across public, private and
+philanthropic sectors along with prioritization and proper
+stewardship of those resources.
+
+Coordination and the combination of efforts will be critical
+to collective success. Individual and isolated action, however
+dedicated and determined, will not be sufficient to meet the
+current challenge of COVID‑19. In order to be successful
+we will need to pool, build, and pass innovation from
+strength to strength. This will require proactive and
+intentioned coordination rather than more passive monitoring
+and reporting of activities.
+A concerted and ongoing effort will be required to ensure
+coordination across stakeholders. Convening, coordination
+and benefit sharing will be critical to ensure that all
+stakeholders are appropriately engaged. Data, virus and
+technology sharing arrangements can facilitate expedited
+discovery and early development efforts while also creating
+a foundation for longer-term research and development
+beyond the current outbreak. Tactically, aligning on
+common protocols and standards, priority setting, and
+the development of target product profiles will be important
+to ensure that innovation flows seamlessly from one stage
+to the next, while simultaneously ensuring key milestones
+for decision making are understood and downstream
+development and delivery vehicles are proactively prepared.
+To facilitate this, resource mobilization and investment
+prioritization as well as monitoring and oversight will
+be required and are underway.
+Given the differences in research platforms, development
+processes, timelines, key players, and coordination
+considerations for vaccines, therapeutics and diagnostics,
+a set of detailed action plans for each countermeasure
+is under rapid development.
+
+Strengthening pandemic
+preparedness for the future
+With the world facing an unprecedented threat, there
+is an opportunity to emerge with stronger health systems,
+and improved global collaboration to face the next health
+threat. As we focus on the immediate response to the
+COVID‑19 crisis, it is important to keep in mind the breadth
+and depth of consequences already being felt across
+the globe. We must learn the lessons of this pandemic
+now and, in so doing, ensure that our response, wherever
+possible, leaves a lasting positive legacy, and makes
+the world of the future a safer place.
+
+23 For more on research and development see: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
+
+14 April 2020
+
+COVID-19 STRATEGY UPDATE
+
+15
+
+World Health Organization
+Avenue Appia 20
+1211 Geneva 27
+Switzerland
+WHO in Emergencies:
+www.who.int/emergencies/en
+
+

@@ -1,0 +1,983 @@
+Contents
+1. Summary: what is this living guideline? ........................................................................................................................................................................... 3
+2. Abbreviations ........................................................................................................................................................................................................................ 5
+3. Background ............................................................................................................................................................................................................................ 5
+3.1 What triggered this version of the guideline? ................................................................................................................................................... 5
+3.2 Who made this guideline? ...................................................................................................................................................................................... 5
+3.3 How to use this guideline? ..................................................................................................................................................................................... 6
+4. Methods: how this guideline was created ...................................................................................................................................................................... 6
+4.1 Special methodological considerations for recommendations on prophylactic interventions ............................................................... 8
+5. The latest evidence .............................................................................................................................................................................................................. 9
+6. Who do the recommendations apply to? ......................................................................................................................................................................11
+7. Recommendations for prophylaxis .................................................................................................................................................................................12
+7.1 Hydroxychloroquine ..............................................................................................................................................................................................12
+8. Uncertainties, emerging evidence and future research .............................................................................................................................................14
+9. Authorship, contributions and acknowledgements ....................................................................................................................................................14
+References ................................................................................................................................................................................................................................17
+
+© World Health Organization 2021. Some rights reserved. This work is available under the CC BY-NC-SA 3.0 IGO licence.
+WHO reference number: WHO/2019-nCoV/prophylaxes/2021.1
+
+Drugs to prevent COVID-19: A WHO living guideline - World Health Organization (WHO)
+
+1. Summary: what is this living guideline?
+Clinical question: What is the role of drugs for preventing COVID-19?
+Target audience: The target audience is clinicians and health care decision-makers.
+Current practice: Current use of drugs to prevent COVID-19 is variable, reflecting large-scale uncertainty. Numerous randomized trials
+of many different drugs are underway to inform practice. This first version of the Drugs to prevent COVID-19: A WHO living guideline
+contains new information and a recommendation on hydroxychloroquine (1). It follows the publication of six trials synthesized in a living
+network meta-analysis (NMA).
+Recommendations: The panel made a strong recommendation against the use of hydroxychloroquine prophylaxis for individuals who do
+not have COVID-19 (high certainty evidence).
+How this guideline was created: This living guideline is an innovation from the World Health Organization (WHO), driven by the urgent
+need for global collaboration to provide trustworthy and evolving COVID-19 guidance informing policy and practice worldwide. WHO
+has partnered with the non-profit Magic Evidence Ecosystem Foundation (MAGIC) for methodologic support and development and
+dissemination of living guidance for COVID-19 drugs to prevent and treat COVID-19. These guidelines are also published in the BMJ
+(2), supported by two living systematic reviews with network analysis that inform the recommendations (3, 4). An international
+Guideline Development Group (GDG) of content experts, clinicians, patients, an ethicist and methodologists produced
+recommendations following standards for trustworthy guideline development using the Grading of Recommendations Assessment,
+Development and Evaluation (GRADE) approach. No conflict of interest was identified for any panel member or other contributors to
+the guideline development process.
+The latest evidence: The recommendation on hydroxychloroquine was informed by results from a systematic review and NMA that
+pooled data from six trials with 6059 participants who did not have COVID-19 and received hydroxychloroquine (3). Three trials
+enrolled participants who had a known exposure to infection.
+The resulting GRADE evidence summary suggested that hydroxychloroquine has a small or no effect on mortality (odds ratio 0.70; 95%
+CI 0.24–1.99; absolute effect estimate 1 fewer death per 1000, 95% CI from 2 fewer – 3 more deaths per 1000 individuals; high
+certainty evidence) and on admission to hospital (odds ratio 0.87; 95% CI 0.42–1.77; absolute effect estimate 1 fewer per 1000, 95% CI
+3 fewer – 4 more admissions to hospital per 1000 individuals; high certainty evidence). Hydroxychloroquine probably has a small or no
+effect on laboratory-confirmed SARS-CoV-2 infection (odds ratio 1.03; 95% CI 0.71–1.47; absolute effect estimate 2 more per 1000;
+95% CI 18 fewer – 28 more infections per 1000 individuals; moderate certainty evidence). In contrast, hydroxychloroquine probably
+increases adverse events leading to discontinuation (odds ratio 2.34; 95% CI 0.93–6.08; absolute effect estimate 19 more per 1000,
+95% CI 1 fewer – 70 more adverse events per 1000 individuals; moderate certainty evidence).
+There was no indication of a credible subgroup effect based on known exposure to a person with SARS-CoV-2 infection or
+hydroxychloroquine dosing regimen (extremely low event rates precluded investigation of subgroup effects for mortality).
+Understanding the recommendations: When moving from the evidence to the strong recommendation against the use of
+hydroxychloroquine to prevent COVID-19, the panel emphasized the evidence suggesting no or a small effect on mortality and hospital
+admission along with a probable increased risk of adverse effects. In light of this evidence, the panel did not anticipate important
+variability when it comes to patient values and preferences. In addition, the panel decided that contextual factors such as resources,
+feasibility, acceptability and equity for countries and health care systems were unlikely to alter the recommendation. The panel
+acknowledged that a strong recommendation against hydroxychloroquine to prevent COVID-19 indicates that this area is no longer a
+research priority and that resources should rather be oriented to evaluate other more promising prophylactic interventions.
+
+3 of 18
+
+Drugs to prevent COVID-19: A WHO living guideline - World Health Organization (WHO)
+
+Info Box
+
+This first Drugs to prevent COVID-19: A WHO living guideline makes a strong recommendation against the use of hydroxychloroquine
+(1). The guideline was initiated after publication of six trials. Please see above for a summary of the guidance.
+This is a living guideline, so the recommendation included here will be updated, and new recommendations will be added on other
+prophylactic interventions for COVID-19. The guideline is therefore written, disseminated, and updated in a format and structure
+aiming to make it user-friendly and easy to navigate while accommodating for dynamically updated evidence and recommendations,
+focusing on what is new while keeping existing recommendations within the guideline.
+Please visit the WHO website for the latest version of the guidance (1), also available in the BMJ as Rapid Recommendations (2),
+supported by the living NMA on COVID-19 prophylaxis, a major evidence source for the guidelines (3).
+This guideline is related to two other WHO living guidelines for COVID-19:
+• The Therapeutics and COVID-19: living guideline, published 17 December 2020, which includes recommendations on drugs for
+patients with suspected or proven COVID-19 (5).
+• The COVID-19 Clinical management: living guidance, published 25 January 2021 and also available on MAGICapp, includes
+recommendations on a broad list of topics related to non-pharmacological clinical management of COVID-19 (6).
+
+4 of 18
+
+Drugs to prevent COVID-19: A WHO living guideline - World Health Organization (WHO)
+
+2. Abbreviations
+CI
+
+confidence interval
+
+COVID-19
+
+coronavirus disease 2019
+
+GDG
+
+guideline development group
+
+GRADE
+
+Grading of Recommendations Assessment, Development and Evaluation
+
+MAGIC
+
+Magic Evidence Ecosystem Foundation
+
+NMA
+
+network meta-analysis
+
+PICO
+
+population, intervention, comparator, outcome
+
+RCT
+
+randomized controlled trial
+
+WHO
+
+World Health Organization
+
+3. Background
+As of 16 February 2021, over 108 million people worldwide have been diagnosed with COVID-19, according to the WHO
+dashboard (7). The pandemic has so far claimed more than 2.3 million lives, and many areas of the world are experiencing a
+resurgence in cases.
+This living guideline responds to emerging evidence from randomized controlled trials (RCTs) on prophylactic interventions for
+COVID-19. These interventions aim to prevent the disease developing in those who are free from disease. Interventions could
+target whole populations, those at higher risk of becoming infected with SARS-CoV-2 due to their work, social circumstances or a
+particular exposure, or target those at higher risk of death and poor outcomes.
+There are 2610 registered or ongoing trials investigating various interventions for COVID-19 (see Section 8) (8). This rapidly
+evolving evidence landscape requires trustworthy interpretation and expeditious clinical practice guidelines to inform clinicians,
+patients, governments, ministries and health administrators.
+
+3.1 What triggered this version of the guideline?
+This first version of the Drugs to prevent COVID-19: A WHO living guideline adresses the use of hydroxychloroquine to prevent
+COVID-19. It follows the publication of a systematic review and NMA that pooled data from six trials with 6059 participants who
+did not have COVID-19 and received hydroxychloroquine (3, 9-14). Three trials enrolled participants who had a known exposure
+to a person with SARS-CoV-2 infection.
+In response to the release of trial data, the WHO GDG developed recommendations on hydroxychloroquine, an anti-inflammatory
+agent that works through blocking of Toll-like receptors reducing dendritic cell activation. It is used to treat rheumatoid arthritis
+and systemic lupus erythematosus. It has an antiviral effect against many viruses in vitro, including SARS-CoV-2, but a clinically
+useful antiviral effect has not been shown for any viral infection.
+
+3.2 Who made this guideline?
+As detailed in Section 4, the WHO convened a standing GDG with 27 clinical content experts, 4 patient-partners and 1 ethicist,
+headed by a clinical chair (Dr Michael Jacobs) and a methods chair (Dr Francois Lamontagne). WHO selected GDG members to
+ensure global geographical representation, gender balance, and appropriate technical and clinical expertise. No panel member had
+a conflict of interest.
+
+5 of 18
+
+Drugs to prevent COVID-19: A WHO living guideline - World Health Organization (WHO)
+
+The MAGIC Evidence Ecosystem Foundation (MAGIC) provided methodological experts with high-level expertise in standards and
+methods for systematic reviews and guideline development, including GRADE; in addition MAGIC offered innovations in
+processes (BMJ Rapid Recommendations) and platforms (MAGICapp) for developing living guidance in user-friendly formats. The
+methodological experts were not involved in the formulation of recommendations.
+
+3.3 How to use this guideline?
+This is a living guideline from the WHO. Recommendations will be updated, and new recommendations will be added on
+other prophylactic interventions for COVID-19.
+The guideline is written, disseminated and updated in MAGICapp, with a format and structure aiming to make it user-friendly and
+easy to navigate (15). It accommodates dynamic updating of evidence and recommendations that can focus on what is new while
+keeping existing recommendations, as appropriate, within the guideline. Section 4 outlines key methodological aspects of the
+living guideline process including special considerations relevant to the special area of scientific evaluation of prophylactic
+interventions.
+The guideline is available here in MAGICapp in online, multilayered formats and via:
+•
+•
+•
+
+WHO website in PDF format (1)
+WHO Academy App (via AppStore and Google Play)
+BMJ Rapid Recommendations with infographics (2)
+
+The purpose of the MAGICapp online formats and additional tools, such as the infographics, is to make it easier to navigate and
+make use of the guideline in busy clinical practice. The online multilayered formats are designed to allow end-users to find
+recommendations first and then drill down to find supporting evidence and other information pertinent to applying the
+recommendations in practice, including tools for shared decision-making (clinical encounter decision aids) (15).
+
+4. Methods: how this guideline was created
+The Drugs to prevent COVID-19: A WHO living guideline is developed according to standards and methods for trustworthy guidelines,
+making use of an innovative process to achieve efficiency in dynamic updating of recommendations (1). The methods are aligned with
+the WHO Handbook for guideline development and according to a pre-approved protocol (planning proposal) by the WHO Guideline
+Review Committee (16).
+Related guidelines
+This guideline is related to the Therapeutics and COVID-19: living guideline , published 17 December 2020, which includes
+recommendations on drugs for patients with suspected or proven COVID-19 (5, 17).
+The COVID-19 Clinical management: living guidance, published 25 January 2021 and available also on the MAGICapp includes
+recommendations on a broad list of topics related to non-pharmacological clinical management of COVID-19 (6).
+Timing
+This guidance aims to be trustworthy and living; dynamically updated and globally disseminated once new evidence warrants a change
+in recommendations for COVID-19 prophylactic interventions. We aim for an ambitious timeframe from trials that trigger guideline
+development process to WHO publication, within 1 month, while maintaining standards and methods for trustworthy guidelines
+(WHO Handbook for guideline development) (16, 18).
+Stepwise approach
+Here we outline the stepwise approach we take to improve efficiency and timeliness of the living, trustworthy guidance, in the
+development and dissemination of the recommendations. To do so, various processes occurred simultaneously.
+
+6 of 18
+
+Drugs to prevent COVID-19: A WHO living guideline - World Health Organization (WHO)
+
+Step 1: Evidence monitoring and mapping and triggering of evidence synthesis
+Comprehensive daily monitoring of all emerging RCTs occurs on a continuous basis, within the context of the living systematic review
+and NMA, using experienced information specialists, who look at all relevant information sources for new RCTs addressing interventions
+for the prevention of COVID-19. Once practice-changing evidence is identified, the WHO Therapeutics Steering Committee triggers the
+guideline development process. With the Guidance Support Collaboration Committee (see Section 9), PICO development and
+construction of evidence summaries addressing the intervention of interest are initiated.
+The trigger for producing or updating specific recommendations is based on the following:
+• likelihood to change practice;
+• sufficient RCT data on prophylactic interventions to inform the high-quality evidence synthesis living systematic review;
+• relevance to a global audience.
+Step 2: Convening the GDG
+The pre-selected expert panel (see Section 9) convened on two occasions. The first meeting, held on 14 January 2021, focused on
+development of clinical questions in PICO formats, prioritization of patient-important outcomes and proposed subgroup analyses. The
+second meeting, held on 21 January 2021, served to clarify methodological concepts relevant to guidelines for prophylactic
+interventions before reviewing the evidence summary from the living NMA and creating a recommendation for hydroxychloroquine. No
+conflict of interest was identified for any panel member according to WHO standards, with individual biographies available on the WHO
+website (web link).
+Step 3: Evidence synthesis
+Following a request by the WHO Therapeutics Steering Committee and coordinated by the Guidance Support Collaboration Committee,
+the living systematic review team conducted an independent systematic review and NMA to evaluate prophylactic interventions for
+COVID-19. The systematic review team is multidisciplinary and made up of systematic review experts, clinical experts, clinical
+epidemiologistsg and biostatisticians. The team has expertise in GRADE methodology and rating certainty of evidence specifically in
+NMAs. The NMA team was informed of the deliberations from the initial GDG meeting in order to guide the NMA, specifically focusing
+on the outcomes and subgroups prioritized by the panel.
+Step 4: Final recommendation
+The GRADE approach provided the framework for establishing evidence certainty and generating both the direction and strength of
+recommendations (19, 20). Voting procedures were established at the outset, in case consensus was not reached, but these procedures
+were not necessary for this recommendation which reached consensus amongst the panel. A simple majority would provide the
+direction of the recommendation and 80% would be required to make a strong recommendation.
+The following key factors were used to formulate transparent and trustworthy recommendations:
+• absolute benefits and harms for all critically important outcomes through structured evidence summaries (e.g. GRADE summary of
+findings tables) (21);
+•
+•
+•
+•
+
+quality/certainty of the evidence (19, 22);
+values and preferences of patients (23);
+resources and other considerations (including considerations of feasibility, applicability, equity) (23);
+for each outcome, effect estimates and confidence intervals, with a measure of certainty in the evidence, were presented in
+summary of findings tables;
+• recommendations were rated as either conditional or strong, as defined by GRADE (if the panel members disagree regarding the
+evidence assessment or strength of recommendations, voting occurs according to established methods).
+
+Step 5: External and internal review
+The WHO guideline was then reviewed by pre-specified external reviewers (see Section 9) and then approved by the WHO Guideline
+Review Committee.
+
+7 of 18
+
+Drugs to prevent COVID-19: A WHO living guideline - World Health Organization (WHO)
+
+4.1 Special methodological considerations for recommendations on prophylactic
+interventions
+Implications of very low event rates
+Prophylactic interventions are administered to prevent the occurrence of an illness among individuals who are not yet sick. A
+minority will develop the illness and, of those, a minority will develop complications from the illness. Accordingly, the number of
+critically important events (e.g. death) in studies evaluating prophylactic interventions is typically very low. For that reason,
+researchers may choose to measure the effectiveness of prophylactic interventions by measuring their impact on outcomes that are
+more common albeit less critically important for patients, such as the development of the illness. In those instances, a more practical
+outcome is chosen because it is considered a surrogate for a critically important outcome. For example, if a study yielded evidence
+suggesting that an intervention reduces the risk of developing COVID-19, it is plausible that the same intervention would also
+reduce the risk of death from COVID-19. However, this would be less certain than if the study had measured mortality directly and
+would justify downgrading for indirectness.
+What is the guideline panel rating concerning certainty of evidence?
+When rating certainty of the evidence for an individual outcome with GRADE, the panel is rating how certain we are that the true
+effect lies within a particular range or on one side of a threshold. If there are no serious concerns about risk of bias, inconsistency,
+indirectness, or publication bias, the confidence interval will represent a reasonable estimate of a certainty range, that is the range of
+reasonably believable effects of the intervention. Guideline panels and guideline users may consider that the same range of plausible
+treatment (e.g. 95% CI from 5 fewer to 5 more events per 1000) is highly precise if the panel's focus is to exclude a large treatment
+effect corresponding, say, to a reduction of 20 or more events per 1000 individuals, but not precise enough to exclude any effect at
+all. The panel's focus depends on what audiences would find most useful. If the focus is on whether there is any effect at all (i.e. a
+non-null effect) guidelines may be minimally contextualized; however, if the focus is on the magnitude of effect (i.e. trivial, small,
+moderate or large), then the panel's approach must be contextualized (see below).
+Contextualization in these guidelines
+Given the low event rates in studies evaluating prophylactic interventions (discussed above), a large number of healthy individuals
+would have to take a prophylactic medication, and therefore expose themselves to risks and other disadvantages, to prevent one
+event from occurring. Accordingly, the panel opted for a partially contextualized approach whereby certainty will be rated for a
+magnitude of effect (e.g. trivial, small, moderate, or large effect). Here, the panel is responsible for balancing the magnitude of a
+plausible effect that justifies delivering prophylactic interventions in light of the disadvantages associated with treating a very large
+number of otherwise healthy individuals.
+Subgroup comparisons for evidence pertaining to prophylactic interventions
+When evaluating the effect of an intervention, guideline panels examine its absolute effects on critically important outcomes, which
+is calculated by multiplying a risk ratio with a population's baseline risk. When ascertaining whether subgroup effects exist, guideline
+panels may first look for differences in relative effects between subgroups. An intervention that increases the risk of an event in one
+subgroup but reduces the risk in another subgroup is an example of a relative subgroup effect. When evaluating the credibility of
+subgroup effects, the WHO panel applied pre-specified criteria (24). For guidelines on prophylactic interventions, the panel chose
+to systematically conduct two default subgroup analyses in search of potential differences in relative effects. For the outcome of
+laboratory-confirmed infection, the panel examined whether the effect of prophylactic interventions varied as a function of a known
+exposure to a person with SARS-CoV-2 infection (as opposed to no known exposure). They also examined if the effect on adverse
+events leading to discontinuation of the drug varies as a function of the dose. Additional subgroup analyses looking for differences
+in relative effects may be requested a priori by the panel in updates of this living guideline, for other prophylactic interventions.
+Whether or not differences in relative effects exist, the effect of a beneficial intervention may vary considerably in absolute terms
+across subgroups. This is particularly true of prophylactic interventions since their impact on critically important outcomes depends
+on an individual's risk both of developing the illness and of a critically important outcome if ill.
+Assuming there is no difference in relative effects, this approach entails modelling the absolute risk of laboratory-confirmed
+infection in at least two populations with different baseline risks of developing COVID-19 and then, in each stratum, modelling the
+risk of experiencing a critically important outcome in at least two populations with different risks of having that particular outcome.
+Fig. 1 illustrates how this modelling may result in different absolute risks of experiencing a critically important outcome after
+prophylaxis.
+Fig. 1. Determination of varying absolute risks of critically important outcomes based on modelling
+
+8 of 18
+
+Drugs to prevent COVID-19: A WHO living guideline - World Health Organization (WHO)
+
+Note: The asterisk (*) in the final column refers to multiplication.
+
+5. The latest evidence
+This section outlines what information the GDG panel requested and used in making their recommendation for hydroxychloroquine
+prophylaxis.
+Benefits and harms
+The GDG panel requested an update of the living NMA of RCTs of prophylactic interventions for COVID-19.
+The GDG members prioritized outcomes (rating from 1 [not important] to 9 [critical]) taking a patient's perspective (Table 1). The panel’s
+questions were structured using the PICO format (see evidence profile under the recommendations).
+Table 1. Panel outcome rating from a patient perspective
+Outcome
+
+Min
+
+Max
+
+Median
+
+Mean
+
+SD
+
+Death
+
+3
+
+9
+
+9
+
+8.4
+
+1.55
+
+Infection (lab-confirmed)
+
+2
+
+9
+
+7
+
+6.74
+
+1.84
+
+Infection (suspected or probable, or
+lab-confirmed)
+
+1
+
+9
+
+6
+
+5.95
+
+2.14
+
+Admission to hospital
+
+5
+
+9
+
+7.5
+
+7.35
+
+1.11
+
+Adverse effects leading to
+discontinuation
+
+2
+
+9
+
+7
+
+6.75
+
+1.56
+
+Time to resolution or clinical
+improvement
+
+3
+
+9
+
+5
+
+5
+
+1.73
+
+SD = Standard deviation.
+Note: 1: not important, 9: critically important.
+9 of 18
+
+Drugs to prevent COVID-19: A WHO living guideline - World Health Organization (WHO)
+
+For hydroxychloroquine, the evidence summary was based on six trials and 6059 participants for which the NMA provided relative
+estimates of effect for patient-important outcomes (9-14) (Table 2). Three trials enrolled participants who had a known exposure to a
+person with SARS-CoV-2 infection and three others enrolled participants without a known exposure.
+Table 2. Summary of trial characteristics informing the hydroxychloroquine recommendation (trials = 6, total patients = 6059)
+North America
+
+4 trials, 3265 participants
+
+Europe
+
+2 trials, 2794 participants
+
+Asia
+Middle East
+South America
+Australasia
+
+0 trials, 0 patients
+
+Known exposure
+
+3 trials, 4175 participants
+
+No known exposure
+
+3 trials, 1884 participants
+
+Age
+
+Mean age (range of means)
+
+43.6 (33–48.7)
+
+Sex
+
+Mean % of men (range of means)
+
+37.2 (26.8–48.8)
+
+Dose on day 1
+
+Mean dose on day 1 in mg (range of
+means)
+
+706.6 (400–1400)
+
+Total cumulative dose
+
+Median cumulative dose in mg (range of
+cumulative dose)
+
+5200 (3200–33 600)
+
+Duration of therapy
+
+Median number of days (range)
+
+35 (5–172)
+
+Close contact
+
+3 trials, 4175 participants
+
+Healthcare workers (considered without a
+known exposure)
+
+3 trials, 1884 participants
+
+Median, range
+
+825 (132–2525)
+
+Geographic regions
+
+Exposure to the virus
+
+Type of risk
+
+Number of participants
+
+Subgroup analyses
+The GDG requested subgroup analyses based on known vs. unknown exposure to a person with SARS-CoV-2 infection and
+hydroxychloroquine dosing regimen.
+The panel discussed the relevance of seeking potential subgroup effects for all outcomes but recognized that these analyses would not
+be possible for mortality given the extremely low number of deaths in studies evaluating prophylactic interventions.
+The pairwise subgroup analyses were performed using a Bayesian analysis which incorporated meta-regression using study as a
+random effect. The panel used a pre-specified framework incorporating the ICEMAN tool to assess the credibility of subgroup
+findings (24). With evidence summaries showing moderate to high certainty of no important benefit for hydroxychloroquine in any
+subgroup on any outcome, the panel decided not to stratify patients based on differing baseline risks for the patient-important
+outcomes.
+
+10 of 18
+
+Drugs to prevent COVID-19: A WHO living guideline - World Health Organization (WHO)
+
+Baseline risk estimates (prognosis of patients with COVID-19): informing absolute estimates of effect
+The baseline risks were calculated from data from the control groups of trials included in the NMA, which also yielded the estimate
+of relative effects of prophylactic interventions (3). The evidence summaries that informed the guideline recommendation reported
+the anticipated absolute effects of hydroxychloroquine compared with usual care across all patient-important outcomes, with explicit
+judgments of certainty in the evidence for each outcome. For mortality, the event rate among all participants randomized to standard
+care or placebo was used to calculate the baseline risk. For all other outcomes, the median event rate in the standard care or placebo
+arms was used, with each study weighted equally.
+Values and preferences
+There were insufficient published data to provide the panel with an informative systematic review of studies describing individuals'
+experiences or values and preferences on treatment decisions for COVID-19 prophylactic interventions. The panel members
+therefore relied on their own judgments of what well-informed individuals would value after carefully balancing the benefits, harms
+and burdens of prophylactic interventions and their subsequent preferences. The panel included four patient-representatives who
+had lived experience with COVID-19.
+The panel agreed that the following values and preferences would be representative of those of typical well-informed patients:
+• Mortality would be the outcome most important to individuals, followed by need for hospital admission, laboratory-confirmed
+COVID-19, and adverse effects leading to discontinuation.
+• Most individuals would be reluctant to use a medication for which the evidence left high uncertainty regarding effects on the
+outcomes listed above, particularly when evidence suggested treatment effects, if they do exist, are small, and the possibility of
+important harm remains.
+The panel acknowledged, however, that values and preferences are likely to vary. There will be individuals inclined to use a
+prophylactic intervention when an important benefit cannot be ruled out, particularly when the underlying condition is potentially fatal.
+On the other hand, other individuals will have a high threshold of likely benefit before opting to take medications prophylactically.
+Although the panel focused on an individual patient perspective, the members also considered a population perspective in which
+feasibility, acceptability, equity and cost are important considerations, particularly when a very large number of otherwise healthy
+individuals might need to be treated before preventing one outcome.
+
+6. Who do the recommendations apply to?
+Info Box
+
+This Drugs to prevent COVID-19: A WHO living guideline applies to all individuals who do not have COVID-19.
+In the case of hydroxychloroquine, the GDG concluded that there was no justification for any specific recommendations for
+individuals with known exposure to a person with SARS-CoV2 infection, or for different drug doses.
+
+11 of 18
+
+Drugs to prevent COVID-19: A WHO living guideline - World Health Organization (WHO)
+
+7. Recommendations for prophylaxis
+7.1 Hydroxychloroquine
+New
+
+Recommendation against
+
+We recommend against administering hydroxychloroquine prophylaxis to individuals who do not have COVID-19 (strong
+recommendation, high certainty evidence).
+Remark: This recommendation applies to individuals with any baseline risk of developing COVID-19 and any hydroxychloroquine dosing
+regimen.
+
+Evidence to decision
+Benefits and harms
+
+Substantial net benefits of the recommended alternative
+
+Used prophylactically, hydroxychloroquine has a small or no effect on death and hospital admission (high certainty), and
+probably has a small or no effect on laboratory-confirmed COVID-19 (moderate certainty). It probably increases the risk of
+adverse effects leading to discontinuation of the drug (moderate certainty).
+There was no subgroup effect according to known exposure to a person with SARS-CoV-2 infection or hydroxychrloroquine
+dose regimen (extremely low event rates precluded investigation of subgroup effects for mortality). The panel therefore
+assumed similar relative effects across subgroups.
+
+Certainty of the Evidence
+
+High
+
+For key outcomes of mortality and hospital admission, the panel had high certainty that hydroxychloroquine had no or a
+small effect. The certainty was moderate for the outcome of laboratory-confirmed COVID-19 due to serious risk of bias
+(lack of blinding in one trial), and also for adverse effects due to serious imprecision (in this case the panel assessed the
+certainty that the null effect could be excluded).
+
+Preference and values
+
+We expect few to want the intervention
+
+Given the evidence, the panel inferred that almost all well-informed individuals would decline hydroxychloroquine.
+
+Resources and other considerations
+
+Important negative issues
+
+Hydroxychloroquine is relatively inexpensive and is widely available, including in low-income settings. Although the cost
+may be low per patient, the overall cost of delivering a prophylactic intervention on a large scale may be significant.
+Moreover, the panel raised concerns about diverting hydroxychloroquine stocks away from patients with other
+conditions for whom this medication is indicated (25).
+
+Justification
+When moving from the evidence to the strong recommendation against the use of hydroxychloroquine to prevent COVID-19,
+the panel emphasized the evidence suggesting no or a small effect on mortality and hospital admission along with a probable
+increased risk of adverse effects. In light of this evidence, the panel did not anticipate important variability when it comes to
+patient values and preferences. In addition, the panel decided that contextual factors such as resources, feasibility, acceptability
+and equity for countries and health care systems were unlikely to alter the recommendation. The panel acknowledged that a
+strong recommendation against hydroxychloroquine to prevent COVID-19 indicates that this area is no longer a research
+priority and that resources devoted to clinical research should rather be oriented to evaluate other more promising prophylactic
+interventions.
+
+12 of 18
+
+Drugs to prevent COVID-19: A WHO living guideline - World Health Organization (WHO)
+
+Subgroup analyses
+The panel did not find any evidence of a subgroup effect as a function of known exposure to infection or by dose of
+hydroxychloroquine. Of note, for trials that enrolled participants without a known exposure to infection, the weekly dose of
+hydroxychloroquine was used as the variable of interest to account for longer term prophylaxis; for trials that enrolled
+participants following a known exposure to infection, the cumulative dose was used as the variable of interest to reflect shorter
+term prophylaxis. As no subgroup effect modification was found, the strong recommendation is applicable across risk groups and
+dose regimens of hydroxychloroquine.
+The trials included participants from North and South America and Europe who either had a known exposure to a person with
+SARS-CoV-2 infection or who were considered at risk given their professional occupations (e.g. health care workers).
+Applicability
+Regarding special populations, none of the included RCTs enrolled children, and therefore the applicability of this
+recommendation to children is currently uncertain. However, the panel had no reason to think that children would respond any
+differently to prophylactic hydroxychloroquine. There were similar considerations in regards to pregnant women, with no data
+directly examining this population, but no rationale to suggest they would respond differently to other adults.
+Hydroxychloroquine crosses the placental barrier and there are concerns that it may lead to retinal damage in neonates.
+Although hydroxychloroquine has been used in pregnant women with systemic autoimmune diseases, such as systemic lupus
+erythematosus, pregnant women may have even more reasons than other individuals to be reluctant to use hydroxychloroquine
+for COVID-19 prophylaxis.
+Uncertainties
+Please see Section 8 for residual uncertainties. The panel felt that it was unlikely future studies would identify a subgroup of
+individuals likely to benefit from hydroxychloroquine prophylaxis.
+
+Clinical question/PICO
+Population:
+
+Individuals who do not have COVID-19
+
+Intervention:
+
+Hydroxychloroquine
+
+Comparator:
+
+Standard care
+
+Outcome
+Timeframe
+
+Mortality
+
+Admission to
+hospital
+
+Study results and
+measurements
+
+Odds Ratio 0.7
+(CI 95% 0.24 - 1.99)
+Based on data from
+4849 patients in 4
+studies. (Randomized
+controlled)
+
+Odds Ratio 0.87
+(CI 95% 0.42 - 1.77)
+Based on data from
+5659 patients in 5
+studies. (Randomized
+controlled)
+
+Absolute effect estimates
+Standard care Hydroxychloroquine
+
+3
+
+per 1000
+
+5
+
+High
+
+Hydroxychloroquine has
+a small or no effect on
+mortality.
+
+High
+
+Hydroxychloroquine has
+a small or no effect on
+hospital admission.
+
+4
+
+per 1000
+
+Difference: 1 fewer per 1000
+( CI 95% 3 fewer - 4 more )
+
+13 of 18
+
+Plain text summary
+
+2
+
+per 1000
+
+Difference: 1 fewer per 1000
+( CI 95% 2 fewer - 3 more )
+
+per 1000
+
+Certainty of
+the evidence
+(Quality of
+evidence)
+
+Drugs to prevent COVID-19: A WHO living guideline - World Health Organization (WHO)
+
+Outcome
+Timeframe
+
+Lab-confirmed
+COVID-19
+diagnosis
+
+Adverse events
+leading to
+discontinuation
+
+Study results and
+measurements
+
+Odds Ratio 1.03
+(CI 95% 0.71 - 1.47)
+Based on data from
+5294 patients in 6
+studies.
+
+Odds Ratio 2.34
+(CI 95% 0.93 - 6.08)
+Based on data from
+3616 patients in 4
+studies.
+
+Absolute effect estimates
+Standard care Hydroxychloroquine
+
+65
+
+per 1000
+
+67
+
+per 1000
+
+Difference: 2 more per 1000
+( CI 95% 18 fewer - 28 more )
+
+15
+
+per 1000
+
+34
+
+per 1000
+
+Difference: 19 more per 1000
+( CI 95% 1 fewer - 70 more )
+
+Certainty of
+the evidence
+(Quality of
+evidence)
+
+Moderate
+
+Due to serious
+risk of bias 1
+
+Moderate
+
+Due to serious
+imprecision 2
+
+Plain text summary
+
+Hydroxychloroquine
+probably has a small or
+no effect on labconfirmed COVID-19
+diagnosis.
+
+Hydroxychloroquine
+probably increases
+adverse events leading
+to discontinuation.
+
+8. Uncertainties, emerging evidence and future research
+Ongoing uncertainties and opportunities for future research
+Hydroxychloroquine
+The panel felt that further research was unlikely to uncover a subgroup of patients that benefit from hydroxychloroquine prophylaxis
+on the most important outcomes (mortality, admission to hospital, laboratory-confirmed COVID-19) given the consistent results in
+trials across subgroups and location.
+Emerging evidence
+The unprecedented volume of planned and ongoing studies for COVID-19 interventions (2610 randomized controlled trials as of 18
+February 2021) implies that further evidence will emerge to inform policy and practice. An overview of registered and ongoing trials
+for COVID-19 therapeutics and prophylaxis is available from the Infectious Diseases Data Observatory, through their living systematic
+review of COVID-19 clinical trial registrations, the WHO website and other repositories, such as the COVID-NMA initiative (8).
+Concerning hydroxychloroquine or chloroquine prophylaxis, more than 80 trials planning to enroll at least 100 000 participants are
+registered or ongoing (8). The high certainty evidence that has emerged regarding the lack of effect of hydroxychloroquine prophylaxis
+suggests that funders and researchers should reconsider the initiation or continuation of these trials.
+
+9. Authorship, contributions and acknowledgements
+WHO would like to thank the collaborative efforts of all those involved to make this process rapid, efficient, trustworthy and
+transparent, including extensive in-kind support from the Magic Evidence Ecosystem Foundation (MAGIC) and their partner, the BMJ,
+to develop and disseminate this living guideline for prevention of COVID-19, based on a living systematic review and network analysis
+from investigators at McMaster University, Canada.
+
+14 of 18
+
+Drugs to prevent COVID-19: A WHO living guideline - World Health Organization (WHO)
+
+WHO Therapeutics Steering Committee
+The committee includes representatives from various WHO departments at headquarters and the regions and has been approved by
+the WHO Director of the Country Readiness Department, and the WHO Chief Scientist. The WHO Secretariat meets on a regular basis
+to discuss when to trigger guideline updates based on evidence updates from the WHO Rapid Review Team, and other sources of
+evidence and selects the members of the Guideline Development Group (GDG).
+Janet V Diaz (Lead, Clinical Team for COVID-19 Response, Health Emergencies Programme, Geneva); John Appiah (Lead, case
+management, WHO Regional Office for Africa); Lisa Askie (Quality Assurance of Norms and Standards Department); Silvia Bertagnolio
+(Communicable and Noncommunicable Diseases Division/Clinical Team for COVID-19 Response); Nedret Emiroglu (Country Readiness
+Strengthening, Health Emergencies Programme); John Grove (Quality Assurance of Norms and Standards Department); Rok Ho Kim
+(Quality Assurance of Norms and Standards Department); Chiori Kodama (WHO Regional Office for the Eastern Mediterranean);
+Lorenzo Moja (Health Products Policy and Standards Department); Olufemi Oladapo (Sexual and Reproductive Health and Research
+Department); Dina Pfeifer (WHO Regional Office for Europe/Health Emergencies Programme); Jacobus Preller (Clinical Team for
+COVID-19 Response); Pryanka Relan (Integrated Health Services Department/Clinical Team for COVID-19 Response); Ludovic Reveiz
+(Evidence and Intelligence for Action in Health Department, Incident Management Systems for COVID-19, Pan American Health
+Organization); Soumya Swaminathan (Office of Chief Scientist); Wilson Were (Maternal, Newborn, Child and Adolescent Health and
+Ageing Department); Pushpa Wijesinghe (Lead, case management, Regional Office for South-East Asia). Supporting project officer:
+Jacqueline Lee Endt (Health Care Readiness Unit, Health Emergencies Programme).
+The WHO Therapeutics Steering Committee is fully responsible for decisions about guideline production and convening the GDG.
+We would like to acknowledge the Guidance Support Collaboration Committee which provided the coordination between WHO and
+MAGIC to allow the rapid development of the WHO guideline and its dissemination: Thomas Agoritsas (MAGIC, University Hospitals of
+Geneva); Janet Diaz (WHO); Fiona Godlee (BMJ); Gordon H Guyatt (McMaster University, Canada); Navjoyt Ladher (BMJ); Francois
+Lamontagne (Université de Sherbrooke, Canada); Srinivas Murthy (University of British Columbia, Canada); Bram Rochwerg (McMaster
+University, Canada); Per Olav Vandvik (MAGIC, University of Oslo, Norway). Though members of this group represent various
+stakeholders in the process of development and dissemination of the WHO guideline, the roles of each stakeholder were transparent
+and kept independent and thus these sessions used to share updates and enhance coordination.
+Guideline Development Group (GDG)
+Wagdy Amin (Ministry of Health and Population, Egypt); Frederique Bausch (Geneva University Hospital, Switzerland); Erlina Burhan
+(Infection Division, Department of Pulmonology and Respiratory Medicine, Faculty of Medicine, Universitas Indonesia); Maurizio
+Cecconi (Humanitas Research Hospital, Milan, Italy); Duncan Chanda (Adult Infectious Disease Centre, University Teaching Hospital,
+Lusaka, Zambia); Vu Quoc Dat (Department of Infectious Diseases, Hanoi Medical University, Hanoi, Viet Nam); Bin Du (Peking Union
+Medical College Hospital, China); Heike Geduld (Emergency Medicine, Stellenbosch University, South Africa); Patrick Gee (patient panel
+member, United States of America); Nerina Harley (Royal Melbourne Hospital, Melbourne, Australia); Madiha Hashmi (Ziauddin
+University, Karachi, Pakistan); Manai Hela (Emergency Medical Service Tunis, Tunisia); Beverley Hunt (Guy’s and St Thomas’ NHS
+Foundation Trust, London, United Kingdom); Sushil Kumar Kabra (All India Institute of Medical Sciences, New Delhi, India); Seema
+Kanda (patient panel member, Ontario, Canada); Leticia Kawano-Dourado (Research Institute, Hospital do Coração, São Paulo, Brazil);
+Yae-Jean Kim (Sungkyunkwan University School of Medicine, Samsung Medical Center, Seoul, Republic of Korea); Niranjan Kissoon
+(Department of Paediatrics and Emergency Medicine, University of British Columbia, Vancouver, Canada); Arthur Kwizera (Makerere
+College of Health Sciences, Kampala, Uganda); Leo Yee-Sin (National Centre for Infectious Diseases, Singapore); Imelda Mahaka (patient
+panel member, Pangaea Harare, Zimbabwe); Greta Mino (Alcivar Hospital, Guayaquil, Ecuador); Emmanuel Nsutebu (Sheikh Shakhbout
+Medical City, Abu Dhabi); Natalia Pshenichnaya (Central Research Institute of Epidemiology of Rospotrebnadzor, Moscow, Russian
+Federation); Nida Qadir (Pulmonary and Critical Care Medicine, David Geffen School of Medicine, University of California, Los Angeles,
+United States of America); Saniya Sabzwari (Aga Khan University, Karachi, Pakistan); Rohit Sarin (National Institute of Tuberculosis and
+Respiratory Diseases, New Delhi, India); Michael Sharland (St George’s University, London, United Kingdom); Yinzhong Shen (Shanghai
+Public Health Clinical Center, Fudan University, Shanghai, China); Shalini Sri Ranganathan (University of Colombo, Sri Lanka); Joao Paulo
+Souza (University of São Paulo, Brazil); Miriam Stegemann (Charite, Berlin, Germany); Sebastian Ugarte (Faculty of Medicine, Andres
+Bello University, Indisa Clinic, Santiago, Chile); Sridhar Venkatapuram (King’s College London, United Kingdom); Dubula Vuyiseka
+(patient panel member, University of Stellenbosch, South Africa).
+Methods Chair
+Francois Lamontagne (Université de Sherbrooke, Canada).
+
+15 of 18
+
+Drugs to prevent COVID-19: A WHO living guideline - World Health Organization (WHO)
+
+Clinical Chair
+Michael Jacobs (Royal Free London NHS Foundation Trust, United Kingdom).
+Methods resource persons
+Arnav Agarwal (University of Toronto, Canada); Thomas Agoritsas; Romina Brignardello-Petersen (McMaster University, Canada);
+Gordon H Guyatt (McMaster University, Canada); George Tomlinson (Department of Medicine, University Health Network, Toronto,
+Canada); Per Olav Vandvik; Linan Zeng (West China Second University Hospital, Sichuan University, Chengdu, China; McMaster
+University, Canada).
+No conflict of interest was identified for any member. For members involved in the living systematic review see next paragraph. For
+MAGIC members, all completed WHO conflict of interest forms and also BMJ forms for their co-authorship in the guideline appearing
+in the BMJ (2).
+Living systematic review/NMA team
+Arnav Agarwal; Thomas Agoritsas; Jessica J Bartoszko (McMaster University, Canada); Romina Brignardello-Petersen; Derek K Chu
+(McMaster University, Canada); Rachel Couban (McMaster University, Canada); Andrea Darzi (McMaster University, Canada); Tahira
+Devji (McMaster University, Canada); Bo Fang (Chongqing Medical University, Chongqing, China); Carmen Fang (William Osler Health
+Network, Toronto, Canada); Signe Agnes Flottorp (Institute of Health and Society, University of Oslo, Norway); Farid Foroutan
+(McMaster University, Canada); Long Ge (School of Public Health, Lanzhou University, Gansu, China); Gordon H Guyatt; Mi Ah Han
+(College of Medicine, Chosun University, Gwangju, Republic of Korea); Diane Heels-Ansdell (McMaster University, Canada); Kimia
+Honarmand (Department of Medicine, Western University, London, Canada); Liangying Hou (School of Public Health, Lanzhou
+University, Gansu, China); Xiaorong Hou (Chongqing Medical University, Chongqing, China); Quazi Ibrahim (McMaster University,
+Canada); Ariel Izcovich (Servicio de Clinica Médica del Hospital Alemán, Buenos Aires, Argentina); Elena Kum (McMaster University,
+Canada); Francois Lamontagne; Qin Liu (School of Public Health and Management, Chongqing Medical University, Chongqing, China);
+Mark Loeb (McMaster University, Canada); Maura Marcucci (McMaster University, Canada); Shelley L McLeod (Schwartz/Reisman
+Emergency Medicine Institute, Sinai Health, Toronto, Canada); Shahrzad Motaghi, (McMaster University, Canada); Srinivas Murthy;
+Reem A Mustafa (McMaster University, Canada); John D Neary (McMaster University, Canada); Hector Pardo-Hernandez
+(Iberoamerican Cochrane Centre, Sant Pau Biomedical Research Institute [IIB Sant Pau], Barcelona, Spain); Anila Qasim (McMaster
+University, Canada); Gabriel Rada (Epistemonikos Foundation, Santiago, Chile); Irbaz Bin Riaz (Hematology and Oncology, Mayo Clinic
+Rochester, Rochester, United States of America); Bram Rochwerg, Behnam Sadeghirad (McMaster University, Canada); Nigar
+Sekercioglu (McMaster University, Canada); Lulu Sheng (School of Public Health and Management, Chongqing Medical University,
+Chongqing, China); Reed AC Siemieniuk (McMaster University, Canada); Ashwini Sreekanta (McMaster University, Canada);
+Charlotte Switzer (McMaster University, Canada); Britta Tendal (School of Public Health and Preventative Medicine, Monash University,
+Melbourne, Australia); Lehana Thabane (McMaster University, Canada); George Tomlinson; Tari Turner (School of Public Health and
+Preventative Medicine, Monash University, Melbourne, Australia); Per Olav Vandvik; Robin WM Vernooij (Department of Nephrology
+and Hypertension, University Medical Center Utrecht, Netherlands); Andrés Viteri-García (Epistemonikos Foundation, Santiago, Chile);
+Ying Wang (McMaster University, Canada); Liang Yao (McMaster University, Canada); Zhikang Ye (McMaster University, Canada); Dena
+Zeraatkar (McMaster University, Canada).
+No conflict of interest was identified for any member, as reported in the ICMJE disclosure forms completed for the submission of the
+manuscript to BMJ (in peer-review, published at MedRxiv) (3).
+External reviewers
+Special thanks are extended to the external reviewers for their insights: Yaseen Arabi (King Saud Bin Abdulaziz University for Health
+Sciences, Saudi Arabia); Richard Kojan (Alliance for International Medical Action); Bhargavir Rao (Médecins Sans Frontières).
+No conflict of interest was identified for the external reviewers, based on completed WHO declaration forms.
+Infographic
+Special thanks to the BMJ for providing the infographic for this guideline.
+Funding
+No specific funding was provided for this guideline, with MAGIC providing pro bono contributions and support to WHO in the context
+of the COVID-19 pandemic.
+
+16 of 18
+
+Drugs to prevent COVID-19: A WHO living guideline - World Health Organization (WHO)
+
+References
+1. WHO : A living WHO guideline on drugs to prevent covid-19. https://apps.who.int/iris/bitstream/handle/10665/339877/
+WHO-2019-nCoV-prophylaxes-2021.1-eng.pdf. Accessed on 2 March 2021;
+2. Lamontagne F, Agoritsas T, Siemieniuk RAC, et al. A living WHO guideline on drugs to prevent covid-19 [Version 1]. BMJ 2021;372
+n526. Journal Website
+3. Bartoszko JJ, Siemieniuk R, Kum E, et al. Prophylaxis against covid-19: living systematic review and network meta-analysis. medRxiv
+2021.02.24.21250469 2021; Journal
+4. Siemieniuk RA, Bartoszko JJ, Ge L, Zeraatkar D, Izcovich A, Kum E, et al. Drug treatments for covid-19: living systematic review and
+network meta-analysis. BMJ 2020;370: m2980. Pubmed Journal
+5. WHO : Therapeutics and COVID-19: living guideline. Available at https://www.who.int/publications/i/item/therapeutics-andcovid-19-living-guideline. Accessed on 18 February 2021. 2020;
+6. WHO : COVID-19 Clinical management: living guidance. Available at https://www.who.int/publications/i/item/WHO-2019-nCoVclinical-2021-1. Accessed on 18 February 2021.
+7. WHO Coronavirus Disease (COVID-19) Dashboard. Available at https://covid19.who.int. Accessed on 16 February 2021.
+8. Maguire BJ, Guérin PJ : A living systematic review protocol for COVID-19 clinical trial registrations. Wellcome Open Res 2020;5: 60.
+Pubmed Journal
+9. Abella BS, Jolkovsky EL, Biney BT, Uspal JE, Hyman MC, Frank I, et al. Efficacy and safety of hydroxychloroquine vs placebo for preexposure SARS-CoV-2 prophylaxis among health care workers: a randomized clinical trial. JAMA Intern Med 2021;181(2):195-202.
+Pubmed Journal
+10. Barnabas RV, Brown ER, Bershteyn A, Stankiewicz Karita HC, Johnston C, Thorpe LE, et al. Hydroxychloroquine as postexposure
+prophylaxis to prevent severe acute respiratory syndrome coronavirus 2 infection : a randomized trial. Ann Intern Med 2020;Dec 8:
+M20-6519. Pubmed Journal
+11. Boulware DR, Pullen MF, Bangdiwala AS, Pastick KA, Lofgren SM, Okafor EC, et al. A randomized trial of hydroxychloroquine as
+postexposure prophylaxis for COVID-19. New Eng J Med 2020;383(6):517-525. Pubmed Journal
+12. Grau-Pujol RV, Camprubí D, Marti-Soler H, et al. Pre-exposure prophylaxis with hydroxychloroquine for COVID-19: initial results
+of a double-blind, placebo-controlled randomized clinical trial. Research Square 2021; Journal
+13. Mitjà O, Corbacho-Monné M, Ubals M, Alemany A, Suñer C, Tebé C, et al. A cluster-randomized trial of hydroxychloroquine for
+prevention of COVID-19. New Eng J Med 2021;384(5):417-427. Pubmed Journal
+14. Rajasingham R, Bangdiwala AS, Nicol MR, Skipper CP, Pastick KA, Axelrod ML, et al. Hydroxychloroquine as pre-exposure
+prophylaxis for COVID-19 in healthcare workers: a randomized trial. Clin Infect Dis 2020;Oct 17: ciaa1571. Pubmed Journal
+15. Vandvik PO, Brandt L, Alonso-Coello P, Treweek S, Akl EA, Kristiansen A, et al. Creating clinical practice guidelines we can trust,
+use, and share: a new era is imminent. Chest 2013;144(2):381-389. Pubmed Journal
+16. World Health Organization : Handbook for guideline development. (2008). Available at https://www.who.int/publications/
+guidelines/handbook_2nd_ed.pdf?ua=1. Accessed on 18 February 2021.
+
+17 of 18
+
+Drugs to prevent COVID-19: A WHO living guideline - World Health Organization (WHO)
+
+17. Siemieniuk R, Rochwerg B, Agoritsas T, Lamontagne F, Leo Y-S, Macdonald H, et al. A living WHO guideline on drugs for covid-19.
+BMJ 2020;370: m3379. Pubmed Journal
+18. Qaseem A, Forland F, Macbeth F, Ollenschläger G, Phillips S, van der Wees P: Guidelines International Network: toward
+international standards for clinical practice guidelines. Ann Intern Med 2012;156(7):525-531. Pubmed Journal
+19. Guyatt GH, Oxman AD, Vist GE, Kunz R, Falck-Ytter Y, Alonso-Coello P, et al. GRADE: an emerging consensus on rating quality of
+evidence and strength of recommendations. BMJ (Clinical research ed.) 2008;336(7650):924-926. Pubmed Journal
+20. Guyatt GH, Oxman AD, Kunz R, Falck-Ytter Y, Vist GE, Liberati A, et al. Going from evidence to recommendations. BMJ (Clinical
+research ed.) 2008;336(7652):1049-1051. Pubmed Journal
+21. Guyatt G, Oxman AD, Akl EA, Kunz R, Vist G, Brozek J, et al. GRADE guidelines: 1. Introduction-GRADE evidence profiles and
+summary of findings tables. Journal of clinical epidemiology 2011;64(4):383-394. Pubmed Journal
+22. Balshem H, Helfand M, Schünemann HJ, Oxman AD, Kunz R, Brozek J, et al. GRADE guidelines: 3. Rating the quality of evidence.
+Journal of clinical epidemiology 2011;64(4):401-406. Pubmed Journal
+23. Andrews JC, Schünemann HJ, Oxman AD, Pottie K, Meerpohl JJ, Coello PA, et al. GRADE guidelines: 15. Going from evidence to
+recommendation-determinants of a recommendation's direction and strength. Journal of clinical epidemiology 2013;66(7):726-735.
+Pubmed Journal
+24. Schandelmaier S, Briel M, Varadhan R, Schmid CH, Devasenapathy N, Hayward RA, et al. Development of the Instrument to assess
+the Credibility of Effect Modification Analyses (ICEMAN) in randomized controlled trials and meta-analyses. CMAJ : Canadian Medical
+Association journal = journal de l'Association medicale canadienne 2020;192(32):E901-E906. Pubmed Journal
+25. Schreiber K, Sciascia S, Bruce IN, Giles I, Cuadrado MJ, Cohen H, et al. Hydroxychloroquine in patients with rheumatic diseases
+during the COVID-19 pandemic: a letter to clinicians. Lancet Rheumatol 2020;2(12):e735-e736. Pubmed Journal
+
+18 of 18
+
+
