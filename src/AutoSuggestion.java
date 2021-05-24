@@ -69,7 +69,7 @@ public class AutoSuggestion {
         suggestionsPanel.setLayout(new GridLayout(0, 1));
         suggestionsPanel.setBackground(popUpBackground);
 
-        addKeyBindingToRequestFocusInPopUpWindow();
+       // addKeyBindingToRequestFocusInPopUpWindow();
     }
 
     private void addKeyBindingToRequestFocusInPopUpWindow() {
@@ -136,9 +136,9 @@ public class AutoSuggestion {
     }
 
     private void setFocusToTextField() {
-        container.toFront();
-        container.requestFocusInWindow();
-        textField.requestFocusInWindow();
+        //container.toFront();
+        //container.requestFocusInWindow();
+        //textField.requestFocusInWindow();
     }
 
     public ArrayList<SuggestionLabel> getAddedSuggestionLabels() {
@@ -164,9 +164,9 @@ public class AutoSuggestion {
         boolean added = wordTyped(typedWord);
 
         if (!added) {
-            if (autoSuggestionPopUpWindow.isVisible()) {
-                autoSuggestionPopUpWindow.setVisible(false);
-            }
+           if (autoSuggestionPopUpWindow.isVisible()) {
+               autoSuggestionPopUpWindow.setVisible(false);
+           }
         } else {
             showPopUpWindow();
             setFocusToTextField();

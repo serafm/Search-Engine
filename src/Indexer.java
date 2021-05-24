@@ -1,9 +1,7 @@
 package covid.lucene;
 
-import java.io.File;
-import java.io.FileFilter; 
-import java.io.FileReader; 
-import java.io.IOException;
+import java.io.*;
+
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document; 
@@ -34,10 +32,16 @@ public class Indexer{
 		writer.close(); 
 	}
 
+	public String getTitle(File file) throws IOException {
+		BufferedReader Buff = new BufferedReader(new FileReader(file));
+		String text = Buff.readLine();
+		return text;
+	}
+
 	private Document getDocument(File file) throws IOException{
 		Document document = new Document();
 		//Index file Title
-		Field fileTitle = new Field(LuceneConstants.TITLE, new FileReader(file));
+		Field fileTitle = new Field(LuceneConstants.TITLE, new FileReader(getTitle(file)));
 		//Index file Contents
 		Field contentField = new Field(LuceneConstants.CONTENTS, new FileReader(file)); 
 		//Index file Name

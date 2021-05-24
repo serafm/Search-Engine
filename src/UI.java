@@ -1,11 +1,13 @@
 package covid.lucene;
 
 import org.apache.lucene.queryParser.ParseException;
+import org.apache.lucene.search.highlight.InvalidTokenOffsetsException;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.io.IOException;
 import java.util.ArrayList;
+
 
 public class UI extends JFrame{
 
@@ -14,6 +16,7 @@ public class UI extends JFrame{
     private JButton buttonSearch;
     private JCheckBox checkfortitle;
     private JLabel docresults;
+    private JLabel hyperlink;
     private JButton history;
     private JLabel covidtitle;
     private JLabel historypreview;
@@ -38,6 +41,8 @@ public class UI extends JFrame{
     private int currentPage=1;
     private int v=0;
     private String str;
+    private String txt;
+    private boolean titlecheck=false;
     private String html = "<html>";
     private String newLine = "<br/>";
 
@@ -64,13 +69,45 @@ public class UI extends JFrame{
         previousButton.setVisible(false);
         MainLucene test = new MainLucene();
 
+        hyperlink.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mouseClicked(MouseEvent e) {
+               inputSearch.setText(test.getCorrect());
+               buttonSearch.doClick();
+               hyperlink.setText("");
+               test.setCorrect("");
+            }
+            @Override
+            public void mouseEntered(MouseEvent e) {
+                // the mouse has entered the label
+            }
+            @Override
+            public void mouseExited(MouseEvent e) {
+                // the mouse has exited the label
+            }
+        });
+
         buttonSearch.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
+
                 try {
+                    test.setCorrect("");
+                    hyperlink.setText("");
+                    if(checkfortitle.isSelected()){
+                        titlecheck = true;
+                        test.setTitleCheck(titlecheck);
+                    }
+
                     docresults.setText(test.search(inputSearch.getText()));
-                    historypreview.setText("");
+                    if(test.getBool()==true){
+                        hyperlink.setText("Do you mean: " + test.getCorrect());
+                        hyperlink.setForeground(Color.BLUE.darker());
+                        hyperlink.setCursor(Cursor.getPredefinedCursor(Cursor.HAND_CURSOR));
+                    }
+
                     numofdocs.setText(test.getS2());
+                    historypreview.setText("");
 
                     if(test.getDataSize() % 10 == 0) {
                         numOfpages = test.getDataSize() / 10;
@@ -114,7 +151,7 @@ public class UI extends JFrame{
                         pagenum.setVisible(false);
                     }
 
-                }catch (IOException | ParseException ioException){
+                }catch (IOException | ParseException | InvalidTokenOffsetsException ioException){
                     ioException.printStackTrace();
                 }
             }
@@ -150,17 +187,23 @@ public class UI extends JFrame{
                 //create list for dictionary this in your case might be done via calling a method which queries db and returns results as arraylist
                 ArrayList<String> words = new ArrayList<>();
                 words.add("covid-19 vaccine");
+                words.add("covid-19 vaccine side effects");
                 words.add("covid-19 pandemic");
+                words.add("covid-19 disease");
                 words.add("coronavirus vaccine");
                 words.add("coronavirus pandemic");
-                words.add("is there a covid-19 vaccine");
+                words.add("coronavirus disease");
+                words.add("vaccine is it safe?");
+                words.add("coronavirus cases");
                 words.add("coronavirus vaccine research");
                 words.add("vaccine");
                 words.add("disease");
                 words.add("astrazeneca vaccine");
                 words.add("pfizer vaccine");
                 words.add("astrazeneca");
+                words.add("astrazeneca vaccine");
                 words.add("pfizer");
+                words.add("pfizer vaccine");
                 words.add("pandemic coronavirus");
                 words.add("pandemic");
                 words.add("quarantine");
@@ -169,6 +212,7 @@ public class UI extends JFrame{
                 return super.wordTyped(typedWord);//now call super to check for any matches against newest dictionary
             }
         };
+
         nextButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -256,7 +300,12 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=40;
                 }
-                test.OpenFile(test.getData().get(v));
+               // test.OpenFile(test.getData().get(v));
+                try {
+                    test.OpenFile(test.ToHTML(test.getData().get(v)));
+                } catch (IOException ioException) {
+                    ioException.printStackTrace();
+                }
             }
         });
         button2.addActionListener(new ActionListener() {
@@ -277,7 +326,12 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=41;
                 }
-                test.OpenFile(test.getData().get(v));
+                //test.OpenFile(test.getData().get(v));
+                try {
+                    test.OpenFile(test.ToHTML(test.getData().get(v)));
+                } catch (IOException ioException) {
+                    ioException.printStackTrace();
+                }
             }
         });
 
@@ -299,7 +353,12 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=42;
                 }
-                test.OpenFile(test.getData().get(v));
+               // test.OpenFile(test.getData().get(v));
+                try {
+                    test.OpenFile(test.ToHTML(test.getData().get(v)));
+                } catch (IOException ioException) {
+                    ioException.printStackTrace();
+                }
             }
         });
 
@@ -321,7 +380,12 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=43;
                 }
-                test.OpenFile(test.getData().get(v));
+                try {
+                    test.OpenFile(test.ToHTML(test.getData().get(v)));
+                } catch (IOException ioException) {
+                    ioException.printStackTrace();
+                }
+                //test.OpenFile(test.getData().get(v));
             }
         });
 
@@ -343,7 +407,12 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=44;
                 }
-                test.OpenFile(test.getData().get(v));
+                try {
+                    test.OpenFile(test.ToHTML(test.getData().get(v)));
+                } catch (IOException ioException) {
+                    ioException.printStackTrace();
+                }
+                //test.OpenFile(test.getData().get(v));
             }
         });
 
@@ -365,7 +434,12 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=45;
                 }
-                test.OpenFile(test.getData().get(v));
+                try {
+                    test.OpenFile(test.ToHTML(test.getData().get(v)));
+                } catch (IOException ioException) {
+                    ioException.printStackTrace();
+                }
+                //test.OpenFile(test.getData().get(v));
             }
         });
 
@@ -387,7 +461,12 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=46;
                 }
-                test.OpenFile(test.getData().get(v));
+                try {
+                    test.OpenFile(test.ToHTML(test.getData().get(v)));
+                } catch (IOException ioException) {
+                    ioException.printStackTrace();
+                }
+                //test.OpenFile(test.getData().get(v));
             }
         });
 
@@ -409,7 +488,12 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=47;
                 }
-                test.OpenFile(test.getData().get(v));
+                try {
+                    test.OpenFile(test.ToHTML(test.getData().get(v)));
+                } catch (IOException ioException) {
+                    ioException.printStackTrace();
+                }
+                //test.OpenFile(test.getData().get(v));
             }
         });
 
@@ -431,7 +515,12 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=48;
                 }
-                test.OpenFile(test.getData().get(v));
+                try {
+                    test.OpenFile(test.ToHTML(test.getData().get(v)));
+                } catch (IOException ioException) {
+                    ioException.printStackTrace();
+                }
+                //test.OpenFile(test.getData().get(v));
             }
         });
 
@@ -453,7 +542,12 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=49;
                 }
-                test.OpenFile(test.getData().get(v));
+                try {
+                    test.OpenFile(test.ToHTML(test.getData().get(v)));
+                } catch (IOException ioException) {
+                    ioException.printStackTrace();
+                }
+                //test.OpenFile(test.getData().get(v));
             }
         });
     }

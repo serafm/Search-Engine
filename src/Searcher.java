@@ -2,12 +2,15 @@ package covid.lucene;
 
 import java.io.File; 
 import java.io.IOException;
+
+import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.queryParser.ParseException;
 import org.apache.lucene.queryParser.QueryParser;
 import org.apache.lucene.search.*;
+import org.apache.lucene.search.highlight.*;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory; 
 import org.apache.lucene.util.Version;
@@ -17,6 +20,7 @@ public class Searcher{
 	IndexSearcher indexSearcher; 
 	QueryParser queryParser; 
 	Query query;
+	IndexReader getread;
 
 	// Searcher Constructor
 	public Searcher(String indexDirectoryPath) throws IOException{
@@ -24,6 +28,7 @@ public class Searcher{
 		Directory indexDirectory = FSDirectory.open(new File(indexDirectoryPath));
 		// Reading the indexed files
 		IndexReader reader = IndexReader.open(indexDirectory);
+		getread = reader;
 		indexSearcher = new IndexSearcher(reader);
 		// Setting the Lucene Version we are using to Analyze the file content
 		queryParser = new QueryParser(Version.LUCENE_36,LuceneConstants.CONTENTS, new StandardAnalyzer(Version.LUCENE_36));
