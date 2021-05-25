@@ -26,7 +26,7 @@ public class UI extends JFrame{
     private JButton nextButton;
     private JLabel pagenum;
     private JLabel numofdocs;
-    private JButton butt;
+    private JButton SortByDateButton;
     private JButton button1;
     private JButton button2;
     private JButton button3;
@@ -54,7 +54,7 @@ public class UI extends JFrame{
         this.getRootPane().setDefaultButton(buttonSearch);
         this.setExtendedState(JFrame.MAXIMIZED_BOTH);
         this.setResizable(false);
-        butt.setVisible(false);
+        SortByDateButton.setVisible(false);
         button1.setVisible(false);
         button2.setVisible(false);
         button3.setVisible(false);
@@ -92,6 +92,7 @@ public class UI extends JFrame{
             public void actionPerformed(ActionEvent e) {
 
                 try {
+                    test.setSortByDate(false);
                     test.setCorrect("");
                     hyperlink.setText("");
                     if(checkfortitle.isSelected()){
@@ -119,6 +120,7 @@ public class UI extends JFrame{
                     currentPage=1;
 
                     if(numOfpages>0){
+                        SortByDateButton.setVisible(true);
                         button1.setVisible(true);
                         button2.setVisible(true);
                         button3.setVisible(true);
@@ -136,6 +138,7 @@ public class UI extends JFrame{
                     }
 
                     if(!test.getErr().equals("")){
+                        SortByDateButton.setVisible(false);
                         button1.setVisible(false);
                         button2.setVisible(false);
                         button3.setVisible(false);
@@ -180,6 +183,8 @@ public class UI extends JFrame{
             }
         });
 
+
+
         AutoSuggestion autoSuggest = new AutoSuggestion( inputSearch , null, null, Color.WHITE.brighter(), Color.BLACK, Color.RED, 0.75f) {
             @Override
             boolean wordTyped(String typedWord) {
@@ -188,25 +193,19 @@ public class UI extends JFrame{
                 ArrayList<String> words = new ArrayList<>();
                 words.add("covid-19 vaccine");
                 words.add("covid-19 vaccine side effects");
+                words.add("covid-19 astrazeneca vaccine");
+                words.add("covid-19 pfizer vaccine");
                 words.add("covid-19 pandemic");
                 words.add("covid-19 disease");
                 words.add("coronavirus vaccine");
                 words.add("coronavirus pandemic");
                 words.add("coronavirus disease");
-                words.add("vaccine is it safe?");
                 words.add("coronavirus cases");
                 words.add("coronavirus vaccine research");
-                words.add("vaccine");
-                words.add("disease");
                 words.add("astrazeneca vaccine");
                 words.add("pfizer vaccine");
-                words.add("astrazeneca");
-                words.add("astrazeneca vaccine");
-                words.add("pfizer");
                 words.add("pfizer vaccine");
                 words.add("pandemic coronavirus");
-                words.add("pandemic");
-                words.add("quarantine");
                 setDictionary(words);
 
                 return super.wordTyped(typedWord);//now call super to check for any matches against newest dictionary
@@ -218,32 +217,61 @@ public class UI extends JFrame{
             public void actionPerformed(ActionEvent e) {
                 currentPage = currentPage + 1;
                 str="";
-                if (currentPage==2){
-                    for (int i=10; i < 20; i++) {
-                        str = str + test.getDataFileName().get(i) + newLine + newLine;
-                    }
-                }
-                if (currentPage==3){
-                    for (int i=20; i < 30; i++) {
-                        str = str + test.getDataFileName().get(i) + newLine + newLine;
-                    }
-                }
-                if (currentPage==4){
-                    for (int i=30; i < 40; i++) {
-                        str = str + test.getDataFileName().get(i) + newLine + newLine;
-                    }
-                }
-                if (currentPage>=6 || currentPage==5) {
-                    for (int i = 40; i < 50; i++) {
-                        str = str + test.getDataFileName().get(i) + newLine + newLine;
-                        if (i == test.getDataSize() - 1) {
-                            break;
+                if(test.getSortByDate()){
+                    if (currentPage==2){
+                        for (int i=10; i < 20; i++) {
+                            str = str + test.getSortedDataFileName().get(i) + newLine + newLine;
                         }
                     }
-                    currentPage=5;
+                    if (currentPage==3){
+                        for (int i=20; i < 30; i++) {
+                            str = str + test.getSortedDataFileName().get(i) + newLine + newLine;
+                        }
+                    }
+                    if (currentPage==4){
+                        for (int i=30; i < 40; i++) {
+                            str = str + test.getSortedDataFileName().get(i) + newLine + newLine;
+                        }
+                    }
+                    if (currentPage>=6 || currentPage==5) {
+                        for (int i = 40; i < 50; i++) {
+                            str = str + test.getSortedDataFileName().get(i) + newLine + newLine;
+                            if (i == test.getDataSize() - 1) {
+                                break;
+                            }
+                        }
+                        currentPage=5;
+                    }
+                    docresults.setText(html + str);
+                    pagenum.setText("Page " + currentPage + " of " + numOfpages);
+                }else{
+                    if (currentPage==2){
+                        for (int i=10; i < 20; i++) {
+                            str = str + test.getDataFileName().get(i) + newLine + newLine;
+                        }
+                    }
+                    if (currentPage==3){
+                        for (int i=20; i < 30; i++) {
+                            str = str + test.getDataFileName().get(i) + newLine + newLine;
+                        }
+                    }
+                    if (currentPage==4){
+                        for (int i=30; i < 40; i++) {
+                            str = str + test.getDataFileName().get(i) + newLine + newLine;
+                        }
+                    }
+                    if (currentPage>=6 || currentPage==5) {
+                        for (int i = 40; i < 50; i++) {
+                            str = str + test.getDataFileName().get(i) + newLine + newLine;
+                            if (i == test.getDataSize() - 1) {
+                                break;
+                            }
+                        }
+                        currentPage=5;
+                    }
+                    docresults.setText(html + str);
+                    pagenum.setText("Page " + currentPage + " of " + numOfpages);
                 }
-                docresults.setText(html + str);
-                pagenum.setText("Page " + currentPage + " of " + numOfpages);
             }
         });
 
@@ -252,34 +280,65 @@ public class UI extends JFrame{
             public void actionPerformed(ActionEvent e) {
                 currentPage=currentPage-1;
                 str="";
-                if (currentPage==4){
-                    for (int i=30; i < 40; i++) {
-                        str = str + test.getDataFileName().get(i) + newLine + newLine;
+                if(test.getSortByDate()){
+                    if (currentPage==4){
+                        for (int i=30; i < 40; i++) {
+                            str = str + test.getSortedDataFileName().get(i) + newLine + newLine;
+                        }
                     }
-                }
-                if (currentPage==3){
-                    for (int i=20; i < 30; i++) {
-                        str = str + test.getDataFileName().get(i) + newLine + newLine;
+                    if (currentPage==3){
+                        for (int i=20; i < 30; i++) {
+                            str = str + test.getSortedDataFileName().get(i) + newLine + newLine;
+                        }
                     }
-                }
-                if (currentPage==2){
-                    for (int i=10; i < 20; i++) {
-                        str = str + test.getDataFileName().get(i) + newLine + newLine;
+                    if (currentPage==2){
+                        for (int i=10; i < 20; i++) {
+                            str = str + test.getSortedDataFileName().get(i) + newLine + newLine;
+                        }
                     }
-                }
-                if(currentPage==1){
-                    for (int i=0; i < 10; i++) {
-                        str = str + test.getDataFileName().get(i) + newLine + newLine;
+                    if(currentPage==1){
+                        for (int i=0; i < 10; i++) {
+                            str = str + test.getSortedDataFileName().get(i) + newLine + newLine;
+                        }
                     }
-                }
-                if(currentPage<1){
-                    currentPage=1;
-                    for (int i=0; i < 10; i++) {
-                        str = str + test.getDataFileName().get(i) + newLine + newLine;
+                    if(currentPage<1){
+                        currentPage=1;
+                        for (int i=0; i < 10; i++) {
+                            str = str + test.getDataFileName().get(i) + newLine + newLine;
+                        }
                     }
+                    docresults.setText(html + str);
+                    pagenum.setText("Page " + currentPage + " of " + numOfpages);
+                }else{
+                    if (currentPage==4){
+                        for (int i=30; i < 40; i++) {
+                            str = str + test.getDataFileName().get(i) + newLine + newLine;
+                        }
+                    }
+                    if (currentPage==3){
+                        for (int i=20; i < 30; i++) {
+                            str = str + test.getDataFileName().get(i) + newLine + newLine;
+                        }
+                    }
+                    if (currentPage==2){
+                        for (int i=10; i < 20; i++) {
+                            str = str + test.getDataFileName().get(i) + newLine + newLine;
+                        }
+                    }
+                    if(currentPage==1){
+                        for (int i=0; i < 10; i++) {
+                            str = str + test.getDataFileName().get(i) + newLine + newLine;
+                        }
+                    }
+                    if(currentPage<1){
+                        currentPage=1;
+                        for (int i=0; i < 10; i++) {
+                            str = str + test.getDataFileName().get(i) + newLine + newLine;
+                        }
+                    }
+                    docresults.setText(html + str);
+                    pagenum.setText("Page " + currentPage + " of " + numOfpages);
                 }
-                docresults.setText(html + str);
-                pagenum.setText("Page " + currentPage + " of " + numOfpages);
             }
         });
         button1.addActionListener(new ActionListener() {
@@ -300,11 +359,18 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=40;
                 }
-               // test.OpenFile(test.getData().get(v));
-                try {
-                    test.OpenFile(test.ToHTML(test.getData().get(v)));
-                } catch (IOException ioException) {
-                    ioException.printStackTrace();
+                if(test.getSortByDate()){
+                    try {
+                        test.OpenFile(test.ToHTML(test.getSortedData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
+                }else{
+                    try {
+                        test.OpenFile(test.ToHTML(test.getData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
                 }
             }
         });
@@ -326,11 +392,18 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=41;
                 }
-                //test.OpenFile(test.getData().get(v));
-                try {
-                    test.OpenFile(test.ToHTML(test.getData().get(v)));
-                } catch (IOException ioException) {
-                    ioException.printStackTrace();
+                if(test.getSortByDate()){
+                    try {
+                        test.OpenFile(test.ToHTML(test.getSortedData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
+                }else{
+                    try {
+                        test.OpenFile(test.ToHTML(test.getData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
                 }
             }
         });
@@ -353,11 +426,18 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=42;
                 }
-               // test.OpenFile(test.getData().get(v));
-                try {
-                    test.OpenFile(test.ToHTML(test.getData().get(v)));
-                } catch (IOException ioException) {
-                    ioException.printStackTrace();
+                if(test.getSortByDate()){
+                    try {
+                        test.OpenFile(test.ToHTML(test.getSortedData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
+                }else{
+                    try {
+                        test.OpenFile(test.ToHTML(test.getData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
                 }
             }
         });
@@ -380,12 +460,19 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=43;
                 }
-                try {
-                    test.OpenFile(test.ToHTML(test.getData().get(v)));
-                } catch (IOException ioException) {
-                    ioException.printStackTrace();
+                if(test.getSortByDate()){
+                    try {
+                        test.OpenFile(test.ToHTML(test.getSortedData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
+                }else{
+                    try {
+                        test.OpenFile(test.ToHTML(test.getData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
                 }
-                //test.OpenFile(test.getData().get(v));
             }
         });
 
@@ -407,12 +494,19 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=44;
                 }
-                try {
-                    test.OpenFile(test.ToHTML(test.getData().get(v)));
-                } catch (IOException ioException) {
-                    ioException.printStackTrace();
+                if(test.getSortByDate()){
+                    try {
+                        test.OpenFile(test.ToHTML(test.getSortedData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
+                }else{
+                    try {
+                        test.OpenFile(test.ToHTML(test.getData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
                 }
-                //test.OpenFile(test.getData().get(v));
             }
         });
 
@@ -434,12 +528,19 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=45;
                 }
-                try {
-                    test.OpenFile(test.ToHTML(test.getData().get(v)));
-                } catch (IOException ioException) {
-                    ioException.printStackTrace();
+                if(test.getSortByDate()){
+                    try {
+                        test.OpenFile(test.ToHTML(test.getSortedData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
+                }else{
+                    try {
+                        test.OpenFile(test.ToHTML(test.getData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
                 }
-                //test.OpenFile(test.getData().get(v));
             }
         });
 
@@ -461,12 +562,19 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=46;
                 }
-                try {
-                    test.OpenFile(test.ToHTML(test.getData().get(v)));
-                } catch (IOException ioException) {
-                    ioException.printStackTrace();
+                if(test.getSortByDate()){
+                    try {
+                        test.OpenFile(test.ToHTML(test.getSortedData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
+                }else{
+                    try {
+                        test.OpenFile(test.ToHTML(test.getData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
                 }
-                //test.OpenFile(test.getData().get(v));
             }
         });
 
@@ -488,12 +596,19 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=47;
                 }
-                try {
-                    test.OpenFile(test.ToHTML(test.getData().get(v)));
-                } catch (IOException ioException) {
-                    ioException.printStackTrace();
+                if(test.getSortByDate()){
+                    try {
+                        test.OpenFile(test.ToHTML(test.getSortedData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
+                }else{
+                    try {
+                        test.OpenFile(test.ToHTML(test.getData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
                 }
-                //test.OpenFile(test.getData().get(v));
             }
         });
 
@@ -515,12 +630,19 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=48;
                 }
-                try {
-                    test.OpenFile(test.ToHTML(test.getData().get(v)));
-                } catch (IOException ioException) {
-                    ioException.printStackTrace();
+                if(test.getSortByDate()){
+                    try {
+                        test.OpenFile(test.ToHTML(test.getSortedData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
+                }else{
+                    try {
+                        test.OpenFile(test.ToHTML(test.getData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
                 }
-                //test.OpenFile(test.getData().get(v));
             }
         });
 
@@ -542,12 +664,65 @@ public class UI extends JFrame{
                 if (currentPage==5){
                     v=49;
                 }
+                if(test.getSortByDate()){
+                    try {
+                        test.OpenFile(test.ToHTML(test.getSortedData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
+                }else{
+                    try {
+                        test.OpenFile(test.ToHTML(test.getData().get(v)));
+                    } catch (IOException ioException) {
+                        ioException.printStackTrace();
+                    }
+                }
+            }
+        });
+
+        SortByDateButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                test.setSortByDate(true);
                 try {
-                    test.OpenFile(test.ToHTML(test.getData().get(v)));
+                    docresults.setText(test.search(inputSearch.getText()));
+
+                    numofdocs.setText(test.getS2());
+                    historypreview.setText("");
+
+                    if(test.getDataSize() % 10 == 0) {
+                        numOfpages = test.getDataSize() / 10;
+                    }else if (test.getDataSize()<=10){
+                        numOfpages = 1;
+                    }else{
+                        numOfpages = (test.getDataSize() / 10) + 1;
+                    }
+                    currentPage=1;
+
+                    if(numOfpages>0){
+                        SortByDateButton.setVisible(true);
+                        button1.setVisible(true);
+                        button2.setVisible(true);
+                        button3.setVisible(true);
+                        button4.setVisible(true);
+                        button5.setVisible(true);
+                        button6.setVisible(true);
+                        button7.setVisible(true);
+                        button8.setVisible(true);
+                        button9.setVisible(true);
+                        button10.setVisible(true);
+                        nextButton.setVisible(true);
+                        previousButton.setVisible(true);
+                        pagenum.setVisible(true);
+                        pagenum.setText("Page " + currentPage + " of " + numOfpages);
+                    }
                 } catch (IOException ioException) {
                     ioException.printStackTrace();
+                } catch (ParseException parseException) {
+                    parseException.printStackTrace();
+                } catch (InvalidTokenOffsetsException invalidTokenOffsetsException) {
+                    invalidTokenOffsetsException.printStackTrace();
                 }
-                //test.OpenFile(test.getData().get(v));
             }
         });
     }

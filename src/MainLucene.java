@@ -7,6 +7,9 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.nio.file.attribute.BasicFileAttributes;
+import java.nio.file.attribute.FileTime;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.queryParser.ParseException;
@@ -35,6 +38,7 @@ public class MainLucene {
 	private String str;
 	private boolean ifInSpell=false;
 	private boolean titleCheck;
+	private boolean sortByDate=false;
 	private String s2;
 	private String err;
 	private String right;
@@ -50,7 +54,8 @@ public class MainLucene {
 	private ArrayList<String> dataFileTitle = new ArrayList<String>();
 	private ArrayList<String> relevantHistory = new ArrayList<String>();
 	private ArrayList<String> dataContent = new ArrayList<String>();
-
+	private ArrayList<String> sortedData = new ArrayList<String>();
+	private ArrayList<String> sortedDataFileName = new ArrayList<String>();
 	//Our Covid-19 Dictionary
 	String[] dictionary = {"covid19","covid-19","coronavirus","vaccine","disease","covid","pandemic","astrazeneca","pfizer","research","side","effects","cases"};
 
@@ -197,6 +202,12 @@ public class MainLucene {
 		count=0;
 		dataFileName = new ArrayList<String>();
 		data = new ArrayList<String>();
+		// Display sorted files
+		if(sortByDate==true){
+			for(int i=0; i<10; i++) {
+				files = files + sortedDataFileName.get(i) + newLine + newLine;
+			}
+		}
 		// Files that have a hit and count the score of every file
 		for(ScoreDoc scoreDoc : hits.scoreDocs){
 			Document doc = searcher.getDocument(scoreDoc);
@@ -225,25 +236,91 @@ public class MainLucene {
 					String y = quest[i] + "s";
 					content = content.replaceAll(y, "<strong>" + y + "</strong>" );
 					content = content.replaceAll(mix, "<strong>" + mix + "</strong>" );
+				}else if(quest[i].equals("astrazeneca")){
+					String[] a = quest[i].split("(?!^)");
+					String mix="A";
+					for(int e=1; e<5; e++){
+						mix = mix + a[e];
+					}
+					mix = mix + "Z";
+					for(int e=6; e<a.length; e++){
+						mix = mix + a[e];
+					}
+					content = content.replaceAll(mix, "<strong>" + mix + "</strong>" );
+				}else if(quest[i].equals("pfizer")){
+					String[] a = quest[i].split("(?!^)");
+					String mix="P";
+					for(int e=1; e<a.length; e++){
+						mix = mix + a[e];
+					}
+					content = content.replaceAll(mix, "<strong>" + mix + "</strong>" );
 				}
 				content = content.replaceAll(quest[i], "<strong>" +  quest[i] + "</strong>");
 			}
 			Files.write(path, content.getBytes(charset));
 
 			data.add(doc.get(LuceneConstants.FILE_PATH));
-			if(count<10){
+			if(count<10 && sortByDate==false){
 				files = files + doc.get(LuceneConstants.FILE_NAME) + newLine + newLine;
 			}
 			count++;
 			disp++;
 		}
+		SortByDate();
 		searcher.close();
 		s2 = html + hits.totalHits + " 	Documents found in " + (endTime - startTime) + "ms" + newLine + newLine  + "Displaying the " + disp + " most relevant documents";
 		return html + files;
 	}
+	// Method to Sort (descending order) from newest to oldest docs
+	public void SortByDate() throws IOException {
+		BasicFileAttributes file1;
+		BasicFileAttributes file2;
+		int f1=1;
+		int f2;
+		for(int i=0; i < data.size(); i++){
+			file1 =Files.readAttributes(Path.of(data.get(i)), BasicFileAttributes.class);
+			String splitted = file1.creationTime().toString();
+			String[] splt = splitted.split("\\W+");
+			splitted = String.join("",splt);
+			String[] splt2 = splitted.split("T");
+			f1 = Integer.parseInt(splt2[0]);
+			for(int j=1; j < (data.size()-i); j++){
+				file2 =Files.readAttributes(Path.of(data.get(j)), BasicFileAttributes.class);
+				String splitted2 = file2.creationTime().toString();
+				String[] splt3 = splitted2.split("\\W+");
+				splitted2 = String.join("",splt3);
+				String[] splt4 = splitted2.split("T");
+				f2 = Integer.parseInt(splt4[0]);
+				if( f1 > f2 ) {
+					sortedData.add(i,data.get(i));
+					sortedDataFileName.add(i,dataFileName.get(i));
+				}else{
+					sortedData.add(i,data.get(j));
+					sortedDataFileName.add(i,dataFileName.get(j));
+				}
+
+			}
+		}
+	}
 
 	public String getS2(){
 		return s2;
+	}
+
+	public void setSortByDate(boolean z){
+		this.sortByDate=z;
+	}
+
+	public boolean getSortByDate(){
+		return sortByDate;
+	}
+
+	public ArrayList<String> getSortedData(){
+		return sortedData;
+	}
+
+	public ArrayList<String> getSortedDataFileName(){
+		return sortedDataFileName;
 	}
 
 	public void setTitleCheck(boolean titleCheck) {
