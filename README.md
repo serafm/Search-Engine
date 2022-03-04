@@ -1,4 +1,4 @@
-# SearchEngineLuceneProject
+# Search Engine
 
 ## Final Report: Search engine for articles related to COVID-19
 
