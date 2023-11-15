@@ -12,7 +12,7 @@ This is a straightforward COVID-19 article search engine designed to swiftly del
 
 ### Text Analysis-Index Construction:
 
-nitially in PDF format, articles undergo conversion to TXT format using Apache Tika for subsequent Lucene processing. Prior to indexing, stemming is applied for simplification, and stop words are removed to enhance tokenization. Each article is divided into fields (FileName, FilePath, TitleName, FileContent) using the Field class, and documents are saved. StandardAnalyzer and IndexWriter classes are then used to analyze TitleName and FileContent fields, facilitating faster searches. The index is constructed, encompassing two sub-indexes—one for content distribution with DocID in binary format and the other for easier file path retrieval. A dictionary containing relevant COVID-19-related words is also created.
+Initially in PDF format, articles undergo conversion to TXT format using Apache Tika for subsequent Lucene processing. Prior to indexing, stemming is applied for simplification, and stop words are removed to enhance tokenization. Each article is divided into fields (FileName, FilePath, TitleName, FileContent) using the Field class, and documents are saved. StandardAnalyzer and IndexWriter classes are then used to analyze TitleName and FileContent fields, facilitating faster searches. The index is constructed, encompassing two sub-indexes—one for content distribution with DocID in binary format and the other for easier file path retrieval. A dictionary containing relevant COVID-19-related words is also created.
 
 ### Search:
 
